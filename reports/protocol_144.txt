@@ -1,0 +1,82 @@
+Processing the protocol with id 144
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. INTRODUCTION 
+I have not found anything about the rationales from titles, lets take a look for the introduction
+Rationales: NOT FOUND
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+12388	clinical experience	"... C00014  Date 18 June 2007  Previous clinical experience  1.1.3 Study 4054..."
+12455	Phase II 	"... 4054 IL/0006 (D4320 C00006) was a Phase II study in 312 men with..."
+13224	Phase II 	"... the  10 mg and 15 mg dose arms in the Phase II study (4054 IL/0006) showed..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 1.1 The main purpose of this study is to assess the effect of ZD4054 on overall survival compared 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+15696	investigate 	"...  to  investigate as yet unidentified serum biomarkers that correlate to parameters such as response  20..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3. STUDY PLAN AND PROCEDURES 
+I found the following features of the study:
+placebo controlled
+double blind
+randomised
+Phase III
+placebo  controlled
+2 arm
+2 different treatment arm
+Placebo: found -> randomized-controlled study
+Occurrences in the text:
+24627	placebo	 "... group, multi centre, 2 arm, placebo controlled  Phase III..."
+24733	placebo	 "... ZD4054 in comparison with  placebo in patients with..."
+24914	placebo	 "... to either ZD4054 or  placebo. In addition to trial..."
+25588	placebo	 "... or having to stop ZD4054 or placebo therapy. Chemotherapy..."
+26477	placebo	 "... will receive 10 mg ZD4054 or placebo (see Section 3.4)..."
+28934	placebo	 "...  Discontinue  ZD4054/placebo if  applicable. If ..."
+35591	placebo	 "... benefit seen in the  placebo controlled Phase II..."
+35671	placebo	 "... C00006)). It needs to be placebo  controlled in order..."
+38200	placebo	 "... was seen compared with placebo in previous studies,..."
+39072	placebo	 "... June 2007  comparison with placebo in large scale Phase..."
+Allocation ratio: 1:1, 0:4, 5:4, 0:4, 5:4, 1:1, 0:4, 5:4, 0:4, 5:4, 0:4, 5:4, 0:4, 5:4
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “7a how sample size was determined”...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Searching any information about a randomzation
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+I found information about blocks:
+62607	balanced blocks	"... . The patients will be  allocated to treatment in balanced blocks.  . E S U   E R O F E B   Y T I D..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 3.7.2 Methods for unblinding the study 
+This part was defined, probably, at this section: 6.1 A comprehensive Statistical Analysis Plan (SAP) will be finalised before unblinding of the 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 6. STATISTICAL METHODS AND DETERMINATION OF 
+This part was defined, probably, at this section: 6.1 A comprehensive Statistical Analysis Plan (SAP) will be finalised before unblinding of the 
+I found the following methods:
+149426 	 log rank 	 "... all survival will be analysed using the log rank test. Patients who have not..."
+150003 	 log rank 	 "... ree survival will be analysed using the log rank test. Progression is defined..."
+150991 	 log rank 	 "... e of opiates will be analysed using the log rank test. Patients who have not..."
+151555 	 log rank 	 "... lated events will be analysed using the log rank test. Patients who have not ..."
+152131 	 log rank 	 "... bone lesions will be analysed using the log rank test. Patients  who have not..."
+153695 	 log rank 	 "...  progression will be analysed using the log rank test. Patients who have not..."
+155113 	 log rank 	 "... chemotherapy will be analysed using the log rank test. Patients who have not ..."
+160217 	 fleming 	 "... ts have been reached. Using the O Brien Fleming stopping rule, the level of..."
+149763 	 kaplan meier 	 "... d on active treatment  than on placebo. Kaplan Meier plots of the times to..."
+150406 	 kaplan meier 	 "... r  on active treatment than on placebo. Kaplan Meier plots of the times to..."
+151340 	 kaplan meier 	 "... e is longer on  ZD4054 than on placebo. Kaplan Meier plots of the times to..."
+151899 	 kaplan meier 	 "... t is longer on ZD4054  than on placebo. Kaplan Meier plots of the times to..."
+152476 	 kaplan meier 	 "... t is longer on ZD4054  than on placebo. Kaplan Meier plots of the times to..."
+154108 	 kaplan meier 	 "...  95% confidence intervals and p values. Kaplan Meier  plots of the times to PSA..."
+155462 	 kaplan meier 	 "... t is longer on ZD4054  than on placebo. Kaplan Meier plots of the times to..."

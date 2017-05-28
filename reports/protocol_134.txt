@@ -1,0 +1,63 @@
+Processing the protocol with id 134
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 4 INTRODUCTION AND RATIONALE 
+For more information about the rationales, go to sections:
+4.5 STUDY RATIONALE 
+For more information about the previous studies, go to sections:
+4.4.1 Summary of clinical experience of aflibercept in monotherapy 
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 5 STUDY OBJECTIVES 
+For more information about the primary objectives, go to sections:
+5.1  The primary objective of this study is to demonstrate improvement in overall survival (OS) 
+For more information about the secondary objectives, go to sections:
+5.2 SECONDARY 
+Objectives: FOUND
+Occurrences in the text:
+37538	demonstrate 	"... s to demonstrate improvement in overall survival (OS)  with aflibercept by comparison to placebo in..."
+37753	compare 	"...   To compare in the two treatment arms (by sequential order of statistical analysis):   progression free..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 1.1 GRAPHICAL STUDY DESIGN 
+I found the following features of the study:
+
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 7 SELECTION OF PATIENTS 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 4.2 INVESTIGATIONAL PRODUCT 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 13.1 DETERMINATION OF SAMPLE SIZE 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 8.7 METHOD OF ASSIGNING PATIENTS TO TREATMENT ARM 
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 8.6 DESCRIPTION OF BLINDING METHODS 
+This part was defined, probably, at this section: 9.4 MEASURES TO PROTECT BLINDING OF THIS TRIAL 
+This part was defined, probably, at this section: 15 STUDY MONITORING 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 13 STATISTICAL CONSIDERATIONS 
+This part was defined, probably, at this section: 13.4 STATISTICAL METHODS 
+I found the following methods:
+165449 	 logrank 	 "... ysis in section 13.6).   Non stratified logrank will be also performed as..."
+173809 	 logrank 	 "... ction. If the p value  of the one sided logrank test is 0.0004 at the time of..."
+165228 	 fleming 	 "... oup sequential approach with an O Brien Fleming spending  function and an..."
+173395 	 fleming 	 "... ven the pre specified spending O Brien  Fleming boundaries or because of..."
+173749 	 fleming 	 "... level will be 0.0004 based on a O Brien Fleming spending function. If the p..."
+162845 	 kaplan meier 	 "... l) data will be analyzed using means of Kaplan Meier  method. Median time to..."
+164942 	 kaplan meier 	 "... ill be presented by treatment arm using Kaplan Meier estimates.  The final OS..."
+166487 	 kaplan meier 	 "...  and TTSW will be  analyzed by means of Kaplan Meier method. Medians and its..."
+164514 	 log rank 	 "... tween the two treatment groups  using a log rank test stratified by ECOG PS (0..."
+166882 	 log rank 	 "... mptoms and objective response rate) and log rank test stratified by ECOG..."
+164737 	  cox  	 "... dence  interval will be provided using a Cox proportional hazard model..."
+165606 	  cox  	 "... e detailed in the SAP. For example,  the Cox proportional hazard model may be..."
+166717 	  cox  	 "... line stratification factors based on the Cox proportional hazard model.  The..."
+166780 	 cochran mantel haenszel 	 "... d model.  The tests to be performed are Cochran Mantel Haenszel test..."

@@ -1,0 +1,89 @@
+Processing the protocol with id 169
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1 INTRODUCTION
+For more information about the rationales, go to sections:
+1.5.1 Dosing Rationale
+1.7 Rationale for Study Design and Control Group
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+30666	Phase I 	"... to date with abiraterone acetate in  Phase I and II studies, with..."
+17196	Phase 2 	"... for responders of nine months in  a Phase 2 study 33 at the expense of..."
+25780	Phase 2 	"... (RECIST) criteria 58 in Phase  1 and Phase 2 studies conducted to date...."
+29325	Phase 2 	"... of corticosteroids as required per Phase 2 protocol entry criteria and..."
+30325	Phase 2 	"... prednisone is continuing in ongoing Phase 2 and 3  studies. The regimen of..."
+31942	Phase 2 	"... Cancer (CRPC) Post Docetaxel Two Phase 2 studies (COU AA 003 and COU AA..."
+35316	Phase 2 	"... given in combination with  prednisone. Phase 2 studies were also conducted to..."
+35117	Phase II 	"... significant antitumor activity in a Phase II trial in  symptomatic and..."
+26796	Phase 1 	"... 1000 mg daily based on results of two Phase 1  dose finding studies. In the..."
+26840	Phase 1 	"... 1  dose finding studies. In the first Phase 1 study with capsule formulation..."
+27283	Phase 1 	"... for up to  30 months. In the second Phase 1 study (COU AA 002) 62,63 that..."
+21911	phase II 	"... In another prospective randomized  phase II trial, the clinical efficacy..."
+26796	Phase 1  	"... 1000 mg daily based on results of two Phase 1  dose finding studies. In the..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2 STUDY OBJECTIVES
+For more information about the primary objectives, go to sections:
+2.1 Primary Objective(s)
+For more information about the secondary objectives, go to sections:
+2.2 Secondary Objective(s)
+Objectives: FOUND
+Occurrences in the text:
+42034	compare 	"... ) To compare the clinical benefit of abiraterone acetate plus prednisone versus placebo plus  prednisone..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 1.7 Rationale for Study Design and Control Group
+I found the following features of the study:
+placebo controlled
+randomized
+double blind
+prospective
+Phase III
+Placebo: found -> randomized-controlled study
+Occurrences in the text:
+35999	placebo	 "... is blinded, randomized and placebo controlled for..."
+36647	placebo	 "... abiraterone acetate or placebo in a double blinded..."
+36828	placebo	 "... randomized, double blind, placebo controlled study is..."
+37045	placebo	 "... with patients receiving  placebo and prednisone.  ..."
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4 STUDY POPULATION SELECTION
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 6 STUDY PROCEDURES
+Maybe, these sections will be interested for you:
+6.6 Criteria for Discontinuation of Study Treatment
+6.7 Withdrawal from Study Treatment Phase
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 9.2 Determination of Sample Size
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 3.2.2 Randomization
+Maybe this information will be interesting:
+48210	will be randomized	"... hin 14 days prior to Cycle 1 Day 1. If the patient meets eligibility and  screening requirements he will be randomized and will return to the site for the Cycle 1  Day 1 visit and dosing. ..."
+48471	will be randomized	"...  Protocol: COU AA 302 3.2.2 Randomization December 17, 2013 Once eligibility is confirmed, patients will be randomized to a treatment group according to  the randomization schedule. All patients must..."
+58621	will be randomized	"... ose is missed, it should be omitted and will not be made up.  5.4 Randomization Procedures Patients will be randomized after the investigator has verified that all eligibility criteria have  been..."
+58731	will be randomized	"... ndomized after the investigator has verified that all eligibility criteria have  been met. Patients will be randomized to receive abiraterone acetate plus prednisone or  placebo plus prednisone in a..."
+104920	will be randomized	"... ent Period (Cycle 1 Day 1 to End of Study Treatment)  7.2.1 Cycle 1 Day 1 Patients who are eligible will be randomized and start study treatment within 14 days after  the screening visit.  Cycle 1..."
+117243	will be randomized	"...  carried out according to the pre specified required number of events for each  endpoint.  Patients will be randomized in a 1:1 ratio to receive abiraterone acetate or placebo. Recent publications..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 5.6 Blinding
+This part was defined, probably, at this section: 5.6.3 Accidental Unblinding
+This part was defined, probably, at this section: 10.6 Study Monitoring
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 9 PLANNED STATISTICAL METHODS
+I found the following methods:
+123807 	 fisher s exact test 	 "... luated using Chi square statistic; the  Fisher s exact test may be used if the..."
+123357 	 logrank 	 "... vals will be  estimated. The stratified logrank test will be used as the..."
+123958 	 logrank 	 "... to event endpoints using non stratified logrank test and Cox  proportional..."
+118493 	 fleming 	 "... d one final analysis using the  O Brien Fleming boundaries as implemented by..."
+123220 	 kaplan meier 	 "... t variables will be estimated using the Kaplan Meier product  limit method. The..."
+184488 	 log rank 	 "... d ratio 1 favors AA. bp value is from a log rank test stratified by ECOG PS..."
+123780 	 chi square 	 "... tical inference will be evaluated using Chi square statistic; the  Fisher s..."
+123974 	  cox  	 "... ts using non stratified logrank test and Cox  proportional hazards model will..."

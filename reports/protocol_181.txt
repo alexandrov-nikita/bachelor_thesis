@@ -1,0 +1,49 @@
+Processing the protocol with id 181
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 1.2 Objectives 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+16852	quantify 	"... : To quantify and compare the surgical morbidities associated with SLND plus ALND versus SLND  alone. ..."
+16865	compare 	"...  and compare the surgical morbidities associated with SLND plus ALND versus SLND  alone.  1.3 Study..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 1.3 Study Design 
+I found the following features of the study:
+randomized
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: 1:1
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 2.1 Inclusion Criteria 
+I have found: inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “7a how sample size was determined”...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 1. Post Operative Registration with Randomization must be followed when the patient is eligible for this 
+Maybe this information will be interesting:
+1198	will be randomized	"... rozen section, touch prep, or permanent section  evaluation by hematoxylin and eosin (H&E) staining will be randomized to receive either completion  axillary lymph node dissection (ALND) or no..."
+26875	will be randomized	"... BCT, as documented on frozen section, touch prep, or permanent section  evaluation by H&E staining, will be randomized to one of two Arms:  Arm 1: Completion ALND, followed by whole breast radiation..."
+36560	will be randomized	"...  routine  histopathology, either on frozen section, touch prep, or permanent sections.  The patient will be randomized to one of two Arms, Arm 1 or Arm 2, where the interventions associated  with..."
+112395	will be randomized	"... takes several days to obtain  results.  If the pathologist finds cancer in your sentinel nodes, you will be randomized to either the SLND  Group or the ALND Group. If you are in the SLND Group, no..."
+113051	will be randomized	"... sis or a technique called touch prep . If  the pathologist finds cancer in your sentinel nodes, you will be randomized while still in the  operating room. If you are in the SLND Group, no more lymph..."
+113614	will be randomized	"...  touch prep will have cancer detected by permanent analysis. If you are one of these  patients, you will be randomized to either the SLND Group or the ALND Group when these results  become available...."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+I found the following methods:
+74077 	 fisher s  exact test 	 "... sis for this short term outcome will be Fisher s  exact test for a difference..."
+88886 	  cox  	 "... ol 11:44, 1993.  Albertini JJ, Lyman GH, Cox C, et al. Lymphatic mapping and..."

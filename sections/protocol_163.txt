@@ -1,0 +1,131 @@
+7.0 Date 
+1. To demonstrate an improvement in progression free survival (PFS) in the 
+1. To demonstrate an improvement in overall survival for ZACTIMA in combination 
+2. To demonstrate an improvement in the overall objective response rate (ORR) 
+4. To investigate the amount of resource used by subjects in terms of inpatient stays 
+7. To investigate changes in subject weight 
+4.7.3.4 Vital signs and physical examinations derivation or calculation of outcome 
+6. STATISTICAL METHODS AND DETERMINATION OF SAMPLE 
+1. INTRODUCTION 
+1.1.2 ZACTIMA (ZD6474) 
+1.1.2.1 Background 
+1.1.2.2 Summary of adverse events (AEs) in previous studies 
+1.2 Rationale for this study 
+2.2 Secondary objectives 
+2.3 Exploratory objectives 
+3. STUDY PLAN AND PROCEDURES 
+3.1 Overall study design and flow chart 
+3.2.2 Risk/benefit and ethical assessment 
+3.2.2.1 Docetaxel toxicity 
+3.2.2.2 QTc prolongation 
+3.2.2.3 Gastrointestinal toxicity 
+3.2.2.4 Cutaneous toxicity 
+3.2.2.5 Other toxicity 
+3.3 Selection of study population 
+3.3.1 Study selection record 
+3.3.2 Inclusion criteria 
+3.3.3 Exclusion criteria 
+5. Mixed small cell and non small cell lung cancer histology 
+28. Women who are pregnant or breast feeding 
+3.3.4 Restrictions 
+3.3.5 Withdrawal from study and discontinuation of treatment 
+3.3.5.1 Withdrawal from study 
+3.3.5.2 Procedures for withdrawal from participation in the study 
+3.3.5.3 Discontinuation of treatment 
+3.3.5.4 Procedures for discontinuation from study treatment 
+3.4 Treatments 
+3.4.1 Identity of investigational product and comparators 
+3.4.2 Doses and treatment regimens 
+3.4.2.1 ZACTIMA or placebo regimen 
+3.4.2.2 ZACTIMA dose reduction 
+3.4.2.3 Docetaxel 
+3.4.3 Labeling 
+3.4.4 Storage 
+3.4.5 Accountability 
+3.6 Blinding and procedures for unblinding the study 
+3.6.1 Methods for ensuring blinding 
+3.6.2 Methods for unblinding the study 
+3.6.3 Methods for breaking the blind for monitoring of the safety 
+3.7.1 Treatment for cancer 
+3.7.1.1 Palliative Radiotherapy 
+3.7.2 Other concomitant treatment 
+3.8 Treatment compliance 
+4. MEASUREMENTS OF STUDY VARIABLES AND 
+4.1 Primary variable 
+4.2 Screening and demographic measurements 
+12 lead ECG 
+4.3 Patient Reported Outcomes (PROs) 
+4.3.1 FACT L questionnaire incorporating the LCS subscale 
+4.3.1.1 Methods of assessment 
+4.3.1.2 Derivation or calculation of variable 
+4.3.2 Time to deterioration of disease related symptoms (TDS) 
+4.3.2.1 Methods of assessment 
+4.3.2.2 Derivation or calculation of variable 
+4.3.3 Administration of ePRO/pPRO questionnaires 
+4.4 Health Economic measurements and variables 
+4.4.1 Resource data 
+4.4.1.1 Methods of assessment 
+4.4.1.2 Derivation or calculation of variable 
+4.4.2 EQ5D 
+4.4.2.1 Methods of assessment 
+4.4.2.2 Derivation or calculation of outcome variable 
+4.5 Pharmacokinetic measurements and variables 
+4.5.1 Collection of pharmacokinetic samples 
+4.5.2.1 ZACTIMA 
+4.5.2.2 N desmethyl and N oxide metabolites 
+4.6 Efficacy and pharmacodynamic measurement and variables 
+4.6.1 Progression free survival (PFS) 
+4.6.1.1 Methods of assessment 
+4.6.1.2 Derivation or calculation of outcome variable 
+4.6.2 Time to death 
+4.6.2.1 Methods of assessment 
+4.6.2.2 Derivation or calculation of outcome variable 
+4.6.3.1 Methods of assessment 
+4.6.3.2 Derivation or calculation of outcome variable 
+4.6.4 Pharmacodynamic biomarker measurements and variables 
+4.6.4.1 Methods of assessment 
+4.6.4.2 Derivation or calculation of outcome variable 
+4.6.5 Time to deterioration in patient WHO Performance Status (TDPS) 
+4.6.5.1 Methods of assessment 
+4.6.5.2 Derivation or calculation of variable 
+4.7 Safety measurements and variables 
+4.7.1 Adverse events 
+4.7.1.1 Definitions 
+4.7.1.2 Recording of adverse events 
+4.7.1.3 Reporting of serious adverse events 
+4.7.2 Laboratory safety measurements and variables 
+4.7.2.1 Methods of assessment 
+4.7.2.2 Derivation or calculation of outcome variables 
+4.7.3.1 12 lead ECG methods of assessment 
+4.7.3.2 12 lead ECG derivation or calculation of outcome variables 
+4.7.3.3 Vital signs and physical examinations methods of assessment 
+4.7.3.4 Vital signs and physical examinations derivation or calculation of outcome 
+4.7.4 Other safety measurements and variables 
+4.8 Volume of blood sampling and handling of biological samples 
+6 Safety 
+6.5 Visit 1 
+4.8.1 Analysis of biological samples 
+4.8.1.1 Clinical chemistry samples 
+4.8.1.2 Pharmacokinetic samples 
+4.9 Genetic measurements and co variables 
+5. DATA MANAGEMENT 
+6. STATISTICAL METHODS AND DETERMINATION OF 
+6.2 Description of outcome variables in relation to objectives and 
+6.3 Description of analysis sets 
+6.4 Method of statistical analysis 
+6.5 Determination of sample size 
+6.6 Interim analyses 
+6.7 Independent Data Monitoring Committee 
+7.2 Audits and inspections 
+7.3 Training of staff 
+7.4 Changes to the protocol 
+7.5 Study agreements 
+7.6 Study timetable and end of study 
+8.2 Ethical conduct of the study 
+8.3 Informed consent 
+8.4 Subject data protection 
+9.1 AstraZeneca emergency contact procedure 
+9.2 Procedures in case of medical emergency 
+9.3 Procedures in case of overdose 
+9.4 Procedures in case of pregnancy 
+10. REFERENCES 

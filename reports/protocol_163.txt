@@ -1,0 +1,190 @@
+Processing the protocol with id 163
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. INTRODUCTION 
+For more information about the rationales, go to sections:
+1.2 Rationale for this study 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+12718	phase I 	"... AEs associated with ZACTIMA in the phase I and other monotherapy  studies..."
+12031	Phase I 	"... et al, 2003; Wedge et al, 2002). Two Phase I studies were  conducted in the..."
+20240	Phase I 	"... one compound.  In a Japanese ZACTIMA Phase I study with doses ranging from..."
+20369	Phase II 	"... from 4 of 9 subjects with NSCLC. In a Phase II study  (ZD6474 IL/0006),..."
+24348	Phase II 	"... and survival data from the previous Phase II  study (ZD6474 IL/0006) have..."
+24348	Phase II  	"... and survival data from the previous Phase II  study (ZD6474 IL/0006) have..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2.2 Secondary objectives 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+25211	demonstrate 	"...   To demonstrate an improvement in overall survival for ZACTIMA in  combination with docetaxel compared..."
+25342	demonstrate 	"...   To demonstrate an improvement in the overall objective response rate (ORR)  (complete response CR PR),..."
+25677	demonstrate 	"...   To demonstrate a beneficial effect on disease related symptoms, in subjects  treated with ZACTIMA in..."
+25997	demonstrate 	"...   To demonstrate a quality of life (QoL) for ZACTIMA in combination with  docetaxel treated subjects..."
+26243	demonstrate 	"...   To demonstrate an improvement in time to deterioration of disease related  symptoms (TDS) based on the..."
+26762	investigate 	"...   To investigate the population PKs of ZACTIMA in this subject population and  assess the PK QTc..."
+26925	investigate 	"...   To investigate plasma levels of the N desmethyl and N oxide metabolites of  ZACTIMA in this subject..."
+27126	investigate 	"...   To investigate the correlation of EGFR expression, gene amplification and  mutations and other related..."
+27613	investigate 	"...   To investigate in blood plasma samples, the correlation of levels of circulating  protein biomarkers..."
+27729	investigate 	"...   To investigate the amount of resource used by subjects in terms of inpatient  stays and outpatient..."
+27897	investigate 	"...   To investigate health status index during the period of treatment with  investigational therapy by..."
+28054	investigate 	"...   To investigate the TDPS (time to deterioration in patient World Health  Organization WHO Performance..."
+28231	investigate 	"...   To investigate changes in subject weight  24(87)   Amended Clinical Study Protocol  Drug Substance..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3. STUDY PLAN AND PROCEDURES 
+I found the following features of the study:
+placebo controlled
+double blind
+Phase III
+2 treatment arm
+randomized
+4  AstraZeneca Pharm
+1 ZACTIMA or placebo regimen
+multi  center
+international
+2 Doses and treatment regimen
+Placebo: found -> randomized-controlled study
+Occurrences in the text:
+28659	placebo	 "... randomized, double blind, placebo controlled, multi ..."
+29240	placebo	 "... 100 mg plus docetaxel, or  placebo plus docetaxel. No..."
+29426	placebo	 "... of 6 cycles.  ZACTIMA/placebo will be administered..."
+29754	placebo	 "... of treatment for ZACTIMA/placebo. After 6 cycles of ..."
+29827	placebo	 "... will continue on ZACTIMA/placebo monotherapy until..."
+29883	placebo	 "...  Blinded ZACTIMA/placebo should be..."
+30186	placebo	 "... related to ZACTIMA/placebo will have their trial..."
+30620	placebo	 "... be withdrawn from ZACTIMA/placebo. In the case of..."
+30678	placebo	 "... who discontinue  ZACTIMA/placebo therapy because of..."
+30738	placebo	 "... attributable to ZACTIMA/placebo, these  subjects will..."
+31502	placebo	 "... may continue on ZACTIMA/placebo and will be  followed..."
+34944	placebo	 "... to administration of ZACTIMA/placebo and docetaxel...."
+36784	placebo	 "... discontinuation of ZACTIMA/placebo. If QTc  prolongation..."
+37321	placebo	 "... discontinuation of  ZACTIMA/placebo. No PK sample is..."
+40643	placebo	 "...  (j)  Docetaxel and ZACTIMA/placebo are both started on..."
+40942	placebo	 "... administration of ZACTIMA/placebo. Plasma samples..."
+42281	placebo	 "... subject discontinues ZACTIMA/placebo, but  continues to..."
+43244	placebo	 "... discontinuation of ZACTIMA/placebo.  (c)  PK samples..."
+43495	placebo	 "... discontinuation of ZACTIMA/placebo. If docetaxel is..."
+43702	placebo	 "... discontinuation of ZACTIMA/placebo.  WHO PS must be..."
+45371	placebo	 "... of both  ZACTIMA/placebo and docetaxel  Cycle ..."
+46736	placebo	 "...  discontinue both ZACTIMA/placebo and docetaxel prior..."
+47042	placebo	 "... discontinuation  of ZACTIMA/placebo.  The FACT L & EQ5D..."
+47304	placebo	 "... who discontinue both ZACTIMA/placebo and docetaxel prior..."
+48024	placebo	 "...  A randomized, double blind, placebo controlled Phase III..."
+48169	placebo	 "... benefit when compared with placebo  plus docetaxel in..."
+48637	placebo	 "... docetaxel to docetaxel  plus placebo. In this study, both..."
+48772	placebo	 "... compared to docetaxel plus placebo, but the 100 mg dose..."
+48977	placebo	 "... weeks for docetaxel  plus placebo, with 2 sided p=0.07...."
+49400	placebo	 "... who received docetaxel plus placebo. The survival  data..."
+50935	placebo	 "... of ZACTIMA.  The use of placebo control in this study..."
+51410	placebo	 "... and Investigators, using a placebo control, and ..."
+55242	placebo	 "... msec from baseline,  ZACTIMA/placebo must be withheld...."
+55435	placebo	 "... whichever is higher. ZACTIMA/placebo treatment may be..."
+55668	placebo	 "... QTc value 480 msec, ZACTIMA/placebo may be continued but..."
+55840	placebo	 "... is confirmed, ZACTIMA/placebo should be withheld...."
+56034	placebo	 "... whichever is higher. ZACTIMA/placebo treatment  may be..."
+56423	placebo	 "... may be given ZACTIMA 100 mg/placebo every  other day,..."
+56508	placebo	 "... msec or baseline. If ZACTIMA/placebo is restarted  after..."
+56798	placebo	 "... where relevant. If ZACTIMA/placebo  must be withheld for..."
+57086	placebo	 "... treatment with  ZACTIMA/placebo.  3.2.2.3..."
+57266	placebo	 "... unable to retain the ZACTIMA/placebo, every attempt should..."
+57367	placebo	 "... The dose of ZACTIMA/placebo may be repeated if ..."
+57898	placebo	 "... diarrhea develops,  ZACTIMA/placebo and docetaxel should..."
+58236	placebo	 "... reduced dose (of ZACTIMA/placebo  100 mg given every..."
+58573	placebo	 "... the Investigator. If ZACTIMA/placebo must be withheld for..."
+58686	placebo	 "... will not restart ZACTIMA/placebo. If grade 3 or 4 ..."
+58805	placebo	 "... discontinue  ZACTIMA/placebo.  3.2.2.4 Cutaneous..."
+59834	placebo	 "... higher is detected, ZACTIMA/placebo and  docetaxel should..."
+60095	placebo	 "... the Investigator)   ZACTIMA/placebo should be reduced to..."
+60131	placebo	 "... should be reduced to 100 mg/placebo every other  day  If..."
+60247	placebo	 "... at reduced dose of  ZACTIMA/placebo, the subject will..."
+60325	placebo	 "... study treatment of  ZACTIMA/placebo. The subject may..."
+60554	placebo	 "... 1 or baseline.  If ZACTIMA/placebo or docetaxel must be..."
+60826	placebo	 "... to either ZACTIMA/placebo or docetaxel,..."
+60856	placebo	 "... or docetaxel, ZACTIMA/placebo and  38(87)   Amended..."
+61190	placebo	 "... should be reduced to 100  mg/placebo every other day;..."
+61310	placebo	 "... Investigator). If ZACTIMA/placebo must be withheld for..."
+61409	placebo	 "... attributable to ZACTIMA/placebo, the subject will not..."
+61456	placebo	 "... will not restart  ZACTIMA/placebo. If grade 3 or 4..."
+61569	placebo	 "... discontinue ZACTIMA/placebo. Docetaxel may be..."
+61877	placebo	 "... medication, ZACTIMA/placebo  must be discontinued..."
+62052	placebo	 "... should discontinue ZACTIMA/placebo  and cannot resume..."
+62396	placebo	 "... of toxicity for  ZACTIMA/placebo and docetaxel ..."
+62867	placebo	 "... x 109/L.  ZACTIMA (100 mg)/placebo  Withhold dose; if..."
+63745	placebo	 "... of toxicity for  ZACTIMA/placebo and docetaxel ..."
+63806	placebo	 "...  Docetaxel  ZACTIMA (100 mg)/placebo  Grade 3 or 4..."
+64106	placebo	 "...  docetaxel and/or  ZACTIMA/placebo  Withhold dose until..."
+74678	placebo	 "... the last dose of  ZACTIMA/placebo or chemotherapy,..."
+76097	placebo	 "... the last dose of ZACTIMA/placebo or  chemotherapy,..."
+77092	placebo	 "... IB. ZACTIMA and  matching placebo will be supplied as..."
+77447	placebo	 "... Products will pack ZACTIMA/placebo trial  material...."
+77480	placebo	 "... trial  material. ZACTIMA/placebo will be packed into..."
+77951	placebo	 "...   3.4.2.1 ZACTIMA or placebo regimen  Subjects..."
+78030	placebo	 "... doses of 100 mg ZACTIMA or placebo daily. ZACTIMA  or..."
+78057	placebo	 "... placebo daily. ZACTIMA  or placebo tablets must be taken..."
+78225	placebo	 "... of ZACTIMA or matching placebo.  Subjects can..."
+78470	placebo	 "... of treatment for ZACTIMA/placebo. After 6 cycles of..."
+78551	placebo	 "... continue on blinded ZACTIMA/placebo monotherapy until..."
+78607	placebo	 "...  Blinded ZACTIMA/placebo should not be..."
+78924	placebo	 "... contain ZACTIMA 100 mg, or placebo tablets as determined..."
+79067	placebo	 "... day each morning.  ZACTIMA/placebo should be taken prior..."
+79275	placebo	 "... before or after ZACTIMA/placebo.  If the subject..."
+79941	placebo	 "... toxicity related  to ZACTIMA/placebo may have their dose..."
+80109	placebo	 "... can be given 100 mg  ZACTIMA/placebo every other day. If..."
+80193	placebo	 "... attributed to  ZACTIMA/placebo on the reduced dose,..."
+80259	placebo	 "... will discontinue ZACTIMA/placebo  treatment. Dose..."
+80382	placebo	 "...  ZACTIMA  dose  ZACTIMA or  placebo tablet  Tablets per..."
+80620	placebo	 "...  Dose reduction  ZACTIMA or  placebo tablet  Tablets per..."
+82775	placebo	 "...  One bottle of ZACTIMA/placebo should be dispensed..."
+87137	placebo	 "... ZACTIMA or docetaxel plus placebo.  3.6 Blinding and..."
+87501	placebo	 "... each visit. The active and placebo  tablets will be..."
+89432	placebo	 "... medication (ZACTIMA or  placebo), subjects must not..."
+92308	placebo	 "...  discontinuation of ZACTIMA/placebo.  The following..."
+Allocation ratio: 1:1, 1:1, 1:1
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 3.3 Selection of study population 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 3.4 Treatments 
+Maybe, these sections will be interested for you:
+3.4.2 Doses and treatment regimens 
+3.4.3 Labeling 
+3.7.1 Treatment for cancer 
+3.7.2 Other concomitant treatment 
+3.8 Treatment compliance 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 6.5 Determination of sample size 
+##########################################
+Searching any information about a randomzation
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+I found information about blocks:
+85921	balanced blocks	"... mization numbers  will be allocated to centers in balanced blocks. The block size will be such that..."
+Maybe this information will be interesting:
+29161	will be randomized	"...  Germany, 30 in Greece, 50 in Italy, 30 in Netherlands, 30 in Portugal, and 40 in Spain).  Subjects will be randomized in a 1:1 ratio to either ZACTIMA 100 mg plus docetaxel, or  placebo plus..."
+85450	will be randomized	"... t the Centralized Registration/Randomization  Center by telephone to register the subject. Subjects will be randomized in a 1:1 ratio. All  screened subjects are assigned an E code irrespective of..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 3.6 Blinding and procedures for unblinding the study 
+This part was defined, probably, at this section: 3.6.1 Methods for ensuring blinding 
+This part was defined, probably, at this section: 3.6.2 Methods for unblinding the study 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 6. STATISTICAL METHODS AND DETERMINATION OF 
+This part was defined, probably, at this section: 6.4 Method of statistical analysis 
+I found the following methods:
+152949 	 log rank 	 "... S, and TDPS will be performed using the log rank test  (unadjusted model with..."
+154146 	 chi square 	 "... o event) . If the p value from the Wald Chi squared statistic for this variable..."
+181756 	 fleming 	 "... r 2001; 34 Suppl 2:S59 64.  O Brien PC, Fleming TR. A multiple testing..."
+153063 	  cox  	 "... pulation.  For PFS, OS, TDS, and TDPS, a Cox s proportional hazards regression..."
+154656 	  cox  	 "... ctors included as covariates in adjusted Cox s proportional hazard  model, as..."
+154760 	 kaplan meier 	 "...  TDS, and TDPS will be summarized using Kaplan Meier methods. Kaplan Meier ..."
+154782 	 kaplan meier 	 "...  summarized using Kaplan Meier methods. Kaplan Meier  plots and Kaplan Meier..."
+154806 	 kaplan meier 	 "...  Meier methods. Kaplan Meier  plots and Kaplan Meier estimates of median time..."
+156117 	 kaplan meier 	 "... .6.3.2) using the Kaplan  Meier method. Kaplan Meier plots and Kaplan Meier..."
+156140 	 kaplan meier 	 "... n  Meier method. Kaplan Meier plots and Kaplan Meier estimates of the median..."

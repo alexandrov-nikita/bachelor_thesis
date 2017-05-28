@@ -1,0 +1,116 @@
+8. Subsequent administrations of the LCSS will occur 
+3.1 Introduction
+3.2.3.2 Secondary Activity
+3.3 Rationale for Immunotherapy Including the Use of Pre 
+3.3.1 Rationale for Immunotherapy
+3.3.2 Rationale for Use of Cyclophosphamide
+3.4 Preclinical and Toxicology Studies of L BLP25
+3.5 Current Investigational Status
+3.5.1 Safety Results
+3.5.1.1 Injection Site Reactions
+3.5.2 Preliminary Immunology Results
+3.5.3 Survival Results
+6.815.2 c
+8.717.8 e
+5.2 Maxb
+47.1 d
+31.5 a
+17.2 Cox pd
+3.5.4 Deaths
+3.5.5 Risk/Benefit Assessment
+5.2.2 Justification for Use of Saline
+5.2.3 Justification for Subject Population
+5.2.4 Justification for Molecular Marker Analysis
+5.3 Selection of the Study Population
+5.3.1 Inclusion Criteria
+5.3.2 Exclusion Criteria
+5.3.3 Removal of Subjects from the Study or Study Treatment
+5.3.3.1 Subject Discontinuation
+5.3.3.2 Study Discontinuation
+6.3.1 Blinding
+6.3.2 Procedure for Emergency Code Breaks
+6.5 Preparation of the Investigational Product
+6.6 Packaging and Labeling of the Investigational Product
+6.8 Prior and Concomitant Therapy
+6.9 Other Study Conditions
+6.10 Treatment Compliance
+7.1 Demographic and Other Baseline Characteristics
+7.1.1 Demographic Data
+7.1.2 Medical History
+7.1.3 NSCLC History
+7.1.4 ECOG Performance Status
+7.1.5 Physical Examination and Vital Signs 
+7.1.6 Electro Cardiogram
+7.1.7 Imaging
+7.1.8 Clinical Laboratory Evaluations
+7.1.9 Plasma and Whole Blood Collection
+7.1.10 Human Leukocyte Associated Antigen Typing
+7.1.11 Pregnancy Testing and Contraception
+7.2 Assessment of Efficacy
+7.2.1 Survival
+7.2.2 Lung Cancer Symptom Scale 
+7.2.3 Time to Progression as Determined by Investigator
+7.3.1.1 Assessment of Safety
+7.3.1.2 Methods of Recording and Assessing Adverse Events
+7.3.1.3 Procedure for Reporting Serious Adverse Events
+7.3.1.4 Monitoring of Subjects with Adverse Events
+7.3.1.5 Overdose and Intoxication with the Study Drug
+7.3.2 Special Precautions
+7.3.3.2 Vital Signs
+7.3.4 Laboratory Assessments
+7.4 Pharmacokinetic Assessment
+7.6.2 Plasma and Whole Blood
+7.6.3 Quality of Life Index (EQ 5D)
+7.6.4 Healthcare Resource Utilization and Work Status
+7.7 Schedule of Assessments
+7.7.1 Pre Treatment Evaluation Visit
+7.7.2 Treatment Investigational and Placebo Arms
+7.7.3 Treatment Evaluation
+7.7.4 Randomization
+7.7.5 Primary Treatment Evaluation Visit
+7.7.6 End of Treatment Visit
+7.7.7 Follow Up
+7.7.8 Long Term Follow Up
+7.7.9 Changes to the Schedule of Visits and Assessments Following 
+7.7.9.1 Subjects Randomized to the Placebo Arm
+7.7.9.2 Subjects Randomized to the L BLP25 Arm
+7.7.10 End of Study
+8.2 Target Variables
+8.2.1 Primary Variable
+8.2.2 Secondary Variables
+8.2.2.1 Time to Symptom Progression as Measured by the Lung 
+8.2.2.2 Time to Progression as Determined by the Investigator
+8.2.2.4 Safety Variables
+8.2.3.2 Healthcare Resource Utilization and Work Status
+8.2.3.3 Additional Quality of Life analyses utilizing the Lung Cancer 
+8.2.3.4 Time to Treatment Failure
+8.2.3.5 HLA Typing
+8.2.3.6 Molecular Marker Analysis
+8.3 Analysis Populations
+8.4 Description of Statistical Analyses
+8.4.1 General Considerations
+8.4.2 Primary Analysis
+8.4.3 Secondary Analyses
+8.4.3.1 Time to Symptom Progression as Measured by the Lung 
+8.4.3.2 Time to Progression as Determined by the Investigator
+8.4.3.4 Subgroup Analyses of the Primary Variable
+8.4.3.5 Safety Analyses
+8.4.4 Analysis of Further Variables
+8.4.4.1 Progression Free Survival
+8.4.4.2 Quality of Life Index (EQ 5D)
+8.4.4.3 Additional Quality of Life Analyses Utilizing the Lung 
+8.4.4.4 Time to Treatment Failure
+8.5 Interim Analysis
+8.6 Sample Size
+50 end
+9.2 Subject Information
+9.3 Subject Consent
+9.4 Compensation to Subjects
+9.5 Independent Ethics Committee or Institutional Review 
+9.6 Notification to Authorities
+10.2 Source Data and Subject Files
+10.3 Investigator Site File and Archiving
+10.4 Inspection by 
+10.5 Changes to the Study Protocol
+10.6 Study Report and Publication Policy
+11 References

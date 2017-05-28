@@ -1,0 +1,91 @@
+3.3.5.5 Procedures for discontinuation from biomarker research aspects of the 
+3.9.6.1 Guidelines for the assessment of patients developing new onset or 
+4.3.1 MEASUREMENTS OF STUDY VARIABLES AND DEFINITIONS OF 
+1. INTRODUCTION 
+2. STUDY OBJECTIVES 
+2.2 The secondary objectives of the study are: 
+2.3 The exploratory objectives of the study are: 
+3. STUDY PLAN AND PROCEDURES 
+3.1 This Clinical Study Protocol has been subjected to a peer review according to AstraZeneca 
+3.3.2 For inclusion in the study treatment period patients must fulfil all of the following criteria: 
+3. Histologically or cytologically confirmed non small cell lung carcinoma with 
+3.3.3 Any of the following is regarded as a criterion for exclusion from the study: 
+5. Other co existing malignancies or malignancies diagnosed within the last 5 years 
+21. Involvement in the planning and conduct of the study (applies to both AstraZeneca 
+3.3.4 Women of childbearing potential must practice acceptable methods of birth control to prevent 
+3.3.5 Discontinuation of patients from study treatment or assessment and 
+3.3.5.1 Criteria for discontinuation from study treatment 
+3.3.5.2 Criteria for termination from study 
+3.3.5.3 Criteria for termination from biomarker research aspects of the study 
+3.3.5.4 Procedures for discontinuation from study treatment 
+3.3.5.5 Procedures for termination from study 
+3.3.5.6 Procedures for discontinuation from biomarker research aspects of the study 
+3.4.2 (a) 
+3.4.4 (a) 
+3.4.5 It is the investigator s/institution s responsibility to establish a system for handling study 
+3.5.2 Eligible patients will be randomised in a 1:1 ratio to receive either: 
+3.5.3 Arm A: 
+3.7.2 All pre medication for first line chemotherapy should be collected in the eCRF 
+3.7.2.1 Pre medication for paclitaxel 
+3.7.2.2 Pre medication for carboplatin 
+3.7.3.2 Carboplatin and paclitaxel 
+3.7.3.3 Both treatment arms 
+3.8 (a) 
+3.9.2 Management of skin toxicity 
+3.9.3.1 Nausea and/or vomiting 
+3.9.3.2 Diarrhoea 
+3.9.5 Patients should be advised to seek medical advice promptly in the event of developing any eye 
+3.9.6 Management of Interstitial Lung Disease (ILD) 
+3.9.6.1 Guidelines for the assessment of patients developing new onset or worsening of 
+3.10 Management of Toxicity Carboplatin and Paclitaxel 
+3.10.1 Hematological toxicity 
+3.10.2 Nausea and/or vomiting 
+3.10.3 Hepatic toxicity 
+3.10.4 Cardiovascular toxicity 
+3.10.5 Neurological toxicity 
+3.10.6 Management of Interstitial Lung Disease (ILD) 
+3.10.7 Hypersensitivity to paclitaxel 
+3.10.8 Hypersensitivity to carboplatin 
+3.10.9 Other toxicity 
+4. MEASUREMENTS OF STUDY VARIABLES AND 
+4.1 Progression Free Survival (PFS) is defined as the time from randomisation to the first 
+4.3.1 Quality of Life (QoL) Functional Assessment of Cancer Therapy Lung 
+4.3.1.1 Methods of assessment 
+4.3.1.2 Administration of PRO questionnaires 
+4.3.1.3 Derivation or calculation of variable 
+4.3.2 Improvement in QoL 
+4.3.2.1 Method of assessment 
+4.3.2.2 Derivation of outcome variable 
+4.3.3.2 Derivation of outcome variable 
+4.3.4.2 Derivation of outcome variable 
+4.4 The methods for collecting Health Economic data in participating markets are presented 
+4.4.1.2 Derivation or calculation of variable 
+4.6.1.2 Derivation or calculation of outcome variable 
+4.6.2.2 Derivation or calculation of outcome variable 
+4.6.3.2 Derivation or calculation of outcome variable 
+4.7.1.2 Recording of adverse events 
+4.7.1.3 Reporting of serious adverse events 
+4.7.2.2 Derivation or calculation of outcome variables 
+4.7.3.2 Derivation or calculation of outcome variables 
+4.7.4 Physical Examinations 
+4.7.4.1 Methods of assessment 
+4.7.4.2 Derivation or calculation of outcome variables 
+4.10 Genetic measurements and co variables (Not Applicable) 
+5. DATA MANAGEMENT 
+6. STATISTICAL METHODS AND DETERMINATION OF 
+6.2 Description of outcome variables in relation to objectives and 
+6.4.2.2 Objective tumour response 
+6.4.2.4 Quality of Life 
+6.4.3.2 Biomarker data 
+6.8 A steering committee comprised of participating investigators and AstraZeneca personnel 
+7. STUDY MANAGEMENT 
+7.3 The principal investigator will maintain a record of all individuals involved in the study 
+7.4 Study procedures will not be changed without the mutual agreement of the Co ordinating 
+7.6 Before a patient s enrolment in the study and any study related procedures are undertaken the 
+8. ETHICS 
+8.2 The study will be performed in accordance with ethical principles that have their origin in the 
+9.1 Role in the study 
+9.2 The principal investigator(s) is responsible for ensuring that procedures and expertise are 
+9.3 Overdose is defined as a dose administration to a patient in excess of that specified in the 
+9.4 Pregnancy itself is not regarded as an adverse event unless there is a suspicion that the 
+10. REFERENCES 

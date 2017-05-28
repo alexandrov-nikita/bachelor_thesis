@@ -1,0 +1,220 @@
+10.0 Adverse Event (AE) Reporting and Monitoring 
+15.0 Drug Information 
+1.1 Treatment of Colon Cancer with Chemotherapy 
+1.2 Studies of 5 FU Alone and With CF in Advanced Colorectal Cancer 
+1.21 5 FU activity can be incorporated into RNA and DNA and inhibits the enzyme 
+1.22 The toxicity adverse experiences associated with the clinical use of 5 FU are well 
+1.3 Background Pharmacologic Information on CPT 11 and OXAL 
+1.31 CPT 11: CPT 11 works principally by binding and stabilizing topoisomerase I as it 
+1.4 Trials of Single Agent CPT 11 or OXAL in Patients with Colorectal Cancer 
+1.41 CPT 11: A number of phase II studies have been reported in which patients with 
+1.411 Early Clinical Studies 
+1.412 Studies administering treatment weekly for four of six weeks 
+1.413 Studies administering CPT 11 once every three weeks 
+1.42 OXAL 
+1.421 Early Clinical Studies 
+1.422 The efficacy of OXAL monotherapy in patients with advanced colorectal 
+1.5 Combinations of CPT 11 or OXAL With 5 FU and CF 
+1.51 CPT 11 Combined with 5 FU and CF 
+1.511 In Vitro Studies 
+1.512 Human Studies of CPT 11 Combined With 5 FU and CF 
+1.5121 Bolus Schedules 
+1.5122 Infusional Schedules 
+1.52 OXAL Combined With 5 FU and CF 
+1.522 Human Studies of OXAL Combined With 5 FU and CF 
+1.5221 Bolus Schedules 
+1.5222 Infusion Schedules 
+1.61 In Vitro Studies 
+1.62 Early Clinical Trials 
+1.63 Phase II Clinical Trials 
+1.7 CPT 11 and OXAL toxicities in human trials 
+1.71 CPT 11 Toxicities in Human Trials 
+1.72 OXAL Toxicities in Human Trials 
+1.8 Rationale for the Regimens Chosen for Evaluation in This Study 
+1.9 a Quality of life has been identified as an endpoint second only to survival in terms of 
+1.9 b 
+1.9 b1 There has never been a more exciting time for the treatment of advanced colorectal 
+1.9 b2 A clinically useful biochemical or molecular predictive test should be evaluable on 
+1.9 b5 
+2.2 Treatment 
+2.11 The primary objective of this trial is to compare the time to progression in patients 
+2.12 A secondary objective of this trial is to compare the time to progression of patients 
+2.15 Translational Studies 
+2.31 As of Addendum 20: Develop a decision analysis model based on the clinical trial to 
+3.1 Required characteristics 
+3.12 Histologically or cytologically documented locally advanced or metastatic colorectal 
+3.18 All of the following (from the time of surgery/RT to the date of randomization): 
+3.2 Contraindications 
+3.21 Any of the following: 
+3.19 a Laboratory values preferred 14 days prior to randomization but actual time period is 
+3.19 b Patients of childbearing potential must agree to use an effective method of 
+3.24 Any of the following conditions: 
+3.28 b Predisposing colonic or small bowel disorders in which the symptoms are uncontrolled 
+4.0 Test Schedules 
+16.  N9741 
+6.1 a 
+6.1 b 
+6.3 b Randomization Center will register patients separately to the translational research component of 
+6.9 a CALGB Institutions 
+6.9 c 
+6.9 d 
+8.1 Dose Reduction Steps for Arm A (Saltz Regimen) (for patients randomized prior to 
+8.2 Dose Reduction Steps for Arm B (Mayo CPT 11 Regimen) 
+8.21 Dose reduction steps for the Mayo CPT 11 regimen are shown in the following 
+8.41 Dose reduction steps for Arm D are shown on the following table: 
+8.51 Arm E dose reduction steps for adverse effects other than neurologic (for neurologic 
+8.6 Dose Reduction Steps Arm F (OXAL Infusion Regimen) 
+8.61 Arm F dose reduction steps for adverse events other than neurologic (for neurologic 
+8.7 Dose Reduction Steps Arm G (OXAL Plus CPT 11) 
+8.71 Arm G dose reduction steps for adverse events other than neurologic (for neurologic 
+9.1 N9741 
+8.8 OXAL Dose Modifications for Neurologic Adverse Event 
+9.4 Antiemetics: 
+9.9 b 
+10.0 Adverse Event (AE) Reporting and Monitoring 
+10.12 Assessment of Attribution 
+10.2 A Expedited Adverse Event Reporting Requirements (based on NCI Guidelines: Expedited Reporting Requirements for NCI 
+10.2 B Expedited Adverse Event Reporting Exclusions 
+10.2 C Commercial: 
+1. WITHIN 24 HOURS OF THE ADVERSE EVENT CALL THE OPERATIONS 
+10.7 Adverse Event Reporting for ECOG Investigators 
+1. To be completed within 30 days of diagnosis of AML/MDS that has occurred during or after protocol 
+10.83 As of Addendum 16 Grade 1 Adverse Events are not required to be submitted 
+11.0 Treatment Evaluation 
+11.1 Minimum size requirements for measurable indicator lesions (tumor masses with clearly 
+1.0 cm 
+2.0 cm 
+11.11 Note: Special attention should be paid to identify the specific lesion being 
+11.2 Evaluable disease 
+11.21 Any evaluable disease will be measured by imaging study that can be assessed as 
+11.3 Objective Status Criteria 
+11.33 Partial response (PR): measurable disease only 
+11.34 Criteria for regression (REGR): evaluable disease only 
+11.35 Progression (PROG) 
+11.3521 Patients with measurable indicator lesion(s) who have met the 
+11.3522 Patients with measurable indicator lesion(s) who have met the 
+11.3523 Patients with measurable indicator lesion(s) who have not met 
+11.3524 Patients with evaluable disease who have met the criteria for 
+11.3525 Patients with evaluable disease who have not met the criteria 
+11.36 Stable (STAB) 
+12.0 Descriptive Factor 
+13.0 Treatment/Follow up Decision at Evaluation of Patient 
+13.21 Observation Phase: Such patients should follow the observation portion of the 
+13.22 Reinitiating Treatment: Treatment may be reinitiated at the time of progression 
+13.3 Patients with an objective status of PR or STAB will continue on treatment until disease 
+13.4 Criteria for Removal From Study 
+13.41 Progression of disease 
+13.412 NCCTG Only Arm F: Patient may be eligible for Arm A of 2nd line treatment 
+13.413 NCCTG Only Arm G: Patient may be eligible for Arm B of 2nd line 
+13.45 All reasons for discontinuation of treatment must be documented in an off study 
+13.5  N9741 
+14.7 provided by MCLCT (see requisition form contained within the kit 
+15.0 Drug Information 
+15.11 Formulation and storage: Irinotecan (CPT 11) is available as single dose vials 
+15.13 Stability: The diluted solution is stable for up to 24 hours at room temperature 
+15.14 Administration: The dose should be administered as an intravenous infusion 
+15.15 Known potential toxicities: 
+15.16 Drug Procurement: CPT 11 is manufactured by Pharmacia Corporation and 
+15.17 Nursing Guidelines: 
+15.175 Hepatic enzyme elevations have been transient and have not required 
+15.179 Mild dehydration can often be corrected by drinking such sports drinks 
+15.2 Loperamide Investigational Supply: 
+15.22 Administration: All patients should be instructed to begin taking loperamide at 
+15.23 Known potential toxicities: 
+15.241 Advise patient to avoid loperamide if there is presence of blood or 
+15.242 Advise patient of importance of adequate hydration and proper diet 
+15.3 5 Fluorouracil (5 FU) 
+15.31 Preparation and storage: Stable for prolonged periods of time at room 
+15.337 Those patients on continuous infusion may need instruction regarding 
+15.4 Leucovorin (CF) 
+15.5 Atropine Sulfate (ATROP) 
+15.55 Known potential toxicities: 
+15.56 Contraindications: 
+15.584 Advise patient that atropine will inhibit salivation and produce 
+15.586 Advise patient that atropine may inhibit penile erection and cause 
+15.588 Atropine may increase intraocular pressure in patients with angle closure 
+15.6 Oxaliplatin (OXAL) (IND 57004) 
+15.61 Preparation and storage: OXAL is presented in the form of a freeze dried 
+15.62 Incompatibilities: 
+15.63 Known potential toxicities: 
+15.641 GI toxicity in the form of nausea and vomiting is similar in frequency 
+15.643 These sensory neuropathies developed after subsequent courses with 
+15.65 Drug Procurement: 
+16.1 Design: This will be a randomized phase III trial with equal allocation to each of 
+16.11 Time to tumor progression is defined as the time from start of therapy to 
+16.12 In patients with a confirmed CR who discontinue therapy and then restart therapy upon 
+16.4 Analysis plans and power: In the most recent NCCTG randomized phase III trial 
+16.412 If this interim analysis results in the closing of the control arm of the 
+16.414 Release of data at the conclusion of the first stage: At the 
+16.421 Accrual to the second stage: An analysis will be conducted at the 
+16.4211 Analysis at the conclusion of the first stage: At the time of the 
+16.4223 If four experimental arms are continued at the time of the 
+16.5 Revised design as of Addendum 8: 
+16.51 This is a randomized phase III trial with equal allocation to each of 3 regimens: 
+16.54 Analysis plans and power: In the Pharmacia Corporation trial that supported the 
+16.5412 If this interim analysis results in the closing of the control arm of 
+16.5414 Release of data at the conclusion of the first analysis: At 
+16.6 Revised design as of Addendum 12: 
+16.62 For the comparison of the two experimental arms to the control arm in patients 
+16.63 For the comparison of the two experimental arms (5 FU Leucovorin OXAL 
+16.64 For the comparison of the modified regimen of 5 FU Leucovorin CPT 11 to 
+16.65 Safety analysis: After the first 100 patients have been enrolled onto the modified 
+16.71 Survival 
+16.712 The comparison of the survival endpoints for this study will require 
+16.72 Time to treat failure is defined to be the time from the date of randomization to 
+16.73 Objective tumor response: Tumor response will be reported only in patients 
+16.74 Quality of Life: All QOL scores will be translated into percentages (0 100) 
+16.75 Toxicity and dose intensity: Toxicity and dose intensity will be tabulated for 
+16.812 DPD: The hypothesis is that in patients receiving a 5 FU containing 
+16.813 CYP3A4: The hypothesis is that patients who carry a G allele in the 
+16.814 UGT1A1: The hypothesis is that patients homozygous for a 6 repeat 
+16.815 GST M1: The hypothesis is that carriers of the null allele in GST M1 
+16.83 Multiple comparisons: The translational analysis for this protocol will compare outcome 
+16.84 Sample size and power considerations: As of the implementation of Addendum 9 (which 
+16.843 IGF levels: The association of IGF levels and the various outcomes of interest 
+16.85 Statistical methods: A variety of statistical methods will be used for the different 
+16.9 a NCCTG Inclusion of Women and Minorities 
+16.9 a2 There is no information currently available regarding differential effects of 
+16.9 a5 Planned Gender and Minority Enrollment (based on NCCTG historical data) 
+16.9 c Overview of Cost Effective Analysis 
+16.9 c1 As of Addendum 20: The planned CEA will use the primary data from N9741 
+18.0 Records and Data Collection Procedures 
+18.5 CALGB Institutions: 
+18.6 NCIC CTG Institutions: 
+18.7 SWOG Institutions: 
+18.8 ECOG Institutions 
+19.2 Other budget concerns: 
+19.0 Budget 
+20.0 References 
+1995.  N9741 
+81. Goldberg RM: Is repeated treatment with a 5 fluorouracil based regimen useful in colorectal 
+83. Adjei AA: A review of the pharmacology and clinical activity of new chemotherapy agents for 
+97. Deleted as of Addendum 16 
+98. Deleted as of Addendum 16 
+1. I permit my sample to be stored and used for future research of colorectal cancer: 
+2. The NCI encourages investigators to make data from clinical trials fully available to the 
+5. Any manuscripts reporting the results of this clinical trial should be provided to CTEP for 
+1.0 EPP Randomization and Registration Procedures (Revised 2/01) 
+2.0 Data Submission (Revised 8/01) 
+1. N9741 Eligibility Checklist 
+2. NCCTG Advanced Colon and Rectal Cancer On 
+3. NCCTG Toxicity Monitoring Report Form (Arms B 
+4. EPP Toxicity Form 
+7. EPP Tumor Evaluation Forms Measurable 
+8. EPP Tumor Evaluation Forms Non Measurable 
+9. EPP Chemotherapy/Immunothearpy/Hormonal 
+12. NCI/CTEP Secondary AML/MDS Report Form 
+3.0 Quality of Life (Revised 7/99) 
+4.0 Pharmacologic/Ancillary Studies (Revised 8/00) 
+5.0 Special Toxicity Monitoring (Revised 8/01) 
+6.0 EPP Adverse Event (AE) Reporting (Revised 2/01) 
+6.1 Explanation of terms used in adverse event reporting 
+6.2 Procedures for reporting 
+6.3 Expedited Adverse Event Reporting Requirements (based on NCI Guidelines: Expedited 
+6.4 Expedited Adverse Event Reporting Requirements (based on NCI Guidelines: Expedited 
+4. If the AdEERS system is not available use Adverse Event Expedited Report Single Agent or Multiple Agents available in 
+6.5 Reporting secondary malignancies 
+6.6 Pregnancy occurring while the patient is on protocol therapy 
+3. For a clinical protocol where there is an investigational agent used in combination with 
+9. How much of a problem was numbness in your fingers and toes immediately after your last 
+4. It was believed that simplification of the study would make it easier for study participants to 

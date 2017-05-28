@@ -1,0 +1,165 @@
+1. BACKGROUND AND STUDY RATIONALE
+1.1 Scientific Background
+1.2 Preclinical Experience With Orteronel
+1.4 Study Rationale
+1.4.1 Dose Selection
+1.4.2 Continuation of Study Drug Treatment Following Radiographic Disease 
+1.4.3 The Role of Prednisone
+1.4.4 Concomitant Therapy Selection
+1.4.5 Circulating Tumor Cells (CTCs)
+1.4.6 Rationale for Genotyping and Assessment of Biomarkers in Archived Tumor 
+1.5 Risks and Benefits
+1.5.1 Potential Benefits
+1.5.2 Identified Risks
+1.5.3 Potential Risks 
+2. STUDY OBJECTIVES
+2.1 Primary Objectives
+2.2 Key Secondary Objectives
+2.3 Other Secondary Objectives
+2.4 Exploratory Objectives
+3. STUDY ENDPOINTS
+3.1 Primary Endpoints
+3.2 Key Secondary Endpoints
+3.3 Other Secondary Endpoints
+3.4 Exploratory Endpoints
+4. STUDY DESIGN
+4.1 Overview of Study Design and Conduct
+4.2 Number of Patients
+4.3 Duration of Study
+5. STUDY POPULATION
+5.1 Inclusion Criteria
+5.2 Exclusion Criteria
+6. STUDY DRUG
+6.1 Test Article
+6.1.2 Gonadotropin Releasing Hormone Analogue and Prednisone Supply
+6.2 Study Drug Administration
+6.3 Dose Modification and Supportive Care Guidelines
+6.3.1 Dose Levels for Study Drug
+6.3.1.1 Dose Modifications
+6.3.1.2 Criteria for Study Drug Initial Dose Reduction
+6.3.1.3 Criteria for Study Drug Dose Re escalation
+6.3.1.3.1 Re escalation for Grade 2 Intolerable Adverse Events
+6.3.1.3.2 Re escalation of Study Drug Following a Grade 3 or 4 Adverse Event
+6.3.1.4 Criteria for Discontinuation of Study Drug
+6.3.2 Specific Guidelines for Possible Study Drug Related Toxicities
+6.4 Excluded Concomitant Medications and Procedures
+6.5 Permitted Concomitant Medications and Procedures
+6.6 Precautions and Restrictions
+6.7 Management of Overdose
+6.8 Blinding and Unblinding
+6.9 Description of Investigational Agents
+6.11 Packaging and Labeling
+7. STUDY CONDUCT
+7.1 Study Personnel and Organizations
+7.2 Arrangements for Recruitment of Patients
+7.3 Treatment Group Assignments 
+7.4 Study Procedures
+7.4.1 Informed Consent
+7.4.2 Patient Demographics
+7.4.3 Medical History
+7.4.4 Physical Examination
+7.4.5 Patient Height and Weight
+7.4.6 Vital Signs
+7.4.7 Concomitant Medications and Procedures
+7.4.8 Adverse Events
+7.4.9 Cardiac Assessments
+7.4.10 Eastern Cooperative Oncology Group Performance Status
+7.4.11 Clinical Laboratory Evaluations
+7.4.12 Serology
+7.4.13 Disease Assessment
+7.4.14 Dual Energy X ray Absorptiometry
+7.4.15 Tumor Specimen Measurements
+7.4.16 Circulating Tumor Cells
+7.4.17 Whole Blood Sample for Germline DNA
+7.4.18 Pharmacokinetic Measurements
+7.4.19 Pain Assessment
+7.4.20 Quality of Life Assessment
+7.4.21 Utility Measurement
+7.4.22 Medical Resource Utilization Data Collection
+7.4.23 Cost Assessment
+7.4.24 Unscheduled Visits
+7.4.25 Long term Survival Status
+7.5 Completion of Treatment
+7.6 Completion of Study
+7.7 Discontinuation of Treatment With Study Drug and Patient Replacement
+7.8 Withdrawal of Patients From Study
+7.9 Study Compliance
+8. STATISTICAL AND QUANTITATIVE ANALYSES
+8.1 Statistical Methods
+8.1.1 Determination of Sample Size
+8.1.2 Randomization and Stratification
+8.1.3 Populations for Analysis
+8.1.5 Demographic and Baseline Characteristics
+8.1.6 Efficacy Analyses
+8.1.6.1 General Methodology
+8.1.6.2 Analysis of Primary Efficacy Endpoints
+8.1.6.3 Analyses of Key Secondary Endpoints
+8.1.6.4 Analyses of Secondary Efficacy Endpoints
+8.1.7 Safety Analysis
+8.1.8 Analyses of Patient Reported Outcomes
+8.1.9 Interim Analyses
+8.1.10 Other Exploratory Analyses
+8.2 Population Pharmacokinetic Modeling
+9. STUDY COMMITTEES 
+9.1 Independent Data Monitoring Committee
+10. ADVERSE EVENTS
+10.1 Definitions
+10.1.2 Serious Adverse Event Definition
+10.1.3 Pretreatment Event Definition
+10.2 Procedures for Recording and Reporting Adverse Events and Serious 
+10.5 Procedures for Reporting Drug Exposure During Pregnancy and Birth Events
+11. ADMINISTRATIVE REQUIREMENTS
+11.1 Good Clinical Practice
+11.2 Data Quality Assurance
+11.3 Electronic Case Report Form Completion 
+11.4 Study Monitoring
+11.5 Ethical Considerations
+11.6 Patient Information and Informed Consent
+11.7 Patient Confidentiality
+11.8 Investigator Compliance
+11.9 On site Audits
+11.10 Investigator and Site Responsibility for Drug Accountability
+11.11 Product Complaints
+11.12 Closure of the Study
+11.13 Record Retention
+12. USE OF INFORMATION
+13. INVESTIGATOR AGREEMENT
+14. REFERENCES
+15. APPENDICES
+15.1 Radiographic Disease Assessment According to Prostate Cancer Clinical Trials 
+15.1.1 Recording Baseline Assessments
+15.1.1.1 Soft Tissue Lesion Assessment
+15.1.1.2 Soft Tissue Assessments Following Baseline
+15.1.2 Response Definitions for RECIST Evaluable Soft Tissue Lesions
+15.1.2.1 Definition of Complete Response
+15.1.2.2 Definition of Partial Response
+15.1.2.3 Definition of Stable Disease
+15.1.2.4 Definition of Soft Tissue Progression
+15.1.2.4.1 Assessment of Soft Tissue Time Point Response
+15.1.3 Radionuclide Bone Scan Assessment 
+15.1.3.1 Baseline Assessment
+15.1.3.2 Post Baseline Assessments and Definition of Progression of Bone Metastatic 
+15.1.4 The following table summarizes the overall response status calculation at each time point for 
+15.2 World Health Organization Steps of Analgesics and OME Conversions
+15.2.1 World Health Organization Steps of Analgesics
+15.2.2 Oral Morphine Equivalent (OME) Conversions
+30 b
+15.3 Eastern Cooperative Oncology Group Scale for Performance Status
+15.4 Cockcroft Gault Formula
+15.5 New York Heart Association Classification of Cardiac Disease
+15.6 Specific Guidelines for Possible Study Drug Related Toxicities
+15.6.1 Fatigue
+15.6.2 Gastrointestinal Adverse Events
+15.6.3 Hypertension
+15.6.5 Hyperglycemia
+15.6.6 Renal Disorders
+15.6.7 Suspected or Possible Adrenal Insufficiency
+15.7 Amendment 1 Rationale and Purposes
+15.8 Amendment 2 Rationale and Purposes
+15.9 Amendment 3 Rationale and Purposes
+15.10 Amendment 4 Rationale and Purposes
+15.11 Amendment 5 Rationale and Purposes
+15.12 Amendment 6 Rationale and Purposes
+15.13 Amendment 7 Rationale and Purposes
+15.14 Amendment 8 Rationale and Purposes
+15.15 Amendment 9 Detailed Summary of Changes

@@ -1,0 +1,59 @@
+Processing the protocol with id 185
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. BIntroduction 
+I have not found anything about the rationales from titles, lets take a look for the introduction
+Rationales: NOT FOUND
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+8246	phase I 	"... (median  age was 31 years) (6). The phase I CALGB 9621 study, used..."
+17977	phase II 	"... was minimal in this group (35). In a phase II trial  using intravenous..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. BObjectives 
+For more information about the primary objectives, go to sections:
+2.1 BPrimary Objectives 
+For more information about the secondary objectives, go to sections:
+2.2 BSecondary Objectives 
+Objectives: FOUND
+Occurrences in the text:
+30286	evaluate 	"... 3 To evaluate the impact of allogeneic transplant on AML patients who have  unfavorable prognostic..."
+30394	evaluate 	"...   To evaluate the effect of autologous transplant on favorable and intermediate  risk AML patients ..."
+29593	compare 	"...   To compare the overall survival (OS) between two induction regimens (standard  versus dose intense..."
+29792	compare 	"...   To compare disease free survival (DFS) between two consolidation regimens:  Gemtuzumab ozogamicin..."
+30031	compare 	"... 1 To compare overall survival between two consolidation regimens.    Rev. 4/08  Rev. 4/08  7a  33 34 35..."
+30225	compare 	"... 2 To compare response rates between two induction arms.  2.2.3 To evaluate the impact of allogeneic..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 3. BSelection of Patients 
+I have found neither inclusion nor exclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5.3.2.1 Treatment 
+##########################################
+Checking for the item “7a how sample size was determined”...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 4. Registration and Randomization Procedures11 
+Maybe this information will be interesting:
+48646	will be randomized	"... tarting 24 hours after  therapy or Cytarabine 30 mg/m IT.  5.1.2 Induction/Randomization  BPatients will be randomized to one of the following induction therapy arms:  5.1.2.1 Standard Dose..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+I found the following methods:
+125898 	 log rank 	 "...  dose daunorubicin arm, using one sided log rank test at  the significance..."
+126795 	 log rank 	 "... s will be conducted using the one sided log rank test.  Another endpoint of the..."
+129725 	 log rank 	 "...  comparisons will be based on one sided log rank tests at the 0.025  type I..."
+135367 	 log rank 	 "... er  calculation is based on a one sided log rank test at 0.025 significance..."
+126685 	 kaplan meier 	 "... ntervals, will be  calculated using the Kaplan Meier method. Comparison of..."
+136572 	 fisher s exact test 	 "... ces. This power calculation is based on Fisher s exact test at 0.05 two  sided..."
+126105 	 fleming 	 "... on OS endpoint using  truncated O Brien Fleming boundaries when 50% and 75%..."
+128448 	 fleming 	 "... een Arm A and Arm B,  using the O Brien Fleming critical value to determine the..."

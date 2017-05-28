@@ -1,0 +1,171 @@
+10.2 Institutional Review Board (IRB) or Independent Ethics Committee (IEC) 
+1 INTRODUCTION
+1.1 Metastatic Castrate Resistant Prostate Cancer
+1.2 Asymptomatic or Mildly Symptomatic Patients with Castrate 
+1.3 Second line hormonal therapies for CRPC
+1.3.1 Adrenal Androgen Inhibitor
+1.3.2 Glucocorticoids
+1.3.3 Estrogens
+1.4 Chemotherapy and Bisphosphonates for CRPC
+1.5 Abiraterone Acetate (CB7630) and the Active Metabolite Abiraterone 
+1.5.1 Dosing Rationale
+1.5.2 Concurrent Prednisone 
+1.5.3 Status of Current Clinical Trials of Abiraterone Acetate
+1.5.3.1 Chemotherapy Na ve Castration Resistant Prostate Cancer (CRPC)
+1.5.3.2 Castration Resistant Prostate Cancer (CRPC) Post Docetaxel
+1.6 Clinical Benefits of Current Treatment
+1.6.1 Quality of Life Assessments
+1.7 Rationale for Study Design and Control Group
+1.8 Radiographic PFS as an Efficacy Endpoint
+2 STUDY OBJECTIVES
+2.1 Primary Objective(s)
+2.2 Secondary Objective(s)
+3 INVESTIGATIONAL PLAN
+3.1 Overall Study Design and Plan
+3.1.1 Primary Efficacy Endpoints
+1. A patient is considered to have progressed by bone scan if:
+2. Progression of soft tissue lesions measured by CT or MRI as defined in modified 
+3. Death from any cause
+3.1.2 Secondary Efficacy Endpoints
+3.1.3 Other Study Endpoints
+3.1.4 Safety Assessments
+3.1.5 Other Assessments
+3.1.6 Study Duration and Dates
+3.2 Study Activities
+3.2.1 Screening Period
+3.2.2 Randomization
+3.2.3 Treatment Period
+3.2.4 Follow up Period
+4 STUDY POPULATION SELECTION
+4.1 Study Population
+4.2 Inclusion Criteria
+1. Willing and able to provide written informed consent
+2. Written Authorization for Use and Release of Health and Research Study Information 
+3. Male aged 18 years and above
+4. Histologically or cytologically confirmed adenocarcinoma of the prostate 
+6. Prostate cancer progression documented by PSA according to PCWG2 or radiographic 
+10. Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1
+16. Liver function:
+17. Able to swallow the study drug whole as a tablet
+18. Life expectancy of at least 6 months
+19. Patients who have partners of childbearing potential must be willing to use a method of 
+4.3 Exclusion Criteria
+1. Active infection or other medical condition that would make prednisone/prednisolone
+2. Any chronic medical condition requiring a higher dose of corticosteroid than 5mg 
+3. Pathological finding consistent with small cell carcinoma of the prostate
+4. Liver or visceral organ metastasis
+6. Use of
+7. Prior cytotoxic chemotherapy or biologic therapy for the treatment of CRPC 
+9. Radiation or radionuclide therapy for treatment of metastatic CRPC
+15. Active or symptomatic viral hepatitis or chronic liver disease
+16. History of pituitary or adrenal dysfunction
+5 STUDY TREATMENT(S)
+5.1 Description of Treatment(s)
+5.2 Treatments Administered
+5.2.1 Abiraterone Acetate/Placebo
+5.2.2 Prednisone
+5.3 Selection and Timing of Dose for Each Patient
+5.4 Randomization Procedures
+5.5 Stratification
+5.6 Blinding
+5.6.1 Randomization Codes
+5.6.2 Laboratory Tests Results
+5.6.3 Accidental Unblinding
+5.7 Concomitant Therapy
+5.8 Prohibited Concomitant Medication Restrictions
+5.8.1 Special Concomitant Therapy
+5.9 Potential for Drug Drug Interactions
+31.8 Not 
+17.6 Moderate 
+11.4 Moderate 
+5.11 Packaging and Labeling
+5.12 Storage 
+5.12.1 Pharmacy Storage Requirements 
+5.12.2 Storage Requirements For The Patient
+5.13 Investigational Product Retention and Accountability at Study Site
+6 STUDY PROCEDURES
+6.1 Informed Consent
+6.2 Medical History
+6.3 Physical Examination
+6.4 Clinical Laboratory Tests
+6.4.1 Laboratory Parameters
+6.4.2 Pharmacokinetics (PK) Assessments and Additional ECG Monitoring
+6.4.3 TMPRSS2 ERG and other biomarkers
+6.5.1 Definitions
+6.5.1.1 Adverse Events
+6.5.1.2 Serious Adverse Events 
+6.5.1.3 Suspected Unexpected Serious Adverse Reactions (SUSARS)
+6.5.2 Reporting Procedures for All Adverse Events
+6.5.3 Severity of Adverse Events
+6.5.4 Serious Adverse Event Reporting Procedures
+6.5.5 Long Term Follow Up
+6.5.6 Abnormal Laboratory Results
+2. Test result requires additional diagnostic testing or medical/surgical intervention (merely 
+4. Test result leads to any of the outcomes included in the definition of a serious adverse 
+5. Test result is considered to be an adverse event by the investigator or sponsor
+6.5.7 Management of Study Drug Related Events 
+6.5.7.1 Management of Hypokalemia 
+6.5.7.2 Management of Hypertension Side Effects
+6.5.7.5 Management of Non Mineralocorticoid Based Side Effects
+6.5.7.6 Dose Reduction Procedure for Adverse Event Management
+6.6 Criteria for Discontinuation of Study Treatment
+6.7 Withdrawal from Study Treatment Phase
+7 STUDY ACTIVITIES
+7.1 Screening Period (Days 14 to Day 1)
+7.2 Treatment Period (Cycle 1 Day 1 to End of Study Treatment)
+7.2.1 Cycle 1 Day 1
+7.2.2 Cycle 1 Day 15 Visit
+7.2.6 End of Study Treatment Visit
+7.2.7 Unscheduled Visits
+7.3 Post Treatment Follow up Period (Survival or Long Term 
+8 QUALITY CONTROL AND ASSURANCE
+9 PLANNED STATISTICAL METHODS
+9.1 General Considerations
+9.2 Determination of Sample Size
+9.2.1 Sample Size Determination 
+9.3 Interim and Final Analyses
+9.4 Analysis Populations 
+9.5 Demographics and Baseline Characteristics
+9.6 Study Endpoint(s)
+9.6.1 Efficacy Endpoint(s)
+9.7 Efficacy Analysis Population and Methods
+9.8 Safety Evaluations
+9.8.1 Safety Analysis Population and Methods:
+9.9 Pharmacokinetics Analysis
+9.10 Other Assessments or Analyses
+10 ADMINISTRATIVE CONSIDERATIONS
+10.1 Investigators and Study Administrative Structure
+10.1.2 Protocol Adherence and Investigator Agreement
+10.2 Institutional Review Board (IRB) or Independent Ethics Committee 
+10.3 Ethical Conduct of the Study
+10.4 Patient Information and Consent
+10.5 Patient Confidentiality
+10.6 Study Monitoring
+10.7 Case Report Forms 
+10.8 Laboratory Assessments
+10.9 Independent Data Monitoring Committee (IDMC)
+10.10 Central Radiologic Review
+10.11 Protocol Violations/Deviations
+10.12 Access to Source Documentation
+10.13 Retention of Data
+10.14 Financial Disclosure
+10.15 Study Publication Guidelines and Disclosure Policy
+10.15.1 First Publication
+10.15.2 Subsequent Publications
+11 REFERENCE LIST
+23. Logothetis 
+30. Sleep 
+18 Confidential
+1. Patient is receiving placebo and prednisone/prednisolone and is willing and able to 
+8. Liver function:
+9. Able to swallow the study drug whole as a tablet
+10. Patients who have partners of childbearing potential must be willing to use a method of 
+11. No active infection or other medical condition that would make prednisone/prednisolone 
+12. No chronic medical condition requiring a higher dose of corticosteroid 
+17. No known brain metastasis
+2 and 3
+2 and 3
+1. Previous participation in the placebo arm of Study COU AA 302 and currently in 
+2. Patient is willing and able to provide written informed consent to receive abiraterone 
+6. The safety of concomitant cytotoxic chemotherapy and abiraterone acetate treatment has 
+6.0 Study Number:

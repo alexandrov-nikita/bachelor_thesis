@@ -1,0 +1,65 @@
+Processing the protocol with id 153
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 2.2 AMG 162 Background 
+For more information about the rationales, go to sections:
+2.3 Rationale 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+13701	Phase 2 	"... women.  d e v o r p p A In a Phase 2 study, the treatment effect of..."
+24521	Phase II 	"... in a rapid change in BMD in the Phase II clinical trial. Due to  this..."
+11280	phase 2 	"... that have been completed and a  phase 2 study that has completed 24..."
+12742	phase 2 	"... antibodies.  Interim results from a phase 2 study in postmenopausal women..."
+11232	phase 1 	"...  Safety data available from five phase 1 studies that have been..."
+12078	clinical studies with	"... in some  subjects participating in clinical studies with AMG 162. In most..."
+22762	phase II  	"... therefore we anticipate, based on the phase II  clinical trial that..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2.4 Clinical Hypothesis 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: NOT FOUND
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4. SUBJECT ELIGIBILITY 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 7. STUDY PROCEDURES 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 10.3 Sample Size Considerations 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 5.2 Randomization 
+Maybe this information will be interesting:
+26752	will be randomized	"... e study.  Upon meeting all eligibility criteria and completing all screening assessments, subjects  will be randomized 1:1 to one of 2 treatment arms (n=104/arm):  (cid:120) 60 mg AMG 162 SC every 6..."
+28972	will be randomized	"... red to as subjects . Approximately  208 subjects will be enrolled into the study. Eligible subjects will be randomized to one of  the 2 treatment groups.  d e v o r p p A On average, approximately 10..."
+38153	will be randomized	"... on a double blind randomization  schedule prepared by Amgen before the start of the study. Subjects will be randomized  using a 1:1 allocation to one of 2 treatment groups as outlined in Table 1, and..."
+41378	will be randomized	"... armacokinetic profiles.  6.2 Investigational Product Dosage, Administration, and Schedule  Subjects will be randomized 1:1 to receive 60 mg of AMG 162 or placebo every 6  months. All subjects will..."
+134419	will be randomized	"... olution containing no drug.  j.  Who decides if I get the test drug product or something else?  You will be randomized by chance to receive investigational product or placebo. Your  doctor will not..."
+139173	will be randomized	"... lacebo (a solution containing no  active drug); or 60 mg AMG 162. If you qualify for the study, you will be randomized into  one of the treatment groups just described for 24 months.  All subjects..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 13.3 Study Monitoring and Data Collection 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+I found the following methods:
+85845 	  cox  	 "... ween AMG 162  and placebo groups using a Cox semi parametric model (Lawless,..."
+86835 	  cox  	 "... tween AMG 162 and placebo groups using a Cox semi parametric model (Lawless, ..."
+201895 	  cox  	 "... ween AMG 162 and placebo  groups using a Cox semi parametric model (Lawless,..."
+202812 	  cox  	 "... tween AMG 162 and placebo groups using a Cox semi parametric model (Lawless, ..."
+199990 	 cochran mantel haenszel 	 "... ompared between treatment  groups using Cochran Mantel Haenszel two sided tests..."
+86309 	 kaplan meier 	 "... onfidence intervals for the median, and Kaplan Meier event  rates at the time..."
+86364 	 kaplan meier 	 "... ent  rates at the time of analysis. The Kaplan Meier graphs will also be..."
+87404 	 kaplan meier 	 "... onfidence intervals for the median, and Kaplan Meier event  rates at month 24..."
+87487 	 kaplan meier 	 "... wo tailed 95% confidence intervals. The Kaplan Meier  graphs will also be..."
+202337 	 kaplan meier 	 "... nfidence intervals for  the median, and Kaplan Meier event rates at the time of..."
+202391 	 kaplan meier 	 "... vent rates at the time of analysis. The Kaplan Meier  graphs will also be..."
+203257 	 kaplan meier 	 "... onfidence intervals for the median, and Kaplan Meier event  rates at month 24..."
+203340 	 kaplan meier 	 "... wo tailed 95% confidence intervals. The Kaplan Meier  graphs will also be..."

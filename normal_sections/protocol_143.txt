@@ -1,0 +1,83 @@
+1. INTRODUCTION 
+1.2. BACKGROUND INFORMATION ON COOP 
+1.2.2. Pharmacokinetic Data 
+1.2.3. In vitro studies of CDDP metabolizing enzymes I Drug interactions 
+1.2.4. Clinical data 
+1.3. BACKGROUND ON 5 FU 
+1.3.1. Mechanism of action 
+1.3.2. Pharmacokinetic data 
+1.3.3.1. Safety 
+1.3.3.2. Activity 
+1.4.2. Rationale for the selection of the test arm TXT CDDP 5 FU for the phase Ill part 
+1.4.2.2. Selection of the test arm for the phase Iff by the IDMC 
+2. STUDY OBJECTIVE(S) 
+3. OVERALL STUDY DESIGN 
+3.1. DESCRIPTION AND RATIONALE OF THE DESIGN 
+3.2. STUDY CENTERS 
+3.3. REFERENCE COMMITTEES 
+3.3.1. lndependant Data Monitoring Committee (IDMC) 
+3.3.2. External Response Review Committee (ERRC) 
+4. SELECTION OF STUDY POPULATION 
+4.2. INCLUSION CRITERIA 
+4.3. EXCLUSION CRITERIA 
+4.4. REMOVAL OF PATIENTS FROM THERAPY OR ASSESSMENT 
+5. PLAN OF THE STUDY 
+5.1. STUDY PERIOD 
+5.2. DETAILED PLAN 
+5.2.1. Randomisation 
+5.2.2. Inclusion 
+5.2.3. Duration of treatment and Follow up 
+6. STUDY MEDICATION 
+6.1. DOCETAXEL IN COMBINATION WITH CISPLATIN (ARM A) 
+6.2. DOCETAXEL IN COMBINATION WITH CISPLATIN AND 5 FLUOROURACIL (ARM B) 
+6.3. CISPLATIN IN COMBINATION WITH 5 FLUOROURACIL (ARM C) 
+6.4. PROPHYLACTIC MEDICATION REGIMEN 
+6.4.3. Prophylactic use of Recombinant Granulocyte Colony Stimulating Factor (G CSF) 
+6.4.4. Ethyol 
+6.5. CONCOMITANT TREATMENTS 
+6.6. DOSE MODIFICATION AND DOSE DELAY 
+6.6.1. Dose adjustments in all arms for phase Ill 
+6.6.2. Docetaxel dose adjustments 
+6.6.3. Cisplatin dose adjustments 
+6.6.4. 5 FU Dose Adjustments 
+6.6.5. Other toxic effects 
+6.7. CISPLATIN (NO DOSE MODIFICATION REQUIRED) 
+6.8. METHODS FOR ASSIGNING PATIENTS TO TREATMENT GROUPS 
+6.9. PACKAGING AND LABELLING 
+6.9.2. Cisplatin 
+6.9.3. 5 fluorouracil 
+6.10. DRUG ACCOUNTABILITY 
+7. STUDY ASSESSMENTS 
+7.1.1.2. Unidimensionally measurable lesions 
+7.1.2.2. Response criteria 
+7.1.3. WHO criteria for measurement of response 
+7.1.3.2. Evaluable not measurable disease 
+7.1.3.3. Not evaluable lesions 
+7.1.4.3. Determination of the overall response in case of presence of only evaluable not measurable 
+7.1.5. Determination of best overall response 
+7.1.7. Evaluation of clinical benefit 
+7.2. SAFETY ASSESSMENT METHODS 
+7.2.2. Laboratory determinations 
+7.3. QUALITY OF LIFE EVALUATION 
+8. ADVERSE EVENTS 
+8.1. DEFINITIONS 
+8.2. RECORDING OF ADVERSE EVENTS 
+8.3. REPORTING OF SERIOUS ADVERSE EVENTS 
+8.4. PATIENT REMOVAL FROM STUDY THERAPY DUE TO ADVERSE EVENTS 
+8.5. DEATH 
+9. DATAANALYSIS 
+9.1. SAMPLE SIZE 
+9.2. STATISTICAL ANALYSIS 
+9.2.1. Definition of populations 
+9.2.2. Statistical methods 
+9.2.4. Phase Ill Interim Analysis 
+9.2.5. Clinical benefit evaluation 
+9.3. QUALITY OF LIFE 
+10. INVESTIGATOR I SPONSOR OBLIGATIONS 
+10.1. ETHICS 
+10.3. PATIENT INFORMED CONSENT 
+10.4. MODIFICATION OF THE PROTOCOL 
+10.5. INSURANCE AND LIABILITY 
+10.6. RECORDS RETENTION/PATIENT IDENTIFICATION 
+10.7. USE OF INFORMATION AND PUBLICATION 
+11. APPENDICES 

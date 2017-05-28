@@ -1,0 +1,195 @@
+12.7 ONGOING INFORMATION FOR INDEPENDENT ETHICS COMMITTEE/ 
+1. Histologically or cytologically proven diagnosis of breast adenocarcinoma that is now 
+4. Evidence of measurable disease as defined by Response Evaluation Criteria in Solid Tumors 
+7. Patients must have resolution of all clinically significant toxic effects (excluding alopecia) of 
+8. Adequate organ function as defined by: 
+1. History of any second malignancy with the exception of adequately treated basal cell or 
+3. The following breast cancer treatments: 
+6. Concurrent treatment on another clinical trial or with any other cancer therapy including 
+8. Known brain or leptomeningeal disease (CT or MRI scan of the brain required only in case of 
+13. Known human immunodeficiency virus (HIV) infection requiring treatment or acquired 
+12. Tumor Assessment: 
+14. Adverse Event Assessment: The period of observation for collection of adverse events extends from the start of treatment with study drug 
+15. Assessment of Concomitant Medications and Treatments: Concomitant medications and treatments will be recorded from 7 days prior 
+16. QLQ 30 / BR23 Questionnaires: The baseline assessment must be performed before randomization but not earlier than 7 days prior to 
+1 INTRODUCTION AND STUDY RATIONALE 
+1.1 BREAST CANCER 
+1.1.1 Medical need 
+1.1.2 Breast cancer treatment 
+1.1.2.1 Chemotherapy 
+1.1.2.2 Drug resistance 
+1.2 RPR109881 
+1.2.1 Molecular formula 
+1.2.2 Activity studies in preclinical models 
+1.2.2.1 In vivo schedule determination 
+1.2.2.2 Murine and human tumor models 
+1.2.2.3 Multidrug resistance studies 
+1.2.3 Preclinical safety pharmacology studies 
+1.2.4 Preclinical toxicology studies 
+1.2.4.1 General toxicity studies 
+1.2.4.2 Mutagenicity and reproduction studies 
+1.2.4.3 Irritation and reactivity studies 
+1.2.5 Pharmacokinetics and metabolism studies in animals 
+1.3 PRELIMINARY PHARMACOKINETICS IN HUMANS 
+1 h 
+24 h 
+1 h 
+1.4 PRELIMINARY CLINICAL FINDINGS 
+1.4.1 Safety of RPR109881 in Phase I Study 101 
+11 a 
+1.4.2 Preliminary activity of RPR109881 in patients with metastatic breast cancer after 
+1.4.2.1 Patient demographics in Study 204 
+1.4.2.2 Response rate in Study 204 using definition for proposed Study 3001 
+1.4.2.3 Adverse events in Study 204 
+1.4.3 Capecitabine 
+1.4.4 Summary 
+2 STUDY OBJECTIVES 
+2.1 PRIMARY OBJECTIVE 
+2.2 SECONDARY OBJECTIVES 
+3.1 STUDY DESIGN 
+3.2 STUDY DURATION AND DATES 
+3.3 STUDY CUT OFF/CLOSURE 
+4 SELECTION OF PATIENTS 
+4.1 NUMBER OF PATIENTS 
+4.2 INCLUSION CRITERIA 
+1. Histologically or cytologically proven diagnosis of breast adenocarcinoma that is now 
+7. Patients must have resolution of all clinically significant toxic effects (excluding alopecia) of 
+8. Adequate organ function as defined by: 
+4.3 EXCLUSION CRITERIA 
+1. History of any second malignancy with the exception of adequately treated basal cell or 
+3. The following breast cancer treatments: 
+4. Prior treatment with capecitabine or any taxanes analogs except for paclitaxel or docetaxel 
+6. Concurrent treatment on another clinical trial or with any other cancer therapy including 
+8. Known brain or leptomeningeal disease (CT or MRI scan of the brain required only in case of 
+13. Known human immunodeficiency virus (HIV) infection requiring treatment or acquired 
+4.4 PATIENTS OF REPRODUCTIVE POTENTIAL 
+5 STUDY TREATMENTS 
+5.1 DETAILS OF STUDY TREATMENTS 
+5.2 DOSAGE SCHEDULE 
+5.2.1 RPR109881 treatment 
+5.2.2 RPR109881 treatment modification 
+5.2.2.1 Status of the patient on the day of planned retreatment 
+5.2.3 Capecitabine treatment 
+5.2.3.1 Adjustment of starting dose in special populations 
+5.2.4 Capecitabine treatment modification 
+5.3 TREATMENT ASSIGNMENT 
+5.4 PACKAGING AND LABELING 
+5.4.1 Packaging of RPR109881 
+5.4.1.2 Solvent vial for RPR109881 
+5.4.2 Packaging and dispensing of capecitabine 
+5.4.3 Labeling 
+5.4.4 Study drug storage 
+5.4.5 Preparation and administration of RPR109881 
+5.4.5.3 Storage period of premix and infusion solution 
+5.4.5.4 Recommendation for the safe handling 
+5.4.5.5 Disposal 
+5.5 SUPPLIES AND ACCOUNTABILITY 
+5.6 COMPLIANCE 
+6 PRIOR AND CONCOMITANT ILLNESSES AND TREATMENTS 
+6.1 PRIOR AND CONCOMITANT ILLNESSES 
+6.2 PRIOR AND CONCOMITANT TREATMENTS 
+7 STUDY PROCEDURES AND SCHEDULE 
+7.1 OVERVIEW OF DATA COLLECTION 
+7.1.1 Primary efficacy data 
+7.1.2 Secondary and other efficacy data 
+7.1.3 Safety 
+7.1.4 Quality of life / clinical benefit 
+7.1.5 Health economics 
+7.2 DESCRIPTION OF STUDY DAYS 
+7.2.1 Screening 
+7.2.2 Study days 
+7.2.2.1 Cycle 1 Day 1 
+7.2.2.5 End of even numbered cycles 
+7.2.2.6 Day 120 
+7.2.3 End of study (treatment) / withdrawal 
+7.2.4 Follow up 
+7.2.4.1 Adverse events 
+7.2.4.3 Quality of life 
+7.3 METHODS 
+7.3.1 Efficacy data 
+7.3.1.1 Summary of Response Evaluation Criteria in Solid Tumors (RECIST) 
+7.3.2 Safety data 
+7.3.2.1 Adverse events 
+7.3.2.2 Laboratory measurements 
+7.3.2.3 Clinical examination 
+7.3.3 Pharmacokinetic data 
+7.3.4 Pharmacodynamic data 
+7.3.5 Quality of life data 
+7.3.6 Health economic data 
+7.4 GENERAL AND DIETARY RESTRICTIONS 
+8 ADVERSE EVENTS 
+8.1 DEFINITIONS 
+8.1.2 Serious adverse event 
+8.1.3 Alert terms and other reasons for expedited reporting to Pharmacovigilance 
+8.2 PERIOD OF OBSERVATION 
+8.3 DOCUMENTATION AND REPORTING OF ADVERSE EVENTS BY INVESTIGATOR 
+8.4 IMMEDIATE REPORTING BY INVESTIGATOR TO SPONSOR 
+9 WITHDRAWALS 
+9.1 WITHDRAWAL OF PATIENTS 
+9.2 REPLACEMENT OF PATIENTS 
+10 EMERGENCY PROCEDURES 
+10.1 EMERGENCY SPONSOR CONTACT 
+10.2 EMERGENCY IDENTIFICATION OF INVESTIGATIONAL PRODUCTS 
+10.3 EMERGENCY TREATMENT 
+10.4 RPR109881 EXTRAVASATION PROCEDURES 
+10.5 OVERDOSE PROCEDURES 
+11 STATISTICAL PROCEDURES 
+11.1 ANALYSIS VARIABLES 
+11.1.1 General remark on efficacy data 
+11.1.2 Primary efficacy variable 
+11.1.3 Secondary efficacy variables 
+11.1.4 Other efficacy variables 
+11.1.5 Safety variables 
+11.1.6 Quality of life and clinical benefit variables 
+11.1.7 Health economic variables 
+11.2 ANALYSIS POPULATIONS 
+11.3 STATISTICAL METHODS 
+11.3.1 Demographic and baseline characteristics data 
+11.3.2 Extent of exposure 
+11.3.3 Efficacy data 
+11.3.3.1 Primary efficacy variable (PFS) 
+11.3.3.2 Secondary efficacy variables 
+11.3.3.3 Other efficacy variables 
+11.3.3.4 Additional analyses 
+11.3.4 Safety data 
+11.3.4.1 TEAE 
+11.3.4.2 Serious AE 
+11.3.4.3 Special safety parameters 
+11.3.4.4 Discontinuation 
+11.3.4.5 Major laboratory parameters 
+11.3.5 Quality of life (QoL) data 
+11.3.6 Health economic data 
+11.4 FUTILITY ANALYSIS 
+11.4.1 Futility analysis 
+11.4.1.1 Timing and objective 
+11.4.1.2 Efficacy evaluation 
+11.4.2 Interim evaluation of OS 
+11.4.2.1 Timing and objective 
+11.4.2.2 Stopping boundary 
+11.4.2.3 OS evaluation 
+11.4.2.4 Safety evaluation 
+11.4.3 Periodic safety review 
+11.5 SAMPLE SIZE JUSTIFICATION 
+12 ETHICAL AND LEGAL ASPECTS 
+12.1 GOOD CLINICAL PRACTICE 
+12.2 DELEGATION OF INVESTIGATOR DUTIES 
+12.3 PATIENT INFORMATION AND INFORMED CONSENT 
+12.4 CONFIDENTIALITY 
+12.5 PROTOCOL AMENDMENTS 
+12.6 APPROVAL OF THE CLINICAL STUDY PROTOCOL AND AMENDMENTS 
+12.7 ONGOING INFORMATION FOR INDEPENDENT ETHICS COMMITTEE/ 
+12.8 CLOSURE OF THE STUDY 
+12.9 RECORD RETENTION 
+12.10 LIABILITY AND INSURANCE 
+12.11 FINANCIAL DISCLOSURE 
+13 STUDY MONITORING AND AUDITING 
+13.1 STUDY MONITORING AND SOURCE DATA VERIFICATION 
+13.2 ON SITE AUDITS 
+14 DOCUMENTATION AND USE OF STUDY FINDINGS 
+14.1 DOCUMENTATION OF STUDY FINDINGS 
+14.2 USE OF STUDY FINDINGS 
+15 DECLARATIONS OF SPONSOR AND INVESTIGATOR 
+15.1 DECLARATION OF SPONSOR 
+15.2 DECLARATION OF INVESTIGATOR 
+16 REFERENCES 
+23. H ave you had skin problem s on or in the area of

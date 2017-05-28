@@ -1,0 +1,106 @@
+1.2 (cid:120) 
+1.3 (cid:120) 
+2.2 Denosumab Background 
+2.2.1 Clinical Experience With Denosumab 
+2.2.1.1 Efficacy 
+2.2.1.2 Safety 
+2.2.1.3 Pharmacokinetics 
+2.3 Rationale 
+2.3.1 Denosumab Dose Selection 
+2.3.2 Selection of Comparator 
+2.4.2 Secondary Efficacy Hypotheses 
+3. EXPERIMENTAL PLAN 
+3.2 Number of Centers 
+3.3 Number of Subjects 
+3.4 Estimated Study Duration 
+3.4.1 Study Duration for Participants 
+3.4.2 End of Study 
+4. SUBJECT ELIGIBILITY 
+4.1 Inclusion Criteria 
+4.1.1 adult with histologically or cytologically confirmed advanced cancers including 
+4.2 ensure enrollment of representative subjects for the planned indication 
+4.2.1 diagnosis of breast or prostate cancer (1) 
+4.2.2 current or prior IV bisphosphonate administration (3) 
+4.2.4 planned radiation therapy or surgery to bone (3) 
+4.2.5 prior administration of denosumab (3) 
+4.2.7 life expectancy less than 6 months (1) 
+4.2.8 prior history or current evidence of osteonecrosis/osteomyelitis of the jaw (2) 
+4.2.10 non healed dental/oral surgery (2) 
+4.2.11 planned invasive dental procedure over the course of the study (2) 
+4.2.16 subject with reproductive potential who will not agree to use effective 
+5. SUBJECT ENROLLMENT 
+5.1 Screening 
+5.2 Treatment Assignment 
+5.3 Randomization 
+6. TREATMENT PROCEDURES 
+6.1.2 Missed Dose 
+6.1.3 Dose Escalation and Stopping Rules 
+6.1.4 Dosage Adjustments 
+6.1.5 Concomitant Therapy 
+6.1.6 Supplements 
+6.1.7 Proscribed Medication and Therapy During Study Period 
+6.2 Open Label Treatment Phase 
+6.2.2 Missed Dose 
+6.2.3 Dose Escalation and Stopping Rules 
+6.2.4 Dosage Adjustments 
+6.2.5 Concomitant Therapy 
+6.2.6 Supplements 
+6.2.7 Proscribed Medication and Therapy During Study Period 
+7. STUDY PROCEDURES 
+7.1 Screening 
+7.2 Medical History 
+7.3 Treatment History 
+7.4 Physical Examination 
+7.5 Oral Examination 
+7.6 Skeletal Survey (X rays) 
+7.6.1 Vertebral Fracture 
+7.6.2 Non vertebral Fracture 
+7.7 Skeletal Related Events (SRE) and Hypercalcemia of Malignancy (HCM) 
+7.7.1 Skeletal Related Events 
+7.7.2 Hypercalcemia of Malignancy 
+7.8 Laboratory Assessments 
+7.8.1 Blood and Serum Assessments 
+7.8.2 Urine Assessments 
+7.9 PRO Assessments 
+7.9.1 Brief Pain Inventory Short Form (BPI SF) 
+7.9.2 Functional Assessment of Cancer Therapy General (FACT G) 
+7.9.3 EuroQol 5 Dimensions (EQ 5D) 
+7.10 Healthcare Utilization 
+7.11 Disease Progression 
+7.12 Early Withdrawal from Blinded Investigational Product 
+7.13 Survival Follow up 
+7.14 Open label Treatment Phase 
+8.2 Replacement of Subjects 
+9.1.2 Serious Adverse Events 
+9.2 Reporting Procedures for All Adverse Events 
+9.3 Serious Adverse Event Reporting Procedures 
+10. STATISTICAL CONSIDERATIONS 
+10.2.1 Study Endpoints 
+10.2.2 Subsets 
+10.2.3 Covariates 
+10.3 Sample Size Considerations 
+10.3.1 Non inferiority Design 
+3. Zoledronic acid was compared with placebo in Novartis solid tumor trial 011 
+10.3.2 Sample Size 
+10.4 Access to Individual Subject Treatment Assignments 
+10.5 Interim Analysis and Early Stopping Guidelines 
+10.6 Planned Methods of Analysis through the Primary Analysis Data Cut off 
+10.6.1 General Approach/Considerations 
+10.6.2 Analysis of Key Study Endpoints 
+10.6.2.1 Efficacy Analysis 
+10.6.2.2 Safety Analysis 
+10.6.2.3 Exploratory Analyses 
+10.7 Planned Methods of Analysis Through the End of the Blinded Treatment 
+10.8 Planned Methods of Analysis for the Open Label Treatment Phase and 
+11.2 Access to Treatment Assignments 
+12.2 Independent Ethics Committee/Institutional Review Board 
+12.3 Pre study Documentation Requirements 
+12.4 Subject Confidentiality 
+12.5 Investigator Signatory Obligations 
+13.2 Study Documentation and Archive 
+13.3 Study Monitoring and Data Collection 
+13.4 Language 
+13.5 Publication Policy 
+13.6 Compensation 
+14. REFERENCES 
+15. APPENDICES

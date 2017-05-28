@@ -1,0 +1,83 @@
+Processing the protocol with id 150
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. Introduction 
+For more information about the rationales, go to sections:
+1.2. Study Rationale 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: NOT FOUND
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. Objectives 
+For more information about the primary objectives, go to sections:
+2.1. Primary Objective 
+For more information about the secondary objectives, go to sections:
+2.2. Secondary Objectives 
+Objectives: FOUND
+Occurrences in the text:
+29069	to study 	"... vant to study therapy and  disease state to identify difference in treatment effect on overall survival ..."
+28092	compare 	"... s to compare the OS of pemetrexed 500 mg/m2 plus  cisplatin 75 mg/m2 every 3 weeks to the OS of single..."
+28448	compare 	"... e to compare between the two treatment arms:   progression free survival (PFS)   overall response rate..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3.1. Summary of Study Design 
+I found the following features of the study:
+randomized
+double blind
+1  days  Patients in both treatment arm
+Phase 3
+Placebo: found -> randomized-controlled study
+Occurrences in the text:
+29986	placebo	 "... days   Arm B (control arm): placebo plus cisplatin 75..."
+31391	placebo	 "... months with cisplatin plus  placebo and 10 months with..."
+31495	placebo	 "... estimate for  cisplatin plus placebo is based on results..."
+33488	placebo	 "... (Treatment Arm A) or placebo plus cisplatin..."
+Allocation ratio: 1:1, 1:1
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4.2. Exclusion Criteria 
+I have found: exclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5. Treatment 
+Maybe, these sections will be interested for you:
+5.1. Treatments Administered 
+5.2.1. Pemetrexed (Treatment Arm A) 
+5.2.2. Cisplatin (Both Treatment Arms) 
+5.2.3. Placebo (Treatment Arm B) 
+5.2.4. Folic Acid (Both Treatment Arms) 
+5.2.5. Vitamin B12 (Both Treatment Arms) 
+5.2.6. Dexamethasone (Both Treatment Arms) 
+5.3. Method of Assignment to Treatment 
+5.5.1. Special Treatment Considerations 
+5.5.2.5. Treatment Delays Due to Insufficient Folic Acid or Vitamin B12 
+5.8. Treatment Compliance 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 8. Sample Size and Statistical Methods 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 5.3. Method of Assignment to Treatment 
+Maybe this information will be interesting:
+29806	will be randomized	"... t metastatic disease. Approximately 790 patients will be enrolled  in this study. Eligible patients will be randomized to one of the following treatment  arms:   Arm A (experimental arm): pemetrexed..."
+33403	will be randomized	"... ion of H3E MC JMHR study design.  3.2. Discussion of Design and Control  Approximately 790 patients will be randomized to receive either pemetrexed plus  cisplatin (Treatment Arm A) or placebo plus..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 5.6. Blinding 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 8. Sample Size and Statistical Methods 
+I found the following methods:
+103822 	 log rank 	 "... e 2 study treatments using a stratified log rank test at two sided =0.05 with ..."
+104867 	 log rank 	 "...   Redacted Version Page 54   Stratified log rank test stratified by the..."
+104410 	  cox  	 "... ting for the  prognostic variables using Cox regression model (Cox 1972). ..."
+105103 	  cox  	 "... latinum based therapy (no versus yes).   Cox regression model to obtain..."
+111102 	  cox  	 "... s cisplatin) will be estimated using the Cox model with 5 covariates (assigned ..."
+115305 	  cox  	 "... l Amendment  Redacted Version Page 58  A Cox regression analysis of time to..."
+115837 	  cox  	 "... to the study  randomization factors. The Cox regression analysis of OS and PFS,..."
+116006 	  cox  	 "... in the analytical model.  In addition, a Cox multiple regression analysis with..."
+116300 	  cox  	 "... alogous to those described above for the Cox regression analyses. The protein ..."
+122111 	  cox  	 "... serum  creatinine. Nephron 16(1):31 41.  Cox DR. 1972. Regression models and..."
+108846 	 fisher s exact test 	 "...  treatment arms will be compared  using Fisher s Exact test.  8.2.10. Subgroup..."
+104093 	 kaplan meier 	 "... platinum based therapy (no versus yes). Kaplan Meier (K M) estimation  (Kaplan..."
+104643 	 kaplan meier 	 "... ollowing  analyses will be performed:   Kaplan Meier estimation including..."

@@ -1,0 +1,97 @@
+Processing the protocol with id 143
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. INTRODUCTION 
+For more information about the rationales, go to sections:
+1.4.2. Rationale for the selection of the test arm TXT CDDP 5 FU for the phase Ill part 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+40549	phase I 	"... docetaxel.  In a recently published phase I trial of CDDP and Taxotere , it..."
+69349	phase I 	"... of Taxotere , 5 FU and CDDP, a phase I has  been set up in order to..."
+39886	phase 1 	"... Clinical Cancer Research) conducted a phase 1 11 trial investigating its ..."
+70858	Phase II 	"... 5 FU for the phase Ill part  1.4.2.1. Phase II results on the first 60..."
+28346	phase II 	"... cancer  Single agent therapy : in phase II trials, first line therapy..."
+30968	phase II 	"...  c) Efficacy in lung cancer  In two phase II trials, docetaxel 1 00 mg/m 2..."
+31978	phase II 	"... Docetaxel has demonstrated activity in phase II studies in a number of other..."
+33065	phase II 	"... dependent.  f) Adverse events  In most phase II studies, docetaxel has been..."
+35760	phase II 	"...  cancer has been investigated in two phase II clinical trials in Europe and..."
+37218	phase II 	"... months was  17%.  In a Japanese early phase II study in patients previously..."
+37529	phase II 	"...  chemotherapy.  In a late Japanese phase II study conducted in previously..."
+38614	phase II 	"... advanced disease.  Table 3: Summary of phase II studies of Taxotere..."
+58659	phase II 	"... Southwest Oncology Group designed a phase II study (17) comparing 7..."
+68850	phase II 	"... or FAM. On the basis of the available phase II data, median  survival is..."
+70215	phase II 	"... neutropenia. The  recommended dose for phase II trials is Taxotere 75 mg/m 2 ,..."
+70928	phase II 	"... evaluable patients  According to the phase II design chosen, the selection..."
+71054	phase II 	"... the first 60 eveluable patients on the phase II part. Two populations were..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. STUDY OBJECTIVE(S) 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+87296	detect 	"... : to detect a statistically significant increase in time to progression (TTP) for the test arm  (TXT..."
+87465	detect 	"... : to detect a statistically significant increase in overall survival (OS) for the test arm  (TXT CDDP 5..."
+87178	evaluate 	"...  :to evaluate the quantitative and qualitative safety profile of the 2 test groups.    In the Phase Ill..."
+87631	compare 	"... : to compare response rates, time to treatment failure, duration of response, safety  profiles, quality..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3. OVERALL STUDY DESIGN 
+I found the following features of the study:
+
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4. SELECTION OF STUDY POPULATION 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 6. STUDY MEDICATION 
+Maybe, these sections will be interested for you:
+6.5. CONCOMITANT TREATMENTS 
+6.8. METHODS FOR ASSIGNING PATIENTS TO TREATMENT GROUPS 
+6.9. PACKAGING AND LABELLING 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 9.1. SAMPLE SIZE 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 5.2.1. Randomisation 
+Maybe this information will be interesting:
+100006	will be randomized	"... , obtained patient informed consent and baseline  quality of life questionnaire filled in, patients will be randomized in the study. A patient who has been  treated prior to registration will not be..."
+130414	will be randomized	"... of informed consent obtained,  16. Completion of QOL baseline questionnaire.  Each eligible patient will be randomized to receive either docetaxel plus CDDP (arm A) or docetaxel  plus CDDP and 5 FU..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 9.2. STATISTICAL ANALYSIS 
+This part was defined, probably, at this section: 9.2.2. Statistical methods 
+I found the following methods:
+162240 	 logrank 	 "... ative to the control arm, an unadjusted logrank test will be used. The test  of..."
+163158 	 logrank 	 "... ses  Survival will be compared with the logrank test and time to treatment..."
+165507 	 logrank 	 "... ared with stratified linear rank tests (logrank and Wilcoxon) and  Cox s..."
+172127 	 logrank 	 "... fit analyses  Kaplan Meier analyses and logrank tests will be performed on the..."
+271607 	 logrank 	 "... s Required in Clinical Trials Using the Logrank Test.  Statistics in Medicine..."
+164270 	 fisher s exact test 	 "...  arms will be  compared using a 2 sided Fisher s exact test. The Holm..."
+165950 	 fisher s exact test 	 "... ted cell frequency is  5, in which case Fisher s exact test will be used...."
+166917 	 shapiro wilk 	 "... g a minimum dispersion method (49). The Shapiro Wilk test will be used  to test..."
+164563 	 fisher s  exact test 	 "... and toxic deaths will be compared using Fisher s  exact test.  9.2.1...."
+169489 	 fleming 	 "...  for a minimum of 2 months.  An O Brien Fleming stopping boundary will be used..."
+271855 	 fleming 	 "... cal Statistics 5(3):297 306, 1995  T.R. Fleming  Treatment Evaluation in Active..."
+272672 	 fleming 	 "...  times  Biometrics 49:603 7, 1993  T.R. Fleming, J.R. O Fallon, P.C. O Brien,..."
+273823 	 fleming 	 "... ne 13:1149 63, 1994  P.C. O Brien, T.R. Fleming  A Multiple Testing Procedure..."
+165798 	 kolmogorov smirnov 	 "...  be assessed with a 2 sided generalized Kolmogorov Smirnov test (47).  x2 tests..."
+272736 	 kolmogorov smirnov 	 "... P.C. O Brien, D.P. Harrington  Modified Kolmogorov Smirnov test procedures with..."
+165260 	 kaplan meier 	 "...   Survival data will be described using Kaplan Meier curves and life tables...."
+172101 	 kaplan meier 	 "...  9. 2. 5. 2. Clinical benefit analyses  Kaplan Meier analyses and logrank tests..."
+161424 	  cox  	 "... nt hazard ratio will be estimated from a Cox proportional hazards model with ..."
+162411 	  cox  	 "... og hazard  ratio (control I test) from a Cox s proportional hazards model with..."
+163292 	  cox  	 "... l analysis and per protocol populations. Cox model regression will be used to ..."
+165533 	  cox  	 "... r rank tests (logrank and Wilcoxon) and  Cox s proportional hazards model...."
+163228 	 wilcoxon 	 "... ment failure will be compared with the  Wilcoxon test in the full analysis and..."
+165519 	 wilcoxon 	 "... ratified linear rank tests (logrank and Wilcoxon) and  Cox s proportional..."
+166786 	 wilcoxon 	 "... annot be established, then a stratified Wilcoxon rank sum test will be used..."
+272924 	 wilcoxon 	 "... tion of Independent Two Sample Tests of Wilcoxon.  Bulletin of the..."

@@ -1,0 +1,73 @@
+Processing the protocol with id 154
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 2.2 AMG 162 Background 
+For more information about the rationales, go to sections:
+2.3 Rationale 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+8999	phase 2  	"... studies that have been completed and a phase 2  study that has completed 24..."
+11426	Phase 2 	"... women.  Based on data from the Phase 2 study (20010223), the treatment..."
+24014	Phase II 	"... in a rapid change in BMD in the Phase II clinical trial. Due to  this..."
+8999	phase 2 	"... studies that have been completed and a phase 2  study that has completed 24..."
+10445	phase 2 	"... antibodies.  Interim results from a phase 2 study in postmenopausal women..."
+8952	phase 1 	"...  Safety data available from five phase 1 studies that have been..."
+9920	clinical studies with	"... in some subjects participating in clinical studies with AMG 162. In most..."
+22256	phase II  	"... therefore we anticipate, based on the phase II  clinical trial that..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2.4 Clinical Hypothesis 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+24527	will preserve 	"...  162 will preserve BMD in men with PC undergoing ADT. This study is designed to  detect, a 2% difference..."
+24814	will preserve 	"...  162 will preserve BMD at the femoral neck  and total hip, and, if effective at preserving BMD, will..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4. SUBJECT ELIGIBILITY 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 7. STUDY PROCEDURES 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 10.3 Sample Size Considerations 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 5.2 Randomization 
+Maybe this information will be interesting:
+25434	will be randomized	"... 40138  Date: 19 February 2008    Page 26 of 124 Page 26 of 108  be enrolled in this study. Subjects will be randomized in a blinded fashion to 1 of  2 treatment arms using a 1:1 randomization ratio...."
+35659	will be randomized	"... on a double blind randomization  schedule prepared by Amgen before the start of the study. Subjects will be randomized  using a 1:1 allocation to one of 2 treatment groups as outlined in Table 2, and..."
+154262	will be randomized	"... olution containing no drug.  j.  Who decides if I get the test drug product or something else?  You will be randomized by chance to receive study drug or placebo. Your doctor will not  be able to..."
+158461	will be randomized	"... poon).  On Study/Treatment Phase If you qualify for the study and if you decide to participate, you will be randomized into  one of two treatment groups:  1. placebo (a solution containing no active..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 13.3 Study Monitoring and Data Collection 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+I found the following methods:
+90194 	  cox  	 "...  the time to first any fracture  using a Cox regression model (Lawless, 1982)..."
+91705 	  cox  	 "... ween AMG 162 and placebo  groups using a Cox regression model (Lawless, 1982)..."
+94770 	  cox  	 "... urves are to be graphically displayed. A Cox  proportional hazard model..."
+99721 	  cox  	 "... to  compare AMG 162 with placebo using a Cox regression model with treatment..."
+100065 	  cox  	 "... used as stratification  variables in the Cox regression model. The overall..."
+188042 	  cox  	 "...  the time to first any  fracture using a Cox regression model (Lawless, 1982)..."
+202371 	  cox  	 "...  the time to first any fracture  using a Cox regression model (Lawless, 1982)..."
+206016 	  cox  	 "... urves are to be graphically displayed. A Cox  proportional hazard model..."
+206614 	  cox  	 "... urves are to be graphically displayed. A Cox  proportional hazard model..."
+210009 	  cox  	 "... to  compare AMG 162 with placebo using a Cox regression model with treatment..."
+210346 	  cox  	 "... to  compare AMG 162 with placebo using a Cox regression model with treatment..."
+82410 	 cochran mantel haenszel 	 "... e at the level of 0.05 at year 2 using  Cochran Mantel Haenszel test. Assuming..."
+92460 	 kaplan meier 	 "... nfidence  intervals for the median, and Kaplan Meier event rates at the time of..."
+92515 	 kaplan meier 	 "... ent rates at the time of analysis. The  Kaplan Meier graphs will also be..."
+94716 	 kaplan meier 	 "...  performed based on  the safety subset. Kaplan Meier curves are to be..."
+100284 	 kaplan meier 	 "... onfidence intervals for the median, and Kaplan Meier event  mortality rates at..."
+100349 	 kaplan meier 	 "... lity rates at the time of analysis. The Kaplan Meier graphs will also be..."
+205962 	 kaplan meier 	 "...  performed based on the  safety subset. Kaplan Meier curves are to be..."
+206560 	 kaplan meier 	 "...  performed based on  the safety subset. Kaplan Meier curves are to be..."

@@ -1,0 +1,211 @@
+4. Registration and Randomization Procedures11 
+2. For patients at high risk or intermediate risk for relapse and with HLA compatible family member (identical or haploidentical with one locus mismatch)
+3. GM CSF Support
+1. BIntroduction 
+1.1 treating acute myeloid 
+1.3 family member or 
+1.5.1 Karyotype and FISH Studies 
+1.5.2 Flt3 Internal Tandem Duplication (ITD) and Immunophenotypic Features 
+1.5.3 Leukemia Specific Fusion Genes and Polymerase Chain Reaction 
+1.5.4 Angiogenesis 
+1.7 BGender and Ethnicity 
+2. BObjectives 
+2.1 BPrimary Objectives 
+2.1.2 Major Objective of Consolidation 
+2.2 BSecondary Objectives 
+2.2.3 To evaluate the impact of allogeneic transplant on AML patients who have 
+3. BSelection of Patients 
+3.1 NOTE: Institutions may use the eligibility checklist as source documentation if it has been 
+3.1.3 Patients must not have been previously treated with radiation therapy or cytotoxic 
+3.1.8 Women must not be pregnant or breastfeeding due to the potential harmful 
+3.1.9 Women of childbearing potential and sexually active males are strongly advised 
+3.1.11 Patients must not have had a prior malignancy for which chemotherapy or 
+3.1.12 Patients must not have had blastic transformation of chronic myelogenous 
+3.1.14 Patients must not have disease at the following sites: 
+3.1.14.1 Peripheral nervous system 
+3.2.1 Eligibility criteria for consolidation therapy and autologous transplant: 
+3.2.1.3 Patients must have an absence of infection or have infection controlled 
+3.2.1.6 Patients must not have intercurrent organ damage or medical problems 
+3.2.1.9 Patients will have an HIV test prior to transplant as a part of the 
+3.2.2 Eligibility for allogeneic transplant assignment: 
+3.2.2.2 Patients must have an appropriate sibling match defined as HLA 
+4.1 BSubmitting Regulatory Documents 
+4.1.1 Protocol Number 
+4.1.2 Investigator Identification 
+4.1.3 Patient Identification 
+4.1.3.1 Patient s initials and chart number 
+4.1.3.3 Patient demographics 
+4.1.3.4 Sex 
+4.1.3.6 Race 
+4.1.3.7 Ethnicity 
+4.1.3.9 Method of payment 
+4.1.4 Eligibility Verification 
+4.1.5 Additional Requirements 
+4.1.5.4 Samples for all other correlative studies are to be submitted as outlined 
+4.2.2 Allogeneic Transplant 
+4.2.2.1 Protocol Number 
+4.2.2.2 Investigator Identification 
+4.2.2.3 Patient Identification 
+4.2.2.3.3 Patient s initials and protocol sequence number 
+4.2.2.4 Eligibility Verification 
+4.2.2.5 Additional Requirements 
+4.2.2.5.1 Correlative samples are to be submitted as outlined in 
+4.2.3 Consolidation With Autologous Transplant 
+4.2.3.1 Protocol Number 
+4.2.3.2 Investigator Identification 
+4.2.3.3 Patient Identification 
+4.2.3.3.3 Patient s initials and chart number 
+4.2.3.4 Eligibility Verification 
+4.2.3.5 Stratification Factors 
+4.2.3.6 Additional Requirements 
+5. BTreatment Plan 
+5.1.1 Initial Considerations 
+5.1.1.3 Patients with M4 or M5 disease and have CNS signs or symptoms 
+5.1.2 Induction/Randomization 
+5.1.2.1 Standard Dose Daunorubicin (Arm A) 
+5.1.2.2.3 IV 
+5.1.2.3 Up to two cycles of induction therapy are permitted in the attempt to 
+5.1.2.3.1 IV 
+5.1.3 Bone Marrow Evaluation and GM CSF Administration 
+5.1.4 Dose Modification for Induction Cycle 2 (If Necessary) 
+5.1.4.1 Hepatotoxicity 
+5.1.4.1.1 Dose Adjustment 
+5.1.4.2 Cardiotoxicity: A MUGA MUST be performed after the first induction 
+5.1.4.3 Hematologic Toxicity: No dosage adjustment on second cycle should 
+5.2.1 Allogeneic Transplant 
+5.2.1.2 Patients allocated to allogeneic transplant will proceed directly to 
+5.2.1.3 Those patients not felt to be poor risk for transplant or who do not have 
+5.2.1.4 Selection of Allogeneic Transplant Center 
+5.2.1.5 Transplant Regimen (Suggested) 
+5.2.1.7 Supportive Care for Allogeneic Transplant 
+5.3.1  Deleted in Addendum 9 
+5.3.2 High dose Cytarabine Consolidation Chemotherapy (Arm C) 
+5.3.2.1 Treatment 
+5.3.3 Peripheral Blood Stem Cell (PBSC) Harvest and Processing (Arm C) 
+5.3.3.2 PBSC Collection: Patients will have PBSC mobilized upon recovery of 
+5.3.3.3 PBSC Processing 
+5.3.3.4 Alternative cryopreservation methods may be used as long as chemical 
+5.3.5 Autologous Transplant (Arm C) 
+5.3.5.1 Conditioning Regimen: 
+5.3.5.2 Infusion Stem Cells 
+5.3.5.3 Medical Management During Conditioning Therapy 
+5.3.5.3.1 Busulfan Management 
+1. Maintain IV fluids of D5 normal saline ( 30 
+5.3.5.4 Supportive Care for Autologous Transplant 
+5.4 BAdverse Event Reporting Requirements 
+5.4.1 Purpose 
+5.4.2 Determination of reporting requirements 
+5.4.6 must be reported on an expedited adverse event report form (using 
+5.4.5 Other recipients of adverse event reports 
+5.4.6 Expedited reporting for commercial agents 
+5.4.7 Reporting secondary primary cancers 
+1. Submit a completed Second Primary Form within 30 days to ECOG 
+2. Submit a copy of the pathology report to ECOG ACRIN confirming the 
+3.  A secondary malignancy is a cancer CAUSED BY any prior anti cancer 
+1. Submit a completed Second Primary Form within 30 days to ECOG 
+3. Submit a copy of the pathology report to ECOG ACRIN and NCI/CTEP 
+4. NOTE: The Second Primary Form and the CTEP AERS report should not be 
+5.5 BDuration of Therapy 
+5.5.1.1 Treatment will be discontinued if patient dose not attain a complete 
+5.5.1.2 Treatment will be discontinued if there is not a complete response to 
+5.5.1.5 Patient withdraws consent 
+5.5.2 Extraordinary Medical Circumstances 
+6. BMeasurement of Effect 
+6.1 BComplete Remission (CR) 
+6.1.1 Peripheral Blood Counts 
+6.1.1.3 Reduced hemoglobin concentration or hematocrit has no bearing on 
+6.1.2 Bone Marrow Aspirate and Biopsy 
+6.4 BPartial Remission (PR) 
+6.2.1 Requires that all of the criteria for complete remission be satisfied except that the 
+6.2.2 BRelapse 
+6.3.1 Peripheral Blood Counts 
+6.3.1.1 Reappearance of blasts in the blood 
+7. BStudy Parameters 
+7.1 BTherapeutic Parameters 
+7.2 BBiological Sample Submission 
+11.0. Samples not required for central diagnostic review will be used in the correlative 
+8. BDrug Formulation and Procurement 
+8.1 BDaunorubicin 
+8.1.2 Classification 
+8.1.3 Mode of Action 
+8.1.4 Storage and Stability 
+8.1.5 Dose Specifics 
+8.1.6 Preparation 
+8.1.7 Administration 
+8.1.8 Injected into a recently established patent IV site through the side arm of a 
+8.1.9 Availability 
+8.1.10 Side Effects 
+8.1.11 Nursing/Patient Implications 
+8.1.12 References 
+8.2 BCytarabine 
+8.2.1 Other Names 
+8.2.2 Classification 
+8.2.3 Mode of Action 
+8.2.4 Storage and Stability 
+8.2.5 Dose Specifics 
+8.2.6 Preparation 
+8.2.7 Administration 
+8.2.9 Compatibilities 
+8.2.10 Availability 
+8.2.11 Side Effects 
+8.2.12 Nursing/Patient Implications 
+8.2.13 References 
+8.3 BGM CSF (Leukine) 
+8.3.1 Other Names 
+8.3.2 Classification 
+8.3.3 Mode of Action 
+8.3.4 Storage and Stability 
+8.3.5 Dose Specifics 
+8.3.6 Preparation 
+8.3.7 Route of Administration 
+8.3.9 Availability 
+8.3.10 Side Effects 
+8.3.11 Nursing/Patient Implications 
+6. Diphenhydramine may be ordered if erythema at subcutaneous injection 
+8.3.12 References 
+8.4 BG CSF (Neupogen) 
+8.4.1 Other Names 
+8.4.2 Classification 
+8.4.3 Mode of Action 
+8.4.4 Storage and Stability 
+8.4.5 Dose Specifics 
+8.4.6 Preparation 
+8.4.7 Route of Administration 
+8.4.9 Availability 
+8.4.10 Side Effects 
+8.4.11 Nursing/Patient Implications 
+8.4.12 References 
+8.5 B Deleted in Addendum 9 
+8.6 BBusulfan 
+8.6.1 Other Names 
+8.6.2 Classification 
+8.6.3 Mode of Action 
+8.6.4 Storage and Stability 
+8.6.5 Dose Specifics 
+8.6.6 Preparation 
+9.3 ml of busulfan injection to yield a final concentration of busulfan of 
+8.6.7 Route of Administration 
+8.6.10 Availability 
+8.6.11 Side Effects 
+8.6.12 Nursing/Patient Implications 
+7. Administer on empty stomach or at bedtime to decrease nausea and 
+8.6.13 References 
+8.7 BCyclophosphamide 
+8.7.1 Other Names 
+8.7.2 Classification 
+8.7.3 Mode of Action 
+8.7.4 Storage and Stability 
+8.7.5 Dose Specifics 
+8.7.5.2 Dosage in Renal or Hepatic Failure 
+8.7.6 Preparation 
+8.7.7 Administration 
+8.7.8 Compatibilities 
+8.7.9 Availability 
+8.7.10 Side Effects 
+3. Alopecia 
+6. Hemorrhagic cystitis 
+1. Stomatitis 
+1. Anaphylaxis 
+4. Skin rash 
+5. Pneumonitis or interstitial pulmonary fibrosis 
+10. Hemorrha

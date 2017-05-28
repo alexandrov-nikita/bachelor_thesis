@@ -1,0 +1,86 @@
+Processing the protocol with id 136
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 4. INTRODUCTION AND RATIONALE 
+For more information about the rationales, go to sections:
+4.1 Background and Rationale 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+12397	clinical experience	"... (17).    Overall, none of these clinical experiences provided..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 5.  STUDY OBJECTIVES 
+For more information about the primary objectives, go to sections:
+5.1 Primary 
+For more information about the secondary objectives, go to sections:
+5.2 Secondary 
+Objectives: FOUND
+Occurrences in the text:
+32681	evaluate 	"... s to evaluate xaliproden in preventing oxaliplatin induced  cumulative PSN in patients treated with..."
+33658	evaluate 	"...   To evaluate for each treatment arm:     Neurotoxicity:   Duration of oxaliplatin induced PSN,  ..."
+33066	compare 	"...   To compare the risk of occurrence of severe oxaliplatin induced cumulative PSN  (Grade  dose   of..."
+33395	compare 	"...   To compare the Response Rate (RR) between the control arm A and the experimental arm  B in order to..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 6. STUDY DESIGN 
+I found the following features of the study:
+placebo controlled
+randomized
+2 arm
+Phase III
+multicenter
+Placebo: found -> randomized-controlled study
+Occurrences in the text:
+34424	placebo	 "... multicenter, randomized, placebo controlled, 2 arm..."
+34493	placebo	 "...  of xaliproden or matching placebo (i.e. study drugs) in..."
+35187	placebo	 "... 1mg daily, or matching placebo will be initiated at..."
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 7. SELECTION OF PATIENTS 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 8. TREATMENTS 
+Maybe, these sections will be interested for you:
+8.1.1.4 Duration of treatment 
+8.1.1.7 Packaging and labeling 
+8.1.3 Guidelines for Treatment Modifications 
+8.1.3.2.1 Dosing delays 
+8.2 Concomitant treatments 
+8.2.1 Prohibited treatments 
+8.2.2 Permitted concomitant treatments 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 13.2 Determination of sample size 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 8.1.1.9 Access to randomization code during the study 
+Maybe this information will be interesting:
+46168	randomization will be stratified	"... y.  In order to balance treatments groups with regard to prognostic factors for colorectal  cancer, randomization will be stratified by using a centralized randomization service  (Interactive Voice..."
+36365	will be randomized	"... trate a 40% reduction in the risk of occurrence of Grade 3  4 cumulative PSN.  Overall 900 patients will be randomized. Accrual is planned to last 2 years. Sixty to 100  investigational sites are..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 8.1.1.5 Description of the blinding methods 
+This part was defined, probably, at this section: 8.1.1.9 Access to randomization code during the study 
+This part was defined, probably, at this section: 15. STUDY MONITORING 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 13. STATISTICAL CONSIDERATIONS 
+This part was defined, probably, at this section: 13.4 Data analysis considerations 
+This part was defined, probably, at this section: 13.7.2.2 Statistical analysis of secondary variables 
+I found the following methods:
+112536 	 log rank 	 "...  two treatments  groups using a 2 sided log rank test using a type I error of..."
+113008 	  cox  	 "...  Other analyses for primary variable(s)  Cox proportional hazard modeling..."
+104459 	 kaplan meier 	 "... tion of cumulative dose of oxaliplatin (Kaplan Meier method).    The sample..."
+112452 	 kaplan meier 	 "... xaliplatin will be  estimated using the Kaplan Meier method and compared..."
+112583 	 kaplan meier 	 "... k test using a type I error of 0.05.    Kaplan Meier curves for each of the two..."
+115865 	 kaplan meier 	 "... ith median and 95% CI, estimated by the Kaplan Meier  method. Kaplan Meier..."
+115887 	 kaplan meier 	 "...  estimated by the Kaplan Meier  method. Kaplan Meier Curves will be also..."
+116285 	 kaplan meier 	 "... f cumulative PSN will be analyzed using Kaplan Meier  method.    13.8 Safety..."
+176114 	 kaplan meier 	 "... ulative PSN will be  analyzed using the Kaplan Meier method.  Change in NCS..."
+176518 	 kaplan meier 	 "... th median and 95% CI, estimated by the  Kaplan Meier method.    Safety..."
+177053 	 kaplan meier 	 "... ulative PSN  will be analyzed using the Kaplan Meier method.  Change in NCS..."
+177265 	 kaplan meier 	 "... th median and 95% CI, estimated by the  Kaplan Meier method.    Safety..."
+229786 	 kaplan meier 	 "... f cumulative PSN will be analyzed using Kaplan Meier  method.  Property of the..."

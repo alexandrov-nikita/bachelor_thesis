@@ -1,0 +1,5868 @@
+ 
+
+Study Title: 
+
+Study Number: 
+Study Phase: 
+Product Name: 
+IND Number: 
+Indication: 
+Principal 
+Investigator: 
+
+Clinical Trial Protocol: CA046 
+A Randomized Phase III Study of Weekly ABI-007 plus Gemcitabine 
+versus Gemcitabine Alone in Patients with Metastatic Adenocarcinoma 
+of the Pancreas 
+CA046 
+III 
+ABI-007 
+55,974 
+Metastatic Adenocarcinoma of the Pancreas  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Sponsor: 
+Sponsor Contact: 
+
+ 
+Abraxis BioScience 
+
+Medical Monitor: 
+ 
+
+        
+
+        
+
+        
+
+  
+
+     
+
+ 
+      
+
+ 
+Original Protocol: 
+
+Date 
+12 November 2008 
+
+ 
+
+Confidentiality Statement 
+
+The confidential information in the following document is provided to you as an Investigator, potential 
+
+Investigator, or consultant for review by you, your staff, and applicable Institutional Review Committee/Ethics 
+Committee.  By accepting this document, you agree that the information contained herein will not be disclosed 
+
+to others, without written authorization from Abraxis BioScience, except to the extent necessary to obtain 
+
+informed consent from those persons to whom the study drug will be administered. 
+
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+SYNOPSIS 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Sponsor: 
+Abraxis BioScience 
+Name of Finished Product: 
+ABI-007  
+Name of Active Ingredient: 
+Paclitaxel 
+Study Title: 
+A Randomized Phase III Study of Weekly ABI-007 plus Gemcitabine versus Gemcitabine 
+Alone in Patients with Metastatic Adenocarcinoma of the Pancreas  
+Study Number: 
+CA046 
+Study Phase: III 
+Primary Objective(s):  
+The primary objective of this study is to evaluate the efficacy of the combination of ABI-007 
+and gemcitabine versus gemcitabine alone in improving overall survival in patients with 
+metastatic adenocarcinoma of the pancreas. 
+Secondary Objective(s): 
+The secondary objectives of this study are to: 
+
+RECIST criteria. 
+
+•  Evaluate the objective tumor response and progression-free survival according to 
+•  Evaluate the safety and tolerability of this combination in this patient population. 
+•  Evaluate functional tumor response according to EORTC criteria. 
+•  Evaluate change in CA19-9 levels. 
+•  Evaluate secreted protein acidic and rich in cysteine (SPARC) in tumor tissue and 
+
+peripheral blood and determine its possible correlation with efficacy outcomes. 
+
+ 
+Study Design: 
+This is an open-label, randomized, multi-center, Phase III trial to compare ABI-007 in 
+combination with gemcitabine administered weekly to standard treatment (gemcitabine 
+monotherapy) with respect to overall survival, objective tumor response rate and PFS in 
+patients diagnosed with metastatic adenocarcinoma of the pancreas. 
+Patients will be randomized to one of the following treatment regimens: 
+•  ABI-007 125 mg/m2 administered in combination with gemcitabine 1000 mg/m2 weekly 
+
+for 3 weeks followed by one week of rest 
+
+or 
+•  Gemcitabine, 1000 mg/m2 administered weekly for 7 weeks followed by a week of rest 
+(Cycle 1), followed by cycles of weekly administration for 3 weeks followed by a week 
+of rest (Cycle 2 onward). 
+
+ 
+
+Confidential 
+ 
+
+Page 2 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Study Population:  
+630 patients are planned (315 per arm).   
+Test Product, Dose, and Mode of Administration:  
+ABI-007 plus gemcitabine: ABI-007 125 mg/m2, IV infusion over 30-minute, followed by 
+gemcitabine 1000 mg/m2 as a 30-minute IV infusion; weekly for 3 weeks (on Days 1, 8, and 
+15) followed by a week of rest. 
+Gemcitabine alone: gemcitabine 1000 mg/m2 as a 30-minute IV infusion:  
+Cycle 1 - administered weekly for 7 weeks followed by a week of rest.  
+Cycle 2 onwards - weekly administration for 3 weeks (on Days 1, 8, and 15) followed by 
+a week of rest. 
+
+Duration of Treatment:  
+Patients may continue on treatment until they experience progressive disease or unacceptable 
+toxicity, require palliative radiotherapy, withdraw consent, or their physician feels it is no 
+longer in their best interest to continue on treatment. 
+Efficacy Assessments: 
+Patients will have CT scans performed every 8 weeks and evaluated by a blinded, centralized 
+reading center using the RECIST guidelines for complete response (CR), partial response 
+(PR), stable disease (SD) or progressive disease (PD). Functional tumor response will be 
+evaluated by PET scans performed every 8 weeks.  CA19-9 response will be assessed by 
+radioimmunoassay.   
+Safety Assessments: 
+Safety and tolerability will be monitored through continuous reporting of adverse events and 
+serious adverse events, laboratory abnormalities, and incidence of patients experiencing dose 
+modifications, dose interruptions, and/or premature discontinuation of study drug. 
+Statistical Methods:  
+All efficacy analyses will be based on the Intent-to-Treat (ITT) population, which includes 
+all randomized patients regardless of whether the patient received any study drug or had any 
+efficacy assessments collected. The Treated population, which includes all randomized 
+patients who received at least 1 dose of study drug, will be the analysis population for all 
+safety analyses.   
+
+Efficacy Analyses: 
+The primary efficacy endpoint is overall survival which will be analyzed using Kaplan-Meier 
+methods.  Survival will be defined as the time from the date of randomization to the date of 
+death (any cause). Patients who are alive will be censored at the last known time that the 
+patient was alive. 
+The null (Ho) and alternative (Ha) hypotheses for testing overall survival are:  
+Ho: HRABI-007+Gemcitabine/Gemcitabine alone = 1 
+Ha: HRABI-007+Gemcitabine/Gemcitabine alone ≠1 (superiority) 
+Patient survival will be summarized by median survival time (including 95% CI) for each 
+treatment arm along with the hazard ratio (including 95% CI). The Kaplan-Meier curve for 
+survival will be presented for each treatment arm and differences in the curves will be tested 
+using the stratified log-rank test.  The 1-year survival rate will be summarized.  The final 
+
+Confidential 
+ 
+
+Page 3 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+analysis for survival will be conducted when a total of at least 455 deaths occur. 
+The secondary efficacy endpoints (objective tumor response and PFS) will only be evaluated 
+if the primary efficacy endpoint demonstrates superiority for ABI-007+gemcitabine over 
+gemcitabine alone. 
+Safety Analyses 
+Toxicities/adverse events (AEs) will be analyzed in terms of treatment-emergent events 
+defined to be any event that begins or worsens in grade after the start of study drug through 
+30 days after the last dose of study drug. All events will be coded using MedDRA and the 
+MedDRA lower level term will be mapped into the appropriate NCI CTCAE term.  The 
+incidence of treatment-emergent toxicities by worst grade will be summarized by NCI 
+CTCAE term and differences between the treatment arms will be tested using the Cochran-
+Mantel-Haenszel (CMH) test.  AEs also will be summarized by MedDRA system organ class 
+and preferred term. 
+In order to investigate the maximal degree of myelosuppression, the NCI CTC grade for 
+absolute neutrophil count (ANC), white blood cell count (WBC), platelet count, and 
+hemoglobin will be summarized by the most severe grade in each treatment cycle and by the 
+most severe grade during the study; testing of treatment regimen differences will be 
+performed using the CMH test. Hepatic and renal function will be summarized using the 
+most severe NCI CTCAE grade for alkaline phosphatase, ALT (SGPT), AST (SGOT), total 
+bilirubin, and creatinine during the first cycle of therapy and for anytime during the study; 
+testing of treatment regimen differences will be performed using the CMH test. 
+ 
+Date of Original Approved Protocol: 12 November 2008 
+Date of Most Recent Protocol Amendment (if applicable): Not applicable 
+
+Confidential 
+ 
+
+Page 4 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+TABLE OF CONTENTS 
+
+1.1.1 
+1.1.2 
+
+1.1 
+
+1.2 
+
+2.1 
+2.2 
+2.3 
+2.4 
+
+1.2.1 
+1.2.2 
+1.2.3 
+1.2.4 
+
+SYNOPSIS.................................................................................................................................2 
+LIST OF IN-TEXT TABLES ....................................................................................................9 
+LIST OF APPENDICES............................................................................................................9 
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS..........................................10 
+1  OBJECTIVES AND ENDPOINTS .................................................................................13 
+Study Objectives ....................................................................................................13 
+Primary Objective ........................................................................................13 
+Secondary Objective(s)................................................................................13 
+Study Endpoints.....................................................................................................13 
+Primary Efficacy Endpoint(s) ......................................................................13 
+Secondary Efficacy Endpoint(s) ..................................................................13 
+Other Efficacy Endpoints of Interest ...........................................................14 
+Safety Endpoints ..........................................................................................14 
+2  BACKGROUND .............................................................................................................14 
+Pancreatic Cancer...................................................................................................14 
+Treatment of Pancreatic Cancer with Taxanes ......................................................15 
+Response Assessments in Advanced Pancreatic Cancer .......................................16 
+ABI-007: Paclitaxel Albumin-bound Particles......................................................17 
+The Product..................................................................................................17 
+Introduction..................................................................................................17 
+Preclinical Studies with ABI-007 ................................................................17 
+Clinical Studies with ABI-007.....................................................................18 
+Potential Risks of ABI-007..........................................................................18 
+Potential Risks of Gemcitabine....................................................................19 
+2.5 
+Proposed Treatment Regimen................................................................................20 
+STUDY POPULATION ..................................................................................................20 
+Inclusion Criteria ...................................................................................................20 
+3.1 
+3.2 
+Exclusion Criteria ..................................................................................................21 
+3.3 
+Other Study Eligibility Criteria Considerations.....................................................22 
+STUDY DESIGN AND PLAN .......................................................................................22 
+4.1 
+Study Design..........................................................................................................22 
+Evaluation of Molecular Biomarkers...........................................................23 
+Secreted Protein Acidic and Rich in Cysteine (SPARC)...................23 
+4.1.1.1 
+Carbohydrate CA 19-9.......................................................................24 
+4.1.1.2 
+Study Chemotherapy Administration ....................................................................24 
+ABI-007 Premedication ...............................................................................24 
+
+2.4.1 
+2.4.2 
+2.4.3 
+2.4.4 
+2.4.5 
+2.4.6 
+
+3 
+
+4 
+
+4.1.1 
+
+4.2 
+
+4.2.1 
+
+Confidential 
+ 
+
+Page 5 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+4.2.2 
+4.2.3 
+
+5.1.1 
+5.1.2 
+5.1.3 
+
+5.2 
+
+4.2.3.1 
+4.2.3.2 
+4.2.3.3 
+
+5.2.1 
+5.2.2 
+5.2.3 
+5.2.4 
+5.2.5 
+5.2.6 
+
+Gemcitabine Premedication.........................................................................24 
+Chemotherapy Dose.....................................................................................24 
+Regimen .............................................................................................25 
+Rules for Dose Omissions and Modified Schedules..........................25 
+Administration of Study Drug to Patients with Abnormal Hepatic 
+Function .............................................................................................26 
+Dose Modification Tables..................................................................26 
+4.2.3.4 
+4.2.3.5 
+Hypersensitivity Reactions ................................................................28 
+Concomitant Medications ......................................................................................29 
+4.3 
+Discontinuation......................................................................................................29 
+4.4 
+STUDY DRUG MANAGEMENT AND ADMINISTRATION.....................................29 
+ABI-007 .................................................................................................................29 
+5.1 
+Packaging, Labeling, and Storage of Study Drug........................................29 
+Study Medication Administration................................................................30 
+Receipt and Return of Study Drug...............................................................32 
+Gemcitabine ...........................................................................................................32 
+Description...................................................................................................32 
+Formulation..................................................................................................32 
+Instructions for Storing Gemcitabine...........................................................32 
+Preparation and Administration ...................................................................33 
+Instructions for Use/Handling of Gemcitabine............................................33 
+Toxicities associated with Gemcitabine Administration .............................33 
+6  MEASUREMENTS AND EVALUATIONS..................................................................34 
+General Considerations..........................................................................................34 
+6.1 
+Central Laboratory and Central Imaging ...............................................................35 
+6.2 
+Time and Events Schedule.....................................................................................36 
+6.3 
+Baseline Evaluations..............................................................................................40 
+6.4 
+Randomization and Treatment Phase Evaluations.................................................41 
+6.5 
+Day 1 Assessments ................................................................................................42 
+6.6 
+Per Cycle Evaluations............................................................................................42 
+6.7 
+End-of-Study (EOS) Evaluations...........................................................................43 
+6.8 
+6.9 
+Follow-up for Adverse Events...............................................................................43 
+6.10  Follow-up for Disease Progression........................................................................44 
+6.11  Follow-up for Overall Survival..............................................................................44 
+7  ADVERSE EVENTS MANAGEMENT GUIDELINES ................................................44 
+Background............................................................................................................44 
+Definition of an Adverse Event (AE) ....................................................................45 
+Definition of a Serious Adverse Event (SAE) .......................................................46 
+Timeline for Consideration of AE/SAE Reporting Requirements ........................46 
+
+5 
+
+7.1 
+7.2 
+7.3 
+7.4 
+
+Confidential 
+ 
+
+Page 6 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+8 
+
+8.3 
+
+8.2.1 
+8.2.2 
+8.2.3 
+8.2.4 
+
+8.3.1 
+8.3.2 
+
+Lack of Efficacy is not considered an AE or SAE.................................................46 
+7.5 
+Laboratory Results as Serious Adverse Events .....................................................47 
+7.6 
+Patient Reporting of AEs and SAEs ......................................................................47 
+7.7 
+Investigator Reporting of AEs and SAEs ..............................................................47 
+7.8 
+Additional Investigator Responsibilities on Follow-up of SAEs...........................48 
+7.9 
+IRB/EC Notification of SAEs................................................................................48 
+7.10 
+7.11  Sponsor Notification of Post-Study SAEs .............................................................49 
+STATISTICAL METHODS............................................................................................49 
+8.1 
+Study Design and Sample Size ..............................................................................49 
+Populations in Analyses.........................................................................................49 
+8.2 
+Analysis Population .....................................................................................49 
+Patient Characteristics..................................................................................49 
+Patient Disposition.......................................................................................49 
+Prior and Concomitant Medications ............................................................50 
+Efficacy Analyses ..................................................................................................50 
+Overview......................................................................................................50 
+Definition of Measurable and Non-Measurable Lesions (ACR Practice 
+Guidelines)...................................................................................................50 
+Measurable Lesion.............................................................................50 
+Non-Measurable Lesions ...................................................................52 
+Definition of Target, Non-Target and New Lesions (RECIST criteria) ......52 
+Target Lesions....................................................................................52 
+Non-Target Lesions ...........................................................................53 
+New Lesions.......................................................................................53 
+Antitumor Response (RECIST criteria).......................................................54 
+Target Lesion Response (RECIST criteria) .......................................54 
+Non-Target Lesion Response (RECIST criteria)...............................55 
+Response Determination (RECIST criteria) ......................................56 
+Functional Tumor Response (EORTC Criteria) ..........................................56 
+Primary Efficacy Endpoint ..........................................................................57 
+Secondary Efficacy Endpoints.....................................................................57 
+Objective Tumor Response (RECIST criteria)..................................58 
+Progression-Free Survival..................................................................58 
+Other Secondary Efficacy Endpoints...........................................................58 
+Disease Control..................................................................................58 
+Time to Treatment Failure (TTF) ......................................................58 
+Time to Response and Response Duration ........................................58 
+Changes in CA19-9............................................................................59 
+Functional Tumor Response (EORTC criteria) .................................59 
+Correlation between Objective Tumor Response and Functional 
+Tumor Response ................................................................................59 
+
+8.3.8.1 
+8.3.8.2 
+8.3.8.3 
+8.3.8.4 
+8.3.8.5 
+8.3.8.6 
+
+8.3.3.1 
+8.3.3.2 
+8.3.3.3 
+
+8.3.5 
+8.3.6 
+8.3.7 
+
+8.3.8 
+
+8.3.2.1 
+8.3.2.2 
+
+8.3.3 
+
+8.3.4 
+
+8.3.4.1 
+8.3.4.2 
+8.3.4.3 
+
+8.3.7.1 
+8.3.7.2 
+
+Confidential 
+ 
+
+Page 7 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+8.4 
+
+8.3.8.7 
+
+8.4.1 
+8.4.2 
+8.4.3 
+
+Correlation of Objective Tumor Response, Functional Tumor 
+Response, Change in CA19-9, with Overall Survival .......................59 
+8.3.8.8 
+SPARC and Other Molecular Biomarkers.........................................59 
+Safety and Tolerability Analyses...........................................................................60 
+Overview......................................................................................................60 
+Adverse Events and Toxicities.....................................................................60 
+Laboratory Assessments ..............................................................................60 
+Hematology parameters .....................................................................60 
+8.4.3.1 
+8.4.3.2 
+Clinical chemistry ..............................................................................61 
+8.5 
+Steering Committee ...............................................................................................61 
+ETHICAL, LEGAL, AND ADMINISTRATIVE ASPECTS .........................................61 
+9.1 
+Ethics......................................................................................................................61 
+
+9 
+
+9.2 
+
+9.3 
+
+9.1.1 
+
+9.2.1 
+9.2.2 
+
+9.1.2 
+9.1.3 
+
+Institutional Review Board (IRB) or Independent Ethics Committee 
+(IEC) Approval ............................................................................................61 
+Ethical Conduct of the Study .......................................................................62 
+Informed Consent.........................................................................................62 
+Disclosure of Data..................................................................................................63 
+Confidentiality .............................................................................................63 
+Publication ...................................................................................................63 
+Investigator Documentation...................................................................................64 
+Form FDA 1572...........................................................................................64 
+Curriculum Vitae .........................................................................................64 
+Financial Disclosure.....................................................................................64 
+Laboratory Certification and Normal Ranges..............................................64 
+Records Retention........................................................................................64 
+Protocol Deviations......................................................................................65 
+10  TERMINATION OF STUDY .........................................................................................65 
+11 
+INVESTIGATOR'S PROTOCOL AGREEMENT .........................................................65 
+12  REFERENCES ................................................................................................................66 
+ 
+
+9.3.1 
+9.3.2 
+9.3.3 
+9.3.4 
+9.3.5 
+9.3.6 
+
+Confidential 
+ 
+
+Page 8 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+ 
+LIST OF IN-TEXT TABLES 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Table 1. 
+Table 2. 
+
+Drug Dosing Schedule .................................................................................25 
+Dosing Modifications: Dose Modifications for Day 1 of Each Cycle 
+
+(Treatment Day Counts and Toxicity) .........................................................................26 
+
+Table 3. 
+
+Dose Modifications: Dose Modifications for Day 1 of Cycle (Non-
+
+Hematologic Toxicity).................................................................................................27 
+Dose Modifications for Hematologic Toxicity............................................27 
+Dose Modifications for Non-Hematological Toxicity within a Cycle.........28 
+Time and Events Schedule...........................................................................37 
+Time and Events Schedule (continued) .......................................................38 
+Time and Events Schedule (continued) .......................................................39 
+Time Point Response ...................................................................................56 
+
+Table 4. 
+Table 5. 
+Table 6. 
+Table 6. 
+Table 6. 
+Table 7. 
+
+ 
+LIST OF APPENDICES 
+
+Appendix 1 
+Appendix 2 
+Appendix 3 
+
+Guidelines for Reporting Adverse Drug Reactions ...........................68 
+Sponsor Signatures.............................................................................69 
+Investigator’s Signature .....................................................................70 
+
+ 
+
+ 
+
+Confidential 
+ 
+
+Page 9 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+LIST OF ABBREVIATIONS AND DEFINITIONS OF TERMS 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Abraxis/ ABI 
+ACR 
+ADR 
+AE 
+ALT (SGPT) 
+ANC 
+ASCO 
+AST (SGOT) 
+β-hCG 
+BSA 
+BUN 
+CA19-9 
+CBC 
+CFR 
+CI 
+CMH 
+CrEL 
+CRF 
+CR 
+CT 
+CTC 
+CTCAE 
+DHHS 
+DLT 
+DVT 
+EC 
+ECG 
+EGF 
+
+Confidential 
+ 
+
+Abraxis BioScience 
+American College of Radiology 
+Adverse Drug Reaction 
+Adverse Event 
+Alanine Aminotransferase (SGPT) 
+Absolute Neutrophil Count 
+American Society of Clinical Oncology 
+Aspartate Aminotransferase (SGOT) 
+Beta subunit of human chorionic gonadotropin (hCG) 
+Body Surface Area 
+Blood Urea Nitrogen 
+Carbohydrate Antigen 19-9 
+Complete Blood Count 
+Code of Federal Regulations 
+Confidence Interval 
+Cochran-Mantel-Haenszel 
+Cremophor-EL 
+Case Report Form  
+Complete Response 
+Computed Tomography 
+Circulating Tumor Cell 
+Common Terminology Criteria for Adverse Events 
+Department of Health and Human Services 
+Dose Limiting Toxicity 
+Deep Vein Thrombosis 
+Ethics Committee 
+Electrocardiogram 
+Epidermal Growth Factor 
+
+Page 10 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+EORTC 
+EOS 
+FDA 
+GCP 
+G-CSF 
+GTX 
+HA 
+Hgb 
+IB  
+ICF 
+ICH 
+IHC 
+IND 
+IRB 
+IV 
+KPS 
+MBC 
+MR 
+MRI 
+MTD 
+NCI 
+ND 
+NIH 
+PD 
+PE 
+PET 
+PFS 
+PK 
+PR 
+
+European Organization for Research and Treatment of Cancer 
+End of Study 
+Food and Drug Administration 
+Good Clinical Practice(s) 
+Granulocyte Colony-Stimulating Factor 
+Gemcitabine ® plus Taxotere® plus Xeloda® 
+Human Albumin 
+Hemoglobin 
+Investigator Brochure 
+Informed Consent Form 
+International Conference on Harmonization 
+Immunohistochemistry 
+Investigational New Drug 
+Institutional Review Board 
+Intravenous(ly) 
+Karnofsky Performance Status 
+Metastatic Breast Cancer 
+Minor Response 
+Magnetic Resonance Imaging 
+Maximum Tolerated Dose 
+National Cancer Institute 
+Not Done 
+National Institutes of Health 
+Progressive Disease 
+Paraffin Embedded 
+Positron-Emission Tomography 
+Progression-free Survival 
+Pharmacokinetics 
+Partial Response 
+
+Confidential 
+ 
+
+Page 11 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+PT 
+PTT 
+RECIST 
+RI 
+SAE 
+SD 
+S.D. 
+SGOT 
+SGPT 
+SPARC 
+SUV 
+TTF 
+UE 
+ULN 
+US 
+WBC 
+WHO 
+
+Prothrombin Time 
+Partial Thromboplastin Time 
+Response Evaluation Criteria in Solid Tumors 
+Reconstruction Interval 
+Serious Adverse Event 
+Stable Disease 
+Standard Deviation 
+Serum Glutamic Oxaloacetic Transaminase 
+Serum Glutamic Pyruvic Transaminase 
+Secreted Protein Acidic and Rich in Cysteine (a glycoprotein) 
+Standard Uptake Value 
+Time to Treatment Failure 
+Unable to Evaluate 
+Upper Limit of Normal  
+United States 
+White Blood Cell 
+World Health Organization 
+
+Confidential 
+ 
+
+Page 12 
+
+ABI-007 
+ 
+Clinical Trial Protocol: CA046 
+ 
+ 
+ 
+ 
+1  OBJECTIVES AND ENDPOINTS 
+1.1  Study Objectives 
+
+1.1.1 
+
+Primary Objective  
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+The primary objective of this study is to evaluate the efficacy of the combination of ABI-007 
+and gemcitabine versus gemcitabine alone in improving overall survival in patients with 
+metastatic adenocarcinoma of the pancreas. 
+
+1.1.2 
+
+Secondary Objective(s)  
+
+The secondary objectives of this study are to: 
+
+RECIST criteria. 
+
+•  Evaluate the objective tumor response and progression-free survival according to 
+•  Evaluate the safety and tolerability of this combination in this patient population. 
+•  Evaluate functional tumor response according to EORTC criteria. 
+•  Evaluate change in CA19-9 levels. 
+•  Evaluate secreted protein acidic and rich in cysteine (SPARC) in tumor tissue and 
+
+peripheral blood and determine its possible correlation with efficacy outcomes. 
+
+ 
+1.2  Study Endpoints 
+
+1.2.1 
+
+Primary Efficacy Endpoint(s)  
+
+The primary efficacy endpoint of this study will be the overall survival of patients treated 
+with ABI-007 in combination with gemcitabine compared to patients treated with 
+gemcitabine alone. 
+
+1.2.2 
+
+Secondary Efficacy Endpoint(s) 
+
+The secondary efficacy endpoints are: 
+
+•  Objective tumor response based on CT scans (or MRI scans, if patient is allergic to 
+
+contrast agent or has some other contraindication to a CT scan).  These will be 
+evaluated according to the RECIST (Response Evaluation Criteria In Solid Tumors) 
+criteria 
+
+•  Progression-free survival 
+
+ 
+Interpretation of radiological response will be completed by review of CT (or MRI) scans at 
+an independent, centralized, blinded facility.   
+ 
+
+Confidential 
+ 
+
+Page 13 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+1.2.3  Other Efficacy Endpoints of Interest 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Other efficacy endpoints of interest include: 
+•  Changes in the tumor marker CA19-9 
+•  Time to response and response duration 
+•  Disease control (i.e., objective tumor response or stable disease for ≥16 weeks) 
+•  Time to treatment failure (TTF) 
+•  Determine whether a correlation exists between the expression of molecular markers 
+•  Functional tumor response based on PET scans evaluated according to European 
+
+and efficacy outcomes 
+
+Organization for Research and Treatment of Cancer (EORTC) criteria. Interpretation 
+of radiological responses for PET scans will also be completed at an independent, 
+centralized, blinded facility. 
+
+•  Determine whether the correlation exists between objective tumor response based on 
+
+CT scans (evaluated according to RECIST criteria) and functional tumor response 
+based on PET scans (evaluated according to the EORTC criteria).   
+
+•  Determine whether correlations exist between objective tumor response, functional 
+•  Determine whether correlations exist between objective tumor response, functional 
+
+tumor response, CA19-9 levels and overall survival.  
+
+tumor response, progression-free survival, overall survival and SPARC.  
+
+ 
+1.2.4 
+
+Safety Endpoints 
+
+The safety/tolerability endpoints will be: 
+
+•  Incidence of treatment-emergent toxicities/adverse events (AEs) in terms categorized 
+and graded according to National Cancer Institute Common Terminology Criteria for 
+Adverse Events (NCI CTCAE)  
+
+•  Incidence of dose modifications, interruptions, and discontinuations. 
+
+ 
+2  BACKGROUND  
+2.1  Pancreatic Cancer  
+
+In 2008, the estimated number of new cases of pancreatic cancer in the US was 37,680 with 
+an estimated 34,290 deaths from the disease.1  At diagnosis, most patients are inoperable and 
+present with advanced disease, as a result of the lack of specific symptoms while the disease 
+develops.  Patients with advanced disease are usually treated with chemotherapy, with the 
+intent of prolonging survival and palliate symptoms (pain, weight loss and decrease in 
+performance status).  Median survival time ranges from 4 to 6 months in patients with 
+metastatic disease.  Overall, the 5-year survival rate is about 4% for all stages combined and 
+decreases to 1.6% for patients with metastatic pancreatic cancer.  Since 1997, gemcitabine 
+
+Confidential 
+ 
+
+Page 14 
+
+ 
+ 
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+has become the standard chemotherapy for treatment of advanced pancreatic cancer, after 
+demonstration in a comparative study between gemcitabine and 5-FU, that gemcitabine 
+produced significant improvement in disease-related symptoms and prolonged survival (1-
+year survival: 18% versus 2%, respectively) (Burris et al, 1997).2  In that study, median 
+survival was 5.65 months for gemcitabine-treated patients and 4.41 months for 5-fluorouracil 
+(5-FU) treated patients, while overall tumor response, as assessed by RECIST, was 5.4% and 
+0%, respectively.   
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Since then, eight Phase III trials of newer cytotoxic or biologic agents combined with 
+gemcitabine have not shown any survival improvement compared with gemcitabine alone.  
+Only recently (2007) Moore and collaborators reported that the addition to gemcitabine of 
+erlotinib, an oral epidermal growth factor (EGF) inhibitor, improved median overall survival 
+(6.24 months for the doublet vs. 5.91 months for gemcitabine alone), 1-year survival (23% 
+vs. 17%, respectively) and progression-free survival (HR 0.77 in favor of the doublet), all 
+without a significant difference in objective response rates between the study arms.3  The 
+improvements in patient outcomes have thus been rather modest and new solutions are 
+therefore needed in advanced pancreatic cancer. 
+
+2.2  Treatment of Pancreatic Cancer with Taxanes 
+
+The taxanes docetaxel and paclitaxel have been tested in pancreatic cancer with variable and 
+non reproducible results.  Docetaxel has demonstrated variable activity in pancreatic cancer 
+with response rates ranging from 0%-28% and reported median survivals of >6 months.4,5,6,7  
+Docetaxel has been combined with gemcitabine in multiple studies.  Gemcitabine was given 
+weekly at the standard dose of 1,000 mg/m2, and docetaxel doses ranged from 75-100 mg/m2 
+every 3 weeks.  Response rates ranged from 7.4%-33%, and the best median survival was 7 
+months.8,9  Paclitaxel also has been evaluated as a single agent in metastatic pancreatic 
+cancer in a Phase II trial; the response rate was 8% and median survival was 5 months.10 
+
+Recently, a combination that includes gemcitabine plus docetaxel plus capecitabine (GTX) 
+was tested by Fine and colleagues.11  The response rate of the combination has been reported 
+to be 47% partial response (PR) plus 31% minor response (MR) with activity observed even 
+in patients with previous progression on gemcitabine (10% complete response [CR], 20% 
+partial response [PR]).  A recent study12 showed increased survival time compared to 
+standard therapy in locally advanced or metastatic pancreatic adenocarcinoma patients 
+treated with gemcitabine plus EndoTAG-1, a cationic lipid-complexed paclitaxel particle. 
+Therefore, combinations of gemcitabine plus a taxane remain of interest. 
+
+ABI-007 has proven better than paclitaxel in patients with metastatic breast cancer in terms 
+of response rate and time to progression, with less myelosuppression.  In addition, the 
+findings that osteonectin (SPARC) is markedly over-expressed in pancreatic cancer 
+specimens, particularly in surrounding fibroblasts and in the extracellular matrix, gives some 
+promise that ABI-007 could localize in the tumor, given the involvement of SPARC in the 
+delivery of ABI-007 to tumors.13  
+
+Confidential 
+ 
+
+Page 15 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+These facts prompted Von Hoff and collaborators (Von Hoff et al. 2008), to conduct a Phase 
+Ib study of ABI-007 plus gemcitabine (Abraxis Study CA040), in which escalating doses of 
+weekly ABI-007 were combined with a fixed schedule of gemcitabine (1000 mg/m2 weekly 
+for 3 week followed by a week of rest) in patients with no prior treatment for metastatic 
+pancreatic cancer.14  The primary objective of this on-going study is finding the maximum 
+tolerated dose (MTD) of the combination, while secondary objectives include the reporting 
+of any objective antitumor responses and disease stabilization lasting at least 4 cycles, as well 
+as to further characterize the safety and tolerability of the dosing regimen.  Updated results 
+(as of October 2008) for the 43 patients enrolled in this study are summarized [41 (95%) of 
+patients were treated; 30 (73%) of patients had at least one response assessment]. Patients 
+received ABI-007 100 mg/m2 (20 patients), 125 mg/m2 (19 patients), or 150 mg/m2 (2 
+patients) in combination with gemcitabine 1000 mg/m2. Independent review of the patient’s 
+measurable disease on CAT and PET scans is ongoing with many of the patients continuing 
+to have radiographic regression of disease. Overall, in 25 patients with Baseline and at least 
+one post-Baseline CA-19-9 level recorded, 23 patients (92%) experienced a CA19-9 
+reduction of at least 20% (14 patients at 100 mg/m2 and 9 patients at 125 mg/m2) and 16 
+patients (64%) experienced a reduction of at least 70% (10 patients at 100 mg/m2 and 6 
+patients at 125 mg/m2). A decrease of CA19-9 of at least 20% has been associated with 
+improvement in patient survival.15,16,17 Grade 3 and 4 treatment-related AEs (by CTCv3 
+criteria) were largely confined to blood/bone marrow categories with neutropenia being the 
+highest at 32% and 15%, respectively. There were one Grade 3 and one Grade 4 febrile 
+neutropenia events. Other non-hematological Grade 3 and 4 AEs included one instance of 
+lung infection (Grade 4), one instance of sensory neuropathy (Grade 3), one instance of skin 
+urticaria (Grade 3), one instance of systemic infection (Grade 3), one instance of 
+hypoalbuminemia (Grade 3), and 4 instances of diarrhea (Grade 3). The remainder of 
+toxicities were confined to Grade 1 or 2. There were 3 treatment-emergent AEs resulting in 
+death (lung infection, systemic infection, and gastrointestinal obstruction), but only systemic 
+infection was considered treatment-related.   
+
+At the present time, the trial is nearing completion, an MTD of 125 mg/m2 ABI-007 + 1000 
+mg/m2 gemcitabine has been identified, and an expanded cohort is being treated at this dose 
+level.14 
+
+The unusual activity of the ABI-007 and gemcitabine combination may be related to the 
+over-expression of SPARC in pancreatic cancer.  SPARC mediates ABI-007 delivery at 
+tumor sites.  Since SPARC does not mediate gemcitabine delivery to tumors, it is expected 
+that the combination of ABI-007 and gemcitabine will be superior to gemcitabine alone in 
+survival in patients with advanced pancreatic cancer.  This proposed Phase III study will also 
+explore the correlation of the expression of SPARC and other biomarkers with clinical 
+outcomes. 
+
+2.3  Response Assessments in Advanced Pancreatic Cancer 
+
+Unlike other solid tumors, where imaging provides an accurate and reliable means to assess 
+tumor size, pancreatic cancer poses difficulties in lesion measurements and response 
+assessments due to the desmoplastic component of its lesions, which make unequivocal 
+
+Confidential 
+ 
+
+Page 16 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+measurements challenging.  If the lesion is mostly desmoplastic, successful therapy can result 
+in minimal change in measurement.18  For this reason, there is increasing interest in 
+identifying alternative endpoints with which to evaluate effective therapy.  A biological 
+marker widely used in clinical practice in the assessment and follow-up of patients with 
+pancreatic cancer is the carbohydrate antigen 19-9 (CA19-9).  Serial measurements of CA19-
+9 are frequently performed for prognostic purposes, for gauging disease relapse and activity, 
+and for monitoring patients undergoing therapy as an approximate surrogate for response.  
+The use of CA19-9 biomarker as a primary endpoint in clinical trial design has not been 
+universally established.  However, a strong correlation between marker decline during 
+chemotherapy and patient outcomes has been observed,15,16,17 and a recommendation has 
+been made to entertain the use of this biomarker as a surrogate endpoint in clinical trials of 
+new treatments in pancreatic cancer.15  The remarkable CA19-9 decreases seen in the CA040 
+study (Von Hoff et al, 2008) justify the evaluation of changes in this biomarker in this 
+proposed Phase III study as a surrogate indicator for efficacy.  It will be explored as part of 
+its secondary endpoints and correlated with efficacy outcomes.    
+
+2.4  ABI-007: Paclitaxel Albumin-bound Particles 
+
+2.4.1 
+
+The Product 
+
+ABI-007 is a Cremophor EL-free, albumin-bound paclitaxel particle with a mean size of 
+approximately 130 nm.  Each 50 mL vial contains 100 mg of paclitaxel, and approximately 
+900 mg of human albumin, as a white to yellow sterile lyophilized powder for reconstitution 
+with 20 mL of 0.9% Sodium Chloride Injection. 
+
+2.4.2 
+
+Introduction 
+
+ABI-007 is a unique protein formulation of a non-crystalline, amorphous form of paclitaxel 
+in an insoluble particle state.  ABI-007 has been developed to reduce the toxicities associated 
+with Taxol (paclitaxel) Injection (in which paclitaxel - from the native crystalline form - is in 
+solution with Cremophor EL/ethanol as the solvent) while maintaining or improving its 
+chemotherapeutic effect.  ABI-007 has been approved in the US, Canada, India, the EU, 
+Korea and China (and is under review in a number of other countries) for the treatment of 
+women with metastatic breast cancer (MBC).  ABI-007 alone and in combination is being 
+evaluated in a number of cancers including: metastatic melanoma, pancreatic cancer, cervical 
+cancer and other solid tumors.  Conditions which are responsive to paclitaxel such as non-
+hematological solid tumor malignancies are good clinical candidates for treatment with 
+ABI-007. 
+
+2.4.3 
+
+Preclinical Studies with ABI-007  
+
+A range of preclinical studies in the appropriate species have been completed with ABI-007 
+including single and repeat-dose toxicity studies, carcinogenicity evaluations, reproductive 
+toxicity assessments, and mutagenicity and toxicity studies.  A thorough discussion of these 
+is included in the Investigator’s Brochure (IB).   
+
+Confidential 
+ 
+
+Page 17 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Preclinical studies comparing ABI-007 to Taxol demonstrated lower toxicities, with a MTD 
+approximately 50% higher for ABI-007 compared to Taxol.  At equitoxic doses of paclitaxel, 
+ABI-007 was found to be markedly more efficacious in these animal models than Taxol.19 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+2.4.4 
+
+Clinical Studies with ABI-007 
+
+In an on-going study of ABI-007 in combination with gemcitabine administered weekly 
+(Abraxis Protocol CA040; updated results as of October 2008), a total of 41 patients with 
+advanced metastatic pancreatic cancer were treated with doses ranging from 100 to 
+150 mg/m2.  Though results are preliminary and follow-up is on-going, 27 patients (66%) 
+experienced at least 1 treatment-related AE and 11 (27%) patients experienced at least one 
+treatment-emergent SAE.  With the exception of the “Gastrointestinal: Dehydration”, “not 
+classified” and “pain: other” categories (2 (5%) events each), no treatment-emergent SAE 
+categories had more than a single event. 
+
+Dose delays were mainly due to blood/bone marrow treatment-related AEs (mostly 
+neutrophils). There were no ABI-007 dose interruptions due to treatment-related AEs, and 2 
+instances of dose interruptions for gemcitabine (dermatology/skin: injection site reaction).  
+Also, 2 patients had a total of 3 treatment-related AEs involving blood/bone marrow 
+(neutrophils and platelets) resulting in dose reductions and 2 treatment-related AE resulted in 
+dose discontinuation (gastrointestinal: diarrhea and infection: systemic).  There were 3 
+treatment-emergent AEs resulting in death (lung infection, systemic infection, and 
+gastrointestinal obstruction), but only systemic infection was considered treatment-related.  
+Patients treated with ABI-007 in combination with gemcitabine had levels of 
+myelosuppression consistent with those expected following treatment with taxanes.   
+
+2.4.5 
+
+Potential Risks of ABI-007 
+
+ABI-007 is not formulated in Cremophor and thus the risk of hypersensitivity reactions is 
+much less than that of Taxol.  The major risks of ABI-007 have been assessed in clinical 
+trials in patients with a variety of malignances and reflect the known toxicities of paclitaxel.  
+See the IB for a complete description of all toxicities reported in conjunction with ABI-007 
+administration. 
+
+The most common toxicities reported in previous clinical trials included: 
+
+•  Myelosuppression, predominantly neutropenia. Grade 4 neutropenia was reported and 
+typically resolved in < 7 days and did not require colony stimulating factor support. 
+•  Peripheral neuropathy, predominantly sensory.  Grade 3 peripheral neuropathy was 
+reported and typically improved to Grade 1 or 2 within 21 days of interrupting the 
+ABI-007 dose.  Following resolution of the peripheral neuropathy to acceptable 
+levels, clinicians were able to restart ABI-007 dosing at a lower dose levels. 
+
+•  Nausea and vomiting.  Nausea and vomiting were seen, typically at Grade 1 or 2 
+
+levels.  This AE responded well to standard anti-emetic regimens. 
+
+Confidential 
+ 
+
+Page 18 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+•  Myalgias and arthralgias.  Myalgias and arthralgias were reported and typically were 
+
+ 
+ 
+ 
+
+Grade 1 or 2; these were responsive to standard acetaminophen-containing 
+medication. 
+
+•  Mucositis.  Mucositis was reported typically Grade 1 or 2. It was not dose limiting. 
+•  Alopecia.  Alopecia was reported by most patients and was similar to that seen with 
+
+Taxol. 
+
+ 
+2.4.6 
+
+Potential Risks of Gemcitabine 
+
+The most common toxicities reported for gemcitabine are: 
+
+•  Hematologic — In studies in pancreatic cancer, myelosuppression is the dose-limiting 
+
+toxicity with Gemzar®, but <1% of patients discontinued therapy for either anemia, 
+leukopenia, or thrombocytopenia. Red blood cell transfusions were required by 19% 
+of patients. The incidence of sepsis was less than 1%. Petechiae or mild blood loss 
+(hemorrhage), from any cause, was reported in 16% of patients; less than 1% of 
+patients required platelet transfusions. Patients should be monitored for 
+myelosuppression during Gemzar therapy and dosage modified or suspended 
+according to the degree of hematologic toxicity  
+
+•  Gastrointestinal — Nausea and vomiting were commonly reported (69%) but were 
+usually of mild to moderate severity. Severe nausea and vomiting (WHO Grade 3/4) 
+occurred in <15% of patients. Diarrhea was reported by 19% of patients, and 
+stomatitis by 11% of patients.  
+
+•  Hepatic — In clinical trials, Gemzar was associated with transient elevations of one 
+
+or both serum transaminases in approximately 70% of patients, but there was no 
+evidence of increasing hepatic toxicity with either longer duration of exposure to 
+Gemzar or with greater total cumulative dose. Serious hepatotoxicity, including liver 
+failure and death, has been reported very rarely in patients receiving Gemzar.  
+
+•  Renal — In clinical trials, mild proteinuria and hematuria were commonly reported. 
+Hemolytic Uremic Syndrome (HUS) has been reported rarely (0.25%) with the use of 
+Gemzar. Renal failure may not be reversible even with discontinuation of therapy and 
+dialysis may be required. 
+
+•  Fever — The overall incidence of fever was 41%. This is in contrast to the incidence 
+
+of infection (16%) and indicates that Gemzar may cause fever in the absence of 
+clinical infection. Fever was frequently associated with other flu-like symptoms and 
+was usually mild and clinically manageable.  
+
+•  Rash — Rash was reported in 30% of patients. The rash was typically a macular or 
+
+finely granular maculopapular pruritic eruption of mild to moderate severity 
+involving the trunk and extremities. Pruritus was reported for 13% of patients.  
+
+•  Pulmonary — In clinical trials, dyspnea, unrelated to underlying disease, has been 
+
+reported in association with Gemzar therapy. Dyspnea was occasionally accompanied 
+by bronchospasm. Pulmonary toxicity has been reported with the use of Gemzar. The 
+etiology of these effects is unknown. If such effects develop, Gemzar should be 
+
+Confidential 
+ 
+
+Page 19 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+discontinued. Early use of supportive care measures may help ameliorate these 
+conditions.  
+
+were reported. Less than 1% of patients discontinued due to edema.  
+
+•  Edema — Edema (13%), peripheral edema (20%), and generalized edema (<1%) 
+•  Flu-like Symptoms — “Flu syndrome” was reported for 19% of patients. Individual 
+symptoms of fever, asthenia, anorexia, headache, cough, chills, and myalgia were 
+commonly reported. Fever and asthenia were also reported frequently as isolated 
+symptoms. Insomnia, rhinitis, sweating, and malaise were reported infrequently. Less 
+than 1% of patients discontinued due to flu-like symptoms.  
+
+•  Infection — Infections were reported for 16% of patients. Sepsis was rarely reported.  
+•  Alopecia — Hair loss, usually minimal, was reported by 15% of patients.  
+•  Neurotoxicity — There was a 10% incidence of mild paresthesias and a <1% rate of 
+
+severe paresthesias.  
+
+ 
+Please see gemcitabine prescribing information for a complete list of toxicities (current 
+version of Prescribing Information is provided in the Study Manual). 
+
+2.5  Proposed Treatment Regimen  
+
+Patients will be randomized to one of the following treatment regimens: 
+
+•  ABI-007 125 mg/m2 administered in combination with gemcitabine 1000 mg/m2 
+weekly for 3 weeks followed by one week of rest (8-week cycle x 1, then 4-week 
+cycles)  
+or 
+
+•  Gemcitabine 1000 mg/m2 administered weekly for 7 weeks followed by a week of 
+
+rest (Cycle 1: 8-week cycle), followed by weekly administration for 3 weeks 
+followed by one week of rest (Cycle 2 onward: 4-week cycles). 
+
+ 
+3  STUDY POPULATION 
+3.1 
+
+Inclusion Criteria 
+
+A patient will be eligible for inclusion in this study only if all of the following criteria are 
+met: 
+
+1.  Patient has histologically or cytologically confirmed and measurable/evaluable metastatic 
+
+adenocarcinoma of the pancreas.  Patients with islet cell neoplasms are excluded. 
+
+2.  Male or non-pregnant and non-lactating female, and ≥ 18 years of age. 
+
+•  If a female patient is of child-bearing potential, as evidenced by regular menstrual 
+periods, she must have a negative serum pregnancy test (β-hCG) documented 72 
+hours prior to the first administration of study drug. 
+
+Confidential 
+ 
+
+Page 20 
+
+counts at baseline: 
+
+•  Absolute neutrophil count (ANC) ≥ 1.5 × 109/L; 
+•  Platelet count ≥ 100,000/mm3 (100 × 109/L);  
+•  Hemoglobin (Hgb) ≥ 9 g/dL. 
+
+ 
+5.  Patient has the following blood chemistry levels at baseline: 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+•  If sexually active, the patient must agree to use contraception considered adequate 
+
+ 
+ 
+ 
+
+and appropriate by the Investigator. 
+
+3.  Patient must have received no previous radiotherapy, surgery, chemotherapy or 
+
+investigational therapy for the treatment of metastatic disease.  Prior treatment with 5-FU 
+or gemcitabine administered as a radiation sensitizer during and up to 4 weeks after 
+radiation therapy is allowed (if there is lingering toxicity then the sponsor should be 
+consulted).  If a patient received gemcitabine in the adjuvant setting, tumor recurrence 
+must have occurred at least 6 months after completing the last dose of gemcitabine.  
+4.  Patient has adequate biological parameters as demonstrated by the following blood 
+
+liver metastases are clearly present, then ≤ 5 × ULN is allowed 
+
+•  AST (SGOT), ALT (SGPT) ≤ 2.5 × upper limit of normal range (ULN), unless 
+•  Total bilirubin ≤ ULN 
+•  Serum creatinine within normal limits or calculated clearance 
+
+≥ 60 mL/min/1.73 m2 for patients with serum creatinine levels above the 
+institutional normal value. 
+
+ 
+6.  Patient has acceptable coagulation studies as demonstrated by prothrombin time (PT) and 
+
+partial thromboplastin time (PTT) within normal limits (± 15%). 
+
+7.  Patient has no clinically significant abnormalities in urinalysis results. 
+8.  Patient has a Karnofsky performance status (KPS) ≥ 70. 
+9.  Patient has one or more metastatic tumors measurable by CT scan or MRI, if patient is 
+
+allergic to CT contrast media. 
+
+10. Patients should be asymptomatic for pain, jaundice and ascites prior to Day 1. 
+11. Patient has been informed about the nature of the study, and has agreed to participate in 
+
+the study, and signed the Informed Consent Form (ICF) prior to participation in any 
+study-related activities. 
+
+ 
+
+3.2  Exclusion Criteria 
+
+A patient will not be eligible for inclusion in this study if any of the following criteria apply: 
+
+1.  Patient has known brain metastases, unless previously treated and well-controlled for at 
+least 3 months (defined as clinically stable, no edema, no steroids and stable in 2 scans at 
+least 4 weeks apart). 
+
+Confidential 
+ 
+
+Page 21 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+2.  Patient uses therapeutic coumadin [for a history of pulmonary emboli and deep vein 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+3.  Patient has active, uncontrolled bacterial, viral, or fungal infection(s) requiring systemic 
+
+thrombosis (DVT)]. 
+
+therapy. 
+
+4.  Patient has known infection with HIV, hepatitis B, or hepatitis C. 
+5.  Patient has undergone major surgery, other than diagnostic surgery (i.e.--surgery done to 
+obtain a biopsy for diagnosis without removal of an organ), within 4 weeks prior to Day 1 
+of treatment in this study. 
+
+6.  Patient received radiotherapy, surgery, chemotherapy, or an investigational therapy 
+
+within 3 weeks prior to study entry weeks (6 weeks for nitrosureas or mitomycin C).   
+
+7.  Patient has a history of allergy or hypersensitivity to any of the study drugs. 
+8.  Patient has serious medical risk factors involving any of the major organ systems such 
+
+that the Investigator considers it unsafe for the patient to receive an experimental research 
+drug. 
+
+9.  Patient is unwilling or unable to comply with study procedures. 
+10. Patient is enrolled in any other clinical protocol or investigational trial. 
+ 
+3.3  Other Study Eligibility Criteria Considerations 
+
+To assess any potential impact on patient eligibility with regard to safety, the Investigator 
+must refer to the relevant document(s) for detailed information regarding warnings, 
+precautions, contraindications, adverse events, and other significant data pertaining to the 
+study drug being used in this study.  Such documents may include, but are not limited to the 
+IB, or equivalent document provided by Abraxis, and the Abraxane and gemcitabine 
+prescribing information (current versions of Prescribing Information are provided in the 
+Study Manual).  
+4  STUDY DESIGN AND PLAN 
+4.1  Study Design 
+
+This is an open-label, randomized, multi-center, Phase III trial to compare ABI-007 in 
+combination with gemcitabine administered weekly to standard treatment (gemcitabine 
+monotherapy) with respect to improve overall survival and objective tumor response rate in 
+patients diagnosed with metastatic adenocarcinoma of the pancreas.  Six hundred thirty 
+patients (315 per arm) will be randomized to each treatment regimen in a 1:1 ratio. 
+
+The study will consist of the following visits (See Time and Events Schedule: Table 6):   
+•  Baseline Assessments: To be performed within 28 days of randomization.   
+•  Randomization: Patients will be randomized within 28 days of starting their Baseline 
+assessments. To ensure that on-study tumor response assessments are conducted at 
+
+Confidential 
+ 
+
+Page 22 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+comparable time points from randomization, all patients must begin treatment within 7 
+days after randomization. 
+•  Response Assessments:  Patients will be evaluated for complete response (CR), partial 
+response (PR), stable disease (SD) or progressive disease (PD) based on blinded, central 
+review of CT scans performed every 8 weeks.  Response will be evaluated using RECIST 
+criteria.  In addition, PET scans will be completed every 8 weeks.  These scans will also 
+be reviewed by a blinded central laboratory using the EORTC criteria.   
+Responders and stable disease patients may continue on study unless they develop an 
+unacceptable toxicity.  Progressive disease or unacceptable toxicity will be the criteria for 
+treatment failure and discontinuation from the study.  Patients who have not had 
+progression of their cancer should continue to be followed with regularly scheduled 
+tumor assessments with radiographic imaging until progressive disease is documented. 
+
+•  End-of-Study (EOS) Evaluation:  At the time patients are removed from study, 
+laboratory and clinical evaluations to assess AEs and other study measures will be 
+performed.  Radiologic studies for antitumor response will be repeated only if required 
+per the defined study imaging schedule. 
+
+•  Adverse Event Collection and Follow-up:  Any AE that started after initial study drug 
+administration and up to 30 days after the last dose of study drug or EOS (whichever is 
+later) will be collected. Adverse events will be followed as outlined in Section 7.8. 
+
+•  Follow-up for disease progression: Patients who are discontinued from treatment in the 
+
+absence of disease progression (e.g., patients removed for unacceptable toxicity) will 
+undergo repeat imaging and tumor response assessments every 8 weeks (at any time 
+during that week), regardless of regimen, until disease progression is documented. It is 
+recommended that subsequent therapy not be instituted until disease progression is 
+documented. 
+
+•  Follow-up for overall survival:  Post-study, overall survival status will be monitored on 
+a monthly basis for 6 months and every 3 months thereafter, for a total of 2 years.  This 
+evaluation may be by record review and/or telephone contact with the patients’ treating 
+physician.   
+
+ 
+4.1.1 
+
+Evaluation of Molecular Biomarkers 
+
+4.1.1.1 
+
+Secreted Protein Acidic and Rich in Cysteine (SPARC) 
+
+Biomarkers, such as secreted protein, acidic, cysteine-rich (SPARC; also known as 
+osteonectin, or BM40), is an albumin-binding protein that is secreted by approximately 50% 
+of all breast cancers and is associated with a poor prognosis in the clinic. Albumin-binding 
+proteins such as SPARC may result in the concentration of albumin-bound drugs, such as 
+ABI-007, in the area of tumor and may be partly responsible for the greater activity of ABI-
+007 compared to other non-albumin-bound formulations used to treat solid tumors.19 Because 
+of the high response rates previously observed in breast20 and pancreatic14,21 cancer patients 
+treated with ABI-007, tumor samples will be collected from patients in order to obtain data 
+on a potential correlation between SPARC protein expression and response to ABI-007 
+therapy. 
+
+Confidential 
+ 
+
+Page 23 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+4.1.1.2 
+
+Carbohydrate CA 19-9 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+A biological marker widely used in clinical practice is the assessment and follow-up of 
+patients with pancreatic cancer is the CA19-9.  The use of this biomarker as a primary 
+endpoint in clinical trial design has not been universally established.  However, a strong 
+correlation between marker decline during chemotherapy and patient outcomes has been 
+observed, particularly in patients with metastatic pancreatic cancer.  For example, in an on-
+going study of ABI-007 in combination with gemcitabine for advanced adenocarcinoma of 
+the pancreas (Abraxis BioScience Protocol CA040), remarkable decreases of CA 19-9 were 
+observed.  In this trial, serial measurements of CA19-9 will be performed for prognostic 
+purposes, for gauging disease relapse and activity, and for monitoring patients undergoing 
+therapy as an approximate surrogate for response.  These measurements may serve as a 
+surrogate endpoint in this clinical trial and establish the validity of CA 19-9 as a valid 
+endpoint for assessment of antitumor activity in future clinical trials of new treatments in 
+pancreatic cancer.  Because CA19-9 is being used only in an exploratory analysis of 
+efficacy, in this study increases in CA19-9 levels should not be used as evidence for 
+progressive disease or for removing patients from study.  
+
+4.2  Study Chemotherapy Administration 
+
+4.2.1 
+
+ABI-007 Premedication 
+
+Patients do not require premedication prior to ABI-007 administration, as hypersensitivity 
+reactions are not expected, though initial antiemetic prophylaxis is recommended due to 
+administration of gemcitabine following ABI-007 treatment.  
+
+If a hypersensitivity reaction occurs, the infusion should be stopped and not restarted.  If felt 
+to be in the patient’s best interests, at the investigator’s discretion, treatment may continue on 
+subsequent cycles using the premedication regimen the institution typically uses for Taxol. 
+
+4.2.2  Gemcitabine Premedication 
+
+Initial antiemetic prophylaxis for both arms is recommended with a 5HT3 agent (PO or IV) 
+in combination with dexamethasone 8 or 10 mg (PO or IV) prior to administration of 
+gemcitabine in either arm. Dexamethasone may be continued at the dose of 4 mg bid or tid 
+for 3-4 days after chemotherapy at the investigator’s discretion. If a patient experiences 
+nausea and/ or vomiting following the first dose, then ASCO and/or institutional guidelines 
+should be followed for breakthrough antiemetic management. 
+
+4.2.3 
+
+Chemotherapy Dose 
+
+The cycle length is 8 weeks during Cycle 1, and 4 weeks from Cycle 2 onward.  Treatment 
+with protocol therapy will continue until one or more of the criteria listed in Section 4.4 are 
+met. 
+
+Confidential 
+ 
+
+Page 24 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+3 
+
+4 
+5 
+Cycle 1 
+
+6 
+
+7 
+
+8 
+
+11 
+
+10 
+
+9 
+12 
+Cycle 2 onward 
+- 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Table 1. 
+
+Drug Dosing Schedule 
+2 
+
+Week 
+
+1 
+
+Gemcitabine-only 
+
+ 
+ 
+
+X  X  X  X  X  X  X 
+
+ 
+
+-  X  X  X 
+
+ABI-007/Gemcitabine 
+
+ 
+
+X  X  X 
+
+Cycle 1 
+-  X  X  X 
+
+Cycle 2 onward 
+- 
+
+-  X  X  X 
+
+ 
+
+4.2.3.1 
+
+Regimen 
+
+Patients will be treated on an outpatient basis with ABI-007 plus gemcitabine or gemcitabine 
+alone.  
+Patients receiving ABI-007+gemcitabine will receive 125 mg/m2 ABI-007 as a 30-minute 
+infusion followed by 1000 mg/m2 gemcitabine as a 30-minute infusion for 3 weeks (on Days 
+1, 8, and 15) followed by a week of rest. 
+Patients receiving gemcitabine alone will receive 1000 mg/m2 gemcitabine as a 30-minute 
+infusion administered weekly for 7 weeks followed by a week of rest (8-week cycle; Cycle 1 
+only), followed by cycles of weekly administration for 3 weeks (on Days 1, 8, and 15)  
+followed by one week of rest (4-week cycle). 
+Supportive care per the institution’s normal standard of care can be provided at the 
+Investigator’s discretion (see Section 4.3). 
+
+4.2.3.2 
+
+Rules for Dose Omissions and Modified Schedules1 
+
+Day 1 dose missed: 
+
+If the dose held or missed was to be given on Day 1 of the next cycle, that next cycle will not 
+be considered to start until the day the first dose is actually administered to the patient (i.e., 
+1-2-3-Rest, X-1-2-3-Rest, etc.) 
+
+Day 8 dose is missed: 
+
+Cycle continues per protocol, with one dose not given (i.e., 1-2-3-Rest, 1-X-3-Rest, 1-2-3-
+Rest, etc.). Day 15 is administered as per cycle calendar if counts and chemistries permit. 
+
+                                                 
+
+1 These rules do not apply to the first course of treatment. Refer to Table 3 for dose modifications during the 
+first course of treatment. 
+
+Confidential 
+ 
+
+Page 25 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Day 15 dose missed: 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+That week becomes the week of rest.  Next dose (if counts and chemistries permit) becomes 
+Day 1 of a new cycle, and the patient is considered to have had a x2q3 (21-day) cycle (i.e., 
+1-2-3-Rest, 1-2-X, 1-2-3-Rest, etc). 
+
+4.2.3.3 
+
+Administration of Study Drug to Patients with Abnormal Hepatic Function  
+
+Study drug should only be administered if hepatic function is within the parameters 
+established in the eligibility criteria.  Hepatic toxicity from taxanes may occur but it is 
+uncommon.  Therefore, hepatic dysfunction that occurs while the patient is on study should 
+prompt an evaluation to determine the cause, including the possibility of progressive 
+metastatic disease and hepatotoxicity from concurrent medications. 
+
+4.2.3.4 
+
+Dose Modification Tables 
+
+Doses will be reduced for hematologic and other toxicities.  Dose adjustments are to be made 
+according to the system showing the greatest degree of toxicity.  Toxicities will be graded 
+using the NCI CTCAE Version 3.0.  
+
+Patients experiencing study drug-related toxicities that require a delay in scheduled ABI-007 
+and gemcitabine dosing for ≥ 14 days will be discontinued from further participation in this 
+study.  When a dose reduction is required for Day 1 of any cycle, no dose re-escalation will 
+be permitted for the duration of study treatment. 
+
+DOSE MODIFICATIONS AT DAY 1 
+
+In the event dose modifications are required at the beginning of a cycle due to AEs or 
+hematologic toxicities, doses of ABI-007 and gemcitabine may be adjusted as detailed in  
+
+Table 2 and Table 3 below: 
+
+Table 2. 
+
+Dosing Modifications: Dose Modifications for Day 1 of Each Cycle 
+(Treatment Day Counts and Toxicity) 
+
+Treatment day counts and toxicity 
+
+Absolute granulocytes 
+
+≥ 1.5 x 109/L 
+< 1.5 x 109/L 
+
+Non-Hematologic toxicity 
+
+ 
+
+ 
+
+ 
+
+Confidential 
+ 
+
+ 
+
+And  
+
+Or 
+
+Grade 
+0,1,2 
+
+3 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 26 
+
+Platelets 
+
+Timing  
+
+≥ 100 x 109/L  Treat on time 
+<100 x 109/L  Delay by 1 week intervals 
+
+until recovery 
+ 
+
+Treat on time 
+Delay by 1 week until 
+recovered to Grade 2 or less 
+Off protocol treatment  
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+ 
+Table 3. 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Dose Modifications: Dose Modifications for Day 1 of Cycle (Non-
+Hematologic Toxicity) 
+
+Non Hematologic Toxicity and/or Dose Hold with Previous Cycle 
+
+Toxicity/dose held 
+
+Gemcitabine/Gemcitabine+ABI-007 dose 
+
+this cycle 
+
+Grade 0, 1 or 2 toxicity 
+Grade 3 toxicity 
+Grade 4 toxicity 
+Dose held in 2 previous consecutive cycles  Decrease gemcitabine to 800 mg/m2 
+
+Same as Day 1 previous cycle 
+Decrease gemcitabine to 800 mg/m2 
+Off protocol treatment 
+
+ 
+
+DOSE ADJUSTMENTS WITHIN A TREATMENT CYCLE 
+
+In the event that patients must have treatment delayed with a treatment cycle due to 
+toxicities, those doses held during a cycle will not be made up.   
+
+Dose modifications due to hematologic toxicity (as represented by the blood counts and 
+toxicities, below) within a treatment cycle should be adjusted as outlined in Table 4. 
+
+Table 4. 
+
+Dose Modifications for Hematologic Toxicity 
+
+ANC 
+
+ 
+
+Platelets 
+
+ABI-007 
+
+Gemcitabine 
+
+≥1500 
+1000-1499 
+500-999 
+<500 
+Febrile 
+Neutropenia 
+(Grade 3 or 4) 
+Recurrent Febrile 
+Neutropenia 
+(Grade 3 or 4) 
+
+100% 
+and  ≥100,000 
+75,000-99,000  100% 
+or 
+and  50,000-74,000  100% 
+100% 
+or  <50,000 
+ 
+100% 
+
+ 
+
+ 
+
+ 
+
+Decrease 1 dose 
+level (to 100 mg/m2) 
+and continue 
+throughout the rest 
+of treatment 
+
+100% 
+100% 
+Decrease to 800 mg/m2 
+hold 
+Decrease to 800 mg/m2 
+and continue throughout 
+the rest of treatment 
+Decrease 2 dose levels 
+(to 600 mg/m2) and 
+continue throughout the 
+rest of treatment 
+
+ 
+Dose modifications may also be made for non-hematological toxicity within a cycle as 
+specified in Table 5. 
+
+Confidential 
+ 
+
+Page 27 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Table 5. 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Dose Modifications for Non-Hematological Toxicity within a Cycle 
+
+CTC Grade 
+0-2 (and Grade 3 nausea/vomiting and alopecia) 
+3 (except nausea/vomiting and alopecia) 
+4  
+a 
+
+Percent of Day 1  
+ABI-007+Gemcitabine Dose 
+100% 
+50% or Holda 
+Holda 
+
+This decision as to which drug should be modified will depend upon the type of non-hematologic toxicity 
+seen and which course is medically most sound in the judgment of the physician/investigator.  Treatment 
+may be reinstated on Day 1 of the next cycle. 
+
+ 
+4.2.3.4.1  PERIPHERAL NEUROPATHY   
+
+Treatment should be withheld in patients who experience ≥ Grade 3 peripheral neuropathy.  
+Treatment may be resumed at the next lower dose level (20% reduction of ABI-007) in 
+subsequent cycles after the peripheral neuropathy improves to ≤ Grade 1. The time to 
+resolution to Grade ≤ 1 should be the adverse event duration used for adverse event 
+reporting. 
+
+4.2.3.4.2  CUTANEOUS TOXICITY 
+
+Patients who develop Grade 2 or 3 cutaneous toxicity should have their dose reduced to the 
+next lower dose level (20% reduction of both drugs). If the patient continues to experience 
+these reactions, despite dose reduction, treatment should be discontinued. Patients who 
+develop Grade 4 cutaneous toxicity should have treatment discontinued. 
+
+4.2.3.4.3  GASTROINTESTINAL TOXICITY 
+
+If Grade 3 mucositis or diarrhea occurs, study drug should be withheld until resolution to 
+≤ Grade 1, then reinstituted at the next lower dose level (20% reduction of both drugs). 
+Patients who develop Grade 4 mucositis or diarrhea should have treatment discontinued. 
+
+4.2.3.4.4  COLONY STIMULATING FACTOR ADMINISTRATION 
+
+Colony stimulating factors may be given according to institutional guidelines for the 
+treatment of neutropenic fever or infections associated with neutropenia. 
+
+4.2.3.5 
+
+Hypersensitivity Reactions 
+
+Hypersensitivity reactions are not expected with either ABI-007 or gemcitabine. If they do 
+occur, minor symptoms such as flushing, skin reactions, dyspnea, hypotension, or 
+tachycardia may require temporary interruption of the infusion. However, severe reactions, 
+such as hypotension requiring treatment, dyspnea requiring bronchodilators, angioedema, or 
+generalized urticaria require immediate discontinuation of study drug administration and 
+aggressive symptomatic therapy. 
+
+Confidential 
+ 
+
+Page 28 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Patients who develop a severe hypersensitivity reaction to ABI-007 should not be 
+re-challenged. 
+4.3  Concomitant Medications 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Over the course of this trial, additional medications may be required to manage aspects of the 
+disease state of the patients, including side effects from trial treatments or disease 
+progression.  Supportive care, including but not limited to anti-emetic medications, may be 
+administered at the discretion of the Investigator.  Irradiation is not allowed during the study.  
+Administration of other chemotherapy, immunotherapy, or anti-tumor hormonal therapy 
+during the study is not allowed.  All concomitant treatments, including blood and blood 
+products, must be reported on the case report form.  Erythropoietin may be administered at 
+the discretion of the Investigator, consistent with institutional guidelines.  G-CSF should be 
+administered according to institutional guidelines. 
+
+4.4  Discontinuation 
+
+A patient may voluntarily discontinue study participation at any time. The Investigator may 
+also, at his/her discretion, discontinue the patient's study participation at any time. In the 
+event of discontinuation, the patient should return to the study site as soon as feasible to have 
+the EOS assessments performed and the appropriate follow-up evaluations should occur. 
+Patients must be withdrawn from this study if any of the following occurs: 
+•  Progressive disease. 
+•  Development of toxicity that is unacceptable in the opinion of the Investigator. 
+•  Patient declines to continue therapy (i.e., withdraws consent). 
+•  If following the 2nd dose reduction there is a recurrence of Grade 4 neutropenia, or any 
+
+other hematologic toxicity that is Grade 3 or 4, or any Grade 3 or 4 non-
+myelosuppressive adverse event, unless, at the discretion of the Investigator, there is 
+evidence of continuing benefit to the patient that outweighs the risk of recurrent toxicity.  
+
+•  Initiation of other anticancer therapy. 
+•  In the Investigator’s judgment, it is in the patient’s best interest to discontinue the study. 
+ 
+Patients who are withdrawn from the study secondary to a laboratory abnormality or adverse 
+event should be followed as outlined in Section 6.9. 
+5  STUDY DRUG MANAGEMENT AND ADMINISTRATION  
+5.1  ABI-007 
+
+5.1.1 
+
+Packaging, Labeling, and Storage of Study Drug 
+
+ABI-007 will be supplied by the sponsor, Abraxis BioScience (Abraxis), in single-use vials. 
+Each single-use 50 mL vial will contain paclitaxel (100 mg) and approximately 900 mg 
+human albumin (HA) as a stabilizer.  Each vial will be labeled according to country-specific 
+regulatory requirements for labeling of investigational products.  Unreconstituted ABI-007 
+
+Confidential 
+ 
+
+Page 29 
+
+ 
+ 
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+should be stored at controlled room temperature (25°C or 77°F; excursions permitted to 15-
+30ºC [See USP controlled room temperature]).  Reconstituted ABI-007 should be used 
+immediately.  If not used immediately, the vial of reconstituted ABI-007 must be placed in 
+its carton and be placed in a refrigerator at 2° to 8°C (36° to 46°F) for a maximum of 8 hours.  
+Both forms should be stored in an area free of environmental extremes and must be 
+accessible only to study personnel.  
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Temperature records for ABI-007 must be made available to the Abraxis or other sponsor-
+nominated monitoring teams for verification of proper study drug storage. 
+
+Only completely unused study drug vials should be retained by the site until a representative 
+from Abraxis or other Abraxis-designated personnel have completed an inventory.  Partially 
+used and completely used vials should be destroyed according to the site’s guidelines, and 
+their disposition should be recorded on the Investigational Drug Accountability Record 
+Form. 
+
+The Investigator, or designee, shall record the dispensing of study drug to patients in a study 
+drug accountability record.  The study drug record will be made available to Abraxis, or 
+other authorized Abraxis-designated monitoring personnel for the purpose of accounting for 
+the study drug supply.  Inspections of the study drug supply for inventory purposes and 
+assurance of proper storage will be conducted as necessary.  Any significant discrepancy will 
+be recorded and reported to Abraxis or their designee and a plan for resolution will be 
+documented. 
+
+Study drugs will not be loaned or dispensed by the Investigator to another Investigator or 
+site. 
+
+5.1.2 
+
+Study Medication Administration 
+
+NOTE: It is not a requirement to use filter needles in the preparation of, or in-line 
+filters during the administration of ABI-007. In any event, filters of pore-size less than 
+15 micrometers must not be used. 
+
+ABI-007 will be reconstituted by appropriate study personnel and administered to the patient 
+at the study site.  The Investigator will calculate the body surface area (BSA) of the patient in 
+order to determine the total amount of paclitaxel to be administered. 
+
+Reconstitution and use of ABI-007: 
+
+1.  Calculate the patient’s BSA according to standard institutional methods.  BSA will be 
+calculated at Baseline and recalculated only if body weight changes by more than 10%. 
+Dosing BSA may be capped if the treating physician believes it is in the best interest of 
+an obese patient. 
+
+2.  Calculate the total dose (in mg) to be administered by:  
+ 
+ 
+
+  Total Dose (mg) = BSA x (study dose mg/m2 ) 
+
+Confidential 
+ 
+
+Page 30 
+
+ 
+ 
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+ 
+3.  Calculate the total number of vials required by: 
+ 
+  Total Number of Vials = Total Dose (mg) 
+                         
+100 (mg/vial) 
+  Round up the number of vials to be reconstituted to the next higher whole number when a 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+        
+
+ 
+
+ 
+
+ 
+
+fractional number of vials is obtained by the above formula (e.g., if the total number of 
+vials = 4.05 or 4.5, then 5 vials would be reconstituted).  
+
+4.  Using sterile technique, prepare the vials for reconstitution. 
+5.  Swab the rubber stoppers with alcohol. 
+6.  Reconstitute each ABI-007 vial by using a 50 or 60 cc sterile syringe to inject 20 mL of 
+
+0.9% Sodium Chloride Injection or equivalent into each vial over a period of not less than 
+1 minute (Note: Change the syringes after reconstituting every 3 vials).  
+
+◦  Slowly inject the 20 mL of 0.9% Sodium Chloride Injection, over a minimum of 1 
+minute, using the sterile syringe directing the solution flow onto the inside wall of 
+the vial. 
+
+◦  DO NOT INJECT the 0.9% Sodium Chloride Injection solution directly onto the 
+
+lyophilized cake as this will result in foaming. 
+
+◦  Once the injection is complete, allow the vial to sit for a minimum of 5 minutes 
+
+to ensure proper wetting of the lyophilized cake/powder.   
+
+◦  Gently swirl and/or invert the vial slowly for at least 2 minutes until complete 
+
+dissolution of any cake/powder occurs.  Avoid generation of foam. 
+If foaming or clumping occurs, stand solution for at least 15 minutes until foam 
+subsides. 
+
+◦ 
+
+◦  Each mL of reconstituted product will contain 5 mg of paclitaxel. 
+
+7.  Calculate the exact total dosing volume of 5 mg/mL suspension required for the patient: 
+ 
+8.  The reconstituted sample should be milky and homogeneous without visible particulates.  
+
+  Dosing volume (mL) = Total dose (mg) / 5 (mg/mL) 
+
+If unsuspended powder is visible, the vial should be gently inverted again to ensure 
+complete resuspension, prior to use. 
+
+9.  Use immediately following reconstitution.  If not used immediately, replace the 
+
+reconstituted vial in the carton and store reconstituted ABI-007 in a refrigerator for not 
+more than 8 hours. 
+
+10. Using a new, sterile 50 or 60 cc syringe, withdraw the reconstituted ABI-007 solution.  
+Do not remove the rubber stopper from the ABI-007 vials as this can compromise the 
+sterility of the drug preparation. 
+
+11. Inject the calculated dosing volume of reconstituted ABI-007 suspension into an empty 
+
+sterile, standard PVC IV bag, using an injection port. Inject perpendicularly into the 
+center of the injection port to avoid dislodging plastic material into the IV bag.  Repeat 
+steps 9 and 10 until the patient’s entire required dose is injected into the IV bag. 
+
+12. Remove the injection port. 
+
+Confidential 
+ 
+
+Page 31 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+13. Once the exact volume of reconstituted ABI-007 has been withdrawn from the vials, 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+discard any excess solution left over in accordance with standard operating procedures 
+for cytotoxic drugs. 
+
+14. Administer the calculated dosing volume of reconstituted ABI-007 suspension by IV 
+
+infusion over 30 minutes.  The use of in-line filters is not necessary; if used, in-line filters 
+with pore sizes of < 15 microns (15 µm) should not be used. 
+
+ 
+
+5.1.3 
+
+Receipt and Return of Study Drug  
+
+Upon receipt of the study drug supplies, the Investigator or designee will conduct an 
+inventory and sign both copies of the study drug receipt and forward one copy to the address 
+indicated on the form.  One copy of the receipt and the packing slip must be retained in the 
+Investigator's regulatory file records. 
+
+A representative from Abraxis or his/her designee will inspect the study drug inventory, and 
+will arrange for the return of any remaining unused study drug.  No study drug may be 
+returned without the representative from Abraxis or other Abraxis-designated personnel first 
+inspecting the study drug inventory. 
+
+Study drug may be destroyed according to the institutional policy of study sites.  An Abraxis 
+designee must conduct drug accountability at the site prior to destruction of unused vials.  A 
+copy of the site’s drug destruction policy should be provided to the CRA for placement in the 
+Abraxis file. 
+
+5.2  Gemcitabine  
+
+5.2.1 
+
+Description 
+
+For complete details on drug administration, storage, clinical pharmacology, and the human 
+pharmacokinetics of gemcitabine, please see the gemcitabine package insert (current version 
+of Prescribing Information is provided in the Study Manual).  
+
+5.2.2 
+
+Formulation 
+
+Gemcitabine (difluorodeoxycytidine) is a pyrimidine antimetabolite, which is an analogue of 
+deoxycytidine.  It was initially synthesized as a potential antiviral drug but selected for 
+anticancer development because of its activity in in-vivo and in vitro tumors.  Gemcitabine 
+is approved for the treatment of patients with pancreatic cancer and will be obtained 
+commercially.  Gemcitabine should be stored, reconstituted and administered according to 
+the manufacturer’s recommendation.  
+
+5.2.3 
+
+Instructions for Storing Gemcitabine 
+
+Store at controlled room temperature (20° to 25°C) (68° to 77°F).  The USP has defined 
+controlled room temperature as “A temperature maintained thermostatically that 
+encompasses the usual and customary working environment of 20° to 25°C (68° to 77°F); 
+
+Confidential 
+ 
+
+Page 32 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+that results in a mean kinetic temperature calculated to be not more than 25°C; and that 
+allows for excursions between 15° and 30°C (59° and 86°F) that are experienced in 
+pharmacies, hospitals, and warehouses.”  
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+5.2.4 
+
+Preparation and Administration 
+
+Preparation and administration of gemcitabine should be per the gemcitabine package insert 
+(current version of Prescribing Information is provided in the Study Manual). 
+
+5.2.5 
+
+Instructions for Use/Handling of Gemcitabine  
+
+The recommended diluent for reconstitution of gemcitabine is 0.9% Sodium Chloride 
+Injection without preservatives.  Due to solubility considerations, the maximum 
+concentration for gemcitabine upon reconstitution is 40 mg/mL.  Reconstitution at 
+concentrations greater than 40 mg/mL may result in incomplete dissolution, and should be 
+avoided.  
+
+To reconstitute, add 5 mL of 0.9% Sodium Chloride Injection to the 200-mg vial or 25 mL of 
+0.9% Sodium Chloride Injection to the 1-g vial. Shake to dissolve.  These dilutions each 
+yield a gemcitabine concentration of 38 mg/mL which includes accounting for the 
+displacement volume of the lyophilized powder (0.26 mL for the 200-mg vial or 1.3 mL for 
+the 1-g vial).  The total volume upon reconstitution will be 5.26 mL or 26.3 mL, respectively. 
+Complete withdrawal of the vial contents will provide 200 mg or 1 g of gemcitabine, 
+respectively.  The appropriate amount of drug may be administered as prepared or further 
+diluted with 0.9% Sodium Chloride Injection to concentrations as low as 0.1 mg/mL.  
+
+Reconstituted gemcitabine is a clear, colorless to light straw-colored solution.  After 
+reconstitution with 0.9% Sodium Chloride Injection, the pH of the resulting solution lies in 
+the range of 2.7 to 3.3.  The solution should be inspected visually for particulate matter and 
+discoloration, prior to administration, whenever solution or container permits.  If particulate 
+matter or discoloration is found, do not administer.  
+
+When prepared as directed, gemcitabine solutions are stable for 24 hours at controlled room 
+temperature 20° to 25°C (68° to 77°F) [See USP].  Discard unused portion.  Solutions of 
+reconstituted gemcitabine should not be refrigerated, as crystallization may occur.  
+
+The compatibility of gemcitabine with other drugs has not been studied.  No incompatibilities 
+have been observed with infusion bottles or polyvinyl chloride bags and administration sets.  
+
+Unopened vials of gemcitabine are stable until the expiration date indicated on the package 
+when stored at controlled room temperature 20° to 25°C (68° to 77°F) [See USP].  
+
+5.2.6 
+
+Toxicities associated with Gemcitabine Administration 
+
+Please see the gemcitabine package insert for more details on the known precautions, 
+warnings, and adverse reactions of gemcitabine.  
+
+Confidential 
+ 
+
+Page 33 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Gemcitabine can suppress bone marrow function as manifested by leukopenia, 
+thrombocytopenia and anemia, and myelosuppression is usually the dose-limiting toxicity. 
+Patients should be monitored for myelosuppression during therapy.  Hemolytic-Uremic 
+Syndrome (HUS) has been reported rarely with the use of gemcitabine.  Gemcitabine is a 
+Pregnancy Category D drug.  Gemcitabine can cause fetal harm when administered to a 
+pregnant woman.  Gemcitabine is embryotoxic causing fetal malformations (cleft palate, 
+incomplete ossification) at doses of 1.5 mg/kg/day in mice (about 1/200 the recommended 
+human dose on a mg/m2 basis).  Gemcitabine is fetotoxic causing fetal malformations (fused 
+pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day in rabbits (about 1/600 
+the recommended human dose on a mg/m2 basis).  Embryotoxicity was characterized by 
+decreased fetal viability, reduced live litter sizes, and developmental delays.  There are no 
+studies of gemcitabine in pregnant women.  If gemcitabine is used during pregnancy, or if the 
+patient becomes pregnant while taking gemcitabine, the patient should be apprised of the 
+potential hazard to the fetus.  
+6  MEASUREMENTS AND EVALUATIONS 
+6.1  General Considerations 
+
+Informed consent will be obtained prior to any study procedures being performed, including 
+the washout period for any patient who is engaged in the washout for the sole purpose of 
+possible inclusion into this trial.  Each participant will be given a copy of the signed ICF.  
+The ICF must be approved by an Institutional Review Board (IRB)/Ethics Committee (EC) 
+and by an Abraxis or other sponsor-nominated representative. 
+
+A complete medical history (including specific information regarding any prior 
+anthracycline-related cardiac abnormality) and physical examination will be conducted on 
+each patient for a review of systems and determination of any concurrent symptoms or 
+conditions prior to the first dose of study drug. 
+
+Routine study evaluations will be conducted to monitor for existing adverse events and the 
+development of new adverse events.  Study site personnel will ask patients the following 
+questions: 
+•  Have you had any (other) medical problems since your last study visit? 
+•  Have you taken any new prescribed or over-the-counter medicines or herbal/vitamin 
+preparations, other than those given to you for this study, since your last study visit? 
+•  Have any new procedures been performed since your last study visit? 
+ 
+In addition, patients are to be encouraged to call the site to report any unexpected symptoms 
+or problems they encounter between study visits. 
+
+Medical symptoms or conditions present at or before study drug administration that manifest 
+with the same intensity or frequency subsequent to study drug administration do not need to 
+be recorded as adverse events in the CRF.  However, any pre-existing condition that presents 
+with increased intensity or increased frequency following study drug administration, or any 
+
+Confidential 
+ 
+
+Page 34 
+
+ 
+ 
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+exacerbation of an event that is present at the time of study drug administration, should be 
+considered an adverse event.  All adverse events occurring from initial dosing through study 
+end, inclusive, should be followed as outlined in Section 6.9.  All adverse events must be 
+completely and promptly recorded in the patient's source document (e.g., patient hospital 
+records, patient clinic charts, and laboratory reports) and on the CRF (see Section 9.3.5).  
+Note that individual signs/symptoms should not be recorded in the CRF as adverse events.  If 
+a unifying diagnosis is known, it is the diagnosis that should be recorded as the adverse 
+event. 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Clinically significant laboratory abnormalities present at the Baseline visit will be recorded 
+as pretreatment signs and symptoms.  After study treatment administration, laboratory 
+abnormalities will not be recorded as adverse events unless considered clinically significant 
+by the Investigator, and clinically significant laboratory abnormalities will not be recorded as 
+serious adverse events unless the event meets the definition of serious. 
+
+Each Investigator is responsible for assessing the clinical significance of all abnormal 
+laboratory values using the NCI CTCAE Scale version 3.0 (see 
+http://ctep.cancer.gov/reporting/ctc.html), where applicable.  It is also the responsibility of 
+the Investigator to assess the clinical significance of all abnormal laboratory values as 
+defined by the list of normal values provided by the local laboratory.  All abnormal 
+laboratory tests that are judged to be at least possibly drug related, or clinically relevant 
+abnormal laboratory tests of uncertain causality, must be repeated.  Any abnormal values that 
+persist should be followed at the discretion of the Investigator. In some cases, significant 
+changes within the range of normal values will require similar judgment. 
+
+6.2  Central Laboratory and Central Imaging 
+
+Central laboratory, central imaging, and central SPARC and other molecular biomarkers 
+testing will be utilized for this study.  
+
+A central imaging reviewer blinded to treatment will provide an independent review of 
+response and progression for all patients enrolled into the study.  Prospective collection of all 
+on-study scans for all patients enrolled in the study will be included as part of the review.  
+Films or electronic copies should be collected by the investigative sites and sent to the central 
+image reader within 2 weeks of completion of the exam.  Complete details regarding image 
+handling and submission can be found in the Radiology Technical Manual and Study 
+Manual. 
+
+Patients who are discontinued from treatment in the absence of disease progression (e.g., 
+patients removed for unacceptable toxicity or patient/investigator discretion) should undergo 
+repeat imaging and tumor response assessments until disease progression is documented. 
+Imaging studies should be done every 8 weeks (at any time during that week), regardless of 
+regimen. 
+
+Sites will be required to use the designated central lab for the study.  Specific instructions 
+regarding specimen collection and handling may be found in the Central Lab Manual.  
+
+Confidential 
+ 
+
+Page 35 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Decisions with respect to study drug dosing can be made based on a local lab draw if the 
+central lab results have not been received. 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+6.3  Time and Events Schedule  
+
+An overview of the schedule of study assessments is provided in Table 6. 
+
+ 
+
+Confidential 
+ 
+
+Page 36 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Table 6. 
+
+Time and Events Schedule 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Assessment 
+Informed Consent 
+Medical History 
+Physical Examination 
+Height and Weight 
+BSA Calculations 
+Urinalysis 
+Prior/Concomitant Medication 
+Evaluation 
+Concomitant Procedures 
+Peripheral Neuropathy Evaluation 
+Vital Signs 
+KPS 
+Serum β-HCG D 
+ECG (12 lead) 
+Clinical Chemistry Panel 
+CBC, Differential, Platelet Count 
+PT, PTT 
+Consent to use diagnostic tumor biopsy 
+for SPARC analysis (optional) 
+CT scan E  
+PET scan for SUVF 
+Serum CA19-9 
+Treatment: Gemcitabine-only armG 
+Treatment: ABI-007/Gemcitabine armG 
+Adverse Events 
+Phone Follow-upB 
+
+Baseline 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+
+Day 1A  Day 8 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ 
+ 
+X 
+XC 
+X 
+X 
+X 
+
+ 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+
+X 
+X 
+X 
+ 
+ 
+ 
+ 
+
+X 
+X 
+X 
+X 
+ 
+ 
+X 
+X 
+ 
+ 
+
+X 
+ 
+X 
+X 
+X 
+X 
+ 
+
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+X 
+ 
+X 
+ 
+
+CYCLE 1 
+
+Day 15 
+
+Day 22 
+
+Day 29 
+
+Day 36 
+
+Day 43 
+
+Day 50  EOS 
+
+AE 
+
+Resolution 
+
+Post-study 
+Follow-up 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+X 
+ 
+X 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+X 
+ 
+X 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+X 
+X 
+X 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+X 
+ 
+X 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+X 
+ 
+X 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+XF 
+ 
+ 
+ 
+X 
+ 
+
+ 
+ 
+X 
+XC 
+ 
+ 
+X 
+
+X 
+ 
+X 
+X 
+ 
+ 
+X 
+X 
+ 
+ 
+
+X 
+ 
+ 
+ 
+ 
+X 
+ 
+
+ 
+ 
+X 
+XC 
+ 
+ 
+X 
+
+X 
+ 
+X 
+X 
+ 
+ 
+X 
+X 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+X 
+ 
+ 
+ 
+ 
+ 
+X 
+
+Confidential 
+ 
+
+Page 37 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Table 6. 
+
+Time and Events Schedule (continued) 
+
+ 
+ 
+ 
+
+CYCLE 2 onward 
+
+Assessment 
+Informed Consent 
+Medical History 
+Physical Examination 
+Height and Weight 
+BSA Calculations 
+Urinalysis 
+Prior/Concomitant Medication Evaluation 
+Concomitant Procedures 
+Peripheral Neuropathy Evaluation 
+Vital Signs 
+KPS 
+Serum β-HCG D 
+ECG (12 lead) 
+Clinical Chemistry Panel 
+CBC, Differential, Platelet Count 
+PT, PTT 
+Consent to use diagnostic tumor biopsy for SPARC analysis 
+(optional) 
+CT scan E  
+PET scan for SUVF 
+Serum CA19-9 
+Treatment: Gemcitabine-only arm G 
+Treatment: ABI-007/Gemcitabine armG 
+Adverse Events 
+Phone Follow-upB 
+
+Day 1A 
+
+Day 8 
+
+ 
+ 
+X 
+XC 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+ 
+ 
+X 
+X 
+ 
+X 
+
+X 
+ 
+X 
+X 
+X 
+X 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+X 
+X 
+X 
+ 
+
+Confidential 
+ 
+
+Page 38 
+
+Day 15  Day 22  EOS 
+ 
+ 
+X 
+XC 
+ 
+ 
+X 
+X 
+ 
+X 
+X 
+ 
+ 
+X 
+X 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+X 
+X 
+ 
+ 
+ 
+X 
+ 
+ 
+
+ 
+ 
+ 
+X 
+X 
+X 
+ 
+
+ 
+XF 
+ 
+ 
+ 
+X 
+ 
+
+X 
+ 
+ 
+ 
+ 
+X 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+AE 
+
+Resolution 
+
+Post-study 
+Follow-up 
+
+ 
+ 
+X 
+XC 
+ 
+ 
+X 
+X 
+ 
+X 
+X 
+ 
+ 
+X 
+X 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+X 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+
+Time and Events Schedule (continued) 
+
+Table 6. 
+Table Footnotes 
+A Day 1 evaluations can be omitted if Baseline evaluations are performed within 72 hours of Day 1 of Cycle 1. 
+B Patients will be followed by monthly telephone calls or review of records for 6 months and then every 3 months thereafter for 12 months (total of 18 months). 
+C Weight only. 
+D For women of childbearing-potential only.  This will be conducted 72-hours (or fewer) prior to first study drug administration (negative results required for study 
+
+drug administration). 
+
+E MRI is acceptable if patient is allergic to contrast agent.  CT scan of the thorax/liver/abdomen and any other studies required for tumor imaging will be performed 
+at Baseline, and every 8 weeks (at any time during that week) regardless of regimen, and EOS. If a positive CT of thorax is performed or available at Baseline, then 
+it is not necessary to perform a chest x-ray. Whichever method of assessment is chosen at Baseline to follow tumors should remain consistent throughout study 
+duration. See Section 6.10 for post-study follow-up. 
+F PET scan for SUV at Baseline, and every 8 weeks. 
+G In order to keep cycle numbers similar between the 2 arms, Cycle 1 in the gemcitabine-only arm will include weekly dosing for 7 weeks followed by a rest week, 
+and Cycle 1 in the ABI-007/gencitabine arm will be comprised of two 4-week cycles (total of 8 weeks). After Cycle 1, both arms receive 3 weeks of weekly drug 
+administration followed by 1 week of rest. 
+
+Confidential 
+ 
+
+Page 39 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+6.4  Baseline Evaluations 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Baseline evaluations will be performed for all patients to determine study eligibility.  These 
+evaluations must be completed within 28±7 days of randomization (see Section 6.5). Any 
+questions regarding patient eligibility should be directed to the Abraxis or other sponsor-
+nominated Project Manager or designee for written approval.  
+
+abnormality); 
+
+The following clinical evaluations will be performed at Baseline after informed consent has 
+been obtained: 
+•  Medical history (including specific information regarding any prior therapy and cardiac 
+•  Physical examination; 
+•  Height and weight assessment; 
+•  BSA calculations; 
+•  Urinalysis; 
+•  Prior medication evaluation; 
+•  Vital signs; 
+•  KPS performance status scale; 
+•  Serum β-HCG pregnancy test (for women of childbearing-potential only) will be 
+conducted within 72-hours prior to first study drug administration (negative results 
+required for study drug administration); 
+
+•  ECG (12 lead);  
+•  Clinical chemistry panel (to include sodium, potassium, CO2, chloride, glucose, BUN, 
+SGOT, total bilirubin and creatinine); 
+•  CBC, differential and platelet count; 
+•  PT, PTT coagulation studies; 
+•  CT scan (or MRI if patient is allergic to contrast agent); 
+•  Serum CA19-9; 
+•  Peripheral Neuropathy Assessment; 
+•  PET scan; 
+•  Consent to use diagnostic tumor biopsy (archival tissue) for SPARC analysis (optional). 
+ 
+The Investigator will account for all patients who are screened for this study.  Although 
+CRFs will not be completed for patients who fail screening, source documents will be 
+reviewed by the Abraxis or other sponsor-designated study monitor for completion and 
+accuracy.  All appropriate CRF pages must be completed for enrolled patients. 
+
+Confidential 
+ 
+
+Page 40 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+6.5  Randomization and Treatment Phase Evaluations 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+All Baseline testing must be completed within 28 days of randomization. Following 
+completion of Baseline testing, patients will be randomized. Patients should return within 7 
+days to begin Cycle 1 of study drug dosing. Unless otherwise specified, visits where response 
+assessments are not performed must occur within ± 2 days of the planned visit date. 
+Response assessments CT scans should be performed every 8 weeks (at any time during that 
+week) and PET scans should be performed at Baseline and every 8 weeks. Exceptions are 
+allowed to accommodate statutory or calendar holidays and patient scheduling. MISSED 
+DOSES: If a dose is missed due to toxicity during a cycle, that dose is not to be made up and 
+is to be recorded as a missed dose.  
+
+If the investigator suspects a drug-related toxicity, an extra-unscheduled visit with additional 
+laboratory tests may be performed. 
+
+ABI-007 and gemcitabine should be administered as specified in Section 4.2. 
+
+The same mode of imaging for target lesions must be used at Baseline and throughout the 
+study. CT image preparation will follow the specifications provided in the RECIST response 
+guidelines. CT imaging should include contrast unless medically contraindicated and 
+conventional CT should be performed with contiguous cuts of 10 mm or less in slice 
+thickness. If spiral CT is used, it should be performed by use of a 5 mm contiguous 
+reconstruction algorithm.  
+
+SPARC-Immunohistochemistry Analysis 
+
+In those cases where tumor samples from patients treated on study are available and informed 
+consent has been obtained, tumor samples will be submitted, and paraffin-embedded (PE) 
+blocks made for SPARC analysis. A technique called immunohistochemistry (IHC) will be 
+performed in a central, CLIA-approved laboratory that has already been identified, to 
+determine SPARC protein expression using tissue sections from each patient. If PE blocks 
+are not available for release, PE tissue sections will be requested to be sent to the central 
+laboratory for SPARC analysis. All tissue samples for SPARC analysis will be run blinded 
+with respect to the treatment assignment and to the patient response to treatment.  The results 
+of the SPARC IHC will be maintained and analyzed by Abraxis BioScience and released to 
+investigators at or near the completion of the study. There are 2 routes to facilitate SPARC 
+specimen analysis: (i) tissue samples can be shipped as PE blocks, or (ii) as PE sections on 
+slides.  It is preferred that fixed tissue samples from patients are shipped as PE blocks so that 
+slides from each specimen can be generated at the central testing laboratory for SPARC 
+analysis. However, in cases where PE blocks may not be released from the custody of the 
+site, the sections may be prepared at the site.  At least 10 slides (1 section per slide) should be 
+prepared using super frost plus slides and left to AIR DRY. Thickness of the sections should 
+be at 4-5 micron. Specimen collection kits, including super frost plus slides and return 
+shipping containers, will be provided by the central laboratory to each of the specimen 
+collection sites. 
+
+Serum CA19-9 Blood samples for the evaluation of the CA19-9 molecular biomarker will be 
+
+Confidential 
+ 
+
+Page 41 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+collected within 2 weeks prior to starting treatment for both treatment arms.  Then, blood will 
+be drawn every 8 weeks (on Day 1 of the cycle) for CA19-9 assessment.  CA19-9 is further 
+discussed in Section 8.3.8.4.  
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+6.6  Day 1 Assessments 
+
+The following assessments will be performed on Day 1 of each treatment cycle: 
+•  Physical examination; 
+•  Weight assessment; 
+•  BSA calculations; 
+•  Urinalysis; 
+•  Concomitant medication evaluation; 
+•  Concomitant procedures; 
+•  Peripheral Neuropathy Assessment; 
+•  Vital signs (prior to dosing); 
+•  KPS performance status scale; 
+•  Clinical chemistry panel; 
+•  CBC, differential and platelet count; 
+•  CT scan (or MRI if patient is allergic to contrast agent; every 8 weeks); 
+•  Serum CA19-9 (every 8 weeks, on Day 1 of the cycle); 
+•  Adverse event evaluation. 
+ 
+Day 1 evaluations may be omitted if Baseline evaluations are performed within 72 hours of 
+Cycle 1, Day 1. 
+ 
+6.7  Per Cycle Evaluations 
+
+On Days 8 and 15 of each cycle, the following assessments will be performed: 
+•  Concomitant medication evaluation; 
+•  Vital signs (prior to dosing); 
+•  KPS performance status scale; 
+•  CBC, differential and platelet count; 
+•  PET scan (every 8 weeks); 
+•  Adverse event evaluation. 
+ 
+The following assessments will be performed during the rest week of each cycle: 
+•  Concomitant medication evaluation; 
+
+Confidential 
+ 
+
+Page 42 
+
+ 
+ 
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+•  Vital signs; 
+•  KPS performance status scale; 
+•  CBC, differential and platelet count; 
+•  Adverse event evaluation. 
+ 
+6.8  End-of-Study (EOS) Evaluations 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+An EOS evaluation should be performed for patients who are withdrawn from the study.  The 
+following procedures will be completed at the EOS Visit:  
+•  Physical examination; 
+•  Weight assessment; 
+•  Concomitant medication evaluation; 
+•  Concomitant procedures; 
+•  Vital signs; 
+•  KPS performance status scale; 
+•  Clinical chemistry panel; 
+•  CBC, differential and platelet count; 
+•  CT scan (or MRI if patient is allergic to contrast agent); 
+•  Adverse event evaluation. 
+ 
+
+The Investigator must follow all SAEs observed during the study until these events have 
+resolved or stabilized, the patient is lost to follow-up, or the events are otherwise explained. 
+The Investigator should report these SAEs in accordance with the procedures described in 
+Section 7.8. Clinical laboratory tests may be repeated during the post-treatment period if 
+clinically indicated. 
+
+6.9  Follow-up for Adverse Events 
+
+Any AE or SAE whose onset occurred between the first administration of study drug to 30 
+days after the last dose of study drug or EOS (whichever is later) will be collected. The 
+Investigator should report SAEs in accordance with the procedure described in Section 7.8.  
+
+Adverse event follow-up will be conducted as follows: 
+•  Non-serious adverse events, other than neuropathy, will be followed for 30 days after the 
+•  Neuropathy will be followed until improvement to Grade 1 occurs, or at least 3 months 
+
+patient’s last dose of study drug. 
+
+have elapsed without improvement or worsening, or the patient initiates any other 
+anticancer therapy during follow-up. 
+
+Confidential 
+ 
+
+Page 43 
+
+ABI-007 
+Abraxis BioScience 
+Clinical Trial Protocol: CA046 
+12 November 2008  
+ 
+ 
+ 
+•  All serious adverse events (regardless of relationship to study drug) will be followed until 
+
+ 
+ 
+ 
+
+resolution. 
+
+ 
+Clinical laboratory tests may be repeated during follow-up if clinically indicated. 
+
+Follow-up evaluations include studies necessary to document the resolution or persistence of 
+any unresolved AEs and could include: 
+•  Physical examination, weight; 
+•  Concomitant medication/procedure evaluation;  
+•  Vital signs; 
+•  KPS Performance Status scale; 
+•  CBC, differential, platelet count, and clinical chemistries; 
+•  Peripheral neuropathy assessment (physician). 
+ 
+
+6.10  Follow-up for Disease Progression 
+
+Patients who are discontinued from treatment in the absence of disease progression (e.g., 
+patients removed for unacceptable toxicity or patient/investigator discretion) should undergo 
+repeat imaging and tumor response assessments until disease progression is documented. 
+Imaging studies should be done every 8 weeks (at any time during that week), regardless of 
+regimen. It is recommended that subsequent therapy not be instituted until disease 
+progression is documented. 
+
+6.11  Follow-up for Overall Survival 
+
+Post-study, overall survival status will be monitored on a monthly basis for 6 months and 
+then every 3 months thereafter for 12 months.  Patients will be followed for a total of 18 
+months.  This evaluation may be by record review and/or telephone contact with the patient’s 
+treating physician. 
+7  ADVERSE EVENTS MANAGEMENT GUIDELINES 
+7.1  Background 
+
+These adverse event management guidelines are intended to ensure the safety of each patient 
+while attempting to characterize the safety and tolerability of the test products.  In agreeing 
+to the provisions of this protocol, the Investigator accepts all legal responsibilities for 
+prompt notification of SAEs to Abraxis, the sponsor for this study.  Abraxis in turn will 
+be responsible for reporting the SAEs to the appropriate regulatory authorities.    
+
+Adverse events occurring during the study will be graded according to the NCI CTCAE 
+Scale (see http://ctep.cancer.gov/reporting/ctc.html), where applicable. Adverse events that 
+
+Confidential 
+ 
+
+Page 44 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+are not included on the toxicity scale will be designated as Grade 1 = mild, Grade 2 = 
+moderate, Grade 3 = severe, Grade 4 = life-threatening, and Grade 5 = death. 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+The Investigator should evaluate all adverse events and should make an immediate effort to 
+determine their etiology. Adverse events that are determined not to be possibly, probably, or 
+definitely related to study drug may not require further evaluation but will need to be 
+recorded on the CRFs.  Study medications may be interrupted for an adverse event at the 
+discretion of the Investigator. Patients requiring toxicity management should be assessed and 
+evaluated at least weekly as indicated by the severity of the event. 
+
+7.2  Definition of an Adverse Event (AE) 
+
+An adverse event is any untoward medical occurrence in a patient receiving a marketed 
+pharmaceutical product or in a patient who is participating on a clinical trial who is receiving 
+an investigational or non-investigational pharmaceutical agent.  The AE does not 
+necessarily have a causal relationship with the patient’s treatment.  Therefore, an 
+adverse event can be any unfavorable and unintended sign, symptom, or disease temporally 
+associated with the use of a medicinal product, whether or not considered to be related to the 
+medicinal product.  In cancer clinical trials, many AEs are in fact related to progression of 
+the patient’s underlying malignancy. 
+
+An adverse event includes: 
+•  an exacerbation of a pre-existing illness; 
+•  an increase in frequency or intensity of a pre-existing episodic event or condition; 
+•  a condition detected or diagnosed after study drug administration even though it may 
+•  continuously persistent disease or symptoms that were present at Baseline and worsen 
+
+have been present prior to the start of the study; 
+
+following the start of the study. 
+
+ 
+An adverse event does not include: 
+•  medical or surgical procedures (e.g., surgery, endoscopy, tooth extraction, or 
+
+transfusion); however, the condition that leads to the procedure is an adverse event. 
+[Procedures that occur during the trial should be recorded on the Concurrent Procedure 
+CRF];  
+
+•  pre-existing diseases, conditions, or laboratory abnormalities present or detected at the 
+•  hospitalizations or procedures that are done for elective purposes not related to an 
+
+start of the study that do not worsen; 
+
+untoward medical occurrence (e.g., hospitalizations for cosmetic or elective surgery or 
+social/convenience admissions); 
+
+•  the disease being studied or signs/symptoms associated with the disease unless more 
+•  overdose of study drug without any clinical signs or symptoms. 
+
+severe than expected for the patient's condition; 
+
+Confidential 
+ 
+
+Page 45 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+ 
+7.3  Definition of a Serious Adverse Event (SAE) 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+A serious adverse event (SAE) is defined as any untoward medical occurrence at any dose 
+that: 
+•  is fatal; 
+•  is life-threatening (defined as an immediate risk of death from the event as it occurred); 
+•  results in persistent or significant disability or incapacity; 
+•  requires in-patient hospitalization or prolongs an existing hospitalization. (Exception: 
+
+Hospitalization for elective treatment of a pre-existing condition that did not worsen 
+during the study is not considered an adverse event. NOTE: Complications that occur 
+during hospitalization are adverse events and if a complication prolongs hospitalization, 
+then the event is serious); 
+
+medication; 
+
+•  is a congenital anomaly/birth defect in the offspring of a patient who received 
+•  conditions not included in the above definitions that may jeopardize the patient or may 
+require intervention to prevent one of the outcomes listed above unless clearly related to 
+the patient’s underlying disease. 
+
+ 
+The Investigator should exercise medical and scientific judgment when deciding whether 
+expedited reporting is appropriate in other situations not strictly meeting the criteria outlined 
+above. Examples of important medical events which may also meet the definition of a SAE 
+include: intensive treatment in an emergency room or at home for a reversible condition that 
+did not result in hospitalization (e.g., allergic bronchospasm or convulsions), certain 
+laboratory abnormalities (e.g., blood dyscrasias), or development of drug dependency or drug 
+abuse. If there is any question, please consult the relevant Medical Monitor. 
+
+7.4  Timeline for Consideration of AE/SAE Reporting Requirements   
+
+The Investigator is responsible for recording, reporting and following all adverse events, 
+regardless of causality, observed during the study period, starting with initial study drug 
+administration and ending at the time the patient goes off study or 30 days after patient’s last 
+dose of study drug, whichever is later.  Events occurring within 30 days prior to study drug 
+administration should be recorded as pre-treatment signs and symptoms.  
+
+7.5  Lack of Efficacy is not considered an AE or SAE 
+
+“Lack of efficacy” (progressive disease) is not considered an adverse event. The signs and 
+symptoms or clinical sequelae resulting from lack of efficacy should be reported if they 
+fulfill the adverse event or SAE definitions.  
+
+Confidential 
+ 
+
+Page 46 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+7.6  Laboratory Results as Serious Adverse Events 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+According to the NCI CTCAE system of adverse event grading, laboratory values of Grade 3 
+or 4 are described as “severe” or “life-threatening.”  For example, a neutrophils count 
+<500/mm3 would meet laboratory criteria as Grade 4 (“life-threatening”).  This description is 
+not always synonymous with the assessment of the “serious” criteria of an AE as “life-
+threatening”.  In order for adverse events to be considered serious by “life-threatening” 
+criteria, it must be medically judged as possessing “an immediate risk of death from the event 
+as it occurred,” not because of the theoretical potential for life-threatening consequences.  In 
+the case of a neutrophil count <500/mm3, the AE would be captured as an AE of Grade 4 
+neutropenia, but it would not automatically be considered a SAE unless the investigational 
+physician determined this represented an immediately life-threatening event for the patient. 
+Specifically, uncomplicated Grade 4 neutropenia should not be reported as a SAE. 
+Neutropenia associated with fever, infection, or hospitalization should be reported as a SAE. 
+
+7.7  Patient Reporting of AEs and SAEs 
+
+Patients are to be encouraged to call the site to report any unexpected symptoms or problems 
+they encounter between office visits.  These events should be considered in the same fashion 
+as if they had been reported at a scheduled office visit.  At each scheduled office visit, after 
+the patient has had an opportunity to spontaneously mention any problems, the Investigator 
+should inquire about adverse events by asking the following standard questions: 
+•  Have you had any (other) medical problems since your last clinic visit? 
+•  Have you taken any new prescribed or over-the-counter medicines or herbal/vitamin 
+•  Have any new procedures been performed since your last study visit? 
+ 
+7.8 
+
+preparations, other than those given to you in this study, since your last visit/assessment? 
+
+Investigator Reporting of AEs and SAEs 
+
+The Investigator or designee must completely and promptly record each adverse event in the 
+source documentation and in the appropriate CRF, regardless of relationship to study drug as 
+determined by the Investigator. The Investigator must assess AE/SAE causality for any 
+patients treated at his/her site.  The Investigator should attempt, if possible, to establish a 
+diagnosis based on the patient's signs and symptoms. When a diagnosis for the reported signs 
+or symptoms is known, the Investigator should report the diagnosis, not the symptoms, as the 
+adverse event.  
+
+Clinically significant laboratory abnormalities present at the Baseline visit will be recorded 
+as pre-treatment signs and symptoms. After study treatment administration, laboratory 
+abnormalities will not be recorded as adverse events unless considered clinically significant 
+by the Investigator, and clinically significant laboratory abnormalities will not be recorded as 
+serious AEs unless the event meets the definition of serious. 
+
+AEs and SAEs should be reported on the appropriate Case Report Forms.  In addition, all 
+SAEs must be reported promptly to Abraxis after the Investigator recognizes/classifies 
+
+Confidential 
+ 
+
+Page 47 
+
+ 
+ 
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+the event as a SAE. The specific reporting time frame depends on the type of SAE. For life-
+threatening or fatal events, the Investigator must report initial information on the SAE within 
+24 hours, preferably by fax or alternatively by phone or email; at a minimum, a description of 
+the event and the Investigator’s judgment of causality must be provided at the time of the 
+initial report. If a SAE is reported by phone or by e-mail, the Investigator must fax a 
+completed SAE report form to Abraxis within one business day. For an event that is not life-
+threatening or fatal, the Investigator must fax a completed SAE report form within two 
+business days after he/she recognizes/classifies the event as an SAE.  
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Refer to Appendix 1, Guidelines for Reporting Adverse Drug Reactions, for more detail. 
+
+For any additional questions regarding reporting requirements of a SAE contact one of the 
+following individuals: 
+
+SAE Coordinator 
+Abraxis BioScience 
+4505 Emperor Boulevard, Suite 400 
+Durham, NC  27703 
+Telephone:  919-433-8515 
+Safety Fax:  919-433-8402 
+Tel:  919.606.1832 – 24-Hours 
+Email: SAE-REPORTING@abraxisbio.com 
+ 
+
+7.9  Additional Investigator Responsibilities on Follow-up of SAEs 
+
+The Investigator and supporting personnel responsible for patient care should institute any 
+supplemental investigations of SAEs based on their clinical judgment of likely causative 
+factors. This may include extra clinical laboratory tests, discharge summary, physical 
+examinations or consulting an appropriate specialist. Abraxis may also request the 
+Investigator to conduct supplemental assessments. The results of any additional assessments 
+conducted must be reported to Abraxis. If a patient dies during participation in the study and 
+an autopsy is performed, a copy of the report must be submitted to Abraxis. If during the 
+follow-up period for a SAE, a patient dies due to another event unrelated to the SAE 
+being followed, the event causing the death will be reported as a separate SAE. 
+7.10  IRB/EC Notification of SAEs 
+
+The Investigator is responsible for promptly notifying the IRB/EC of all SAEs, including any 
+follow-up information, occurring at his/her site and any SAE regulatory reports and 
+Investigational New Drug Safety Reports that he/she receives from Abraxis.  (See Appendix 
+1 for Guidelines for Reporting Adverse Events). 
+
+Confidential 
+ 
+
+Page 48 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+7.11  Sponsor Notification of Post-Study SAEs 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+The Investigator should notify Abraxis of any death or SAE occurring after a patient has 
+withdrawn from the study, when such death or SAE may reasonably be related to the 
+medication used in the study. However, Investigators are not obligated to actively seek 
+adverse events in former study participants. 
+8  STATISTICAL METHODS 
+8.1  Study Design and Sample Size 
+
+This is an open-label, multi-center, randomized, Phase III trial designed to evaluate the 
+efficacy of the combination of ABI-007 and gemcitabine vs. gemcitabine alone in improving 
+overall survival in patients with metastatic adenocarcinoma of the pancreas. 
+
+Three hundred fifteen patients randomized to each treatment arm (630 patients in total). This 
+sample size will provide 80% power with two-sided Type I error of 0.05 to reject the null 
+hypothesis that the ABI-007+ gemcitabine/gemcitabine hazard ratio for overall survival is 
+equal to 1.0. This sample size calculation assumes ABI-007+gemcitabine has 30% 
+improvement in overall survival compared to gemcitabine alone (HR=0.769) and patient 
+follow-up will continue until at least 455 deaths occur. 
+
+8.2  Populations in Analyses 
+
+8.2.1 
+
+Analysis Population  
+
+All efficacy analyses will be based on the ITT population, which includes all randomized 
+patients regardless of whether the patient received any study drug or had any efficacy 
+assessments collected. The Treated population, which includes all randomized patients who 
+received at least 1 dose of study drug, will be the analysis population for all safety/ 
+tolerability analyses.  Only patients with clear documentation that no study drug was 
+administered will be excluded from the Treated population. 
+
+8.2.2 
+
+Patient Characteristics  
+
+Patient characteristics including demographics, disease duration and extent at Baseline, and 
+relevant medical history will be summarized for the purpose of characterizing the patient 
+population and establishing baseline comparability of the randomized treatment regimens.  
+
+8.2.3 
+
+Patient Disposition  
+
+Patient disposition including the number of patients randomized, treated, and each reason for 
+discontinuation of therapy will be summarized by treatment regimen. Patient disposition also 
+will be summarized by study site. 
+
+Confidential 
+ 
+
+Page 49 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+8.2.4 
+
+Prior and Concomitant Medications 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+All concomitant medications and prior medications taken within 30 days of first study drug 
+administration will be coded to therapeutic drug classes and generic drug names using the 
+World Health Organization (WHO) Drug Classification. The incidence of prior and 
+concomitant medication usage will be summarized by therapeutic drug class and generic drug 
+names. 
+
+8.3  Efficacy Analyses 
+
+8.3.1  Overview 
+
+The primary efficacy endpoint is overall survival. Tumor response and PFS will be assessed 
+by RECIST criteria on images obtained with CT scans.  Functional tumor response will be 
+evaluated by PET scans.  CA19-9 response will be assessed by radioimmunoassay.  Patient 
+clinical condition will be evaluated with periodic physical examinations and scoring of 
+performance status.  The correlation between objective tumor response, functional tumor 
+response, change in CA19-9 and overall survival will be assessed. Increases in SUV of PET 
+or increases in CA19-9 levels should not be used as evidence for progressive disease or for 
+removing patients from study. 
+
+CT scans will be performed every 8 weeks; PET scans will be performed at Baseline and 
+every 8 weeks; CA19-9 levels will be determined at Baseline and every 8 weeks (on Day 1 of 
+that cycle).  Performance status will be scored weekly, and physical examination will be 
+conducted at Baseline, at the beginning of each cycle (e.g., every 4 weeks), at the end of 
+study visit and at the time of resolution of any adverse events. Radiologic studies for 
+antitumor response will be repeated at the end of study visit if not done within the previous 
+28 days. Phone follow-up or review of records will be done on a monthly basis for 6 months 
+and every 3 months thereafter for 12 months (total of 18 months). 
+
+8.3.2 
+
+Definition of Measurable and Non-Measurable Lesions (ACR Practice 
+Guidelines) 
+
+8.3.2.1 
+
+Measurable Lesion 
+
+The definition of a measurable lesion at Baseline is dependent on the technical factors of the 
+imaging studies that were used to evaluate the patient.  The recommendations for the imaging 
+parameters are based on the American College of Radiology (ACR) Practice Guidelines and 
+Technical Standards.  The ACR Practice Guidelines and Technical Standards define 
+principles and technical parameters of radiologic and radiation oncology practice, which 
+should generally produce desired health care outcomes.  They describe a range of acceptable 
+approaches for the diagnosis and/or treatment of disease for most patients, in most 
+circumstances.  Given differences in training, experience, and local conditions, the ACR 
+Practice Guidelines and Technical Standards acknowledge the need for health care providers 
+to exercise their independent medical judgment in making decisions regarding the use and 
+specific details of any procedure. 
+
+Confidential 
+ 
+
+Page 50 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+ACR Practice Guidelines and Technical Standards are educational tools designed to provide 
+consensus-based, scientifically valid and medically credible information to assist health care 
+providers in delivering effective, efficient, consistent and safe medical care. They may be 
+developed jointly with other professional organizations. Used in conjunction with the ACR 
+Appropriateness Criteria®, it is expected that the ACR Practice Guidelines and Technical 
+Standards will increase the likelihood that appropriate procedures will be performed in a safe 
+and acceptable manner and will help reduce unnecessary procedures.  ACR Practice 
+Guidelines and Technical Standards are intended to be living documents that are regularly 
+reviewed and revised to reflect changes in radiologic and radiation oncology practice.   
+
+The ACR Practice Guidelines describe recommended conduct in specific areas of clinical 
+practice.  They are based on analysis of current literature, expert opinion, open forum 
+commentary, and informal consensus. Guidelines are not intended to be legal standards of 
+care or conduct and may be modified as determined by individual circumstances and 
+available resources. 
+
+The ACR Technical Standards describe technical parameters that are quantitative or 
+measurable.  They often include specific recommendations for patient management or 
+equipment specifications or settings.  Technical Standards are based on analysis of current 
+literature, expert opinion, open forum commentary, and informal consensus. Technical 
+Standards are intended to set a minimum level of acceptable technical parameters and 
+equipment performance and may be modified as determined by individual circumstances and 
+available resources. 
+
+For Spiral CT scanning of the chest, the ACR recommendation is that reconstructions should 
+be less than 10 mm, and for Spiral CT of the abdomen and pelvis, the recommendation is the 
+slice thickness should be 8 mm or less.   
+
+The RECIST paper indicates Spiral CT images for chest, abdomen and pelvis should be 
+performed using 5 mm reconstructions, but it is not explicitly stated as a requirement. 
+
+In preparing the technical specifications, we have followed the guidelines of the ACR, as 5 
+mm reconstructions are not the standard in the US or the rest of the world.  Our proposal for 
+modifying the size of measurable lesions at Baseline to two (2) times the reconstruction 
+interval of the Baseline/screening studies is consistent with the RECIST definition for a 
+measurable lesion.  
+•  Conventional CT should be performed with contiguous cuts of ten (10) mm or less in 
+reconstruction interval.  Spiral CT should be performed by use of a 5-8 mm contiguous 
+reconstruction interval or less, where the neck and brain CTs should be done at five (5) 
+mm or less. 
+
+•  Lesions that can be accurately measured in at least one (1) dimension with the longest 
+diameter (LD) ≥ twenty (20) mm with conventional techniques when the conventional 
+scans are performed with a reconstruction interval of ten (10) mm or less are measurable 
+lesions. 
+
+Confidential 
+ 
+
+Page 51 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+•  Lesions that can be accurately measured in at least one (1) dimension with the longest 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+diameter (LD) being two (2) times the reconstruction interval (RI) of the spiral CT scan.  
+Depending on the RI of the spiral CT (5-8 mm or less recommended) measurable lesion 
+size may be ≥ 10-16 mm.  For example, a spiral CT scan done at eight (8) mm RI would 
+have a minimum lesion size of sixteen (16) mm in the longest dimension.  The minimum 
+size of a measurable lesion is ten (10) mm. 
+
+•  In the instance where the reconstruction interval has changed from the Baseline to 
+
+subsequent time points, it would be at the discretion of the radiologist whether this would 
+affect interpretation.  A note is made in the comment section of the source document, if 
+applicable.  The definition for target disease would not change and would be determined 
+on the basis of the Baseline scan. 
+
+ 
+8.3.2.2 
+
+Non-Measurable Lesions 
+
+All other lesions that do not meet the criteria for measurable disease as described in Section 
+8.3.2.1 as well as other truly non-measurable lesions, are considered non-measurable. 
+
+8.3.3 
+
+Definition of Target, Non-Target and New Lesions (RECIST criteria) 
+
+8.3.3.1 
+
+Target Lesions 
+
+Up to ten (10) target lesions, a maximum of five (5) per organ, will be chosen for 
+measurement over the course of the study.  The distribution of these target lesions should be 
+representative of the subject’s overall disease.  Target lesions should not be chosen from a 
+previously irradiated area unless lesions in those areas have documented progression. 
+
+Target lesions must be measurable at Baseline. These lesions will generally be the largest 
+lesions, most reliably measured, and most representative of the patient’s sites of disease. 
+
+For any target lesion at any time point, measurements will be taken and recorded uni-
+dimensionally.  The longest dimension of each target lesion will be measured and recorded.  
+The longest dimension of the target lesions will be summed to obtain the Sum of the Longest 
+Diameters (SLD).  The Baseline SLD will be used as reference to further characterize the 
+objective tumor response of the target lesions.  For the consideration of progressive disease, 
+the nadir of the SLD for the target lesions will be used as reference. 
+
+For cases where there is no target lesion identified, tumor assessment for progression should 
+be done based on non-target lesion assessments (see Section 8.3.3.2) or the development of 
+new lesions.  Response (PR or CR) and SD will not be assessed in subjects where target 
+lesions are not identified at Baseline. 
+
+The following conventions will be applied in selecting target lesions in patients who have 
+received prior radiation therapy: 
+•  Prior axillary radiation (i.e., prior radiation history including the term “axilla”, “axillary” 
+
+or other related term(s) would not preclude the selection of measurable lesions in the 
+
+Confidential 
+ 
+
+Page 52 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+chest wall or thorax as target lesions.  Ipsilateral axillary measurable disease cannot be 
+selected as target lesions unless the site confirms on the Prior Radiation Therapy Form 
+that the lesions are new since completing the radiation therapy. 
+
+•  Prior breast (i.e., prior radiation history including the term “breast”) or chest wall 
+
+radiation (i.e., prior radiation history including the term “chest wall” or other related 
+term(s)) would preclude the selection of chest wall lesions as target disease for chest wall 
+lesions ipsilateral to the site of the chest wall radiation.  Intrathoracic measurable lesions 
+in the periphery of the lung, just deep to the radiated chest wall concordant with the 
+radiation portal cannot be selected as target lesions.  However, if the lesions are more 
+centrally located in the chest and do not appear in regions showing evidence of radiation 
+injury (e.g., scarring, radiation pneumonitis, etc.), they can be selected as target lesions.  
+The assigned radiologist will document descriptions of radiation damage in the 
+comments field. 
+
+•  Prior bone radiation (e.g., vertebral, rib, pelvis, femur, etc., as stated on the Prior 
+
+Radiation Therapy Form) would not preclude the selection of measurable lesions in 
+adjacent structures unless signs of radiation injury are evident (e.g., scarring). 
+
+•  Prior soft tissue radiation (e.g., supraclavicular radiation, radiation of internal mammary 
+lymph nodes, etc., as recorded on the Prior Radiation Therapy Form) would preclude the 
+selection of measurable disease in the site of radiation unless the site confirms on the 
+Prior Radiation Therapy Form that the lesions are new since radiation was completed. 
+
+ 
+8.3.3.2 
+
+Non-Target Lesions  
+
+All of the sites of disease present at Baseline not classified as target lesions will be classified 
+as non-target lesions.  Non-target lesions must be qualitatively assessed at each subsequent 
+time point.  Examples of non-target lesions include: 
+•  All bone lesions, irrespective of the modality used to assess them; 
+•  Leptomeningeal disease; 
+•  Lymphangitis of the skin or lung; 
+•  Cystic lesions; 
+•  Irradiated lesions that have not shown progression; 
+•  Measurable lesions beyond the maximum number of 10; 
+•  Groups of lesions that are small and numerous; and 
+•  Pleural effusion/pericardial effusion/ascites. 
+ 
+8.3.3.3 
+
+New Lesions  
+
+Unequivocal new lesions are those that were not present at Baseline. At each time point, the 
+presence of new lesions will be determined.  New multi-focal or miliary disease of any size is 
+considered a new lesion. 
+
+Confidential 
+ 
+
+Page 53 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Lesions that are encountered (subsequent to the Baseline) in anatomic locations that were not 
+scanned at Baseline will be considered new lesions and will represent progressive disease. 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+Lesions that were present, which subsequently resolved and then recurred, will be considered 
+new lesions and will represent progressive disease. 
+
+8.3.4 
+
+Antitumor Response (RECIST criteria) 
+
+Antitumor response will be defined as the percent of patients who achieve an objective 
+confirmed response (complete or partial response). Disease control rate (SD for at least 24 
+weeks or confirmed CR or PR) also will be reported. Response will be determined according 
+to RECIST guidelines.  The original RECIST guidelines were developed and published in the 
+Journal of the National Cancer Institute.22 This study will employ RECIST guidelines with 
+adjustments based on current practices of the medical community.  The charter of the blinded 
+radiological review which will be conducted by Icon Medical Imaging outlines the 
+modifications to the original RECIST guidelines. 
+
+8.3.4.1 
+
+Target Lesion Response (RECIST criteria) 
+
+Percentage change in SLD will be evaluated by the following formulae: 
+
+1. When determining complete response or partial response: 
+
+((Post value – Baseline value)/Baseline value) x 100 
+
+2. When determining progressive disease: 
+(Post value – Nadir value since treatment started)/ (Nadir value since treatment started) x 100 
+ 
+The following definitions will be used to evaluate response based on target lesions at each 
+time point after Baseline: 
+
+Complete Response (CR): Disappearance of all target lesions. 
+
+Partial Response (PR): At least a 30% decrease in the SLD of target lesions, taking as 
+reference the Baseline SLD.  
+
+Stable Disease (SD): Neither sufficient shrinkage of target lesions to qualify for PR, nor 
+sufficient increase to qualify for PD, taking as reference the nadir SLD since the treatment 
+started. 
+
+Progressive Disease (PD): At least a 20% increase in the SLD of target lesions, taking as 
+reference the nadir SLD recorded since the treatment started, or, the presence of one or more 
+new lesions.  
+
+Unable to Evaluate (UE): A target lesion present at Baseline which was not measured or 
+which was unable to be evaluated leading to an inability to determine the status of that 
+particular tumor for the time point in question.  If the SLD cannot be determined at a time 
+
+Confidential 
+ 
+
+Page 54 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+point, and the rules for PD do not apply, a response of CR, PR or SD cannot be assigned for 
+that time point and the time point response will be UE.   
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+Not Applicable (NA): No target lesions were identified at Baseline.  Patients with no target 
+lesions identified at Baseline cannot be assessed for response.  These patients will be 
+assessed for progression only. 
+
+Not Done (ND): Scans were not performed at this time point to evaluate the target lesions. 
+
+8.3.4.2 
+
+Non-Target Lesion Response (RECIST criteria) 
+
+Each non-target lesion will be qualitatively evaluated at each time point. Response of each 
+lesion at each time point will be assessed with respect to the Baseline status.  Progression 
+will be assessed with respect to nadir size of the non-target lesions.  The overall non-target 
+lesion response for each time point will be assessed as the worst case for the non-target 
+lesions for that particular time point. If a non-target lesion is classified as UE/ND, the non-
+target response will be UE/ND unless progression is identified in the available non-target 
+lesions. Response assessments are defined as follows: 
+
+Complete Response (CR): Disappearance of all non-target lesions. 
+
+Stable Disease (SD): The persistence of one or more non-target lesions not qualifying for CR 
+or PD. 
+
+Progressive Disease (PD): The “unequivocal progression” of existing non-target lesion(s) or 
+appearance of one or more new lesion(s) is considered progressive disease.  If PD for the 
+subject is to be assessed for a time point based solely on the progression of non-target 
+lesion(s), then additional criteria are required to be fulfilled.  In this instance, the lesion(s) 
+upon which the assessment of PD is being made must be retrospectively assessed from 
+Baseline (or the nadir) and compared to the time point in question. The radiologist will 
+retrospectively review the nadir scan, and measure the size of the non-target lesion(s).  The 
+radiologist will record these measurements in the comments section of the source document 
+for the current time point.  PD of non-target lesion(s) in this instance will be assessed when 
+the SLD of the lesion(s) has increased by 20% or greater and the lesion(s) measure greater 
+than or equal to 10mm in longest dimension (LD) at the time of progression.  If the non-
+target lesion(s) do not meet the quantitative criteria as described, they will not be assessed as 
+having progressed. 
+
+Unable to Evaluate (UE): Any non-target lesion present at Baseline which was not 
+measured or was unable to be evaluated leading to an inability to determine the status of that 
+particular tumor for the time point in question.   
+
+Not Applicable (NA): No non-target lesions were identified at Baseline. 
+
+Not Done (ND): Scans were not performed at this time point to evaluate the non-target 
+lesions. 
+
+Confidential 
+ 
+
+Page 55 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+8.3.4.3 
+
+Response Determination (RECIST criteria) 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Response at each time point will be assessed as a combination of the target and non-target 
+responses as well as the presence of new lesions according to the table below: 
+
+Table 7. 
+
+Time Point Response 
+
+Target Lesions 
+
+Non-Target Lesions 
+
+New Lesions 
+
+Time Point Response 
+
+CR 
+CR 
+CR 
+PR 
+PR 
+PR 
+SD 
+SD 
+SD 
+PD 
+ANY 
+ANY 
+UE 
+ND 
+NA* 
+NA* 
+NA* 
+NA* 
+
+CR 
+SD 
+
+UE/ND 
+UE/ND 
+
+CR 
+SD 
+
+UE/ND 
+
+CR 
+SD 
+ANY 
+PD 
+ANY 
+
+Non-PD 
+Non-PD 
+
+No 
+No 
+No 
+No 
+No 
+No 
+No 
+No 
+No 
+
+Yes/No 
+Yes/No 
+
+Yes 
+No 
+No 
+No 
+No 
+
+Yes/No 
+
+No 
+
+CR 
+PR 
+UE 
+UE 
+PR 
+PR 
+UE 
+SD 
+SD 
+PD 
+PD 
+PD 
+UE 
+UE 
+UE 
+UE 
+PD 
+UE 
+
+SD 
+CR 
+PD 
+NA** 
+NA*: No target lesions identified at Baseline. 
+NA**: No non-target lesions identified at Baseline.   
+ 
+8.3.5 
+
+Functional Tumor Response (EORTC Criteria) 
+
+PET imaging with the fluorine-18-fluorodeoxyglucose (18F-FDG) is increasingly used to 
+evaluate functional tumor response to chemotherapy.  The common measurement used by 
+PET is the standard uptake value (SUV).  This is defined by tumor activity per dose injected 
+per body mass, which is proportional to the glucose metabolic rate within the normal range of 
+serum glucose concentration. 
+ 
+According to the European Organization for Research and Treatment of Cancer (EORTC), 
+the following definitions will be used to evaluate response based on SUV reduction at each 
+time point after 1 cycle of treatment.23 
+ 
+Complete Response (CR): complete resolution of 18F-FDG uptake in the tumor.  
+
+Confidential 
+ 
+
+Page 56 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Partial Response (PR): decrease in SUV of 15%–25% after 1 cycle of treatment and a 
+decrease of greater than 25% after more than 1 treatment cycle.  
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+Stable Disease (SD): Neither PD, PR, or CR. 
+
+Progressive Disease (PD): increase in SUV of greater than 25% from Baseline or new 
+lesions. 
+
+Unable to Evaluate (UE): A lesion present at Baseline which was not assessed or which was 
+unable to be evaluated leading to an inability to determine the status of that particular tumor 
+for the time point in question.  If the SUV cannot be determined at a time point, and the rules 
+for PD do not apply, a response of CR, PR or SD cannot be assigned for that time point and 
+the time point response will be UE.   
+
+ 
+8.3.6 
+
+Primary Efficacy Endpoint 
+
+The primary efficacy endpoint is overall survival which will be analyzed using Kaplan-Meier 
+methods.  Survival will be defined as the time from the date of randomization to the date of 
+death (any cause). Patients who are alive will be censored at the last known time that the 
+patient was alive. 
+
+The null (Ho) and alternative (Ha) hypotheses for testing overall survival are:  
+
+Ho: HRABI-007+Gemcitabine/Gemcitabine alone = 1 
+
+Ha: HRABI-007+Gemcitabine/Gemcitabine alone ≠1 (superiority) 
+
+Patient survival will be summarized by median survival time (including 95% CI) for each 
+treatment arm along with the hazard ratio (including 95% CI). The Kaplan-Meier curve for 
+survival will be presented for each treatment arm and differences in the curves will be tested 
+using the stratified log-rank test. In the event that a specific stratum contains sparse data, then 
+that strata will be pooled with the closest relevant strata. The 1-year survival rate will be 
+summarized.  The final analysis for survival will be conducted when a total of at least 455 
+deaths occur. 
+
+8.3.7 
+
+Secondary Efficacy Endpoints  
+
+The secondary efficacy endpoints (objective tumor response and PFS) will only be evaluated 
+if the primary efficacy endpoint demonstrates superiority for ABI-007+Gemcitabine over 
+Gemcitabine alone. Furthermore, statistical testing of the two secondary endpoints will be 
+based on the Hochberg procedure which will test the secondary efficacy endpoint with the 
+largest p-value at two-sided α=0.050 and if significant then both secondary efficacy 
+endpoints will be declared statistically significant; but if non-significant then the other 
+secondary efficacy endpoint will be tested at two-sided α=0.025.24 
+
+Confidential 
+ 
+
+Page 57 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+8.3.7.1 
+
+Objective Tumor Response (RECIST criteria) 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+The secondary efficacy endpoint of objective tumor response will be summarized by the 
+percentage of patients that achieve a confirmed complete or partial response based on a 
+blinded radiology assessment of response using RECIST response guidelines (including 95% 
+CI) for each treatment arm.  Differences in response rates between the arms will be tested 
+using the chi-square test. 
+
+8.3.7.2 
+
+Progression-Free Survival 
+
+The secondary endpoint of PFS based on a blinded radiology assessment of response using 
+RECIST response guidelines will be analyzed using Kaplan-Meier methods. PFS will be 
+defined as the time from the day of randomization to the start of disease progression or death 
+(any cause), whichever occurs first. Patients who do not have disease progression or have not 
+died will be censored at the last known time that the patient was progression free.  If a patient 
+begins a new anti-cancer therapy or has palliative radiotherapy or surgery at a lesion site 
+prior to documented progression (or death), the patient will be censored at the last assessment 
+where the patient was documented as progression free prior to the intervention.  Patients with 
+two or more missing response assessments prior to a visit with documented progression (or 
+death) will be censored at the last visit where the patient was documented to be progression 
+free.  
+
+PFS will be summarized by median PFS time (including 95% CI) for each treatment arm 
+along with the hazard ratio (including 95% CI). The Kaplan-Meier curve for PFS will be 
+presented for each treatment arm and differences in the curves will be tested using the 
+stratified log-rank test. 
+
+8.3.8  Other Secondary Efficacy Endpoints 
+
+8.3.8.1 
+
+Disease Control 
+
+Disease control (SD for ≥ 16 weeks or confirmed CR or PR) will be analyzed in the same 
+manner as objective tumor response.  
+
+8.3.8.2 
+
+Time to Treatment Failure (TTF) 
+
+TTF will be defined as the time from the day of randomization to treatment failure.  
+Treatment failure is defined as disease progression, the start of a new anti-cancer therapy 
+(including palliative radiotherapy or surgery at a lesion site), or death (any cause), whichever 
+occurs first. TTF will be analyzed using Kaplan-Meier methods. 
+
+8.3.8.3 
+
+Time to Response and Response Duration 
+
+TTR will be defined as the time from the day of randomization to the first occurrence of 
+confirmed response (CR or PR) for responding patients. TTR will be analyzed using Kaplan-
+Meier methods.   
+
+Confidential 
+ 
+
+Page 58 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+PFS for patients who achieve an objective confirmed complete or partial response will be 
+presented as a measure of duration of response.  This is equivalent to the time from the 
+randomization date to the start of disease progression or patient death (any cause), whichever 
+occurs first, for responding patients. 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+8.3.8.4 
+
+Changes in CA19-9  
+
+Serum samples to assess the biomarker CA19-9 will be obtained at Baseline and every 8 
+weeks (on Day 1 of the cycle).  CA19-9 levels and change in CA19-9 from Baseline will be 
+summarized for each treatment regimen.  Descriptive statistics (sample size, mean, median, 
+SD, minimum, and maximum values) will be used.  
+
+8.3.8.5 
+
+Functional Tumor Response (EORTC criteria) 
+
+Functional tumor response will be evaluated according to EORTC criteria.  Functional tumor 
+response will be analyzed in the same manner as objective tumor response.  
+
+8.3.8.6 
+
+Correlation between Objective Tumor Response and Functional Tumor 
+Response 
+
+The correlation between objective tumor response and functional tumor response will be 
+evaluated by the chi-square test based on the patient’s best overall objective tumor response 
+and best overall functional tumor response.  Differences in the objective and  functional 
+response rates will be tested using the Cochran-Mantel-Haenszel (CMH) test stratified by 
+treatment regimen.  
+
+8.3.8.7 
+
+Correlation of Objective Tumor Response, Functional Tumor Response, 
+Change in CA19-9, with Overall Survival 
+
+The correlation of objective tumor response, functional tumor response, change in CA19-9 
+with overall survival will be evaluated by a Cox regression model. 
+
+8.3.8.8 
+
+SPARC and Other Molecular Biomarkers 
+
+The correlation of SPARC and other molecular biomarkers with efficacy outcomes will be 
+analyzed.  The following analyses will be performed for each treatment regimen.  Descriptive 
+statistics will be used to summarize biomarkers for responders versus non-responders.  To 
+assess relationship between response and biomarkers, a logistic regression analysis will be 
+performed with effects for biomarker and treatment regimen in the model. To assess the 
+relationship of overall survival (and PFS) with biomarkers, a Cox regression analysis will be 
+used with effects for biomarker and treatment regimen in the model.  In addition, for SPARC 
+and other biomarkers with binary measures, survival will be summarized by median survival 
+time for each biomarker category along with the hazard ratio. For each treatment regimen, 
+the Kaplan-Meier curve for survival will be presented graphically for each biomarker 
+category and differences in the curves will be tested using the log-rank test. 
+
+Confidential 
+ 
+
+Page 59 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+8.4  Safety and Tolerability Analyses 
+
+ 
+ 
+ 
+
+8.4.1  Overview 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Patients in the Treated population will be followed for the development of AEs from study 
+drug initiation through the end of study or 30 days after the end of treatment, whichever is 
+later.  AEs and SAEs that develop during this period will be followed until resolution or 
+stabilization (resolved with sequelae). Only patients with clear documentation that no study 
+drug was administered may be excluded from the treated population. 
+
+Safety will be evaluated by the incidence of treatment-emergent adverse events (AEs) and 
+serious adverse events (SAEs), physical examination, laboratory abnormalities during study 
+drug dosing and percentage of patients experiencing dose modifications, interruptions, and/or 
+discontinuation for each treatment arm. 
+
+8.4.2 
+
+Adverse Events and Toxicities 
+
+Adverse events will be recorded on the case report forms by the Investigator using verbatim 
+terms that best describe the event. Grading of severity will be based upon the NCI CTCAE.  
+All adverse events will be coded to a MedDRA term by the sponsor. All MedDRA terms will 
+then be mapped into the appropriate NCI CTCAE term. 
+
+Adverse events will be analyzed in terms of treatment-emergent AEs defined to be any AEs 
+that begin or worsen in intensity after study drug initiation through 30 days after the last dose 
+of study drug or EOS, whichever is later. 
+
+The incidence of all adverse events (all AEs regardless of causality) and all treatment related 
+adverse events (those AEs thought to be possibly, probably or definitely related to study 
+drug) will be summarized by NCI CTCAE term and maximum grade for each treatment 
+regimen, as well as reported by MedDRA preferred term; testing of treatment regimen 
+differences will be performed using the CMH test. The incidence of Serious Adverse Events 
+(SAEs) and AEs that lead to dose reduction or discontinuation of study drug will also be 
+summarized. Listings of patients that discontinued study drug due to an adverse event, 
+patients with SAEs and deaths will be presented. Patients with SAEs will be described by 
+narrative. 
+
+8.4.3 
+
+Laboratory Assessments 
+
+8.4.3.1 
+
+Hematology parameters  
+
+In order to investigate the maximal degree of myelosuppression, the NCI CTCAE grade for 
+WBC, ANC, platelet count and hemoglobin will be summarized by the most severe grade in 
+each treatment cycle and by the most severe grade during the study for each treatment 
+regimen; testing of treatment regimen differences will be performed using the CMH test. The 
+incidence of patients with NCI CTCAE hematology values of Grade 3 or 4 that occurred 
+after the first dose of study drug also will be presented. Data for patients with Grade 3 or 4 
+hematology values will be listed. 
+
+Confidential 
+ 
+
+Page 60 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+The nadir of each of these parameters will be presented in each cycle and overall.  For ANC 
+and WBC, time to overall nadir and time to recovery will be analyzed using Kaplan-Meier 
+methods. 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+8.4.3.2 
+
+Clinical chemistry  
+
+Liver and renal function will be summarized using the NCI CTCAE for alkaline phosphatase, 
+serum glutamate oxaloacetate transaminase (SGOT), total bilirubin, and creatinine. The 
+number and percentage of patients that have each NCI CTCAE grade will be summarized 
+using the most severe grade for the first cycle of therapy and for anytime during the study for 
+each treatment regimen; testing of treatment regimen differences will be performed using the 
+CMH test. The incidence of patients with NCI CTCAE chemistry values of Grade 3 or 4 that 
+occurred after the first dose of study drug also will be presented. Data for patients with Grade 
+3 or 4 chemistry values will be listed. 
+
+8.5  Steering Committee 
+
+The conduct of this trial will be overseen by a Steering Committee, presided by the Principal 
+Investigator (PI) and representative Regional Investigators from countries participating in 
+this study.  Functions of the Steering Committee include, but are not limited to, assessing 
+reports provided on compliance with the protocol by participating sites, monitoring patient 
+enrollment, and evaluating the appropriateness of continuing or stopping the study.  The 
+Steering Committee will serve in an advisory capacity to the Sponsor.   
+
+The Steering Committee will meet periodically to discuss the progress of the study, as well as 
+based on need, as assessed by the sponsor.  The Steering Committee meetings shall include 
+the study PI or his designee and require two thirds of its constituency to be present in order to 
+approve recommendations affecting the study.  The Steering Committee meetings will 
+include the presence of medical representatives from the Sponsor, who shall have voice but 
+no vote in the development of recommendations to the Sponsor. 
+9  ETHICAL, LEGAL, AND ADMINISTRATIVE ASPECTS 
+9.1  Ethics 
+
+9.1.1 
+
+Institutional Review Board (IRB) or Independent Ethics Committee (IEC) 
+Approval 
+
+Before study initiation, this protocol and informed consent form will be submitted for review 
+and approval to the IRB/EC charged with this responsibility. In addition, any form of 
+proposed advertising and advertising text for patient recruitment must be reviewed and 
+approved by Abraxis prior to submission to the IRB/EC. The Investigator will forward to 
+Abraxis or sponsor-nominated designee a copy of the IRB/EC’s approval of this protocol, 
+any amendments informed consent form, and any modifications to the informed consent, 
+based on the FDA regulations set forth in 21 CFR 56, as well as those of the applicable 
+regulatory bodies in all other participating countries outside of the U.S.  
+
+Confidential 
+ 
+
+Page 61 
+
+ 
+ 
+ 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+In addition, the Investigator will be responsible for forwarding to Abraxis or sponsor-
+nominated designee a description of the IRB/EC board members (including profession and 
+affiliation) or a US Department of Health and Human Services (DHHS) General Assurance 
+number and expiration date. If neither of these is available, the chairperson must submit a 
+statement indicating that the members of the board responsible for the review meet FDA and 
+other appropriate regulatory requirements. In addition, the labeling for all approved study 
+drugs should be submitted to the IRB/EC for informational purposes. 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Clinical supplies will not be shipped to the clinical site until IRB/EC approval is obtained for 
+the protocol and the informed consent form. Any existing amendments, informed consent, 
+and photocopies of the approved documents must be received by Abraxis or other sponsor-
+nominated designee prior to drug shipment. 
+
+The Investigator will be responsible for obtaining annual approval/renewal of the IRB/EC 
+throughout the duration of the study. Copies of the Investigator’s reports and the IRB/EC’s 
+continuance of approval must be sent to Abraxis BioScience. 
+
+9.1.2 
+
+Ethical Conduct of the Study 
+
+This study will be conducted in compliance with the protocol, Good Clinical Practice (GCP), 
+Guidelines of the International Conference on Harmonization (ICH) of Technical 
+Requirements for Registration of Pharmaceuticals for Human Use, and in full compliance 
+with the World Medical Association Declaration of Helsinki and its most recent 
+amendments. 
+
+9.1.3 
+
+Informed Consent 
+
+Written informed consent of the patient to participate in the study must be obtained and 
+documented by the Investigator in accordance with the FDA Regulations set forth in 21 CFR 
+50 as well as the applicable regulatory bodies in all other participating countries outside the 
+United States.  
+
+The Investigator must provide the patient with a copy of the consent form, which is in a 
+language understandable to the patient.  Written consent should be obtained before any 
+protocol-required procedures are performed, including any procedure not part of normal 
+patient care (e.g., withdrawal of current medications). 
+
+Once the participating site has formulated a draft informed consent, it must be forwarded to 
+the Abraxis or sponsor-nominated Project Manager for approval prior to submission to the 
+corresponding IRB/EC. A copy of the signed informed consent will be given to the patient or 
+their legal representative and a copy must be retained in the Investigator’s study records.  
+
+Confidential 
+ 
+
+Page 62 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+9.2  Disclosure of Data 
+
+9.2.1 
+
+Confidentiality 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+The Investigator and any other study personnel involved in this study shall not disclose, or 
+use for any purposes (other than for the performance of this study), any data, records, or 
+other information (hereinafter collectively “information”) disclosed to the Investigator or 
+other study personnel. Such information shall remain the confidential and proprietary 
+property of Abraxis, and shall be disclosed only to the Investigator or other designated study 
+personnel. The obligation of non-disclosure shall not apply to the following: 
+•  relevant disclosure to potential study participants for the purpose of obtaining informed 
+•  information after such time that it is or becomes publicly available through no fault of the 
+•  information after such time that it is disclosed to the Investigator by a third party entitled 
+
+Investigator or other study personnel; and, 
+
+consent; 
+
+to disclose such information. 
+
+ 
+If the study site is a ‘covered site’ under the definitions of the Health Insurance Portability 
+and Accounting Act (HIPAA), the Investigator will ensure that the patient consents to the use 
+of data by Abraxis and its designees for the purposes of regulatory submissions, study 
+publications and drug approval. 
+
+In compliance with ICH GCP Guidelines, it is required that the Investigator and institution 
+permit authorized representatives of the company, of the regulatory agency(s), and the 
+IRB/EC direct access to review the subject’s original medical records for verification of 
+study related procedures and data. Direct access includes examining, analyzing, verifying, 
+and reproducing any records and reports that are important to the evaluation of the study. The 
+Principal Investigator is obligated to inform and obtain the consent of the subject to permit 
+named representatives to have access to his/her study-related records without violating the 
+confidentiality of the subject. 
+
+9.2.2 
+
+Publication 
+
+Data from any individual center must not be published or presented until the complete 
+multicenter study has been published or presented in full. Any subsequent publications 
+should refer to the published multicenter findings. Any proposed subsequent publication or 
+presentation must be first reviewed and approved in writing by Abraxis. Abraxis shall 
+complete its review within 60 days after receipt of the proposed publication or presentation. 
+Upon Abraxis’ request, proposed publication or presentation will be delayed up to 60 
+additional days to enable Abraxis to secure adequate intellectual property protection of 
+property of Abraxis that would be affected by such proposed publication or presentation. If 
+Abraxis believes in good faith that any proposed publication or presentation contains any 
+Confidential Information and/or Intellectual Property, Abraxis shall have the right to remove 
+references to any such Confidential Information and/or Intellectual Property. 
+
+Confidential 
+ 
+
+Page 63 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+9.3 
+
+Investigator Documentation  
+
+ 
+ 
+ 
+
+9.3.1 
+
+Form FDA 1572 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+The Investigator must provide Abraxis with a fully executed Form FDA 1572 and all 
+updates, on a new fully executed Form FDA 1572.  
+
+9.3.2 
+
+Curriculum Vitae  
+
+The Investigator must provide Abraxis with his/her current dated curriculum vitae and a 
+current dated curriculum vitae for each sub-Investigator listed on Form FDA 1572. Current 
+dated curriculum vitae is defined as updated within two years of study start up. 
+
+9.3.3 
+
+Financial Disclosure 
+
+The Investigator and Sub-Investigator(s) must complete a Clinical Investigator Financial 
+Certification/Disclosure Statement to report financial interests and arrangements that may be 
+of concern to FDA in accordance with 21 CFR 54. 
+
+9.3.4 
+
+Laboratory Certification and Normal Ranges  
+
+The Investigator will indicate on the Form FDA 1572 the name and location of any local or 
+central laboratories that will be used for laboratory assessments. The Investigator will 
+provide a copy of all clinical laboratory certifications, certification numbers, dates of 
+certifications, and a list of the normal ranges for all laboratory tests for all facilities listed. 
+Updated versions of these documents must be provided to Abraxis or sponsor-nominated 
+designee as appropriate. In the event the clinical laboratory is changed during the study, 
+Abraxis will be promptly notified, and the Form FDA 1572 will be updated. Appropriate 
+documentation will be submitted to Abraxis to verify the certification of the new laboratory. 
+
+9.3.5 
+
+Records Retention  
+
+In accordance with applicable regulatory requirements, following closure of the study, the 
+Investigator will maintain a copy of all site study records in a safe and secure location. 
+Abraxis will inform the Investigator of the time period for retaining these records in order to 
+comply with applicable regulatory requirements. 
+
+Completed original CRFs, which are dated and signed by the Investigator, and any resolved 
+query reports will be retained by Abraxis. A copy of each completed CRF and each signed 
+resolved query report must be retained at the investigational site. 
+
+Should the Investigator wish to assign the study records to another party or move them to 
+another location, he/she must notify Abraxis BioScience in writing of the new responsible 
+person and/or the new location. 
+
+Abraxis reserves the right to terminate the study for refusal of the Investigator and/or 
+investigational site to comply with any requirements stated in this study protocol. 
+
+Confidential 
+ 
+
+Page 64 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+9.3.6 
+
+Protocol Deviations 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Apart from the regulatory requirements, it is vital to the success of the study that the 
+Investigator adheres to the details of the protocol and thus holds to a minimum the number of 
+cases, which may be later classified as “incomplete,” “unusable,” or “not evaluable.” 
+10  TERMINATION OF STUDY 
+
+Abraxis reserves the right to discontinue this study at any time.  
+11  INVESTIGATOR'S PROTOCOL AGREEMENT 
+
+The Investigator must sign the Investigator’s Protocol Agreement. The original must be kept 
+on file at Abraxis or with a sponsor-nominated designee and the Investigator must retain a 
+copy. The completed Investigator's Protocol Agreement signifies agreement to comply with 
+all procedures outlined by this protocol by the Investigator. An Investigator’s Protocol 
+Agreement must be signed if and when a protocol amendment is issued by Abraxis. 
+
+Confidential 
+ 
+
+Page 65 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+12  REFERENCES 
+1.  Jemal A, Siegel R, Ward E, et al. Cancer statistics, 2008. CA Cancer J Clin. 2008;58:71-
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+96. 
+
+2.  Burris HA, Moore MJ, Andersen J, et al. Improvements in Survival and Clinical Benefit 
+With Gemcitabine as First-Line Therapy for Patients With Advanced Pancreas Cancer: A 
+Randomized Trial. J Clin Oncol. 1997;15: 2403-2413. 
+
+3.  Moore MJ, Goldstein D, Hamm J, et al. Erlotinib Plus Gemcitabine Compared With 
+
+Gemcitabine Alone in Patients With Advanced Pancreatic Cancer: A Phase III Trial of 
+the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol. 
+2007;25:1960-1966. 
+
+4.  Okada S, Sakata Y, Matsuno S, et al. Phase II study of docetaxel in patients with 
+
+metastatic pancreatic cancer: a Japanese cooperative study. Br J Cancer 1999;80:438-443. 
+
+5.  Rougier P, De Forni M, Adenis A, et al. Phase II study of Taxotere® (RP56976, 
+
+docetaxel) in pancreatic adenocarcinoma. Proc Am Soc Clin Oncol 1994;13:200a. 
+
+6.  Androulakis N, Kourousis C, Dimopoulos MA, et al. Treatment of pancreatic cancer with 
+
+docetaxel and granulocyte colonystimulating factor: a multicenter phase II study. J Clin 
+Oncol 1999;17:1779-1785. 
+
+7.  Rougier P, Adenis A, Ducreux M, et al. A phase II study: docetaxel as first-line 
+
+chemotherapy for advanced pancreatic adenocarcinoma. Eur J Cancer 2000;36:1016-
+1025. 
+
+8.  Androulakis N, Stathopoulos G, Tsavaris N, et al. First-line treatment with docetaxel and 
+
+gemcitabine in patients with inoperable pancreatic cancer: a multicenter phase II study 
+[abstract]. Eur J Cancer 1999;35:S142-S143. 
+
+9.  Jacobs AD, Otero H, Picozzi V, et al. Gemcitabine (G) and Taxotere® (T) in patients 
+
+with unresectable pancreatic carcinoma. Proc Am Soc Clin Oncol 1999;18:1103A. 
+
+10. Whitehead RP, Jacobson J, Brown TD et al. Phase II trial of paclitaxel and granulocyte 
+colony-stimulating factor in patients with pancreatic carcinoma: a Southwest Oncology 
+Group study. J Clin Oncol 1997;15:2414-2419. 
+
+11. Fine RL, Fogelman DR, Sherman W, et al. The GTX regimen: a biochemically 
+
+synergistic combination for advanced pancreatic cancer (PC). Proc Am Soc Clin Oncol. 
+2003;22:281 (Abstract 1129). 
+
+12. Lohr M, Haas S, Bechstein W-O, et al. 12-month survival data of phase II trail: first line 
+
+treatment of inoperable pancreatic adenocarcinoma with cationic lipid complexed 
+paclitaxel nanoparticles (ENDOTAG-1®) plus gemcitabine compared with gemcitabine 
+monotherapy. Ann Oncol 2008;19 (Suppl 8):viii2-3. 
+
+13. Guweidhi A, Kleef J, Adwan H, et al. Osteonectin influences growth and invasion of 
+
+pancreatic cancer cells. Annals of Surgery 2005;242:224-234. 
+
+14. Von Hoff DD, Borad M, Ramanathan RK, et al.  Promising clinical activity of a NAB 
+
+paclitaxel plus gemcitabine combination in a disease-specific phase I trial in patients with 
+advanced pancreatic cancer. 2008 AACR Annual Meeting, April 12-16 2008, San Diego, 
+CA; abstr 4179. 
+
+15. Ko AH, Hwang J, Venook AP, Abbruzzese JL, Bergsland EK, Tempero MA. Serum 
+
+CA19-9 response as a surrogate for clinical outcome in patients receiving fixed-dose rate 
+gemcitabine for advanced pancreatic cancer. Br J Cancer 2005;93:195-9. 
+
+Confidential 
+ 
+
+Page 66 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+16. Park BB, Park JO, Lee HR, et al. A phase II trial of gemcitabine plus capecitabine for 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+ 
+ 
+
+patients with advanced pancreatic adenocarcinoma. Cancer Chemother Pharmacol. 
+2007;60:489-94. 
+
+17. Boeck S, Stieber P, Holdenrieder S, Wilkowski R, Heinemann V. Prognostic and 
+
+therapeutic significance of carbohydrate antigen 19-9 as tumor marker in patients with 
+pancreatic cancer. Oncology 2006;70:255-64. Review. 
+
+18. Tempero M et al.  Chemotherapy of Pancreatic Cancer. In Reber, H (ed.): Pancreatic 
+
+Cancer: Pathogenesis, Diagnosis, and Treatment. Humana Press, 1998, 347 pp, Chapter 
+15, Page 266. 
+
+19. Desai N, Trieu V, et al. Increased antitumor activity, intratumor paclitaxel concentrations, 
+
+and endothelial cell transport of cremophor-free, albumin-bound paclitaxel, ABI-007, 
+compared with cremophor-based paclitaxel. Clin Cancer Res 2006;12:1317-24. 
+
+20. Gradishar WJ, Tjulandin S, Davidson N, et al. Phase III trial of nanoparticle albumin-
+
+bound paclitaxel compared with polyethylated castor oil-based paclitaxel in women with 
+breast cancer. J Clin Oncol. 2005 1;23:7794-803. 
+
+21. Smith LS, Drengler RL, et al. SPARC and CA19-9 as biomarkers in patients with 
+
+advanced pancreatic cancer treated with nab paclitaxel plus gemcitabine [abstr 15592]. 
+Annual Meeting for the American Society of Clinical Oncology (ASCO) 2008. 
+
+22. Therasse P, Arbuck SG, Eisenhauer EA, et al. New guidelines to evaluate the response to 
+
+treatment in solid tumors. J Natl Cancer Inst. 2000;92:205-216. 
+
+23. Young H et al. Measurement of clinical and subclinical tumour response using [18F]-
+
+fluorodeoxyglucose and positron emission tomography: review and 1999 EORTC 
+recommendations. European Organization for Research and Treatment of Cancer 
+(EORTC) PET Study Group. Eur J Cancer 1999;35:1773-1782. 
+
+24. Hochberg Y. A sharper Bonferroni procedure for multiple tests of significance. 
+
+Biometrika 1988;75:800-803. 
+
+Confidential 
+ 
+
+Page 67 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Appendix 1 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Guidelines for Reporting Adverse Drug Reactions 
+
+Confidential 
+ 
+
+Page 68 
+
+(cid:167) (cid:51)(cid:49)(cid:50)(cid:46)(cid:51)(cid:49)
+
+(cid:50)(cid:49)(cid:32)(cid:67)(cid:70)(cid:82)(cid:32)(cid:67)(cid:104)(cid:46)(cid:32)(cid:73)(cid:32)(cid:40)(cid:52)(cid:177)(cid:49)(cid:177)(cid:48)(cid:48)(cid:32)(cid:69)(cid:100)(cid:105)(cid:116)(cid:105)(cid:111)(cid:110)(cid:41)
+
+amendment  to  the  IND  that  the  spon-
+sor  relies  on  to  support  any  clinically
+significant  change 
+in  the  new  or
+amended  protocol.  If  the  reference  is
+made  to  supporting  information  al-
+ready  in  the  IND,  the  sponsor  shall
+identify  by  name,  reference  number,
+volume,  and  page  number  the  location
+of the information.
+
+(3) If the sponsor desires FDA to com-
+ment  on  the  submission,  a  request  for
+such  comment  and  the  specific  ques-
+tions FDA’s response should address.
+
+(e)  When  submitted.  A  sponsor  shall
+submit  a  protocol  amendment  for  a
+new  protocol  or  a  change  in  protocol
+before  its  implementation.  Protocol
+amendments to add a new investigator
+or  to  provide  additional  information
+about  investigators  may  be  grouped
+and  submitted  at  30-day  intervals.
+When several submissions of new proto-
+cols  or  protocol  changes  are  antici-
+pated  during  a  short  period,  the  spon-
+sor  is  encouraged,  to  the  extent  fea-
+sible,  to  include  these  all  in  a  single
+submission.
+
+(Collection  of  information  requirements  ap-
+proved  by  the  Office  of  Management  and
+Budget under control number 0910–0014)
+[52  FR  8831,  Mar.  19,  1987,  as  amended  at  52
+FR  23031,  June  17,  1987;  53  FR  1918,  Jan.  25,
+1988; 61 FR 51530, Oct. 2, 1996]
+
+§ 312.31 Information amendments.
+
+(a) Requirement for information amend-
+ment.  A  sponsor  shall  report  in  an  in-
+formation  amendment  essential  infor-
+mation  on  the  IND  that  is  not  within
+the  scope  of  a  protocol  amendment,
+IND  safety  reports,  or  annual  report.
+Examples  of  information  requiring  an
+information amendment include:
+
+(1)  New  toxicology,  chemistry,  or
+
+other technical information; or
+
+(2) A report regarding the discontinu-
+
+ance of a clinical investigation.
+
+(b)  Content  and  format  of  an  informa-
+tion amendment. An information amend-
+ment  is  required  to  bear  prominent
+identification of its contents (e.g., ‘‘In-
+formation  Amendment:  Chemistry,
+Manufacturing,  and  Control’’,  ‘‘Infor-
+mation  Amendment:  Pharmacology-
+Toxicology’’, 
+‘‘Information  Amend-
+ment:  Clinical’’),  and  to  contain  the
+following:
+
+(1)  A  statement  of  the  nature  and
+
+purpose of the amendment.
+
+(2)  An  organized  submission  of  the
+data  in  a  format  appropriate  for  sci-
+entific review.
+
+(3) If the sponsor desires FDA to com-
+ment on an information amendment, a
+request for such comment.
+
+submitted. 
+
+(c)  When 
+
+Information
+amendments to the IND should be sub-
+mitted  as  necessary  but,  to  the  extent
+feasible, not more than every 30 days.
+
+(Collection  of  information  requirements  ap-
+proved  by  the  Office  of  Management  and
+Budget under control number 0910–0014)
+[52  FR  8831,  Mar.  19,  1987,  as  amended  at  52
+FR  23031,  June  17,  1987;  53  FR  1918,  Jan.  25,
+1988]
+
+§ 312.32 IND safety reports.
+
+(a)  Definitions.  The  following  defini-
+
+tions of terms apply to this section:–
+
+Associated  with  the  use  of  the  drug.
+There  is  a  reasonable  possibility  that
+the  experience  may  have  been  caused
+by the drug.
+
+Disability. A substantial disruption of
+a  person’s  ability  to  conduct  normal
+life functions.
+
+Life-threatening  adverse  drug  experi-
+ence. Any adverse drug experience that
+places  the  patient  or  subject,  in  the
+view  of  the  investigator,  at  immediate
+risk of death from the reaction as it oc-
+curred,  i.e.,  it  does  not  include  a  reac-
+tion that, had it occurred in a more se-
+vere form, might have caused death.
+
+Serious  adverse  drug  experience:  Any
+adverse  drug  experience  occurring  at
+any dose that results in any of the fol-
+lowing  outcomes:  Death,  a  life-threat-
+ening  adverse  drug  experience,  inpa-
+tient hospitalization or prolongation of
+existing hospitalization, a persistent or
+significant  disability/incapacity,  or  a
+congenital  anomaly/birth  defect.  Im-
+portant  medical  events  that  may  not
+result  in  death,  be  life-threatening,  or
+require  hospitalization  may  be  consid-
+ered  a  serious  adverse  drug  experience
+when,  based  upon  appropriate  medical
+judgment, they may jeopardize the pa-
+tient  or  subject  and  may  require  med-
+ical or surgical intervention to prevent
+one of the outcomes listed in this defi-
+nition.  Examples  of  such  medical
+events  include  allergic  bronchospasm
+requiring  intensive  treatment  in  an
+emergency  room  or  at  home,  blood
+dyscrasias  or  convulsions  that  do  not
+result  in  inpatient  hospitalization,  or
+
+70
+
+VerDate 18<APR>2000 13:58 Apr 20, 2000 Jkt 190065 PO 00000 Frm 00070 Fmt 8010 Sfmt 8010 Y:\SGML\190065T.XXX pfrm02 PsN: 190065T
+
+(cid:70)(cid:111)(cid:111)(cid:100)(cid:32)(cid:97)(cid:110)(cid:100)(cid:32)(cid:68)(cid:114)(cid:117)(cid:103)(cid:32)(cid:65)(cid:100)(cid:109)(cid:105)(cid:110)(cid:105)(cid:115)(cid:116)(cid:114)(cid:97)(cid:116)(cid:105)(cid:111)(cid:110)(cid:44)(cid:32)(cid:72)(cid:72)(cid:83)
+
+(cid:167) (cid:51)(cid:49)(cid:50)(cid:46)(cid:51)(cid:50)
+
+the development of drug dependency or
+drug abuse.
+
+Unexpected  adverse  drug  experience:
+Any adverse drug experience, the speci-
+ficity  or  severity  of  which  is  not  con-
+sistent  with  the  current  investigator
+brochure;  or,  if  an  investigator  bro-
+chure  is  not  required  or  available,  the
+specificity  or  severity  of  which  is  not
+consistent  with  the  risk  information
+described  in  the  general  investiga-
+tional plan or elsewhere in the current
+application,  as  amended.  For  example,
+under  this  definition,  hepatic  necrosis
+would  be  unexpected  (by  virtue  of
+greater  severity)  if  the  investigator
+brochure  only  referred  to  elevated  he-
+patic  enzymes  or  hepatitis.  Similarly,
+cerebral  thromboembolism  and  cere-
+bral vasculitis would be unexpected (by
+virtue  of  greater  specificity)  if  the  in-
+vestigator  brochure  only  listed  cere-
+bral vascular accidents. ‘‘Unexpected,’’
+as  used  in  this  definition,  refers  to  an
+adverse  drug  experience  that  has  not
+been previously observed (e.g., included
+in  the  investigator  brochure)  rather
+than from the perspective of such expe-
+rience  not  being  anticipated  from  the
+pharmacological  properties  of 
+the
+pharmaceutical product.
+
+(b)  Review  of  safety  information.  The
+sponsor shall promptly review all infor-
+mation  relevant  to  the  safety  of  the
+drug obtained or otherwise received by
+the sponsor from any source, foreign or
+domestic,  including  information  de-
+rived from any clinical or epidemiolog-
+ical  investigations,  animal  investiga-
+tions,  commercial  marketing  experi-
+ence,  reports  in  the  scientific  lit-
+erature,  and  unpublished  scientific  pa-
+pers,  as  well  as  reports  from  foreign
+regulatory  authorities  that  have  not
+already been previously reported to the
+agency by the sponsor.
+
+(c)  IND  safety  reports.  (1)  Written  re-
+ports—(i) The sponsor shall notify FDA
+and all participating investigators in a
+written IND safety report of:
+
+(A)  Any  adverse  experience  associ-
+ated  with  the  use  of  the  drug  that  is
+both serious and unexpected; or
+
+(B) Any finding from tests in labora-
+tory  animals  that  suggests  a  signifi-
+cant risk for human subjects including
+reports 
+mutagenicity,
+teratogenicity, 
+carcinogenicity.
+Each notification shall be made as soon
+
+or 
+
+of 
+
+as  possible  and  in  no  event  later  than
+15 calendar days after the sponsor’s ini-
+tial  receipt  of  the  information.  Each
+written  notification  may  be  submitted
+on  FDA  Form  3500A  or  in  a  narrative
+format  (foreign  events  may  be  sub-
+mitted  either  on  an  FDA  Form  3500A
+or, if preferred, on a CIOMS I form; re-
+ports  from  animal  or  epidemiological
+studies  shall  be  submitted  in  a  nar-
+rative  format)  and  shall  bear  promi-
+nent identification of its contents, i.e.,
+‘‘IND Safety Report.’’ Each written no-
+tification  to  FDA  shall  be  transmitted
+to the FDA new drug review division in
+the Center for Drug Evaluation and Re-
+search  or  the  product  review  division
+in  the  Center  for  Biologics  Evaluation
+and  Research  that  has  responsibility
+for  review  of  the  IND.  If  FDA  deter-
+mines that additional data are needed,
+the agency may require further data to
+be submitted.
+
+(ii)  In  each  written  IND  safety  re-
+port, the sponsor shall identify all safe-
+ty  reports  previously  filed  with  the
+IND concerning a similar adverse expe-
+rience,  and  shall  analyze  the  signifi-
+cance of the adverse experience in light
+of the previouos, similar reports.
+
+(2)  Telephone  and  facsimile  trans-
+mission safety reports. The sponsor shall
+also notify FDA by telephone or by fac-
+simile  transmission  of  any  unexpected
+fatal  or  life-threatening  experience  as-
+sociated  with  the  use  of  the  drug  as
+soon  as  possible  but  in  no  event  later
+than  7  calendar  days  after  the  spon-
+sor’s initial receipt of the information.
+Each telephone call or facsimile trans-
+mission to FDA shall be transmitted to
+the  FDA  new  drug  review  division  in
+the Center for Drug Evaluation and Re-
+search  or  the  product  review  division
+in  the  Center  for  Biologics  Evaluation
+and  Research  that  has  responsibility
+for review of the IND.
+
+(3) Reporting format or frequency. FDA
+may  request  a  sponsor  to  submit  IND
+safety  reports  in  a  format  or  at  a  fre-
+quency  different  than  that  required
+under this paragraph. The sponsor may
+also  propose  and  adopt  a  different  re-
+porting  format  or  frequency  if  the
+change  is  agreed  to  in  advance  by  the
+director  of  the  new  drug  review  divi-
+sion in the Center for Drug Evaluation
+and  Research  or  the  director  of  the
+products  review  division  in  the  Center
+
+71
+
+VerDate 18<APR>2000 13:58 Apr 20, 2000 Jkt 190065 PO 00000 Frm 00071 Fmt 8010 Sfmt 8010 Y:\SGML\190065T.XXX pfrm02 PsN: 190065T
+
+(cid:167) (cid:51)(cid:49)(cid:50)(cid:46)(cid:51)(cid:51)
+
+(cid:50)(cid:49)(cid:32)(cid:67)(cid:70)(cid:82)(cid:32)(cid:67)(cid:104)(cid:46)(cid:32)(cid:73)(cid:32)(cid:40)(cid:52)(cid:177)(cid:49)(cid:177)(cid:48)(cid:48)(cid:32)(cid:69)(cid:100)(cid:105)(cid:116)(cid:105)(cid:111)(cid:110)(cid:41)
+
+for  Biologics  Evaluation  and  Research
+which  is  responsible  for  review  of  the
+IND.
+
+(4)  A  sponsor  of  a  clinical  study  of  a
+marketed drug is not required to make
+a  safety  report  for  any  adverse  experi-
+ence  associated  with  use  of  the  drug
+that  is  not  from  the  clinical  study
+itself.
+
+(d)  Followup.  (1)  The  sponsor  shall
+promptly  investigate  all  safety  infor-
+mation received by it.
+
+(2)  Followup  information  to  a  safety
+report  shall  be  submitted  as  soon  as
+the relevant information is available.
+
+(3) If the results of a sponsor’s inves-
+tigation show that an adverse drug ex-
+perience not initially determined to be
+reportable  under  paragraph  (c)  of  this
+section  is  so  reportable,  the  sponsor
+shall  report  such  experience  in  a  writ-
+ten  safety  report  as  soon  as  possible,
+but  in  no  event  later  than  15  calendar
+days after the determination is made.
+
+(4)  Results  of  a  sponsor’s  investiga-
+tion  of  other  safety  information  shall
+be  submitted,  as  appropriate,  in  an  in-
+formation  amendment  or  annual  re-
+port.
+
+(e)  Disclaimer.  A  safety  report  or
+other information submitted by a spon-
+sor under this part (and any release by
+FDA  of  that  report  or  information)
+does  not  necessarily  reflect  a  conclu-
+sion by the sponsor or FDA that the re-
+port  or  information  constitutes  an  ad-
+mission  that  the  drug  caused  or  con-
+tributed  to  an  adverse  experience.  A
+sponsor need not admit, and may deny,
+that  the  report  or  information  sub-
+mitted  by  the  sponsor  constitutes  an
+admission that the drug caused or con-
+tributed to an adverse experience.
+
+(Collection  of  information  requirements  ap-
+proved  by  the  Office  of  Management  and
+Budget under control number 0910–0014)
+[52  FR  8831,  Mar.  19,  1987,  as  amended  at  52
+FR  23031,  June  17,  1987;  55  FR  11579,  Mar.  29,
+1990; 62 FR 52250, Oct. 7, 1997]
+
+§ 312.33 Annual reports.
+
+A sponsor shall within 60 days of the
+anniversary  date  that  the  IND  went
+into effect, submit a brief report of the
+progress  of  the  investigation  that  in-
+cludes:
+
+(a)  Individual  study  information.  A
+brief  summary  of  the  status  of  each
+study  in  progress  and  each  study  com-
+
+72
+
+pleted  during  the  previous  year.  The
+summary is required to include the fol-
+lowing information for each study:
+
+(1)  The  title  of  the  study  (with  any
+appropriate  study  identifiers  such  as
+protocol  number),  its  purpose,  a  brief
+statement  identifying  the  patient  pop-
+ulation, and a statement as to whether
+the study is completed.
+
+(2)  The  total  number  of  subjects  ini-
+tially  planned  for  inclusion  in  the
+study;  the  number  entered  into  the
+study  to  date,  tabulated  by  age  group,
+gender,  and  race;  the  number  whose
+participation  in  the  study  was  com-
+pleted as planned; and the number who
+dropped  out  of  the  study  for  any  rea-
+son.
+
+(3)  If  the  study  has  been  completed,
+or if interim results are known, a brief
+description  of  any  available  study  re-
+sults.
+
+(b)  Summary  information.  Information
+obtained  during  the  previous  year’s
+clinical and nonclinical investigations,
+including:
+
+(1)  A  narrative  or  tabular  summary
+showing  the  most  frequent  and  most
+serious  adverse  experiences  by  body
+system.
+
+(2)  A  summary  of  all  IND  safety  re-
+
+ports submitted during the past year.
+
+(3) A list of subjects who died during
+participation in the investigation, with
+the cause of death for each subject.
+
+(4) A list of subjects who dropped out
+during  the  course  of  the  investigation
+in association with any adverse experi-
+ence,  whether  or  not  thought  to  be
+drug related.
+
+(5) A brief description of what, if any-
+thing, was obtained that is pertinent to
+an understanding of the drug’s actions,
+including,  for  example,  information
+about  dose  response,  information  from
+controlled 
+information
+about bioavailability.
+
+trails,  and 
+
+(6)  A  list  of  the  preclinical  studies
+(including  animal  studies)  completed
+or in progress during the past year and
+a  summary  of  the  major  preclinical
+findings.
+
+(7)  A  summary  of  any  significant
+or  microbiological
+
+manufacturing 
+changes made during the past year.
+
+(c) A description of the general inves-
+tigational  plan  for  the  coming  year  to
+replace  that  submitted  1  year  earlier.
+The  general  investigational  plan  shall
+
+VerDate 18<APR>2000 13:58 Apr 20, 2000 Jkt 190065 PO 00000 Frm 00072 Fmt 8010 Sfmt 8010 Y:\SGML\190065T.XXX pfrm02 PsN: 190065T
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+Appendix 3 
+
+Investigator’s Signature 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+Study Title: 
+
+A Randomized Phase III Study of Weekly ABI-007 plus 
+Gemcitabine versus Gemcitabine Alone in Patients with Metastatic 
+Adenocarcinoma of the Pancreas 
+CA046 
+12 November 2008 
+
+Study Number: 
+Final Date: 
+Amendment 1 Date:  N/A 
+I confirm that my staff and I have carefully read and understand this protocol, and agree to 
+comply with the procedures and terms of the study specified herein.  In particular, I/we have 
+agreed to: 
+•  abide by all obligations stated on FDA Form 1572 and other local regulatory authority 
+•  retain records and documents related to this trial for at least two years after the last 
+
+required document(s). 
+
+approval of a marketing application in an ICH region and until there are no pending or 
+contemplated marketing applications in an ICH region or at least two years have elapsed 
+since the formal discontinuation of clinical development of the investigational product. 
+•  comply with Good Clinical Practice (GCP) and all applicable regulatory requirements. 
+•  maintain confidentiality and assure security of Abraxis BioScience, Inc. (Abraxis) 
+•  obtain IRB/EC approval of the protocol, any amendments to the protocol, and periodic 
+
+confidential documents. 
+
+re-approval as required, and to keep the IRB/EC informed of adverse events and 
+periodically report the status of the study to them. 
+
+•  not to implement any deviations from or changes to the protocol without agreement from 
+
+the sponsor and prior review and written approval from the IRB/EC, except where 
+necessary to eliminate an immediate hazard to the patients, or for administrative aspects 
+of the study (where permitted by all applicable regulatory requirements). 
+
+read, understands, and has signed the Informed Consent. 
+
+•  assure that each patient enrolled into the trial, or legally authorized representative has 
+•  ensure that I and all persons assisting me with the study are adequately informed and 
+trained about the investigational drug and of their study-related duties and functions as 
+described in the protocol. 
+
+•  make prompt reports of serious adverse events and deaths to within 24 hours to Abraxis. 
+•  assure access by Abraxis monitors, and/or FDA to original source documents. 
+•  prepare and maintain adequate and accurate case histories designed to record all 
+
+observations and other data pertinent to the investigation on each individual treated in the 
+investigation. 
+
+•  arrange for the transfer of appropriate data from case histories to case report forms for the 
+•  cooperate fully with any study-related GCP audit as performed by Abraxis external 
+
+collection and transmission of data to the Sponsor. 
+
+quality assurance group specified by the sponsor. 
+
+Confidential 
+ 
+
+Page 70 
+
+ABI-007 
+Clinical Trial Protocol: CA046 
+ 
+ 
+•  abide by the stipulations in the Disclosure of Data section and the manuscript 
+
+preparation/authorship guidelines established at the outset of the study. 
+
+ 
+ 
+ 
+
+Abraxis BioScience 
+12 November 2008  
+ 
+
+ 
+Signed: 
+
+ 
+
+<enter name and credentials> 
+<enter title> 
+<enter affiliation> 
+<enter address> 
+<enter phone number> 
+
+ 
+
+Date: 
+
+ 
+
+ 
+
+Confidential 
+ 
+
+Page 71 
+
+

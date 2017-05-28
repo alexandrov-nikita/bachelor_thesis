@@ -1,0 +1,155 @@
+1. Diagnosis of histologically or cytologically proven prostate 
+2. Patient must have either measurable or non measurable 
+3. Received prior castration by orchiectomy and/or Luteinizing 
+4. Life expectancy 2 months 
+5. Eastern Cooperative Oncology Group (ECOG) performance 
+6. Age 18 years 
+1. Previous treatment with mitoxantrone 
+7. Active secondary cancer including prior malignancy from which 
+8. Known brain or leptomeningeal involvement 
+11. Other concurrent serious illness or medical conditions 
+12. Inadequate organ function as evidenced by the following 
+15. Uncontrolled diabetes mellitus 
+18. Participation in another clinical trial with any investigational drug 
+19. Concurrent or planned treatment with strong inhibitors of 
+1.1 STUDY FLOWCHART 
+11.2 PROCEDURE FOR WITHDRAWAL OF PATIENTS FROM STUDY FOLLOW UP 
+15.4 USE AND COMPLETION OF CASE REPORT FORMS (CRFS) AND ADDITIONAL 
+3 LIST OF ABBREVIATIONS 
+4 INTRODUCTION AND RATIONALE 
+4.1 BACKGROUND 
+4.2 XRP6258 
+4.2.1 XRP6258 Preclinical activity 
+4.2.2 Clinical Activity of XRP6258: Available Results 
+4.2.3 Clinical PK of XRP6258: Preliminary Available Results 
+4.3 RATIONALE 
+4.3.1 Rationale for Dose Selection 
+4.3.2 Rationale for Pharmacokinetics 
+5 STUDY OBJECTIVES 
+5.1 PRIMARY 
+5.2  To compare efficacy between the two treatment arms: 
+6 STUDY DESIGN 
+6.1 DESCRIPTION OF THE PROTOCOL 
+6.2 DURATION OF STUDY PARTICIPATION 
+6.3 STUDY COMMITTEES 
+7 SELECTION OF PATIENTS 
+7.1 NUMBER OF PATIENTS PLANNED 
+7.2 INCLUSION CRITERIA 
+7.3 EXCLUSION CRITERIA 
+8 TREATMENTS 
+8.1 INVESTIGATIONAL PRODUCT (IP) 
+8.2 PACKAGING AND LABELING 
+8.3 STORAGE CONDITIONS 
+8.3.1 Mitoxantrone 
+8.3.2 Prednisone 
+8.4 PREPARATION OF INVESTIGATIONAL PRODUCT 
+8.5 DOSING REGIMEN 
+8.5.1 Dose Modifications 
+8.5.1.1 Myelosuppression 
+8.5.1.2 Allergy (Anaphylactic and Hypersensitivity reactions) 
+8.5.1.3 Nausea/Vomiting 
+8.5.1.4 Diarrhea 
+8.5.1.5 Stomatitis 
+8.5.1.6 Peripheral neuropathy 
+8.5.1.7 Liver toxicity 
+8.5.1.8 Other Toxic Effects 
+8.5.1.9 Mitoxantrone induced cardiac toxicity 
+8.6 COMPENSATION FOR LACK OF BLINDING 
+8.7 METHOD OF ASSIGNING PATIENTS TO TREATMENT GROUP 
+8.8 RESPONSIBILITIES 
+8.9 RETRIEVAL AND/OR DESTRUCTION OF TREATMENTS 
+8.10 CONCOMITANT TREATMENT 
+8.11 TREATMENT ACCOUNTABILITY AND COMPLIANCE 
+9 ASSESSMENT OF INVESTIGATIONAL PRODUCT 
+9.1 EFFICACY 
+9.1.1.1 Overall Survival 
+9.1.2 Secondary criteria 
+9.1.2.1 Prostate Specific Antigen 
+9.1.2.2 Tumor Lesion Assessment 
+9.1.2.3 Progression Free Survival 
+9.1.2.4 Pain 
+9.2 SAFETY 
+9.3 PHARMACOKINETICS 
+9.3.1 Sampling time 
+9.3.2 PK handling procedure 
+9.3.3 Bioanalytical method 
+10 PATIENT SAFETY 
+10.1 SAFETY ENDPOINTS ASSESSED IN THIS TRIAL 
+10.2 ADVERSE EVENTS MONITORING 
+10.3 DEFINITIONS OF ADVERSE EVENT (AE) AND SERIOUS ADVERSE EVENT (SAE) 
+10.4 OBLIGATION OF THE INVESTIGATOR REGARDING SAFETY REPORTING 
+10.5 OBLIGATIONS OF THE SPONSOR 
+11 HANDLING OF PATIENT TEMPORARY OR DEFINITIVE 
+11.1 DEFINITIVE TREATMENT DISCONTINUATION WITH INVESTIGATIONAL 
+11.1.1 List of criteria for definitive treatment discontinuation 
+11.1.2 Handling of patients after definitive treatment discontinuation 
+11.2 PROCEDURE FOR WITHDRAWAL OF PATIENTS FROM STUDY FOLLOW UP 
+12 STUDY PROCEDURES 
+12.1 VISIT SCHEDULE 
+12.1.1.1 Day 28 to Randomization/initial dose of study drug 
+12.1.2 Study Days 
+12.1.3 End of treatment / withdrawal 
+12.1.4 Post treatment follow up (survival or long term follow up) 
+12.2 DEFINITION OF SOURCE DATA 
+13 STATISTICAL CONSIDERATIONS 
+13.1 SAMPLE SIZE DETERMINATION 
+13.2 ANALYSIS VARIABLES 
+13.2.1 Demographic and baseline characteristics 
+13.2.2 Efficacy variables 
+13.2.2.1 Primary efficacy variable 
+13.2.2.2 Secondary efficacy variables 
+13.2.3 Safety variables 
+13.2.4 Pharmacokinetic variables 
+13.3 ANALYSIS POPULATIONS 
+13.3.1 Efficacy populations 
+13.3.1.2 Clinical Trial Protocol deviations 
+13.3.2 Safety population 
+13.3.3 Other analysis population 
+13.3.4 Disposition of patients 
+13.4 STATISTICAL METHODS 
+13.4.1 Demographic and baseline characteristics 
+13.4.1.2 Previous medications 
+13.4.2 Extent of study treatment exposure and compliance 
+13.4.3 Analysis of efficacy variables 
+13.4.3.1 Analysis of primary efficacy variable 
+13.4.3.2 Analysis of secondary efficacy variables 
+13.4.4 Analysis of safety data 
+13.4.4.1 Adverse Events 
+13.4.4.2 Laboratory safety data 
+13.4.5 Analyses of pharmacokinetic variables 
+13.4.5.1 Sample size determination for Pharmacokinetics 
+13.4.5.2 Population PK model 
+13.4.5.3 Statistical on PK parameters 
+13.5 DATA HANDLING CONVENTIONS 
+13.6 INTERIM ANALYSIS 
+14 ETHICAL AND REGULATORY STANDARDS 
+14.1 ETHICAL PRINCIPLES 
+14.2 LAWS AND REGULATIONS 
+14.3 INFORMED CONSENT 
+14.4 INSTITUTIONAL REVIEW BOARD/INDEPENDENT ETHICS COMMITTEE (IRB/IEC) 
+15 STUDY MONITORING 
+15.1 RESPONSIBILITIES OF THE INVESTIGATOR (S) 
+15.2 RESPONSIBILITIES OF THE SPONSOR 
+15.3 SOURCE DOCUMENT REQUIREMENTS 
+15.4 USE AND COMPLETION OF CASE REPORT FORMS (CRFS) AND ADDITIONAL 
+15.5 USE OF COMPUTERIZED SYSTEMS 
+16 ADMINISTRATIVE RULES 
+16.1 CURRICULUM VITAE 
+16.2 RECORD RETENTION IN STUDY SITE(S) 
+17 CONFIDENTIALITY 
+18 PROPERTY RIGHTS 
+19 DATA PROTECTION 
+20 INSURANCE COMPENSATION 
+21 SPONSOR AUDITS AND INSPECTIONS BY REGULATORY 
+22 PREMATURE DISCONTINUATION OF THE STUDY OR 
+22.1 DECIDED BY THE SPONSOR IN THE FOLLOWING CASES: 
+22.2 DECIDED BY THE INVESTIGATOR 
+23 CLINICAL TRIAL RESULTS 
+24 PUBLICATIONS AND COMMUNICATIONS 
+25 CLINICAL TRIAL PROTOCOL AMENDMENTS 
+26 BIBLIOGRAPHIC REFERENCES 
+2. Collection/Handling/Processing of Samples 
+3. PACKAGING AND SHIPMENT OF SAMPLES 
+4. SHIPMENT CONTACT NAME AND ADDRESSES 
+1 POINT 
+4 POINTS 

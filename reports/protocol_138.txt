@@ -1,0 +1,80 @@
+Processing the protocol with id 138
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1.0 INTRODUCTION 
+I have not found anything about the rationales from titles, lets take a look for the introduction
+Rationales: NOT FOUND
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: NOT FOUND
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2.0 OBJECTIVES 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+11358	evaluate 	"... 2 To evaluate a panel of prognostic markers, in order to correlate these measures with  survival and..."
+11105	determine 	"... 1 To determine whether adjuvant treatment with MoAb 17 1A will improve the  probability of overall and..."
+11652	determine 	"... 1 To determine whether alterations in the expression of cell cycle related genes  (thymidylate synthase,..."
+11896	determine 	"... 2 To determine whether alterations in markers of metastatic potential expression of  DCC and measures of..."
+12173	determine 	"... 3 To determine whether a marker of cellular differentiation sucrase isomaltase  predicts the risk of..."
+12331	determine 	"... 4 To determine whether DNA ploidy and cell proliferation are prognostic of tumor  recurrence and overall..."
+12476	determine 	"... 5 To determine whether interactions among these tumor markers identify subsets  of patients with..."
+12714	determine 	"... 3 To determine whether pathologic features including tumor grade; tumor mitotic  (proliferation) index;..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 3.0 ELIGIBILITY CRITERIA 
+I have found neither inclusion nor exclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 13.2 Sample Size 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 4.1 Randomization 
+Maybe this information will be interesting:
+210218	will be randomized	"... trial  in stage II primary colon carcinoma. Approximately 1994 patients with stage II colon  cancer will be randomized to receive the monoclonal antibody 17 1A or observation  following potentially..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 13.0 STATISTICAL CONSIDERATIONS 
+I found the following methods:
+80432 	 logrank 	 "... comparisons will be performed using the logrank test at a one  sided 5%..."
+81631 	 logrank 	 "... ted using the  Kaplan Meier method. The logrank test will be used for..."
+82591 	 logrank 	 "... by Freidlin, et.al., show  that for the logrank test the loss of power or..."
+198721 	 logrank 	 "... ors out of 28 recurred (25%) (p=0.0012, logrank test).  These data indicate..."
+199361 	 logrank 	 "...  1 )  16 28   11 7  71%  28%  p=0.0012 (logrank test) * based on Kaplan Meier..."
+200422 	 logrank 	 "... ained tumors  recurred (19%)( p=0.0003, logrank test). The results are..."
+201061 	 logrank 	 "... sion  18 26   13 5  70%  23%  p=0.0003 (logrank test) * based on Kaplan Meier..."
+82884 	 fleming 	 "... he Lan and DeMets analog of the O Brien Fleming group  sequential boundary will..."
+85421 	 fleming 	 "...  8 30, 1995.  2. Laurie JA, Moertel CG, Fleming TR, et al. Surgical adjuvant..."
+85618 	 fleming 	 "... in Onc 7:1447 56, 1989.  3. Moertel CG, Fleming TR, Macdonald JS, et al...."
+91582 	 fleming 	 "... rectal Surg Mtg. 1993.  35. Moertel CG, Fleming TR, Macdonald JS, et al...."
+161228 	 fleming 	 "...  9581    APPENDIX III  REFERENCES    1. Fleming ID, Cooper JS, Henson DE, et..."
+246065 	 fleming 	 "... 1 2276, 1975  3. Laurie JA, Moertel CG, Fleming TR, et al. Surgical adjuvant..."
+246328 	 fleming 	 "... Oncol. 7:1447 56, 1989.  4. Moertel CG, Fleming TR, MacDonald JS, et al...."
+298530 	 fleming 	 "... r (manuscript submitted to Cancer).  2. Fleming ID, Cooper JS, Henson DE, et..."
+81606 	 kaplan meier 	 "... ent curves will be estimated using the  Kaplan Meier method. The logrank test..."
+199386 	 kaplan meier 	 "... 28%  p=0.0012 (logrank test) * based on Kaplan Meier Estimates  TS protein..."
+201086 	 kaplan meier 	 "... 23%  p=0.0003 (logrank test) * based on Kaplan Meier Estimates  p53 status was..."
+234981 	 kaplan meier 	 "... ed p27. The estimated median survival  (Kaplan Meier curve) was approximately 2..."
+204391 	 log rank 	 "... 5 5   10 Year 15 20       Page 9 of 32  Log Rank P value = 0.0002   11/15/04   ..."
+296368 	 log rank 	 "... ; 2) two years follow up; 3)  two sided log rank test; 4) exponential survival...."
+202436 	 chi square 	 "... )  23 (82%)  16 28  p 0.0001 (Pearson s chi square)  p53 and TS protein..."
+81709 	  cox  	 "... ons of time to event  distributions. The Cox proportional hazards model will be..."
+178133 	  cox  	 "... ree of invasion  through bowel wall in a Cox proportional hazards regression..."
+204468 	  cox  	 "...     CALGB 9581    APPENDIX IV  Table 4.  Cox Analysis of 65 patients with stage..."
+205377 	  cox  	 "... s whose tumors express DCC (see below):  Cox Analysis of 132 patients with..."
+233096 	  cox  	 "... .  3. Survival Analysis Methodology  The Cox proportional hazards model (129)..."
+270800 	  cox  	 "... . Psychometrica, 12:153 157, 1947.  127. Cox DR. Analysis of Binary Data,..."
+271089 	  cox  	 "... Procedures, New York, Wiley,  1987. 130. Cox DR. Regression models and life..."
+271250 	  cox  	 "... 5/04     CALGB 9581    APPENDIX IV  131. Cox DR. A note on the graphical..."
+271503 	  cox  	 "...  Andersen PK. Testing goodness of fit of Cox s regression and life model...."
+296483 	  cox  	 "... ignificance levels of 0.01 and 0.05. The Cox Regression Model will also be used..."

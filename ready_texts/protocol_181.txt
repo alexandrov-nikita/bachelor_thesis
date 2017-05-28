@@ -1,0 +1,4745 @@
+ 
+
+American College of Surgeons Oncology Group   
+
+Z0011   
+
+A randomized trial of axillary node dissection in 
+
+women with clinical T1 or T2 N0 M0 breast cancer 
+
+who have a positive sentinel node   
+
+Version A9 Activation Date: 01/13/2012 
+
+ 
+   
+
+NCI Version Date: 12/02/2011   
+
+   
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ACOSOG protocols, Case Report Forms (CRFs) and Standard Operating Procedures (SOPs) are available 
+on the ACOSOG home page for display, downloading and printing. This is the only mechanism of 
+document distribution used by ACOSOG. The Universal Resource Locator (URL) for the ACOSOG home 
+page is http://www.acosog.org. Members of ACOSOG are responsible for the compliance with ACOSOG 
+SOPs. In some cases, an ACOSOG SOP will refer to definitions and procedures defined by the Cancer 
+Therapy Evaluation Program (CTEP). The URL for CTEP is http://ctep.cancer.gov.   
+ 
+
+ACOSOG 
+
+ 
+
+Protocol Z0011 
+
+ 
+
+Contact Information 
+ 
+
+ 
+
+Study Chair 
+
+ 
+
+Disease Site 
+Committee Chair 
+
+Statisticians 
+
+Radiation Oncology 
+
+Pathology 
+
+QA Specialist 
+
+Name & Location 
+Armando E. Giuliano, MD 
+Los Angeles, CA 
+
+Kelly Hunt, MD 
+Houston, TX 
+
+Karla Ballman, PhD 
+Rochester, MN 
+ 
+Linda McCall, MS 
+Durham, NC 
+
+Beryl McCormick, MD 
+New York, NY 
+
+Richard Cote, MD 
+Miami, FL 
+
+Julie Moriarity 
+Rochester. MN 
+
+Protocol Coordinator  Susan Budinger 
+
+Durham, NC 
+
+NCCTG Investigator  Barbara Pockaj, MD 
+
+NCCTG Coordinator 
+
+NSABP Investigator 
+
+NSABP Coordinator 
+
+Scottsdale, AZ 
+
+Janis Gjervik 
+Scottsdale, AZ 
+
+Thomas Julian, MD 
+Pittsburgh, PA 
+
+Joyce Mull 
+Pittsburgh, PA 
+
+Telephone 
+Voice: 310 829 8089 
+Fax: 310 998 3995 
+
+Voice: 713 792 7216 
+Fax: 713 792 4689 
+
+Voice: 507 538 1370 
+Fax: 507 266 2477 
+ 
+Phone: 919 668 8553 
+Fax: 919-668-7122 
+
+Voice: 212 639 6828 
+Fax: 212 639 8876 
+
+Voice: 305-243-2683 
+ 
+
+Phone: 507 284 9603 
+Fax: 507 284 1150 
+
+E-mail 
+Armando.Giuliano@cshs.org 
+
+khunt@mdanderson.org 
+
+Ballman.karla@mayo.edu 
+ 
+ 
+linda.mccall@duke.edu 
+
+mccormib@mskcc.org 
+
+rcote@med.miami.edu 
+
+Moriarity.julie@mayo.edu 
+
+Phone: 919 668 9390 
+Fax: 919 668 9348 
+
+Susan.budinger@duke.edu 
+ 
+
+Voice: 480 301 6551 
+Fax: 507 284 5280 
+
+Voice: 507 284 4852 
+Fax: 507 284 5280 
+
+Voice: 412 359 8720 
+Fax: 412 359-6263 
+
+Voice: 412 330 4625 
+Fax: 412 330 4661 
+
+pockaj.barbara@mayo.edu 
+
+gjervik.janis@mayo.edu 
+
+tjulian@wpahs.org 
+
+joyce.mull@nsabp.org 
+
+The Following Groups Have Endorsed This Trial: 
+
+ 
+
+NCCTG: Co-chair Barbara Pockaj, MD 
+NSABP: Co-chair Thomas Julian, MD 
+
+ 
+ 
+ 
+All Cooperative Group members who are not aligned with ACOSOG will enroll patients to this study via the Cancer 
+Trials Support Unit (CTSU). 
+
+Copy the ACOSOG QA Specialist on all correspondence. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+For patient eligibility or treatment-related questions, send an email to the ACOSOG Study Chair(s). No exemptions or 
+waivers will be granted for patients who do not meet the eligibility criteria. 
+For forms –specific questions, send an email to the ACOSOG QA Specialist. 
+For specific statistical questions, send an email to the ACOSOG Statisticians. 
+For all other questions, contact the ACOSOG QA Specialist by phone or email. All calls and correspondence will be 
+triaged to the appropriate representative. 
+ 
+
+Z0011 A9 
+
+ 
+
+2 
+
+ACOSOG 
+
+Protocol Z0011 
+
+ACOSOG Standard Operating Procedures (SOPs)   
+
+For detailed guidelines for the conduct of this study, sites should refer to the following SOPs available from the ACOSOG 
+website at http://www.acosog.org:   
+
+SOP Name   
+
+DataSub   
+
+Death Notice   
+
+DFQC   
+ExtFU   
+
+ImageRevSub   
+
+InfCon   
+IRB App   
+
+OHRP   
+Pat Reg   
+StAmRev   
+
+Description   
+Data Submission   
+Notice of Death   
+Data Fax Quality Control   
+Extended Follow-up   
+Image Review Submission   
+Informed Consent Procedures   
+Institutional Review Board Approval   
+Applying for OHRP Assurance   
+Patient Registration   
+Study Amendments and Revisions   
+
+ 
+
+Z0011 A9 
+
+ 
+
+3 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Cancer Trials Support Unit (CTSU) Address and Contact Information   
+
+To submit site registration documents: For patient enrollments: CTSU Regulatory Office 1818 Market 
+Street, Suite 1100 Philadelphia, PA 19103 Phone - 1-888-823-5923 Fax – 215-569-0206 CTSU Data Operations 
+Center Phone – 1-888-462-3009 Fax – 1-888-691-8039 Westat CTSU Data Operations Center 1441 W. 
+Montgomery Avenue Rockville, MD 20850-2062   
+To submit study forms or data: Fax to 507-293-3575. 
+
+For patient eligibility or treatment-related questions contact the ACOSOG Study Chair and copy the 
+ACOSOG Study Coordinator. The option remains to contact CTSU Help Desk for assistance in obtaining a 
+response from the Group.   
+All other questions (including forms -specific questions) should be communicated by phone or e -mail to 
+the CTSU Help Desk at: CTSU General Information Line – 1-888-823-5923, or ctsucontact@westat.com. All 
+calls and correspondence will be triaged to the appropriate CTSU representative.   
+The CTSU Public Web site is located at: www.ctsu.org The CTSU Registered Member Web site is located 
+at http://members.ctsu.org   
+ 
+
+ 
+ 
+CTSU logistical information is found in Appendix 15.4. 
+ 
+Participants:   
+ 
+  American College of Surgeons Oncology Group (ACOSOG) Members   
+
+ 
+
+  North Central Clinical Trials Group (NCCTG) Members   
+
+  NCI Cancer Trials Support Unit (CTSU) investigators. Note that patient enrollments from North American clinical 
+sites that are not aligned with ACOSOG or NCCTG will be conducted via the Cancer Trials Support Unit (CTSU) 
+and all data should be sent to the CTSU.   
+
+ 
+The CTSU will use the ACOSOG-Z0011 protocol number as required for reporting to ACOSOG and NCI, and when 
+registering patients through the ACOSOG Registrar.    CTSU participants and institutions will be instructed to use the 
+ACOSOG-Z0011 protocol number on all data forms.   
+
+Z0011 A9 
+
+ 
+
+4 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Table of Contents   
+
+1 INTRODUCTION_________________________________________________________________________    7   
+
+1.1 BACKGROUND _________________________________________________________________________________   
+7   
+1.2 OBJECTIVES ___________________________________________________________________________________    10   
+1.3 STUDY DESIGN_________________________________________________________________________________    10   
+1.4 SCHEMA _____________________________________________________________________________________ 
+10   
+
+2 PATIENT SELECTION ___________________________________________________________________    11   
+
+2.1 INCLUSION CRITERIA ____________________________________________________________________________    11   
+2.2 EXCLUSION CRITERIA____________________________________________________________________________    12   
+
+3 STUDY CALENDAR _____________________________________________________________________ 
+
+13   
+
+4 REGISTRATION/RANDOMIZATION______________________________________________________    14   
+
+4.1 ACOSOG COMPANION STUDY Z0010_______________________________________________________________    14   
+4.2 RANDOMIZATION ARMS __________________________________________________________________________    14   
+4.3 REGISTRATION/RANDOMIZATION PROCEDURES _________________________________________________________   
+14   
+
+5 INTERVENTIONS _______________________________________________________________________    17   
+
+5.1 INTERVENTION SCHEME __________________________________________________________________________    17   
+17   
+5.2 DETAILS OF INTERVENTION AND PROCEDURES__________________________________________________________   
+5.3 STUDY WITHDRAWAL ___________________________________________________________________________   
+20   
+
+6 FOLLOW-UP ___________________________________________________________________________   
+
+21   
+
+21   
+6.1 SUBSEQUENT CARE _____________________________________________________________________________   
+6.2 DISEASE -RELATED ASSESSMENTS __________________________________________________________________   
+21   
+6.3 ASSESSMENT OF A XILLARY BED AND ARM EFFECTS _____________________________________________________    21   
+
+7 EVALUATION OF OUTCOMES ___________________________________________________________    21   
+
+8 ADVERSE EVENT REPORTING__________________________________________________________   
+
+22   
+
+8.1 DEFINITION OF ADVERSE EVENT ___________________________________________________________________   
+22   
+8.2 DEFINITION OF SERIOUS ADVERSE EVENT _____________________________________________________________    22   
+8.3 NCI COMMON TOXICITY CRITERIA _________________________________________________________________   
+22   
+8.4 EXPECTED ADVERSE EVENTS ______________________________________________________________________    22   
+23   
+8.5 UNEXPECTED ADVERSE EVENTS____________________________________________________________________   
+8.6 EXPEDITED ADVERSE EVENT REPORTING_____________________________________________________________ 
+  24   
+
+9 DATA CONSIDERATIONS _______________________________________________________________    25   
+
+10 STATISTICAL CONSIDERATIONS ______________________________________________________   
+
+25   
+
+11 REGULATORY AND ETHICAL CONSIDERATIONS _______________________________________    27   
+
+27   
+11.1 ACOSOG M EMBERSHIP _______________________________________________________________________ 
+27   
+11.2 NCI INVESTIGATOR REGISTRATION ________________________________________________________________   
+11.3 CLINICAL SITE ELIGIBILITY ______________________________________________________________________   
+27   
+11.4 OHRP CONSIDERATIONS________________________________________________________________________    27   
+28   
+11.5 INSTITUTIONAL REVIEW BOARD APPROVAL___________________________________________________________ 
+28   
+11.6 INFORMED CONSENT ___________________________________________________________________________ 
+29   
+11.7 PROTECTION OF PATIENT RIGHTS __________________________________________________________________ 
+29   
+11.8 INCLUSION OF WOMEN ANDMINORITIES _____________________________________________________________   
+11.9 CLINICAL SITE AUDITS _________________________________________________________________________   
+30   
+30   
+11.10 CLINICAL M ONITORING _______________________________________________________________________   
+
+12 SURGEON SKILL VERIFICATION _______________________________________________________    30   
+
+Z0011 A9 
+
+ 
+
+5 
+
+ACOSOG 
+
+Protocol Z0011 
+
+13 PERFORMANCE MONITORING _________________________________________________________ 
+
+30 
+
+14 REFERENCES _________________________________________________________________________ 
+
+31 
+
+15 APPENDICES __________________________________________________________________________ 
+
+33 
+
+15.1 ABBREVIATIONS_______________________________________________________________________________    33   
+15.2 STAGING REFERENCE ___________________________________________________________________________    34   
+15.3 ECOG/ZUBROD PERFORMANCE STATUS SCALE________________________________________________________    34   
+15.4 CANCER TRIALS SUPPORT UNIT (CTSU) PARTICIPATION PROCEDURES_______________________________________    35   
+15.5 MODEL INFORMED CONSENT DOCUMENT_____________________________________________________________    37   
+
+16 CHANGE SUMMARY ___________________________________________________________________    46   
+
+   
+
+ 
+
+Z0011 A9 
+
+ 
+
+6 
+
+ACOSOG 
+
+Protocol Z0011 
+
+1   
+1.1   
+
+Introduction   
+Background   
+
+Women with clinical stage T1 or T2 N0 M0 breast cancer will undergo sentinel lymph node dissection 
+(SLND) with breast conserving therapy (BCT). Women who are found to have a sentinel node (SN) 
+containing metastatic breast cancer as documented on frozen section, touch prep, or permanent section 
+evaluation by hematoxylin and eosin (H&E) staining will be randomized to receive either completion 
+axillary lymph node dissection (ALND) or no immediate additional axillary surgery or axillary-specific 
+radiation. Subsequently, women in both Arms will then have whole breast radiation therapy and, if 
+indicated, systemic adjuvant therapy.   
+
+1.1.1   
+
+Axillary Lymph Node Dissection (ALND)   
+
+Although axillary lymph node dissection (ALND) has been used in the management of breast cancer for at 
+least a century, its role is controversial.    The status of the axilla is an important prognostic indicator and has 
+been the mainstay for accurate staging of patients with breast cancer. The NIH Consensus Conference in 
+1990 recommended that Level I and II ALNDs be routine for staging and regional control for patients with 
+early breast cancer [NIHCC 1991]. Since ALND is associated with significant morbidity, some have tried to 
+develop less invasive procedures to identify axillary metastases. However, at present, no existing imaging 
+modalities or biologic markers can successfully identify patients with axillary metastasis with sufficient 
+sensitivity to be used clinically.   
+
+1.1.2   
+
+Sentinel Lymph Node Dissection   
+
+Morton et al. popularized SN lymphatic mapping for patients with malignant melanoma [Morton 1992]. A SN 
+is the first lymph node that drains a particular cancer into the lymphatic system and thus, histopathologic 
+examination may determine the status of the lymphatic basin. Giuliano et al. applied this dye technique to 
+patients with early stage breast cancer [Giuliano 1994].    In the most recent series of patients, the SN was 
+successfully identified in 93% of the patients and it was 100% predictive of nodal status [Giuliano 1997]. 
+Others have had similar success with the identification of SNs in breast cancer using a variety of agents such 
+as isosulfan blue dye, radioactive colloid or a combination of both [Krag 1993, Veronesi 1997, Albertini 
+1996]. SLND is able to accurately stage breast cancer tumo rs by identifying those with axillary metastasis, 
+and may offer an alternative to ALND.   
+
+1.1.3 
+
+The Need for Axillary Lymph Node Dissection   
+
+Axillary metastasis traditionally has dictated the need for systemic adjuvant chemotherapy or hormonal 
+therapy. Over the past few years, more attention has been focused on the characteristics of the primary tumor. 
+The need for chemotherapy is often based solely on the size of the primary tumor and its biologic 
+characteristics. Therefore, at present, many women receive adjuvant chemotherapy despite a negative axilla.   
+This brings into question the continued need for an immediate axillary dissection.   
+
+The ALND has a role in staging, regional control, and perhaps survival. The presence or absence of lymph 
+node metastases in the ALND determines stage, not necessarily the number of positive nodes [Beahrs 1992]. 
+ALND offers excellent regional control. Axillary recurrences after ALND for clinically node-negative 
+women are extremely unusual and are in the order of 12% [Ivens 1992]. The impact of ALND on survival is 
+perhaps the most controversial aspect. Originally, it was assumed, because of the Halstedian concept of the 
+biology of breast cancer, that en-bloc resection of the regional nodes improved survival by complete removal 
+of local and regional tumor. Since then, numerous studies and observations have invalidated the Halstedian 
+concept itself as well as the impact of axillary surgery on survival. However, the data are conflicting and 
+numerous well recognized studies have raised unanswered questions related to whether ALND itself affects 
+survival.   
+
+A number of studies epitomized by the prospective randomized trial of the National Surgical Adjuvant Breast 
+and Bowel Project (NSABP) B-04 Trial, have shown no impact of ALND on survival [Fisher 1985].    In the 
+NSABP B-04 trial conducted in the early 1970’s, patients were randomized to radical mastectomy, total 
+mastectomy, or total mastectomy plus post-operative radiation therapy to the chest wall and regional lymph 
+nodes. In the radical mastectomy group, 38% of patients were found to have tumor-involved lymph nodes.   
+Since this was a randomized trial, it could be assumed that 38% of patients in the other two arms had 
+tumor-involved lymph nodes. However, the regional recurrence rate after total mastectomy alone, with no 
+regional axillary therapy, was only 18 percent and the regional recurrence rate after axillary radiation therapy 
+
+Z0011 A9 
+
+ 
+
+7 
+
+ACOSOG 
+
+Protocol Z0011 
+
+without axillary surgery was only 2 percent. In addition, there was no statistically significant effect of 
+loco-regional control on survival.    Patients who developed an axillary recurrence after total mastectomy alone 
+were treated with a delayed ALND. All three arms had similar survival rates, with follow-up as long as 15 
+years.    This study forms the most solid basis for those who believe ALND offers no beneficial effect on 
+survival. Table 1 lists other studies supporting the concept that loco-regional control through ALND or 
+radiation therapy does not affect survival.   
+
+Table 1: Studies showing no effect of loco-regional control on overall survival   
+
+Study   
+NSABP B04 [Fisher 
+1985]   
+
+Cancer Research 
+Campaign [CRCWP 
+1980]   
+Manchester Trial 
+[Cythgre 1982]   
+Glasgow Trial [McArdle 
+1986]   
+NSABP B06 [Fisher 
+1989]   
+
+Stockholm Trial 
+[Rutquist 1993]   
+
+Date   
+1977   
+
+n   
+
+Treatment arms   
+
+1159    Radical Mastectomy (RM) vs. 
+
+Survival differences   
+Not significant   
+
+Total mastectomy (TM) vs. TM 
+and radiotherapy (RT)   
+
+1980   
+
+2243    TM vs. TM+RT   
+
+Not significant   
+
+1982   
+
+1022    TM vs. TM+RT   
+
+Not significant   
+
+1986   
+
+322   
+
+Post-op RT + Chemo vs. RT 
+alone   
+
+Not significant   
+
+1989   
+
+1843    TM vs. Lumpectomy vs. 
+
+Not significant   
+
+Lumpectomy + RT (all had 
+ALND)   
+
+1993   
+
+644    Modified RM (MRM) vs. 
+
+Not significant   
+
+MRM +RT   
+
+ 
+
+ 
+
+The contrary viewpoint supports the importance of ALND, suggesting that inadequate loco-regional control 
+adversely affects survival.    One of the best known of these studies is the Second Guys Hospital Trial 
+[Hayward 1981]. This trial was randomized, comparing women treated with radical mastectomy and regional 
+lymphatic radiation to those treated with local excision of the primary breast tumor and radiation therapy to the 
+breast and regional lymphatics. The radiation therapy used in this trial was only 3,000 centigray to the regional 
+lymphatics. This is now recognized to be an inadequate dose. The patients treated with radical mastectomy had 
+a 2.0% axillary recurrence, whereas those treated with no axillary surgery and inadequate radiation therapy had 
+an 11% axillary recurrence rate. These two groups had statistically significant differences in local control, 
+regional control, and in overall survival.    The increased axillary recurrence in the group receiving no ALND 
+was associated with a significant diminution of overall survival by about 10% compared to those women 
+treated with radical mastectomy. This effect has persisted for at least 20 years, suggesting that effective breast 
+and axillary treatments may be associated with an enhancement in overall survival. Table 2 lists other studies 
+supporting the concept that loco-regional control through ALND or radiation therapy does affect survival.   
+ 
+Table 2: Studies showing effect of loco-regional control on overall survival 
+
+ 
+
+Study/Trial   
+Guys Hospital [Hayward 
+1981]   
+
+Southeast Scotland 
+(Edinburgh Trial) [Langlands 
+1980]   
+Cabanes [Cabanes 1992]   
+
+Date   
+1981   
+
+n   
+
+Treatment arms   
+
+253    Radical mastectomy 
+(RM) vs. Wide local 
+excision (WLE)+RT   
+
+1980   
+
+275    RM vs. TM+RT   
+
+Survival differences   
+Significant at 20 yrs.   
+
+Not significant at 5 yrs. 
+Significant at 8 yrs.   
+
+1992   
+
+658    Lump+RT vs. 
+
+Significant   
+
+Lump+RT+ALND   
+
+White [White 1996]   
+
+1996   
+
+1126    Lump+RT vs. 
+
+Significant   
+
+Lump+RT+ALND 
+vs. MRM   
+
+Overgaard* [Overgaard 1997]   
+
+1997   
+
+1708    MRM+RT+CMF vs. 
+
+MRM+CMF   
+
+Ragaz* [Ragaz 1997]   
+
+1997   
+
+318    MRM +RT+CMF vs. 
+
+MRM+CMF   
+
+Significant at 10 yrs. 
+(OS)   
+Significant at 10-15 yrs. 
+(DFS)   
+
+ 
+*Pre-menopausal only   
+
+Z0011 A9 
+
+ 
+
+ 
+
+8 
+
+ACOSOG 
+
+Protocol Z0011 
+
+1.1.4 
+
+Treatment and Survival Following Axillary Recurrence   
+
+While the adverse effect of loco-regional recurrence after total mastectomy (TM) for breast cancer has been 
+recognized, the impact of loco-regional failure after breast-conserving surgery and radiation is less clear. Of 
+the patients with loco-regional failure after BCT, only 5% to 15% present with concurrent distant metastases 
+[Fowble 1990, Haffty 1991, Recht 1989, Fourquet 1989, Stotter 1989]. In contrast, up to 25% of patients who 
+present with loco-regional failure after TM have concurrent distant metastases or develop distant metastases 
+within a few months of the loco-regional failure [Andry 1989, Marshall 1974, Aberizk 1986].    In the Danish 
+trial by Overgaard et al., 41% (31 / 75) of loco-regional failures in the RT + CMF arm failure, as well as 20% 
+(56 of 277) in the CMF alone arm, presented with concurrent distant metastases [Overgaard 1997]. In addition, 
+outcomes after aggressive salvage of loco-regional failure also are different between TM and BCT patients. In 
+a series of patients at the Joint Center for Radiation Therapy (JCRT) with loco-regional failure after TM, the 5 
+and 10-year actuarial rates of freedom from distant metastases were 30% and 7%, respectively. In contrast, 
+patients with salvage TM after BCT and loco-regional failure at JCRT had a better prognosis [Abner 1993].   
+The 5-year actuarial rate of further recurrence in this group was 37%, and the 5-year cause-specific survival 
+was 79%. Similar results for BCT loco-regional failure salvage have been reported from the University of 
+Pennsylvania [Orel 1993]. Thus, the prognostic significance of loco-regional failure may not be the same 
+between patients receiving TM and BCT.   
+
+1.1.5   
+
+SLND Only Versus ALND   
+
+A major problem with the majority of studies examining the impact of axillary node dissection on survival is 
+inadequate sample size and/or follow-up.    Studies of surgical therapy alone demonstrate that 50% of patients 
+with nodal metastasis survive 20 years. Since only about 35% of clinically node-negative breast cancers have 
+axillary node metastasis, at best we could expect only about 17.5% of the patients to have a chance to be 
+affected by interventions studied (50% of the 35% patients who are node-positive).    The majority of studies 
+had insufficient statistical power to detect a difference in survival related to ALND.   
+
+Some reasons that SLND may replace ALND relate to the biology, epidemiology, and screening of breast 
+cancer. Due to increased public awareness and improved screening, there has been a decrease in the mean 
+maximum diameter of breast cancer tumors and a concomitant decrease in the number of women with lymph 
+node metastasis [Tabar 1992]. Cady et al. reported that the mean maximum diameter of breast cancers upon 
+diagnosis declined by 10% every 5 years and from about 3 cm to about 2 cm from 1968 to 1988 [Cady 1997]. 
+In the five years from 1989 through 1993, the median maximum diameter of all invasive breast cancers was 
+only 1.5 cm at diagnosis. This decrease in size has been seen in numerous other reports.    These same 
+authorities report a diminution in the number of patients who have axillary lymph node metastasis.   
+
+At the New England Deaconess Hospital, only 31% of all patients with invasive breast cancer were found to 
+have involved lymph nodes at diagnosis.    In addition, over 40% in that series had only one lymph node 
+involved and almost 50% had only micrometastases. While Cady has used this diminution in the incidence of 
+lymph node metastasis to support the concept that no ALND is necessary for the management of women with 
+mammographically detected T1a or T1b breast cancer [Cady 1994], these findings can be used equally well to 
+support the fact that in a large percentage of women, removal of the SN alone may result in not only accurate 
+staging, but in effective regional control. Giuliano's studies have shown that in approximately 70% of the 
+cases, the SN is the only involved node in patients with early breast cancer. Albertini et al. has seen similar 
+results; noting that the SN was the only involved node in at least 50% of cases [Albertini 1996]. It is quite 
+possible that after accurate staging with SLND, no residual tumor is left in the remainder of the non-sentinel 
+axillary lymph nodes, and regional control will be accomplished. However, it also may be that some women 
+with SN metastases will have micro-or macrometastases in non-SN that will progress and develop into 
+regional recurrences that may or may not be associated with a diminution of overall survival. In addition, it is 
+possible that metastases in non-SN would be destroyed or inhibited by the adjuvant systemic therapy that is 
+given to most women with involved lymph nodes. In addition, some metastases may be ablated by opposing 
+tangential fields of radiation therapy.   
+
+In addition, it is quite possible that lymph node metastases are indeed "indicators but not governors" of distant 
+metastases [Cady 1984]. This concept can be supported by the observations that variations in loco-regional 
+management including the elimination of ALND (as in B04) have not generally been associated with 
+alterations in overall survival (with some exceptions). Additional experimental works by Nicholson and Dulski 
+[Nicholson 1986] and Brodt et al. [Brodt 1990, Brodt 1991] have shown the site-specific metastatic potential 
+of malignant cells. Axillary lymph node metastases may be site specific. Should metastases develop in the 
+
+Z0011 A9 
+
+ 
+
+9 
+
+ACOSOG 
+
+Protocol Z0011 
+
+axilla, delayed dissection may be as effective as immediate dissection on overall survival for these patients.   
+
+Although some studies do suggest an improvement in overall survival based on local control, it is not clear 
+that axillary control is the ultimate link for these successes. The recent RT studies are the most compelling 
+survival evidence, but they do not address breast conservation and include only premenopausal women 
+[Ragaz 1997, Overgaard 1997].    This study will include both pre- and postmenopausal women with stage I 
+and II disease.   
+
+1.1.6   
+
+The Design of Z0011   
+
+SLND offers the unique opportunity to examine the impact of ALND on regional control and survival in 
+early stage disease. By performing a SLND, patients with regional metastasis can be identified. It is these 
+patients, if any, who are likely to benefit from ALND. If there is a benefit to be achieved from ALND, it will 
+not be in node-negative women.    These women can therefore be spared the morbidity of ALND. The lower 
+morbidity of SLND is obvious; however, to formally document this, patients will be evaluated by range of 
+motion exams and arm measurements. All operative complications will be recorded.   
+
+If there were no outcome difference between these two arms, then the treatment with the least morbidity, 
+presumably SLND, would be preferable. By randomly assigning SN positive women to axillary therapy 
+consisting of at least a level I and II A LND or to no further axillary therapy, the impact of axillary lymphatic 
+clearance on survival can be assessed. It may be that after removing a positive SN, no further surgery is 
+necessary for the woman with regional lymph node metastases from early breast cancer.    If axillary surgery is 
+merely a staging (diagnostic) procedure, then no adverse effects should be seen when it is omitted and replaced 
+by SLND.   
+
+1.2 
+
+Objectives   
+
+The primary objectives are:   
+
+Long term: To assess whether overall survival for patients randomized to Arm 2 (no immediate ALND) 
+is essentially equivalent to (or better than) than that for patients assigned to Arm 1 (completion ALND).   
+
+Short term: To quantify and compare the surgical morbidities associated with SLND plus ALND versus SLND 
+alone.   
+
+1.3   
+
+Study Design   
+
+1.3.1   
+
+Accrual Goal   
+
+This study requires the randomization of 1900 evaluable patients over a period of 3.8 years based on a 
+projected accrual rate of 500 eligible patients randomized per year. The randomization between the arms 
+will be 1:1. The final analysis is projected for 8.8 years following the start of accrual.   
+
+1.4   
+
+Schema 
+
+Z0011 A9 
+
+ 
+
+10 
+
+ 
+
+ACOSOG 
+
+Protocol Z0011 
+
+2   
+
+Patient Selection   
+Each inclusion and exclusion criterion must be evaluated and documented in the patient’s medical record. 
+Patient eligibility must be determined by the investigator.   
+
+2.1   
+
+Inclusion Criteria   
+
+A patient will be eligible for inclusion in this study only if ALL of the following criteria apply:   
+
+PLEASE  NOTE:  Patients  registered  to  this  study  may  undergo  intra-operative  or  postoperative 
+randomization.   
+
+An investigator registering patients to this study after completion of SLND (post-operative 
+randomization) is responsible for documenting that all of the eligibility requirements are met even if the 
+SLND was not performed by the investigator.   
+
+1.  Patient must be female.   
+
+2.  Patient must be at least 18 years of age.   
+
+3.  Patient’s clinical stage must be documented as tumor size less than 5 cm, with no palpable nodes and no 
+
+evidence of metastatic disease (T1 or T2 N0 M0; see appendices for staging criteria) and the tumor 
+documented as amenable to lumpectomy.   
+
+4.  Patient must have a tissue diagnosis of invasive breast carcinoma. Note: A patient can be registered to this 
+study if they have a cytologic diagnosis suggestive of carcinoma from a fine needle aspiration (FNA) of a 
+palpable or non-palpable breast lesion and the investigator believes the breast lesion is clinically 
+suspicious for invasive breast carcinoma.   
+
+5.  Date of the patient’s first tissue diagnosis of invasive breast carcinoma or cytologic diagnosis of 
+
+carcinoma must be no more than 60 days prior to the SLND.   
+
+6.  The patient who had BCT (segmental mastectomy) performed previously, and is now referred to the local 
+investigator for SLND, is eligible if the BCT was less than or equal to 60 days prior to the SLND. NOTE: 
+Copies of the operative and pathology reports must be submitted as part of the registration process.   
+
+7.  Patient must have ECOG/Zubrod status =2, as documented in patient’s medical record.   
+
+8.  Patient must be available for follow-up.   
+
+9.  Patient of childbearing potential must have a negative serum or urine pregnancy test within 14 days of 
+
+beginning study interventions.   
+
+10.  Patient must have access to radiation therapy.   
+
+11.  A sentinel lymph node must be identified that contains metastatic breast cancer as documented by frozen 
+
+section, touch prep, or H&E staining on permanent section. (Refer to the Staging Criteria section in the 
+protocol.) NOTE: Patients with metastatic breast cancer identified by immunohistochemistry (IHC) are 
+not eligible.   
+
+12.  Patient randomized to ALND must undergo ALND within 42 days of their SLND.   
+
+13.  A patient with a history of a previous malignancy is eligible for this study as long as the patient meets the 
+
+following criteria for a cancer survivor. A cancer survivor is eligible provided that the following criteria 
+are met:   
+
+a.  The patient has undergone potentially curative therapy for all prior malignancies,   
+
+b.  There has been no evidence of any prior malignancies for at least five years with no evidence 
+
+of recurrence (except for effectively treated basal cell or squamous carcinoma of the skin, 
+carcinoma in -situ of the cervix that has been effectively treated by surgery alone, or lobular 
+carcinoma in-situ of the ipsilateral or contralateral breast treated by surgery alone), and   
+
+c.  The patient is deemed by their treating physician to be at low risk for recurrence from prior 
+
+malignancies.   
+
+14.  Patient or the patient’s legally acceptable representative must provide a signed and dated written informed 
+
+consent prior to registration and any study-related procedures.   
+
+15.  Patient must provide written authorization to allow the use and disclosure of their protected health 
+
+Z0011 A9 
+
+ 
+
+11 
+
+ACOSOG 
+
+Protocol Z0011 
+
+information. NOTE:    This may be obtained in either the study-specific informed consent or in a separate 
+authorization form and must be obtained from the patient prior to study registration.   
+
+2.2   
+
+Exclusion Criteria   
+
+A patient will be ineligible for inclusion in this study if ANY of the following criteria apply:   
+
+1.  Patient is lactating (breastfeeding).   
+
+2.  Patient has been previously treated with chemotherapy, estrogen receptor antagonists (i.e., Tamoxifen) or 
+
+selective estrogen receptor modulators (SERMs, i.e., Raloxifene) for this invasive breast cancer.   
+
+3.  Patient has a previously placed pre-pectoral breast implant.    NOTE: A subpectoral implant is allowed.   
+
+4.  Patient has concurrent invasive bilateral breast malignancies.   
+
+5.  Patient has clinically and radiologically identified multi-centric disease that is not amenable to a single 
+
+lumpectomy .   
+
+6.  Patient has had previous ipsilateral axillary surgery such as excisional biopsy of lymph node(s), treatment 
+
+of hidradenitis.   
+
+7.  Patient has a medical contraindication to ALND or is considered a poor surgical risk due to a 
+
+non-malignant systemic disease (cardiovascular, renal, etc.) that would preclude the treatment options.   
+
+8.  Patient who is noted to have matted nodes or gross extranodal disease at the time of SLND.   
+
+9.  Patient has three or more positive sentinel nodes by frozen section, touch prep, or H&E staining on 
+
+permanent section.   
+
+ 
+2.3   
+
+Staging Criteria   
+
+th 
+
+For this study, patients will be staged according to the AJCC Cancer Staging Manual, 5
+1997 (See Appendix for Staging Reference). NOTE: In the 5
+ edition, specific criteria for micrometastatic 
+lymph node deposits are not defined. Although the 6th edition of the AJCC Cancer staging manual defines 
+micrometastases as tumor deposits greater than 0.2mm but not greater than 2.0mm in largest dimension, this 
+definition is not used to determine eligibility for Z0011. Therefore, for this study, a SLN with a 
+micrometastatic tumor deposit < 0.2mm will also be considered a positive SLN.   
+
+edition,   
+
+th
+
+Z0011 A9 
+
+ 
+
+12 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Study Calendar 
+
+3 
+ 
+Timing * (From date of last 
+operation)   
+Within 14 days prior to study 
+intervention   
+Post-operative registration and randomization   
+Within 42 days of ALND (Arm 
+1)   
+Registration   
+Intervention Day   
+
+Adjuvant Treatment   
+
+Intervention or Procedure   
+
+Disease assessment   
+Assessment of axillary bed and arm effects   
+
+Segmental Mastectomy and sentinel lymph node dissection (SLND)   
+
+Document eligibility criteria and informed consent   
+Arm 1: ALND   
+Arm 2: No additional surgery   
+Whole breast radiation therapy   
+Adjuvant systemic therapy, if indicated   
+
+Pre-registration with intra-operative randomization   
+Pre-registration   
+
+Document eligibility criteria and informed consent   
+
+Intervention Day   
+
+Adjuvant Treatment   
+
+FOLLOW UP   
+Day 30   
+
+Day 90 (Optional visit; 
+according to patient’s clinical 
+needs)   
+Month 6, 12   
+
+Month 18   
+
+Month 30   
+
+Segmental mastectomy and sentinel lymph node dissection (SLND)   
+Randomization to study arm   
+Arm 1: ALND   
+Arm 2: No additional surgery   
+Whole breast radiation therapy   
+
+Adjuvant systemic therapy, if indicated   
+
+Assessment of side effects related to surgical intervention   
+Complications since the last visit   
+Assessment of side effects related to surgical intervention, including axillary bed and arm 
+effects   
+Complications since last visit   
+Assessment during or after completion of adjuvant treatment   
+Assessment of long term surgical side effects, including axillary bed and arm effects   
+Disease assessment for recurrence or other cancers   
+Assessment during or after completion of adjuvant treatment   
+Assessment of long-term surgical side effects   
+Disease assessment for recurrence or other cancers   
+Assessment of long-term surgical side effects   
+Disease assessment for recurrence or other cancers   
+Disease assessment for recurrence or other cancers   
+
+Month 36, and then yearly until 
+10 years   
+ 
+* If the patient’s next follow-up visit occurs in advance of or later than the time specified for the next scheduled visit, note the actual visit date on 
+each CRF.   
+
+Z0011 A9 
+
+ 
+
+13 
+
+ACOSOG 
+
+Protocol Z0011 
+
+4    Registration/Randomization   
+
+There are two options for registering and randomizing a patient to Z0011.   
+
+1.  Post-Operative Registration with Randomization must be followed when the patient is eligible for this 
+
+study following completion of SLND and confirmation of metastatic breast cancer in a sentinel node by 
+H&E staining on permanent section.   
+
+2.  Pre-Registration with Intra-Operative Randomization can be used for sites electing to randomize 
+
+intra-operatively based on frozen section or touch prep assessment of sentinel node status.   
+
+ 
+4.1   
+
+ACOSOG Companion Study Z0010   
+
+This section applies to clinical sites that have both ACOSOG Study Z0010 and Study Z0011 open. ACOSOG 
+Study Z0010 is designed to assess the prognostic significance of occult metastases detected by IHC in sentinel 
+lymph nodes that are negative by hematoxylin and eosin (H&E) staining in women with early-stage breast 
+cancer.    It also is designed to assess the prognostic significance of occult metastases detected in the bone 
+marrow by immunocytochemistry (ICC) in this patient group.     
+
+The accrual goal for ACOSOG Study Z0010 was met and the study was permanently closed to accrual on 
+5/30/2003. All patients currently on the study must continue to be followed according to protocol 
+specifications. Annual IRB review and approval of the protocol and consent form must continue until all 
+registered patients have completed the follow-up phase of the study.   
+
+4.2   
+
+Randomization Arms   
+
+Women with clinical stage T1 or T2 N0 M0 breast cancer who are found to have a SN containing metastatic 
+breast cancer through SLND with BCT, as documented on frozen section, touch prep, or permanent section 
+evaluation by H&E staining, will be randomized to one of two Arms:   
+
+Arm 1: Completion ALND, followed by whole breast radiation therapy and, if indicated, systemic 
+adjuvant therapy   
+
+OR   
+
+Arm 2: No immediate additional axillary surgery or axillary-specific radiation, followed by whole 
+breast radiation therapy and, if indicated, systemic adjuvant therapy.   
+
+4.2.1   
+
+Assessment of Stratification Factors   
+
+The following factors are believed to be prognostic for survival and will be used in the 
+randomization as dynamically balancing stratification factors:   
+
+  Age: 50 or > 50.   
+
+  Estrogen Receptor (ER) status: positive or negative.   
+
+  Tumor size:  1 cm, > 1 cm or  2cm, or >2 cm.   
+
+ 
+4.3   
+
+Registration/Randomization Procedures   
+
+Registration is available 24 hours a day by accessing the ACOSOG web site at http://www.acosog.org. 
+ACOSOG staff is accessible at the ACOSOG Coordinating Center on Monday through Friday, from 8:00 
+AM to 5:00 PM Eastern time.    For detailed registration guidelines, refer to the Patient Registration SOP on 
+the ACOSOG web site.   
+
+4.3.1   
+
+Registration Worksheet   
+
+The Registration Worksheet of the CRF (RW CRF) must be completed as documented in the patient’s 
+medical record PRIOR to initiating the registration procedure for either preregistration with intra-operative 
+randomization or for post-operative registration/randomization.    A completed worksheet must be 
+submitted within 24 hours of the registration.   
+
+To be eligible for registration to this study, the patient must meet each inclusion and exclusion criterion listed 
+on the eligibility checklist. There is no mechanism for making exceptions to the eligibility requirements.   
+
+Z0011 A9 
+
+ 
+
+14 
+
+ACOSOG 
+
+Protocol Z0011 
+
+4.3.2   
+
+Pre-Registration with Intra-operative Randomization   
+
+Pre-registration is available 24 hours a day by accessing the ACOSOG web site at http://www.acosog.org. 
+ACOSOG staff is accessible at the ACOSOG Coordinating Center on Monday through Friday, from 8:00 AM 
+to 5:00 PM Eastern time.    For detailed registration guidelines, see the Standard Operating Procedure Patient 
+Registration (PatReg SOP) on the ACOSOG web site.   
+
+Pre-registration is necessary in advance of intra-operative randomization.    The ACOSOG registration program 
+performs a pre -registration and issues “tokens” for completion of the registration and randomization 
+intra-operatively.   
+
+The pre-registration and intra-operative registration and randomization procedures are as follows:   
+
+1.  Documented informed consent must be obtained prior to the pre-registration process.   
+
+2.  RW CRF must be completed prior to patient pre-registration.    No exemptions or waivers will be granted 
+
+for patients who do not meet the eligibility criteria.   
+
+3.  The pre-registration process consists of accessing the ACOSOG website (http://www.acosog.org) and (a) 
+
+confirmation of the validity of investigator membership, Institutional Review Board (IRB) approval, 
+skills, etc., (b) assignment and recording of the ACOSOG Patient Identification Number, and (c) 
+assignment and recording of the token (a randomly generated 8-digit number linked to the patient 
+information submitted).   
+
+4.  Confirmation of pre-registration is e-mailed from the ACOSOG Coordinating Center to the clinical site 
+
+immediately following the pre-registration.   
+
+5.  During surgery, use a touch-tone telephone to access the automated Interactive Voice Response (IVR) 
+
+system for randomization by calling 866 488 0651 or 919 668 7126. The person placing the 
+randomization call responds to pre-recorded voice requests using the touch-tone pad.    The caller will be 
+prompted to provide the token given during the preregistration process. Once the token is verified, the 
+randomized treatment Arm is given.   
+
+6.  Submission of the completed RW CRF is required within 24 hours following completion of patient 
+
+registration. The RW CRF must be faxed to 919 668 8466, the DataFax system at the ACOSOG 
+Coordinating Center.   
+
+If a patient’s SN is found to be negative by frozen section, the site has the option of canceling the token at this 
+point. The site also may opt to defer token cancellation until after final pathology has confirmed a negative SN 
+by H&E, since H&E may come back with a positive SN result. In this case, the uncancelled token may then be 
+used by the site to obtain randomization.   
+
+If a patient is found to be ineligible during surgery for any other reason, cancel the token using the Cancel 
+Token procedure on the Patient Registration page of the ACOSOG web site.   
+
+In the event of electronic or communication problems, see the Standard Operating Procedure Patient 
+Registration (PatReg SOP) on the ACOSOG web site for emergency procedures. All sites should have a 
+printed copy of this SOP available for reference.   
+
+ 
+
+4.3.3   
+
+Post-Operative Registration with Randomization   
+
+Registration is available 24 hours a day by accessing the ACOSOG web site at http://www.acosog.org. 
+ACOSOG staff is accessible at the ACOSOG Coordinating Center on Monday through Friday, from 8:00 AM 
+to 5:00 PM Eastern time.    For detailed registration guidelines, see the Standard Operating Procedure Patient 
+Registration (PatReg SOP) on the ACOSOG web site.   
+
+Z0011 A9 
+
+ 
+
+15 
+
+ACOSOG 
+
+Protocol Z0011 
+
+The registration and randomization procedures are as follows:   
+
+1.  Documented informed consent must be obtained prior to any study related procedures or assessment being 
+
+conducted.   
+
+2.  Prior to registration, the RW CRF must be completed. No exceptions will be granted for patients who do 
+
+not meet the eligibility criteria.   
+
+3.  The registration and randomization process consists of accessing the ACOSOG website 
+
+(http://www.acosog.org) and (a) confirming the validity of the investigator membership, IRB approval, 
+etc., (b) assigning and recording an ACOSOG Patient Identification Number, and (c) assigning and 
+recording a treatment Arm and any other applicable data requested on the RW CRF for that patient.   
+
+4.  Confirmation of the registration is e-mailed from the ACOSOG Coordinating Center to the clinical site 
+
+immediately following the registration.   
+
+5.  Within 24 hours following registration, the completed RW CRF should be faxed to 919 668 8466, the 
+
+DataFax system at the ACOSOG Coordinating Center.   
+
+ 
+
+In the event of electronic or communication problems or other emergencies, see the Standard Operating 
+Procedure Patient Registration (PatReg SOP) on the ACOSOG web site. All sites should have a printed 
+copy of this SOP available for reference.   
+
+4.3.4   
+
+North Central Cancer Treatment Group (NCCTG) Registration Instructions   
+
+A signed HHS 310 form must be on file at the NCCTG Randomization Center before patient entry.   
+
+NCCTG institutions must fax (507-284-0885) a completed ACOSOG Registration Worksheet 8 a.m. to 3:30 
+p.m. central standard time Monday through Friday to register a patient. Patient eligibility and existence of a 
+signed consent form will be checked by the NCCTG Randomization Center before a patient will be registered 
+into this study.   
+
+Upon confirmation of eligibility, the NCCTG Randomization Center will access ACOSOG’s web-based 
+registration system to register the patient. Eligibility information given in the Registration Worksheet will 
+determine the type of registration that will be conducted by the NCCTG Randomization Center. ACOSOG 
+Coordinating Center will e-mail the NCCTG Randomization Center (jacobson.susan2@mayo.edu, 
+mahon.carol@mayo.edu, parkin.diane@mayo.edu) a confirmation of registration that will include the 
+following:   
+
+  ACOSOG Patient ID Number   
+
+ 
+
+ 
+
+ 
+
+Patient randomization (if web-based registration and randomization was conducted), OR   
+
+8-digit token number (if web-based pre-registration was conducted) Note: randomization will NOT be 
+given at this point.   
+
+This information will be forwarded to the registering institution by the NCCTG Randomization Center.   
+
+To obtain patient randomization if pre-registration was performed, refer to Section 4.3.2 (Pre-Registration 
+with Intra-operative Randomization) and follow the steps starting from #5. If the patient is found ineligible 
+for the study after pre-registration (i.e. patient did not have positive sentinel node), the institution will 
+cancel the token (see Section 4.3.2).   
+ 
+All investigators must be registered with CTEP, DCTD by the annual submission of the FDA Form 1572 
+and a current CV. To obtain an NCI/CTEP investigator number, investigators should complete and submit 
+(by USMail or Express Courier, faxes are not acceptable) an FDA Form 1572, with an original signature, 
+and a current curriculum vitae to the PMB (Pharmaceutical Management Branch):   
+Pharmaceutical Management Branch, CTEP, DCTD, NCI 6130 Executive Boulevard, Room 7149 Rockville, 
+MD 20852 Phone: 301-496-5725   
+
+A copy of this submission must be sent to the NCCTG Operations Office.   
+
+The FDA Form 1572, with instructions, is available on the NCI home page (http://ctep.info.nih.gov) or by 
+calling the PMB at 301-496-5725.   
+
+NCCTG Adverse Event (AE) Monitoring and Reporting – Report according to ACOSOG guidelines.   
+
+NCCTG Data Considerations – Report according to ACOSOG guidelines.   
+
+Z0011 A9 
+
+ 
+
+16 
+
+ACOSOG 
+
+Protocol Z0011 
+
+5   
+
+Interventions   
+This section gives an overview of the intervention(s) and procedures to be used in this study and how they are 
+to be applied. Specific interventions and procedures are identified in bold italics.    The details of the 
+interventions and procedures associated with this protocol are described in the Details of Intervention and 
+Procedures section of this protocol.   
+
+5.1 
+
+Intervention Scheme   
+
+A patient will be eligible for this trial only if metastatic tumor is detected in the SN by routine 
+histopathology, either on frozen section, touch prep, or permanent sections.   
+
+The patient will be randomized to one of two Arms, Arm 1 or Arm 2, where the interventions associated 
+with these Arms are as follows:   
+
+Arm 1: Level I and II Axillary lymph node dissection (ALND) followed by adjuvant   
+breast radiation therapy and, if indicated, adjuvant systemic therapy.   
+
+Arm 2: Breast radiation therapy and, if indicated, adjuvant systemic therapy only (no   
+immediate further axillary-specific interventions).   
+
+There are two procedural options for implementing the ALND in patients randomized to Arm 1 depending 
+on the option used to register the patient:   
+
+1.  Post-Operative Registration with Randomization. Obtain the informed consent and randomize the 
+
+patient postoperatively only if the SN demonstrates metastatic disease and the patient is otherwise 
+eligible. If the patient is randomized to Arm 1, then the ALND is performed as a second operation.    If the 
+patient is randomized to Arm 2, then a second operation should not be performed.   
+
+2.  Pre-Registration with Intra-Operative Randomization.    Use frozen section or touch prep assessment 
+of the SN to ascertain eligibility during surgery and randomize intraoperatively if the node is positive. If 
+the patient is randomized to Arm 1, proceed immediately with an ALND. If the patient is randomized to 
+Arm 2, then an ALND should not be performed.   
+
+All patients, regardless of when they are randomized and which arm they are assigned to, should be treated 
+with whole breast radiation therapy and, if indicated, adjuvant systemic therapy.   
+
+The ALND (to be done as a result of being randomized to Arm 1), breast radiation therapy, and adjuvant 
+systemic therapy should be performed as defined.   
+ 
+Details of Intervention and Procedures   
+
+Segmental Mastectomy (Lumpectomy)   
+All patients will undergo resection of the segment of breast tissue, which contains the primary breast tumor 
+with a clear margin of removed normal tissue around the periphery of the tumor.    In addition, the underlying 
+pectoral fascia, but not the pectoralis major muscle, together with a segment of overlying skin, may be 
+removed if deemed necessary. The specimens will be oriented for histopathologic examination.    The 
+specimens may be inked by the surgeon. Margins must be assessed and deemed tumor free by the institutional 
+pathologist. Copies of the institution's operative and pathology reports must be submitted to the ACOSOG 
+Coordinating Center.   
+
+ 
+
+5.2   
+
+5.2.1   
+
+5.2.2   
+
+Lymphoscintigraphy/ Intraoperative Gamma Counting   
+
+For patients with medial hemisphere lesions, defined as a tumor that is completely medial to the border of the 
+areola, either a lymphoscintigram or report of intraoperative gamma counting is required. A copy of the nuclear 
+radiologist’s report must be submitted in cases with a lymphoscintigram, and a copy of the operative gamma 
+counting must be submitted with the operative report.   
+
+5.2.3   
+
+Sentinel Lymph Node Dissection (SLND)   
+
+SLND may be performed with isosulfan blue dye, a radiopharmaceutical, or a combination of both.   
+Regardless of the technique utilized, a lymphoscintigram or intra-operative gamma counting must be 
+performed on all patients with medial hemisphere breast tumors to ensure that the primary drainage   
+pathway is to the ipsilateral axilla.    For the purpose of this protocol, a medial hemisphere lesion is defined as 
+one in which the entire tumor is medial to the most medial margin of the areola. Patients who do not have 
+
+Z0011 A9 
+
+ 
+
+17 
+
+ACOSOG 
+
+Protocol Z0011 
+
+drainage to the ipsilateral axilla will be excluded from the study.    When a lymphoscintigram is obtained, a 
+copy of the nuclear medicine physician's lymphoscintigram report must be submitted. Since only one of 
+several different methods will be used for identifying the SN, each investigator should determine the 
+technique, which represents the best practice at his/her institution.   
+
+Although this study does not dictate which technique should be used, guidelines are provided here for the 
+various techniques. Regardless of the technique used, no more than four gross SNs should be removed in each 
+patient. If a surgeon is removing more than four nodes on a repeated basis, the surgeon will be subject to a 
+performance audit. At times, the pathologist may identify more lymph nodes than the surgeon did. Therefore, 
+the final number of SNs may exceed four, and this will not reflect on surgeon performance.   
+
+Blue Dye Technique   
+
+The following method may be utilized for this procedure:   
+
+After the induction of general anesthesia or local anesthesia with heavy intravenous sedation and prepping and 
+draping of the patient, 4-5 cc of 1% isosulfan blue dye is injected into the breast parenchyma surrounding the 
+primary tumor, or into the wall of the cavity created by the previous biopsy. If the lesion is not palpable, a 
+mammographic or ultrasonographic localization will be required. A needle may be left in the breast 
+parenchyma through which the blue dye can be instilled in the operating room. The breast is gently compressed 
+to augment the action of the lymphatic pump and promote passage of blue dye to the axilla.    The timing of the 
+axillary incision after the injection of the blue dye and the volume of dye injected are extremely important and 
+dependent upon the location of the primary tumor. Suggestions for volume of injectate and timing are given 
+below.   
+
+After the allotted time, a transverse incision is made just inferior to the hair-bearing region of the axilla. Blunt 
+dissection is then carefully performed with the tips of a curved hemostat to identify a blue-stained lymphatic 
+channel located just below the superficial axillary fascia.    It is helpful to raise the arm above the patient’s 
+head (135 abduction) to facilitate the identification of the blue lymphatic channel. Do not raise skin flaps. 
+The blue lymphatic channel is followed proximally and distally until the first blue node or SN is identified. 
+The SN may be sent to pathology for frozen section. Depending on the histology of the SN, the patient will be 
+treated accordingly.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Location of Primary Tumor   
+A. High Upper Outer Quadrant Lesions   
+B. Lower Upper Outer Quadrant Lesions   
+C. Upper Inner Quadrant Lesions   
+D. Low Outer Quadrant Lesions   
+E. Low Inner Quadrant Lesions   
+
+Suggested Volume 
+of Dye to Inject   
+
+Suggested Time from 
+Injection to incision   
+
+4 cc   
+4-5 cc   
+4-5 cc   
+5 cc   
+5 cc   
+
+3-4 minutes   
+5 minutes   
+5 minutes   
+5 minutes   
+7 minutes   
+
+Radiolabeled Sulfur Colloid Technique (Hot Technique)   
+
+Prior to the operation, 0.25mC to 1.0 mC of radiolabeled technetium sulfur colloid will be injected into the 
+breast parenchyma surrounding the primary tumor or into the wall of the cavity created by the previous 
+biopsy. If the lesion is non-palpable, a mammographic or ultrasonographic localization will be required. A 
+needle may be left in the breast parenchyma through which the radioactive colloid may be instilled.    Care 
+should be made not to contaminate the skin with the radiopharmaceutical. After the induction of general 
+
+Z0011 A9 
+
+ 
+
+18 
+
+ACOSOG 
+
+Protocol Z0011 
+
+anesthesia or heavy intravenous sedation, a gamma counter will be used to localize the SN. For patients with 
+inner hemisphere lesions, the surgeon must identify axillary drainage. Each gamma counter should be 
+calibrated according to the manufacture’s recommendations. For example:   
+
+C Trak, Carewise Medical, Palo Alto, California: initial settings should be a window of 30KeV and a 
+threshold of 130KeV. To optimize weak signals the window may be increased to 40KeV and the threshold 
+decreased to 120KeV.   
+
+Neoprobe, Dublin, Ohio: initial settings should be a threshold of 120KeV and a window of 40KeV. 
+Some adjustments may be made using the squelching options.   
+
+Navigator, USSC, Norwalk, Conn: Initial settings should be a threshold of 90-100KeV.    Pitch and count 
+time may be adjusted.   
+
+A sterile plastic sheath should be used to cover the probe. The lymphatic drainage pattern is mapped in 
+the operating room and a transverse incision is made over the axillary “hot spot.”   
+
+Dissection is then carefully performed until the signal intensifies and an axillary lymph node is found. Once 
+the SN is identified and removed, the axillary basin should be measured for any residual radioactivity. If the 
+basin remains “hot”, an attempt should be made to find a second SN. If the SN is not identified secondary to 
+the “shine through” from the primary injection site then the segmental mastectomy may be performed prior to 
+the sentinel lymph node biopsy.    The SN may be sent to pathology for frozen section if allowed by the 
+institution's radiation safety officer. If a frozen section or touch prep is not permitted then the treatment must 
+be based on the permanent section diagnosis. 
+
+Combined Blue and Hot Technique   
+Prior to the operation, 0.25 mC to 1.0 mC of a radiolabeled technetium sulfur colloid will be injected into the 
+breast parenchyma surrounding the primary tumor or into the wall of the cavity created by the previous biopsy. 
+If the lesion is non palpable, a mammographic or ultrasonographic localization will be required. A needle may 
+be left in the breast parenchyma through which the radioactive colloid and the blue dye may be instilled. After 
+the induction of general anesthesia or heavy intravenous sedation, prepping and draping the patient, 4-5 cc of 
+isosulfan blue dye will be injected as previously described. The breast is then gently compressed to augment 
+the action of the lymphatic pump and promote passage of blue dye to the axilla.    During the delay from 
+injection to axillary incision the gamma probe (either C Trak, Neoprobe or Navigator) may be used to 
+map the lymphatic drainage pattern.   
+
+After 3-7 minutes, a transverse incision is made just inferior to the hair-bearing region of the axilla. Blunt 
+dissection is then performed to identify a blue stained lymphatic channel. The blue lymphatic channel is then 
+followed proximally and distally until the first or SN is identified. This can be confirmed with the gamma 
+counter.    If the SN is not identified with the blue dye and the “shine through” from the primary site interferes 
+with the ability to identify the “hot spot,” the lumpectomy may be performed prior to identifying the SN. 
+However, removal of the tumor prior to injection of the blue dye is discouraged. Once the SN has been 
+removed, the axillary basin should be measured for any residual radioactivity. If the basin remains “hot” then 
+an attempt should be made to find a second SN. The SN may be sent to pathology for frozen section or touch 
+prep may be done if allowed by the individual institution's radiation safety officer. If a frozen section or touch 
+prep is not permitted then the treatment must be based on the permanent section diagnosis.   
+
+5.2.4   
+
+Axillary Lymph Node Dissection (ALND) for Arm 1   
+
+Patients will undergo removal of at least level I and II axillary lymph nodes. If necessary, the pectoralis 
+minor muscle may be incised but not removed. At least ten lymph nodes should be identified in the axillary 
+specimen.    If ten lymph nodes are not identified, then the patient will still be included in the study. 
+Surgeons who consistently remove less than 10 axillary lymph nodes will be re-evaluated for continued 
+inclusion in this study.    Copies of the operative and pathology reports must be forwarded to the ACOSOG 
+Coordinating Center.   
+
+5.2.5   
+
+Adjuvant Radiation Therapy (Arm 1 & 2)   
+
+All patients will undergo adjuvant radiation therapy. The breast radiation therapy to be done on this protocol 
+specifically excludes adding a third (supraclavicular) field because that would confound the issue being 
+addressed by the study. In addition, the breast radiation therapy given is subject to review. A sample of 
+patients will be selected and the clinical sites will be required to submit the portal films for those patients to a 
+central review. The portal films, prescriptions, and supporting physics documentation for randomly selected 
+
+Z0011 A9 
+
+ 
+
+19 
+
+ACOSOG 
+
+Protocol Z0011 
+
+patients will be requested and therefore the clinical site is advised to prepare to the extent possible for such 
+requests.   
+
+Dose: Dose to the prescription point for the breast is 45 Gy to 50 Gy, in equal daily fraction sizes of 1.8 to 2.0 
+Gy per day, 5 days per week. For whole breast doses below 50 Gy, a boost dose must be prescribed to bring 
+the primary surgical tumor bed to a minimum total dose of 50 Gy. Higher doses to the boost volume may be 
+given at the discretion of the radiation oncologist.   
+
+Dose Specifications:    The dose will be prescribed to the entire breast volume or clinical target volume (CTV). 
+The CTV will be defined with the patient in the supine treatment position by palpating the periphery of the 
+breast tissue and marking it with radio-opaque markers, such as lead wire. In a patient with surgical clips 
+placed in the tumor bed, the clips must be within the CTV. The planning target volume (PTV) is the clinical 
+target volume plus a margin of 1.0 to 2.0 cm superiorly, inferiorly, medially, and laterally. Tangent fields with 
+a coplanar posterior border are used. The prescription point used is the lung-chest wall interface in the central 
+axis plane.    This prescription method ensures that the entire PTV receives a minimum dose equal to the 
+prescription dose. The dose to this point, as well as the maximum dose to the PTV or the central axis plane 
+should be reported. Inhomogeneity corrections are not allowed.   
+
+Technical Factors   
+
+  Equipment must have nominal photon energies between 4 MV and 8 MV.   
+
+  Compensators, wedges, or dynamic therapy must be used to keep the maximum PTV dose within 
+
+15% of the prescription.   
+
+  The beam may be shaped, with a margin, to the shape of the breast with cerrobendtype blocking or 
+
+by using a multi-leaf collimator.   
+
+ 
+
+Fields will be designed using a simulator unit or CT simulator with appropriate patient immo 
+bilization for daily accuracy.    Use of an Alpha-cradle would be one example. A mammorex board 
+is another.   
+
+ 
+
+Critical Structure Dose   
+
+The maximum distance from the posterior or deep field border to the lung/chest wall interface will be 3.0 
+cm, anywhere in the field.   
+
+Treatment Interruptions   
+
+If a treatment interruption is necessary for acute radiation toxicity of the skin, aggressive treatment of the 
+area with a product like Duoderm is encouraged to minimize the treatment break. The total time to 
+deliver the radiation therapy should not exceed 8 weeks.   
+
+Supraclavicular Field   
+
+The use of a third field to cover the supraclavicular area is not allowed.   
+
+Side Effects   
+
+Fatigue is the anticipated systemic reaction to radiation. Skin erythema and desquamation also may occur.   
+Breast edema, tenderness, and myositis also are acute side effects. Possible long-term complications include 
+radiation pneumonitis, rib fractures, and cardiac complications for left-sided lesions.   
+
+5.2.6   
+
+Adjuvant Systemic Therapy (Arm 1 & 2)   
+
+The use of systemic adjuvant therapy is advised for the node-positive women.    The type of systemic therapy 
+offered is at the discretion of the treating physician and the patient. The type of therapies discussed in the 
+Background section of this protocol or enrollment onto another clinical trial is encouraged. When selecting 
+another clinical trial as the means of administering systemic adjuvant therapy then special care should be used 
+to avoid trials for which the collection of data needed for this trial would be compromised; in general, this 
+should not be a major problem.   
+
+5.3   
+
+Study Withdrawal   
+
+Patients will be withdrawn from the study for the following reasons:   
+
+1. 
+
+If a patient was registered to the study based on cytologic diagnosis suggestive of carcinoma from FNA 
+of a palpable or non-palpable breast lesion, but the final tissue diagnosis does not demonstrate invasive 
+breast carcinoma, the patient will be discontinued from the study and will not be followed.   
+
+Z0011 A9 
+
+ 
+
+20 
+
+ACOSOG 
+
+Protocol Z0011 
+
+2.  A patient with tumors located in the medial hemisphere of the breast that show a complete absence of 
+
+drainage to the axilla by lymphoscintigram or by absence of elevated axillary lymph node gamma 
+counts will be discontinued from the study and will not be followed.   
+
+3. 
+
+If the final pathology report identifies three or more positive sentinel nodes, the patient will be 
+discontinued from the study and will not be followed.   
+
+6 
+
+Follow-up 
+
+6.1   
+
+Subsequent Care   
+
+All patients should be instructed to communicate with the investigator or study surgeon prior to consenting to 
+additional therapy (not included in this protocol).   
+
+6.2   
+
+Disease-Related Assessments 
+
+Patients will be monitored for local and regional recurrence (especially recurrence in the ipsilateral axillary 
+bed), contralateral breast primary tumors, distant recurrence, progression, and death. Patients also will be 
+monitored for additional non-breast primaries, which should be confirmed histologically whenever possible.   
+
+6.2.1   
+
+Suggested Assessments in Response to Symptoms   
+
+The following assessments are recommended for the purposes of disease evaluation in the presence of 
+symptoms:   
+
+ 
+
+ 
+
+ 
+
+If patient has new symptoms of bone or back pain, a bone scan and relevant x-rays should be done.   
+
+If patient has symptoms of abdominal pain, or the physician notes jaundice, hepatomegaly, or an elevation 
+in the liver function tests, then a CT scan or MRI of the abdomen should be obtained.   
+
+If patient exhibits a change in mental or neurologic status, then a CT scan or MRI of the brain should be 
+obtained.   
+
+6.3   
+
+Assessment of Axillary Bed and Arm Effects   
+
+Special assessments for surgical side effects in the axillary bed and arms will be as required by the Study 
+Calendar.    These assessments will be done on all patients, regardless of whether an ALND was done. The 
+Follow-up Breast and Arm Assessment case report form (FBAA CRF) will be used.    This form is specially 
+designed for the following assessments:   
+
+  Axillary pain or numbness.   
+
+  Range of motion limitations noted on abduction.   
+
+ 
+
+Ipsilateral edema of the arm as demonstrated by an increase that is > 10% in circumference of the affected 
+arm from the pre-operative measurement. Symptoms of lymphedema also should be noted.   
+
+ 
+7    Evaluation of Outcomes   
+
+The primary endpoint is overall survival. Overall survival is defined as the time from the date of initial 
+diagnosis until the date of death. Patients will be followed for overall survival for a maximum of 10 years 
+from the date of surgery. Secondary endpoints of interest are:   
+
+1.  Distant disease-free survival.    Distant disease is defined as the distant recurrence of breast cancer. Breast 
+
+cancer in the contralateral breast or ipsilateral axilla is not a distant recurrence.   
+
+2.  Comparison of surgical morbidities associated with SLND plus ALND versus SLND alone.   
+
+ 
+
+Z0011 A9 
+
+ 
+
+21 
+
+ACOSOG 
+
+Protocol Z0011 
+
+8    Adverse Event Reporting   
+8.1   
+
+Definition of Adverse Event   
+
+An Adverse Event (AE) is any untoward medical occurrence in a patient that does not necessarily have a 
+causal relationship with the study intervention. An AE can therefore be any unfavorable and unintended sign 
+(including an abnormal laboratory finding), symptom or disease temporally associated with the use of a 
+medical treatment or procedure regardless of whether it is considered related to the medical treatment or 
+procedure (attribution of unrelated, unlikely, possible, probable, or definite).   
+
+8.2   
+
+Definition of Serious Adverse Event   
+
+A Serious Adverse Event (SAE) is defined as any untoward medical occurrence that:   
+
+  Results in death or   
+
+ 
+
+Is life-threatening (at the time of the event) or   
+
+  Requires inpatient hospitalization or prolongation of an existing hospitalization or   
+
+  Results in persistent or significant disability or incapacity or   
+
+ 
+
+Is a congenital anomaly/birth defect (in an offspring).   
+
+ 
+
+Medical and scientific judgment should be exercised in deciding whether the designation of an event as 
+serious, is appropriate in other situations, such as medical events that may not be immediately life 
+threatening but may require intervention to prevent one of the outcomes listed above.   
+
+8.3   
+
+NCI Common Toxicity Criteria   
+
+This study will collect AEs using the current version of the NCI Common Toxicity Criteria (CTC), if 
+applicable. An electronic version of the CTC may be accessed through the web at http://ctep.cancer.gov/. 
+The CTC provides a descriptive terminology that is to be used for AE reporting. A grading (severity) scale 
+is also provided in the CTC for each AE term.   
+
+8.4   
+
+Expected Adverse Events   
+
+8.4.1   
+
+Short-Term Effects   
+
+Short-Term Effects are specific surgically-related events expected during this study that are to be followed 
+using the Short-Term Surgical Effects case report form (SSE-CRF).    The SSE-CRF will be used to report the 
+status of the patient’s AEs during the 30-day period following the last study-related operation.   
+
+The following surgery-related events must be reported if the event(s) occur:   
+
+  Allergic reaction/hypersensitivity (to dye or radionucleotide that requires administration of histamine 
+
+antagonists or systemic support)   
+
+  Wound infection (breast or axillary wound infection that results in the opening of the wound or 
+
+administration of antibiotics non-prophylactically)   
+
+  Wound non-infection (axillary seroma that requires the opening of the wound or placement of a drain)   
+
+  Wound non-infection (axillary hematoma that requires surgical evacuation)   
+
+  Neuropathy-sensory (axillary paresthesia and/or intercostobrachial nerve paresthesia)   
+
+  Operative injury (brachial plexus injury)   
+
+ 
+8.4.2   
+
+Long-Term Effects   
+
+Long-Term Effects are specific surgically-related events expected during this study that are to be followed 
+using the Long-Term Surgical Effects case report form (LSE-CRF).    The LSE-CRF will be used to report the 
+status of the patient’s AEs assessed as required by the Study Calendar.   
+
+The following surgery-related events must be reported if the event(s) occurs, continues, or progresses:   
+
+  Lymphatics (lymphedema -- arm circumference 2 cm greater or more than baseline measurement)   
+
+Z0011 A9 
+
+ 
+
+22 
+
+ACOSOG 
+
+Protocol Z0011 
+
+  Neuropathy-sensory (axillary paresthesia)   
+
+  Operative injury (brachial plexus injury)   
+
+ 
+8.4.3   
+
+Reporting of Expected Adverse Events   
+
+AEs that are expected and listed as short term or long-term effects will be reported using the appropriate 
+CRFs, SSE-CRF or LSE-CRF.   
+
+Expected AEs related to radiation therapy or adjuvant systemic therapy are not listed as part of this protocol. 
+Any AEs noted as expected by other sources that are Grade 1,2, 3 or 4 should not be reported.   
+
+Expedited reporting is required for any expected AE that is reported as fatal (Grade 5) within 30 days 
+following the study intervention regardless of attribution.   
+
+All reported AEs should be followed until final resolution.   
+
+8.5   
+
+Unexpected Adverse Events   
+
+An Unexpected Adverse Event is any event that is not listed as a short-term or long-term effect in the 
+Expected Adverse Events section of this protocol.   
+
+8.5.1   
+
+Reporting of Unexpected Adverse Events   
+
+All unexpected AEs related to surgical interventions will be reported using the AE-CRF.    The severity of 
+the event should be graded using the CTC criteria, if applicable or if the grade categories are listed under 
+“Grade of Adverse Event” in the section below. Attribution also should be determined and reported on the 
+CRF. Categories of attribution are defined under “Attribution of Adverse Event” in the section below.”   
+
+Exception: Unexpected AEs related to radiation therapy or adjuvant chemotherapy that are Grade 1, 2, or 
+3 should not be reported.   
+
+Expedited reporting is required for any unexpected AE that is reported as life threatening (Grade 4) or fatal 
+(Grade 5) that occurs within 30 days following the study intervention regardless of attribution.   
+
+All reported AEs should be followed until final resolution.   
+
+8.5.2   
+
+Attribution of Adverse Event   
+
+Attribution must be determined by the investigator or study surgeon, documented and reported. The following 
+categories should be used when determining whether an AE is related to the medical treatment or surgical 
+procedure:   
+
+Definite   
+
+Clearly related to medical treatment or surgical procedure   
+
+Probable   
+
+Likely related to medical treatment or surgical procedure   
+
+Possible   
+
+May be related to medical treatment or surgical procedure   
+
+Unlikely   
+
+Doubtfully related to medical treatment or surgical procedure   
+
+Clearly NOT related to medical treatment or surgical procedure   
+
+Unrelated   
+ 
+Grade of Adverse Event   
+
+8.5.3   
+
+The severity of each event should be graded using the CTC criteria, if applicable.    If the event is not in the 
+CTC, the following categories should be used when determining the severity of an AE:   
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+No adverse event or within normal limits   
+
+Mild adverse event   
+
+Moderate adverse event   
+
+Severe adverse event   
+
+Life -threatening adverse event   
+
+Fatal adverse event   
+
+Z0011 A9 
+
+ 
+
+23 
+
+ACOSOG 
+
+Protocol Z0011 
+
+8.6   
+
+Expedited Adverse Event Reporting   
+
+An expedited adverse event report requires submission to ACOSOG.    The new Word version of the AdEERS 
+form is available on the ACOSOG web site at www.acosog.org. This Word document can be downloaded, 
+completed, and emailed to ACOSOG at AdEERS@surgerytrials.duke.edu..The ACOSOG will fax the form to 
+the NCI upon receipt.   
+
+Failure to report AEs in a timely manner may result in suspension of the investigator.    AE reporting is in 
+addition to and does not supplant the reporting of adverse events as part of the data submission requirements 
+for the study.   
+
+8.6.1   
+
+What to report:   
+
+Summary of Expedited Reporting of Adverse Events for Surgical Procedures Only:   
+
+UNEXPECTED EVENT   
+Grades 1 – 3 
+Regardless of 
+Attribution   
+Adverse   
+Event   
+Expedited   
+Reporting   
+NOT   
+required.   
+
+Grade 4 
+Regardless of 
+Attribution   
+Expedited   
+report within   
+10 working   
+days.   
+ 
+ 
+
+Grade 5 
+Regardless of 
+Attribution   
+Report by   
+phone to NCI    Event   
+and   
+ACOSOG   
+within 24 hrs.    NOT   
+Expedited 
+report to 
+follow within 
+10 working 
+days.   
+
+Expedited   
+Reporting   
+
+required.   
+
+EXPECTED EVENT   
+Grades 1 – 3 
+Regardless of 
+Attribution   
+Adverse   
+
+Grade 5 
+Regardless of 
+Attribution   
+
+Grade 4 
+Regardless of 
+Attribution   
+Adverse event    Report by   
+expedited   
+reporting   
+NOT   
+required.   
+ 
+
+phone to NCI   
+and   
+ACOSOG   
+within 24 hrs.   
+Expedited 
+report to 
+follow within 
+10 working 
+days.   
+
+All deaths within 30 days of the date of surgery regardless of attribution must be reported. Any late 
+death (> 30 days of the date of surgery) attributed to study intervention (possible, probable or 
+definite) should be reported within 10 working days.   
+
+ 
+8.6.2   
+
+When to report   
+Once the investigative site becomes aware of the event, it should be reported within ten (10) working days. 
+All fatal (Grade 5) adverse events should be reported by telephone to NCI and ACOSOG within 24 hours of 
+the event.   
+
+8.6.3   
+
+How to report   
+
+Expedited adverse event reporting in NCI trials utilizes the AdEERS, “The Adverse Event Expedited Reporting 
+System” An online AdEERS form cannot be used for surgical intervention only trials, such as Z0011 DO NOT 
+attempt to submit a completed form electronically through the AdEERS web site, as the system 
+currently will not permit electronic submission of reports without the completion of Section 4, which 
+requires a pharmaceutical agent.   
+
+  Go to the ACOSOG web site at www.acosog.org.   
+
+  Click on the link for “Protocols and Adverse Event Links.”   
+
+  Click on the link for “AdEERS for all other protocols.”   
+
+ 
+
+Save the Word form to a local computer and complete according to the instructions provided.   
+
+  E-mail the completed form as an attachment to AdEERS@surgerytrials.duke.edu .   
+
+ 
+
+The site is no longer required to fax a copy of the AdEERS form to the National Cancer Institute. The 
+ACOSOG will fax the form to the NCI upon receipt.   
+
+Z0011 A9 
+
+ 
+
+24 
+
+ACOSOG 
+
+Protocol Z0011 
+
+8.6.4   
+
+Where to report:   
+
+ACOSOG: Microsoft Word form of AdEERS should be completed and submitted via email at 
+AdEERS@surgerytrials.duke.edu 
+
+For paper submission: A copy of expedited adverse event reports can be sent to the ACOSOG 
+
+Coordinating Center by fax at (919) 668-7156. All fatal (Grade 5) adverse events should be reported 
+by telephone within 24 hours of the event. To make a telephone report, contact ACOSOG at (919) 
+668-8191, available 24 hours a day (recorder after hours from 5:00 PM to 9:00 AM EST).   
+Local IRB: All expedited adverse event reports should be sent to your local IRB. NOTE: Please 
+consult your IRB for local reporting requirements.   
+
+ 
+9 
+
+Data Considerations   
+
+The clinical site should access the Z0011 protocol page of the ACOSOG web site, http://www.acosog.org 
+to obtain full-size blank CRFs for data submission to the ACOSOG Statistics and Data Center. 
+
+Case Report Form Completion and Submission Guidelines   
+
+Effective November 14, 2011, all participating sites will submit patient data via fax to 
+507-293-3575 for entry by Statistics and Data Center personnel.   
+
+10    Statistical Considerations   
+
+This trial is designed to test the null hypothesis that survival for patients assigned to Arm 2 (no ALND) is 
+significantly worse than for patients assigned to Arm 1 (ALND). Rejection of this null hypothesis would 
+provide evidence in favor of clinical adaptation of SLND without ALND (Arm 2). A short-term primary 
+objective is to quantify the morbidities associated with ALND and SLND.   
+
+The ACOSOG Data Monitoring Committee (DMC) will control access to and release of results from this 
+study and closely monitor the study. The DMC will meet every six months and will be given a progress report 
+at those meetings. Some of the progress reports will include scheduled formal analyses (see below).   
+
+The trial is planned with the intent of reporting results from short-term objectives following the completion of 
+accrual to this randomized trial and prior to the time when results associated with the long-term objective 
+(survival comparison) can be reported.    The DMC will be asked for permission to report results associated 
+with short-term objectives, with the overriding consideration being whether the release of these results could 
+in any way compromise meeting the long-term objective.   
+
+The trial size is based on the requirements of the Z0011 primary long-term objective (testing the null 
+hypothesis).   
+
+The following are trial size computations and use a type I error probability  = 0.05 (one-tailed), and a type II 
+error probability  = 0.1 (power=90%). These computations are done using a modification of the algorithm 
+described by Rubinstein, Gail, and Santnor [Rubinstein 1981]. The primary analysis will be done using 
+proportional hazard regression.   
+
+Let A designate the hazard rate in Arm 1, and B designate the hazard rate in Arm 2.    The hypotheses are: 
+
+H0: B/A  against Ha: B/A < ,   
+
+Where  specifies the hazard ratio criterion that indicates that the survival outcome in Arm 2 is worse than 
+for Arm 1, H0 is the null hypothesis and Ha is the alternative hypothesis. The specific criterion for inferiority 
+of Arm 2 used in the computations is  = 1.3, with equivalence in the hazard ratio ( = 1) as the specific 
+alternative hypothesis. Rejection of the null hypothesis provides evidence that not doing an ALND in women 
+found to have a positive SN results in survival that is not substantially worse than performing an ALND.   
+
+An estimate of survival in near optimally treated node-positive women is 70% at 8 years [Fisher 1989]. 
+Another estimate of survival for node-positive women is 76% at 5 years [EBCTCG 1992]. These estimates 
+and exponential survival distribution assumptions are used to compute hazard rates used in subsequent trial 
+size computations. The computed hazard rates for these two survival estimates are 0.0446 and 0.0549, 
+respectively. The former hazard rate estimate is the more conservative and is favored.   
+
+Trial size computations are displayed for an accrual rate of 500 eligible patients per year. This accrual rate 
+was estimated from a survey. Alternative follow-up intervals following the completion of accrual of 3 and 5 
+
+Z0011 A9 
+
+ 
+
+25 
+
+ACOSOG 
+
+Protocol Z0011 
+
+years also are specified.   
+
+The computed accrual times for specified hazard rates, accrual rates, and follow-up times are shown in the 
+following table. The hazard rates for Arm 1 are those computed from survival estimates cited previously. The 
+hazard rate for Arm 2 is 1.3 times the hazard rate for Arm 1. The median and 5 year survivals are computed 
+from the hazard rates and illustrate the differences corresponding to the clinical significance criterion used to 
+design the trial. The trial accrual time is computed from these specifications.    The trial size is the trial accrual 
+time multiplied by the accrual rate for eligible patients. The total trial time is the sum of the computed accrual 
+time and the specified follow-up period, and is the earliest the trial can be reported unless terminated early by 
+the DMC.   
+
+(Hazard rate)   
+
+1   
+
+2   
+
+Median 
+Survival   
+2   
+
+1   
+
+5 Year 
+Survival   
+1   
+2   
+
+0.0549   
+
+0.0714   
+
+12.6 
+
+9.7   
+
+76%    70%   
+
+0.0446 
+
+0.0580 
+
+15.5 
+
+11.9 
+
+80% 
+
+75% 
+
+Accrual 
+
+Rate 
+
+per year 
+
+500   
+
+500   
+
+Follow 
+-up   
+
+Total Accrual 
+for the Trial   
+Time 
+Size 
+
+Total 
+Trial 
+Time 
+
+3 
+
+5 
+
+3 
+
+5 
+
+4.2 
+
+3.3 
+
+4.7 
+
+3.8 
+
+2100 
+
+1650 
+
+2350 
+
+1900 
+
+7.2 
+
+8.3 
+
+7.7 
+
+8.8 
+
+Using the favored specifications (hazard rate of 0.0446 from the Fisher article and 5 years of follow-up prior 
+to final analysis), the trial size is 1900 patients with a final report at 8.8 years following trial initiation.   
+
+There will be five planned formal survival analyses including the final analysis, with an overall type I error 
+probability of 0.05. These formal analyses will take place after each increment of 100 deaths, so that the final 
+analysis is planned for 500 deaths. The first formal analysis is projected to be done 37 months following the 
+start of accrual, and the next three will be done following the cessation of accrual at 54, 70, and 87 months 
+after the start of accrual.    The final analysis is projected for 105 months (8.8 years) following the start of 
+accrual. The one-tailed significance levels to be used to judge statistical significance at these formal analyses 
+will be 0.0013, 0.0014, 0.0016, 0.0022, and 0.048, providing an overall one-tailed type I error probability of 
+0.05. The results of the interim analyses will be used in deciding whether to terminate accrual (if applicable) 
+or publish early in cases where Arm 2 is found to not have significantly worse survival than Arm 1 (the null 
+hypothesis can be rejected). Should Arm 2 exhibit significantly worse survival than Arm 1, then ad hoc tests 
+illustrating the likelihood of Arm 2 eventually having a better outcome will be presented to the DMC as an aid 
+in deciding whether to terminate accrual (if applicable) or publish early based on the futility of Arm 2 ever 
+exhibiting essentially equal or better survival than Arm 1. 
+
+A fundamental assumption inherent in the design of this study is that the regional recurrence hazard rate will 
+not be unacceptably high in women with a positive SN who do not undergo ALND. Nevertheless, the 
+specification of what constitutes an unacceptably high regional recurrence hazard rate must take into account 
+the following factors:   
+
+(1)  It is expected that the regional recurrence hazard for Arm 2 (no ALND) will be higher than for 
+
+Arm 1 where there has been an ALND.   
+
+(2)  There will likely be significantly more morbidities associated with the ALND (Arm 1).   
+
+(3)  There is evidence that a higher hazard rate for regional recurrence is not associated with an 
+
+increase in the death hazard rate.   
+
+(4)  The data on which crude estimates of the hazard rate for regional recurrence in women who do not 
+have an ALND is based are not contemporary, were collected incidentally to the assessment of the 
+issue of interest, do not have sufficient follow-up, and do not address the specific conditions of 
+interest in this trial (no ALND when the SN is positive).   
+
+ 
+
+These factors, and especially the factors which relate to judgment in the face of a trade-off between choices, 
+mean that an attempt to specify a highly quantitative monitoring plan for the DMC relative to the issue of 
+regional recurrence has a high degree of arbitrariness. Based on input fro m experts the guidance criterion for 
+an excessively high regional recurrence rate is a regional recurrence hazard rate that would result in more than 
+a 20% regional recurrences estimate at five years. The DMC will be provided with analyses of the regional 
+recurrence rates at each meeting. It also will be provided with updates of the literature that has bearing on this 
+issue. The DMC will treat the regional recurrence as a safety issue. It will base its deliberations on the data 
+from this trial, other available data, and the guidance criterion specified.   
+
+Z0011 A9 
+
+ 
+
+26 
+
+ACOSOG 
+
+Protocol Z0011 
+
+The primary short-term outcome of interest is a comparison between the arms of the proportion of women 
+having significant morbidity due to axillary surgery. The outcome for each woman will be dichotomous 
+expression of whether a significant ALND-type side effect or complication has occurred. The occurrence of 
+significant ALND-type side effects are defined as occurrence of any of the following side effects: 
+lymphedema, pain in the axillary bed, loss of sensation, decreased range of motion, or infection. Let P A and PB 
+be the proportion of women experiencing a significant ALND-type side effect (as defined in the previous 
+sentence) in Arms 1 and 2, respectively. The primary analysis for this short-term outcome will be Fisher’s 
+exact test for a difference between PA and PB. A worst-case approximate statistical power analysis is based on 
+assuming that PA is 0.5. Assume a two-sided type I error probability of 0.05, 1900 eligible patients (950 per 
+arm), and a difference of 8%.    Under these assumptions, the approximate statistical power is 93%. 
+Exploratory logistic regression analyses of the probability of significant ALND-type side effects (and possibly 
+the components of this composite outcome) using available covariates also will be performed.   
+
+The DMC also will assess the adequacy of the accrual rate. The accrual rate estimate will be computed as the 
+median of the monthly accruals in the previous three months. If the monthly accrual rate estimate based on this 
+method following one year of accrual is not consistent with an accrual rate that would yield 500 patients per 
+year, or if the trend in monthly accruals is not consistent with achieving 500 patients per year by the time of 18 
+months of accrual, then the DMC will be asked to make recommendations regarding an accrual rate problem.   
+These recommendations could address whether to continue the trial, suggestions of trial modifications 
+designed to improve the accrual rate, or other trial modifications consistent with maximizing the likelihood of 
+obtaining an answer to the primary question.   
+
+Additional supporting and exploratory statistical models (proportional hazard regression and logistic 
+regression) will be estimated with the primary focus of comparing the arms .    The primary additional outcome 
+to be modeled is distant disease-free survival.    Additional candidate covariates include: tumor characteristics, 
+tumor size, ICC bone marrow metastasis, histology, and menopausal status.   
+
+11    Regulatory and Ethical Considerations   
+
+11.1   
+
+ACOSOG Membership   
+
+The investigator intending to register a patient to this study must be a member in good standing of the 
+American College of Surgeons Clinical Oncology Group (ACOSOG). The procedures for obtaining active 
+status in ACOSOG are described in the membership information found on the ACOSOG web site at 
+http://www.acosog.org.   
+
+11.2   
+
+NCI Investigator Registration   
+
+All enrolling investigators must have an NCI investigator number and must maintain an “active” investigator 
+registration status through the annual submission of a complete investigator registration packet (Form FDA 
+1572 with original signature, current CV, Supplemental Investigator Data Form with original signature, and 
+Financial Disclosure Form with original signature) to the Pharmaceutical Management Branch. These forms, 
+along with completion and submission instructions, are available on the ACOSOG web site or by calling the 
+PMB at 301496-5725 Monday through Friday between 8:30AM and 4:30PM Eastern time.   
+
+11.3   
+
+Clinical Site Eligibility   
+
+The clinical site must be formally part of or affiliated with an institution that has active status in ACOSOG or, 
+if this study is open for registration from other cooperative groups, the institution must have active status in 
+the group permitted to register to this study.    If the institution has joined ACOSOG then notification of the 
+successful application must have been issued at least 7 days before the first attempt at registration of a patient.   
+
+11.4    OHRP Considerations   
+
+An ACOSOG member must enroll patients at clinical sites that have a valid assurance number from the 
+United States Office for Human Research Protections (OHRP). Most institutions have a Multiple Project 
+Assurance (MPA), Cooperative Project Assurance (CPA) number or Federalwide Assurance (FWA).    If the 
+clinical site does not have such an assurance, the clinical site must apply and obtain an assurance before 
+patients can be enrolled to ACOSOG studies.   
+
+Unaffiliated Investigator Agreements (UIAs) are needed from investigators who independently accrue 
+patients on ambulatory protocols outside an institution (e.g., in private practice) but who rely on an 
+institution’s IRB for review of ACOSOG protocols.   
+
+Z0011 A9 
+
+ 
+
+27 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Information on applying for a FWA may be obtained from the ACOSOG Coordinating Center, by referring 
+to ACOSOG SOP “Applying for OHRP Assurance”, or by directly contacting OHRP.   
+
+11.5   
+
+Institutional Review Board Approval   
+
+It is the investigator’s responsibility to ensure that this protocol is reviewed and approved by the appropriate 
+IRB. Each clinical site must obtain a letter of approval from the IRB (full board review) prior to screening and 
+registering patients to this study as defined by the following:   
+
+ 
+
+Federal Regulatory Guidelines (Federal Register Vol. 46, 8975, January 27, 1981 as amended in 
+Federal Register Vol. 56, 28029, June 18, 1991 and in Federal Register Vol. 66, 56775, November 
+13, 2001).   
+
+  Office of Protection for Research Risks Report: Protection of Human Subjects (Code of Federal 
+
+ 
+
+Regulations Title 45, Part 46).   
+
+The IRB also must review and approve the site’s informed consent document and any other written 
+information provided to the patient prior to its use.   
+
+Participating investigators are required to submit a copy of the IRB document indicating approval of the 
+protocol and the consent form as well as a copy of the IRB-approved consent form prior to registering the first 
+patient. For instructions on the submission of these documents, please refer to the IRB Approval SOP (IRB 
+App) found on the ACOSOG web site at http://www.acosog.org/.   
+
+If, during the study, it is necessary to amend either the protocol or informed consent document, the 
+investigator will be responsible for ensuring the IRB reviews and approves the amended documents. IRB 
+approval of the amended informed consent document must be obtained before new patients consent to 
+participate in the study using this version of the consent.   
+
+11.6   
+
+Informed Consent   
+
+11.6.1   
+
+ACOSOG Preparation of the Model Informed Consent Document   
+
+In August 1998, the NCI, the Office for Protection from Research Risks (now OHRP), and the Food and Drug 
+Administration (FDA) formed the NCI Informed Consent Working Group. The group prepared a document 
+with a corresponding template called the “Recommendations for the Development of Informed Consent 
+Documents for Cancer Clinical Trials” (see http://cancertrials.nci.nih.gov or 
+http://www.nih.gov/news/pr/oct98/nci-22.htm).    The NCI requires that this template must be used in the 
+creation of model informed consent documents for all ACOSOG studies.   
+
+11.6.2   
+
+Adaptation of the Model Informed Consent Document   
+
+For each protocol, the ACOSOG provides a model informed consent document in a file form that can be 
+downloaded for inclusion into a chosen word processing system.    The Informed Consent SOP (InfCon SOP) 
+discusses how to adapt the model informed consent document for local use. This model informed consent has 
+been approved for use by the DCT/NCI, and is the only consent document approved for this study. All 
+required elements and NCI required text must be included when adapting the model informed consent to 
+include site-specific text requirements. Local IRB adaptations and editorial changes of this document are 
+allowed as long as the meaning or intent of the section is not changed.   
+
+When the model informed consent for an ACOSOG protocol is adapted to local requirements, it is the 
+responsibility of that institution to ensure that protocol procedures, especially risks, AEs, and treatment 
+choices, are fully and accurately represented in the local informed consent to be used at the institution.   
+
+11.6.3   
+
+Informed Consent Process   
+
+The investigator or his/her authorized designee will inform the patient or the patient’s legally authorized 
+representative of all aspects pertaining to the patient’s participation in the study.   
+
+The process for obtaining informed consent will be in accordance with all applicable regulatory 
+requirements. The informed consent document must be signed and dated by the patient or the patient’s 
+legally authorized representative BEFORE the patient can participate in the study. In addition, the 
+investigator will ensure that there is compliance with all institutional requirements for consent form 
+execution. The patient will receive a copy of the consent, and the original will be retained according to local 
+requirements.   
+
+Z0011 A9 
+
+ 
+
+28 
+
+ACOSOG 
+
+Protocol Z0011 
+
+11.7   
+
+Protection of Patient Rights   
+
+11.7.1   
+
+Protection from Unnecessary Harm   
+
+Each clinical site is responsible for protecting all patients involved in human experimentation. This is 
+accomplished through the IRB mechanism and the process of informed consent.    The IRB reviews all 
+proposed studies involving human experimentation and ensures that the patient’s rights and welfare are 
+protected and that the potential benefits and/or the importance of the knowledge to be gained outweigh the 
+risks to the individual. The IRB also reviews the Informed Consent document associated with each study in 
+order to ensure that the consent document accurately and clearly communicates the nature of the research to be 
+done and its associated risks and benefits. The IRB must give full board approval of the protocol and consent 
+documents before the study may begin at a site.   
+
+11.7.2   
+
+Confidentiality of Patient Data   
+
+The clinical site is responsible for the confidentiality of the data associated with patients registered in this 
+study in the same manner it is responsible for the confidentiality of any patient data within its sphere of 
+responsibility. For patients registered to this study, there are additional considerations related to the necessity 
+of sharing of research data with the ACOSOG Coordinating Center and representatives of NCI and OHRP.   
+
+The Privacy Rule (Title 45, Code of Federal Regulations, Parts 160 and 164) created as a result of the 
+enactment of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) protects the privacy of 
+individually identifiable health information. The rule’s requirements also heighten the protection of patient 
+information by introducing more controls on its use and disclosure.    HIPAA refers to patient information as 
+“protected health information” (PHI). PHI includes any information that could identify a person, living or dead. 
+To comply with HIPAA’s Privacy Rule, the patient is required to authorize the use and disclosure of his/her 
+PHI by either signing a HIPAA-compliant informed consent document or a separate authorization form created 
+for this purpose. The provisions of the Privacy Rule do not negate the other federal regulations that govern the 
+protection of patient’s rights relative to data confidentiality and the use of research data.   
+
+11.8   
+
+Inclusion of Women and Minorities   
+
+The ACOSOG has no data and therefore has no direct evidence regarding the potential for there to be 
+minority-specific effects for the types of patients expected to be enrolled on this study.    No literature has 
+been identified that addresses the issue of conclusive minority-specific effects for the issues addressed in this 
+study. A survey of many of the protocols currently accruing cooperative group phase III breast cancer studies 
+was done.    The purpose of this survey was to ascertain whether any of these protocols discuss design features 
+based on data showing an expectation of minority-specific effects for any of the issues addressed in these 
+studies, even though these studies tend to address the issues of chemotherapy and hormonal therapy. The 
+background sections of these protocols often report recent analyses addressing minority-specific effects. 
+There were no conclusive data cited or expectations discussed for minority-specific effects.   
+
+The ACOSOG has no data and therefore has no basis for projecting the proportions of minority patients to be 
+expected. Therefore, the ACOSOG will base its accrual projection on the projections used in another 
+cooperative group.    In the Southwest Oncology Group study S9623, the following proportional allocation of 
+accrual was used. The projected accrual for this study is based on the Southwest Oncology group experience:   
+
+Race Category   
+American Indian or Alaska Native   
+Asian or Pacific Islander   
+Black, not of Hispanic Origin   
+Hispanic   
+White, not of Hispanic Origin   
+Other or Unknown   
+Total   
+
+% Accrual   
+
+Projected Accrual   
+
+0   
+0   
+9   
+5   
+84   
+2   
+
+100   
+
+0   
+0   
+
+171   
+95   
+
+1596   
+
+38   
+
+1900   
+
+ 
+
+The ACOSOG has implemented initiatives to promote the recru itment of minority surgeons and patients into 
+ACOSOG and such initiatives are likely to be in place soon after this study begins accrual and may increase 
+minority participation.   
+
+Men are excluded from this study because the number of men with breast cancer is insufficient to provide a 
+statistical basis for assessment of effects in this subpopulation of people with breast cancer.   
+
+Z0011 A9 
+
+ 
+
+29 
+
+ACOSOG 
+
+Protocol Z0011 
+
+11.9   
+
+Clinical Site Audits   
+
+All clinical sites at which patients are enrolled are subject to an on-site audit by ACOSOG in accordance with 
+guidelines provided by and available from the Clinical Trials Monitoring Branch (CTMB) of the NCI. 
+Information on these regulations may be obtained from the CTMB web site at http://ctep.cancer.gov/.   
+
+11.10    Clinical Monitoring   
+
+This study will be monitored by the current version of the Clinical Data Update System (CDUS). Cumulative 
+CDUS data will be submitted quarterly to CTEP by electronic means. Reports are due January 31, April 30, 
+July 31, and October 31.   
+
+12    Surgeon Skill Verification   
+There are no skill verification procedures for this study.   
+
+13    Performance Monitoring   
+
+If, based upon the materials submitted, or during participation on this study, an investigator has a possible 
+performance issue, the ACOSOG study committee will review the issues and make recommendations based on 
+its findings to the investigator. It is expected that in most cases, the study committee will work with the 
+investigator to improve performance. However, the study chair and the ACOSOG study committee are 
+empowered to suspend protocol participation, if necessary. 
+
+Z0011 A9 
+
+ 
+
+30 
+
+ACOSOG 
+
+Protocol Z0011 
+
+14    References   
+
+   
+
+Aberizk 1986 
+
+Abner 1993   
+
+Albertini 1996   
+
+Andry 1989   
+
+Beahrs 1992   
+
+Brodt 1990   
+
+Brodt 1991   
+
+Cabanes 1992   
+
+Cady 1984   
+
+Cady 1994   
+
+Cady 1997   
+
+CRCWP 1980   
+
+Cythgre 1982   
+
+EBCTCG 1992   
+
+Fisher 1985   
+
+Fisher 1989   
+
+Fourquet 1989   
+
+Fowble 1990   
+
+Giuliano 1994   
+
+Giuliano 1997   
+
+Haffty 1991   
+
+Hayward 1981   
+
+Ivens 1992   
+
+Aberizk  WJ,  Silver  B,  Henderson  IC,  et  al.  The  use  of  radiotherapy  for  treatment  of 
+isolated locoregional recurrence of breast carcinoma after mastectomy.    Cancer 58:1214, 
+1986.   
+Abner AL, Recht A, Eberlein T, et al. Prognosis following salvage mastectomy for 
+recurrence in the breast after conservative surgery and radiation therapy for early-stage 
+breast cancer. J Clin Oncol 11:44, 1993.   
+Albertini  JJ,  Lyman  GH,  Cox  C,  et  al.  Lymphatic  mapping  and  sentinel  node  biopsy  in 
+the patient with breast cancer. JAMA 276:1818-1822, 1996.   
+Andry G, Suciu S, Vico P, and et al. Locoregional recurrences after 649 modified radical 
+mastectomies: incidence and significance.    Eur J Surg Oncol 15:476, 1989.   
+Beahrs O, et al. Manual for Staging of Cancer. Lippincott, 4th edition, 1992.   
+Brodt P, Fallavoilita L, Sawka RJ, et al. Tumor cell adhesion to frozen lymp h node 
+sections---a correlate of lymphatic metastasis in breast carcinoma models of human and 
+rat origin. Breast Cancer Res Treat 17:109, 1990.   
+Brodt P. Adhesion mechanisms in lymphatic metastasis. Cancer Met Rev 10:23, 1991.   
+Cabanes PA, Salmon RJ, Vilcoq JR, et al.    Value of axillary dissection in addition to 
+lumpectomy and radiotherapy in early breast cancer. Lancet 329:1245-1248, 1992.   
+Cady B. Lymph node metastases --- indicators, but not governors of survival.    Arch Surg 
+119:1067, 1984.   
+Cady B. The need to reexamine axillary lymph node dissection in invasive breast cancer. 
+Cancer 73:505-508, 1994.   
+Cady B, Stone MD, Schuler J, et al. The new era in breast cancer: invasion, size, and 
+nodal involvement dramatically decreasing as a result of mammographic screening. Surg 
+Oncol Clin NA 6: 195-202, 1997.   
+Cancer  Research  Campaign  Working  Party:  Cancer  research  campaign  trial  for  early 
+breast cancer. Lancet 11 (8185): 55-60, 1980.   
+Cythgre J, Palmer M. Manchester regional breast study: 5 and 10-year results.    Br J Surg 
+69:693, 1982.   
+Early Breast Cancer Trialists' Collaborative Group. Systemic Treatment of early breast 
+cancer by hormonal, cytotoxic, or immune therapy.    Lancet 339:1-15, 7185, 1992.   
+Fisher B, Redmond C, Fisher ER, et al. Ten year results of a randomized clinical trial 
+comparing radical mastectomy and total mastectomy with or without radiation. N Eng J 
+Med 312:674-682, 1985.   
+Fisher B, Redmond C, et al. Eight year results of a randomized clinical trial comparing 
+total mastectomy and lumpectomy with and without irradiation in the treatment of breast 
+cancer. NEJM 1989; 320: 822-828.   
+Fourquet A, Campana F, Zafrani B, et al. Prognostic factors of breast recurrence in the 
+conservative management of early breast cancer: a 25-year follow-up.    Int J Radiat 
+Oncol Biol Phys 17:719, 1989.   
+Fowble B, Solin L, Schultz D, and et al. Breast recurrence following conservative surgery 
+and radiation: pattern of failure, prognosis, and pathologic findings from mastectomy 
+specimens with implications for treatment. Int J Radiat Oncol Biol Phys 19:833, 1990.   
+Giuliano AE, Kirgan DM, et al. Lymphatic mapping and sentinel lymphadenectomy for 
+breast cancer. Ann Surg 220:391-401, 1994.   
+Giuliano AE, Jones RC, et al. Sentinel lymphadenectomy in breast cancer. J Clin Oncol 
+15:2345, 1997. 
+Haffty BG, Fischer D, Beinfield M, et al. Prognosis following local recurrence in the 
+conservatively treated breast cancer patient. Int J Radiat Oncol Biol Phys 21:293, 1991.   
+Hayward J. The surgeon’s role in primary breast cancer. Breast Cancer Res Treat 
+1:27-32, 1981.   
+Ivens D, Hoe Al, Podd TJ et al. Assessment of morbidity from complete axillary 
+
+Z0011 A9 
+
+ 
+
+31 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Krag 1993   
+
+Langlands 1980   
+
+Marshall 1974   
+
+McArdle 1986   
+
+Morton 1992 
+
+Nicholson 1986   
+
+NIHCC 1991   
+
+Orel 1993   
+
+Overgaard 1997   
+
+Ragaz 1997   
+
+Recht 1989   
+
+Rubinstein 1981   
+
+Rutquist 1993   
+
+Stotter 1989   
+
+Tabar 1992   
+
+Veronsei 1997   
+
+White 1996   
+
+dissection. Br J Cancer 66:136-138, 1992.   
+Krag DN, Weaver DL, Alex JC, Fairbank JT. Surgical resection, and    radiolocalization 
+of the sentinel node in breast cancer using gamma probe.    Surg Oncol 2:335-340, 1993.   
+Langlands AO, Prescott RJ, Hamilton T. A clinical trial in the management of operable 
+breast cancer. Br J Surg 67:170-174, 1980.   
+Marshall K, Redfern A, Cady B. Local recurrences of carcinoma of the breast.    Surg 
+Gynecol Obstet 139:406, 1974.   
+McArdle CS, Crawford D, Dykes EH, et al. Adjuvant radiotherapy and chemotherapy in 
+breast cancer. Br J Surg 73:264-266, 1986.   
+Morton DL, Duan-Ren W, Wong, JH.    Technical details of intraoperative lymphatic 
+mapping and sentinel node biopsy in the management of primary melanoma. Arch Surg 
+127:392, 1992.   
+Nicolson GL, Dulski KM. Organ specificity of metastatic tumor colonization is related to 
+organ-selective growth properties of malignant cells.    Int J Cancer 38:289, 1986.   
+National Institute of Health Consensus conference. Treatment of early breast cancer. 
+JAMA 265:391-395, 1991.   
+Orel SG, Fowble BL, and Solin LJ, et al. Breast cancer recurrence after lumpectomy and 
+radiation therapy for early-stage disease: prognostic significance of detection method. 
+Radiology 188:189, 1993.   
+Overgaard M, Hansen PS, Overgaard J, et al. Postoperative radiotherapy in high-risk 
+premenopausal women with breast cancer who receive adjuvant chemotherapy.    N J Eng 
+Med 337:949-955, 1997.   
+Ragaz J, Jackson SM, Le N, et al. Adjuvant radiotherapy, and chemotherapy in 
+node-positive premenopausal women with breast cancer.    N Eng J Med 337:956962, 
+1997.   
+Recht A, Scnitt SJ, Connolly JL, et al. Prognosis following local or regional recurrence 
+after conservative surgery and radiotherapy for early stage breast carcinoma. Int J Radat 
+Oncol Biol Phys 16:3, 1989.   
+Rubinstein LV, Gail MH, Santner TJ. Planning the duration of a comparative clinical trial 
+with loss to follow-up and a period of continued observation. J. Chronic Disease 1981; 
+34:469-479.   
+Rutquist L, Petterson D, Johansson H. Adjuvant radiation therapy versus surgery alone in 
+operable breast cancer: long-term follow-up in a randomized clinical trial. Radiother 
+Oncol 104:26, 1993.   
+Stotter AT, McNeese MD, Ames FC, et al. Predicting the rate and extent of locoregional 
+failure after breast conservation therapy for early breast cancer.    Cancer 64:2217, 1989.   
+Tabar L, Fagerberg G, Day N, et al. Breast cancer treatment and natural history; new 
+insights from results of screening. Lancet 339:412, 1992.   
+Veronesi U, Paganelli G, Galimberti V, Viale G, Surrida S, Bedoni M, Costa A, de Cicco 
+C, Geraghty JG, Luini A, Sacchini V, Veronesi P. Sentinel-node biopsy to avoid axillary 
+dissection in breast cancer with clinically negative lymph-nodes.    Lancet 
+349:1864-1867, 1997.   
+White RE, Vezeridis MP, Konstadoulakis M, et al. Therapeutic options and results for the 
+management of minimally invasive carcinoma of the breast: influence of axillary dissection 
+for treatment of T1a and T1b lesions. JACS 183:575-522, 1996. 
+
+Z0011 A9 
+
+ 
+
+32 
+
+ACOSOG 
+
+Protocol Z0011 
+
+15    Appendices   
+15.1   
+
+Abbreviations   
+
+ACOSOG   
+AdEERS   
+ALND   
+BCT 
+CDUS   
+CFR   
+cm   
+CPA 
+CRF   
+CTC   
+CTEP   
+CTMB 
+CTV   
+DMC   
+ECOG   
+ER   
+FBAA   
+FDA   
+FNA   
+FWA   
+Gy   
+H&E   
+ICC 
+IDB   
+IHC   
+IND   
+IRB 
+IVR   
+JCRT 
+LSE   
+mC   
+MV   
+MPA   
+MRM   
+NCCTG   
+NCI   
+NSABP   
+OHRP   
+OIR   
+PDF   
+PTV   
+RM   
+RT   
+RW   
+SAE   
+SERMs   
+SN   
+SLND   
+SOP   
+SSE   
+TM   
+UIAs   
+URL   
+WLE   
+
+American College of Surgeons Oncology Group   
+Adverse Event Expedited Reporting System AE Adverse Event   
+Axillary Lymph Node Dissection   
+Breast Conserving Therapy   
+Clinical Data Update System   
+Code of Federal Regulatons   
+Centimeter   
+Cooperative Project Assurance   
+Case Report Form   
+Common Toxicity Criteria   
+Cancer Therapy Evaluation Program   
+Clinical Trials Monitoring Branch   
+Clinical Target Volume   
+Data Monitoring Committee   
+Eastern Cooperative Oncology Group   
+Estrogen Receptor   
+Follow-up Breast and Arm Assessment   
+Food and Drug Administration   
+Fine Needle Aspiration   
+Federalwide Assurance   
+Gray   
+Hematoxylin and Eosin   
+Immunocytochemistry   
+Investigational Drug Branch   
+Immunohistochemistry   
+Investigational New Drug   
+Institutional Review Board   
+Interactive Voice Response   
+Joint Center for Radiation Therapy   
+Long Term Surgical Effects   
+milliCuries   
+Megavoltage   
+Multiple Project Assurance   
+Modified Radical Mastectomy   
+North Central Cancer Treatment Group   
+National Cancer Institute   
+National Surgical Adjuvant Breast and Bowel Project Trial   
+Office of Human Research Protection   
+Optical Image Recognition   
+Portable Document Format   
+Planning Target Volume   
+Radical Mastectomy   
+Radiotherapy   
+Registration Worksheet   
+Serious Adverse Event   
+Selective Estrogen Receptor Modulators   
+Sentinel Node   
+Sentinel Lymph Node Dissection   
+Standard Operating Procedures   
+Short Term Surgical Effects   
+Total Mastectomy   
+Unaffiliated investigator agreements   
+Universal Resource Locator   
+Wide Local Excision   
+
+Z0011 A9 
+
+ 
+
+33 
+
+ACOSOG 
+
+Protocol Z0011 
+
+15.2   
+
+Staging Reference Selected elements from the AJCC Cancer Staging Manual, 1997 fifth edition:   
+
+Stage   
+
+Criteria   
+
+T0   
+
+Tis   
+
+No evidence of primary tumor.   
+
+Carcinoma in situ: intraductal carcinoma, lobular carcinoma in situ, or Paget’s disease of the 
+nipple with no tumor.   
+
+T1   
+
+Tumor 2 cm or less in greatest dimension.   
+
+T1mic    Microinvasion 0.1 cm or less in greatest dimension.   
+
+T1a   
+
+Tumor more than 0.1 cm but not more than 0.5 cm in greatest dimension.   
+
+T1b   
+
+Tumor more than 0.5 cm but not more than 1 cm in greatest dimension.   
+
+T1c   
+
+Tumor more than 1 cm but not more than 2 cm in greatest dimension.   
+
+T2   
+
+T3   
+
+T4   
+
+N0   
+
+N1   
+
+Tumor more than 2 cm but not more than 5 cm in greatest dimension.   
+
+Tumor more than 5 cm in greatest dimension.   
+
+Tumor of any size with direct extension to a) chest wall or b) skin.   
+
+No regional lymph node metastasis.   
+
+Metastasis to movable ipsilateral axillary lymph node(s) (include any N1a, N1bm N1bI, N1bII, 
+N1bIII, or N1bIV).   
+
+M0   
+
+No distant metastasis.   
+
+Stage   
+
+TNM   
+
+I   
+
+II   
+
+ 
+ 
+15.3   
+
+T1, N0, M0   
+
+T0, N1, M0; T1, N1, M0; T2, N0, M0; T2, N1, M0; T3, N0, M0   
+
+ECOG/Zubrod Performance Status Scale   
+
+ECOG/Zubrod Score    Performance Status   
+
+0   
+1   
+2   
+3   
+4   
+5   
+
+Asymptomatic   
+Symptomatic, fully ambulatory   
+Symptomatic, in bed < 50% of the day   
+Symptomatic, in bed > 50% of the day but not bedridden   
+Bedridden   
+Dead   
+
+ 
+ 
+
+Z0011 A9 
+
+ 
+
+34 
+
+ACOSOG 
+
+Protocol Z0011 
+
+15.4   
+
+Cancer Trials Support Unit (CTSU) Participation Procedures   
+
+15.4.1   
+
+Registration / Ramdomization   
+
+Before recruitment of a patient for this study, investigators must be registered members of the CTSU. Each 
+investigator must have an NCI investigator number and must maintain an “active” investigator registration 
+status through the annual submission of a complete investigator registration packet (FDA Form 1572 with 
+original signature, current CV, Supplemental Investigator Data Form with signature, and Financial Disclosure 
+Form with original signature) to the Pharmaceutical Management Branch, CTEP, DCTD, NCI. These forms are 
+available on the CTSU registered member Web site or by calling the PMB at 301-496-5725 Monday through 
+Friday between 8:30 a.m. and 4:30 p.m. Eastern time.   
+
+Each CTSU investigator or group of investigators at a clinical site must obtain IRB approval for this protocol 
+and submit all IRB/regulatory documents to the CTSU Regulatory Office before patient enrollments may 
+proceed. All forms and documents associated with this study can be downloaded from the ACOSOG-Z0011 
+Web page on the CTSU registered member Web site (http://www.ctsu.org). Patients can be registered only 
+after pre-treatment evaluation is complete, all eligibility criteria have been met, and all pertinent forms and 
+documents are approved and on file with the CTSU.   
+
+ 
+
+ 
+
+ 
+
+Requirements for ACOSOG-Z0011 site registration:   
+
+  CTSU IRB Certification   
+
+ 
+
+ 
+
+IRB/Regulatory Approval Transmittal Sheet   
+
+IRB-approved consent form   
+
+Prestudy requirements for patient enrollment on ACOSOG-Z0011:   
+
+ 
+
+ 
+
+Patient must meet all inclusion criteria, and no exclusion criteria should apply.   
+
+Patient has signed and dated all applicable consents and authorization forms.   
+
+  All baseline laboratory tests and prestudy evaluations performed.   
+
+CTSU Procedures for Patient Enrollment   
+
+Patients  registered  to  this  study  may  undergo  either  post-operative  registration  and  randomization  OR 
+pre-operative registration with intra-operative randomization.   
+
+Post-operative Registration and Randomization   
+Contact the CTSU Patient Registration Office by calling 1-888-462-3009 to alert the CTSU Patient 
+Registrar that an enrollment is forthcoming. Complete the following forms:   
+
+  CTSU Patient Enrollment Transmittal Form   
+
+  ACOSOG-Z0011 Registration Worksheet   
+
+Fax these forms to the CTSU Patient Registrar at 1-888-691-8039 between the hours of 8:00 a.m. and 4:30 
+p.m., Mon-Fri, Eastern time.    The registrar will also check the forms for completeness and follow-up with the 
+site to resolve any discrepancies.    Once investigator eligibility is confirmed and enrollment documents are 
+reviewed for completeness, the CTSU registrar will enroll the patient via ACOSOG’s Web-based registration 
+program.    Upon successful registration, an ACOSOG generated confirmation of registration e-mail will be 
+forwarded by CTSU to the enrolling site. The confirmation of registration e-mail will include the patient’s 
+treatment assignment and the assigned patient identifier number to be used on all future forms and 
+correspondence.   
+
+Z0011 A9 
+
+ 
+
+35 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Pre-operative Registration with Intra-operative Randomization   
+
+Pre-registration is necessary in advance of intra-operative randomization. To pre-register the patient, 
+contact the CTSU Patient Registration Office by calling 1-888-462-3009 to alert the CTSU Patient 
+Registrar that an enrollment is forthcoming. Complete the following forms:   
+
+  CTSU Patient Enrollment Transmittal Form   
+
+  ACOSOG-Z0011 Registration Worksheet   
+
+ 
+
+Fax these forms to the CTSU Patient Registrar at 1-888-691-8039 between the hours of 8:00   
+a.m. and 4:30 p.m., Mon-Fri, Eastern time.    The registrar will also check the forms for completeness and 
+follow-up with the site to resolve any discrepancies.    Once investigator eligibility is confirmed and enrollment 
+documents are reviewed for completeness, the CTSU registrar will enroll the patient via ACOSOG’s 
+Web-based registration program.    Upon successful registration, an ACOSOG generated confirmation of 
+registration e-mail will be forwarded by CTSU to the enrolling site. The confirmation of registration e-mail 
+will include the assigned patient identifier number to be used on all future forms and correspondence, and an 8-
+digit ‘token’ to be used at time of randomization.   
+
+Intra-operative randomization is accomplished via ACOSOG’s 24-hour automated Interactive Voice 
+Response (IVR) system. CTSU sites should follow the procedures outlined in protocol Section 4.3.2 point #5. 
+Once the token is verified by the system, the randomized treatment arm is given. Complete the 
+ACOSOG-Z0011 Registration Worksheet and fax within 24 hours to the ACOSOG Coordinating Center at 
+919-668-8466 and the CTSU Data Operations Center at 1888-691-8039.   
+
+If a patient is found to be ineligible during surgery (i.e. did not have a positive sentinel node), inform the 
+CTSU Patient Registrar at 1-888-691-8039 and the CTSU will cancel the token.   
+
+15.4.2   
+
+Data Submission   
+
+All case report forms (CRFs) and other documents associated with this study must be downloaded from the 
+ACOSOG-Z0011 Web page located on the CTSU registered member Web site (http://www.ctsu.org). CTSU 
+investigators must use the current version of the protocol-specific ACOSOG-Z0011 forms and adhere to the 
+ACOSOG-Z0011 Schedule of Forms located in the All Forms package link on the CTSU ACOSOG-Z0011 
+web page.     
+
+Effective November 14, 2011, all participating sites will submit patient data via fax to 507-293-3575 for 
+entry by Statistics and Data Center personnel. 
+
+ 
+15.4.3   
+
+Adverse Event (AE) Reporting   
+
+This study will utilize the NCI CTC version 2.0 for adverse event assessment. A link to the CTC 
+version 2.0 guidelines is available on the CTSU member Web site. CTSU investigators should employ 
+definitions of adverse events as described in the protocol. All reporting should be conducted within the 
+time frames specified in the protocol.    Reports and supporting documentation must be submitted as 
+outlined below.   
+
+Submitting Expedited Reports: IMPORTANT: An online AdEERS form cannot be used for surgical 
+intervention only trials, such as ACOSOG-Z0011.    Do not attempt to submit a completed form 
+electronically through the AdEERS web site, as the system currently will not permit electronic 
+submission of reports without the completion of Section 4, which requires a pharmaceutical agent. 
+Section 4 Course Information should be left blank. Per Adverse Event Reporting section of the protocol, 
+download the Word version of the Adverse Drug Event Expedited Report (AdEERS) form from the 
+Adverse Events section of the ACOSOG-Z0011 web page located on the CTSU member site.    Complete 
+the form and email it directly to ACOSOG at Adeers@surgerytrials.duke.edu. The ACOSOG will fax the 
+form to the NCI upon receipt.   
+
+All fatal (Grade 5) AEs (see Section 8.0 of the protocol for details) must be reported by telephone to the 
+ACOSOG Coordinating Center (919) 668-8191 within 24 hours of the event. This should be followed 
+by an expedited report within 10 working days.   
+
+Your local Investigational Review Board must be informed of all reportable serious adverse 
+reactions.   
+
+Z0011 A9 
+
+ 
+
+36 
+
+ACOSOG 
+
+Protocol Z0011 
+
+15.5    Model Informed Consent Document   
+
+MODEL CONSENT FORM FOR ACOSOG STUDY Z0011   
+
+A randomized trial of axillary node dissection in women with clinical 
+
+T1 or T2 N0 M0 breast cancer who have a positive sentinel node   
+
+WHY AM IBEING ASKED TO TAKE PART IN THIS RESEARCH STUDY?   
+
+You are being asked to take part in this study because you have what is known as “early stage” 
+breast cancer that has spread to one of the first few lymph nodes that drain lymphatic fluid from the 
+area around your breast cancer.   
+
+It is up to you to decide whether or not to take part in this study.    Please read this consent form 
+carefully. Take your time making your decision. We encourage you to talk with your doctor, family, 
+and friends before you decide.   
+
+WHO IS CONDUCTING THIS STUDY?   
+
+This study is a clinical trial conducted by the American College of Surgeons Oncology Group 
+(ACOSOG). Clinical trials are research studies designed to find better ways to treat diseases like 
+cancer.   
+
+(The local institution is responsible for supplying information as to who is conducting the trial locally, suggested 
+
+content should include the name of contact at the local institution, with phone number and address.)   
+
+WHY IS THIS STUDY BEING DONE?   
+
+Today, standard medical practice is to look for possible spread of breast cancer to your lymph nodes 
+with an operation called an axillary lymph node dissection (ALND). This operation removes lymph 
+nodes from the middle and lower armpit on the side in which you have cancer. These lymph nodes 
+are called the axillary nodes.   
+
+Many research studies have shown that removal of the axillary nodes may not affect how long a 
+patient lives. ALND is important because it lets your doctor know if you have cancer cells in your 
+axillary nodes. Your doctor may use this information to decide on the type of treatment 
+(chemotherapy or hormonal therapy) you receive after your breast cancer surgery. Another possible 
+benefit of ALND is that it may decrease the risk of cancer coming back in your armpit. The number 
+of axillary lymph nodes that must be removed to give your doctor enough information to decide on 
+treatment options is not known. The number of axillary lymph nodes that must be removed to reduce 
+the risk of cancer coming back in your armpit also is not known.   
+
+Z0011 A9 
+
+ 
+
+37 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Sentinel lymph node dissection (SLND) is a new procedure that locates and removes the few lymph 
+nodes to which the lymphatic fluid from the tumor site first drains. These lymph nodes are called 
+the sentinel nodes. A patient will usually have from 1 to 4 sentinel nodes. If tumor cells spread, they 
+will usually be found in the sentinel nodes.   
+
+Researchers do not know if removing most of your axillary nodes with an ALND is any better than 
+removing just the sentinel nodes. It is possible that SLND is just as good as ALND in the treatment 
+of women with “early stage” breast cancer even when their sentinel nodes contain cancer cells 
+(“positive sentinel nodes”). It is important to find this out because SLND is a less invasive surgical 
+procedure with fewer surgical side effects than ALND. The only way to see which operation is better 
+is to study the procedures in a large group of women who have “early stage” breast cancer.   
+
+WHAT IS THE PURPOSE OF THIS STUDY?   
+
+This research study has several goals:   
+
+  To see if women who undergo SLND have the same long-term outcome as women who have 
+
+an ALND even when the sentinel nodes contain cancer cells. We hope that this information 
+will allow surgeons to decide if SLND can safely replace ALND in this situation.   
+
+  To compare the surgical side effects of SLND with those of ALND.   
+
+ 
+HOW MANY PEOPLE WILL TAKE PART IN THE STUDY?   
+
+About 1,900 women from many cancer treatment centers will take part in this study.   
+
+WHAT IS INVOLVED IN THE STUDY?   
+
+(Sentinel Lymph Node Dissection + Breast Conserving Therapy*) 
+
+SURGERY 
+
+ 
+
+Positive SLND 
+
+ 
+
+REGISTER / RANDOMIZE   
+
+Prior to 
+registration 
+and 
+randomization 
+
+AXILLARY LYMPH NODE DISSECTION   
+
+ 
+
+NO FURTHER SURGERY   
+
+Breast radiation therapy Systemic adjuvant chemotherapy 
+
+ 
+
+* Women who have undergone breast-conserving therapy are eligible if it was performed less than or equal to 60 days prior to SLND. 
+
+ 
+
+ 
+
+ 
+ 
+
+Z0011 A9 
+
+ 
+
+38 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Your doctor will explain both the SLND and ALND procedures to you. You should ask your doctor 
+any questions you may have about these procedures.   
+
+At the time of your SLND:   
+
+ 
+
+ 
+
+ 
+
+If your sentinel nodes show evidence of cancer on routine examination, you will be eligible 
+for this study which compares SLND to ALND;   
+If your sentinel nodes do not show evidence of cancer on routine examination, you will not 
+be eligible for this study; or   
+If a sentinel lymph node cannot be found, you will not be eligible for this study   
+
+ 
+If you decide to join this study:   
+You will be randomly assigned (by a process called randomization) to one of two groups: the SLND 
+Group or the ALND Group. This means that a computer program will put you in the SLND Group or 
+the ALND Group by chance. Neither you nor your doctor will choose which group you are in. You 
+will have an equal chance of being placed in either of the two groups.   
+
+If you are in the SLND Group: Your sentinel nodes will be located and removed at the time 
+your SLND is performed. No additional axillary lymph nodes will be removed. Your doctor 
+will explain the procedures he or she uses to find sentinel nodes. Your doctor may use a 
+radioactive tracer and/or blue dye procedure to locate your sentinel nodes. Research studies 
+have shown that the radioactive tracer and/or blue dye procedure can accurately identify 
+sentinel nodes in at least 95% of patients.    You should ask your doctor any questions you 
+may have about the procedures he or she uses to locate sentinel nodes.   
+
+If you are in the ALND Group: An ALND will be performed after your SLND is complete. 
+Your doctor will remove the lymph nodes that are in the middle and lower areas of your 
+armpit on the side in which you have breast cancer.   
+
+Your doctor also will explain the timing of your randomization. Your doctor will use either 
+“post-operative” randomization or “intra-operative” randomization.   
+
+In “post-operative” randomization, the pathologist will examine your sentinel nodes for cancer 
+after your sentinel lymph node surgery is over. The pathologist will use a technique called 
+permanent analysis or Hematoxylin and Eosin staining. This test takes several days to obtain 
+results.   
+
+If the pathologist finds cancer in your sentinel nodes, you will be randomized to either the SLND 
+Group or the ALND Group. If you are in the SLND Group, no further surgery will be done. If you 
+are in the ALND Group, yo ur doctor will remove the lymph nodes in the middle and lower areas of 
+your armpit in a second operation.   
+
+Z0011 A9 
+
+ 
+
+39 
+
+ACOSOG 
+
+Protocol Z0011 
+
+In “intra-operative” randomization, the pathologist will examine your sentinel nodes immediately 
+following your sentinel lymph node surgery while you are still in the operating room. The 
+pathologist will use a technique called frozen section analysis or a technique called “touch prep”. If 
+the pathologist finds cancer in your sentinel nodes, you will be randomized while still in the 
+operating room. If you are in the SLND Group, no more lymph nodes will be removed. If you are in 
+the ALND Group, your doctor will remove the lymph nodes in the middle and lower areas of your 
+armpit at that time.   
+
+The pathologist also will examine your sentinel nodes using permanent analysis when your surgery 
+is over. About 10-15% of patients who do not have cancer in their sentinel nodes detected by frozen 
+section or “touch prep” will have cancer detected by permanent analysis. If you are one of these 
+patients, you will be randomized to either the SLND Group or the ALND Group when these results 
+become available. If you are in the SLND Group, no further surgery will be done. If you are in the 
+ALND Group, your doctor will remove the lymph nodes in the middle and lower areas of your 
+armpit in a second operation.   
+
+You should ask your doctor any questions you may have about the timing of 
+randomization he or she uses for the Z0011 study.   
+
+WHAT ABOUT MY TREATMENT AFTER SURGERY?   
+
+Treatment given after surgery is called adjuvant therapy.    Adjuvant therapy for breast cancer can 
+include chemotherapy, hormonal therapy, and/or radiation therapy. After your surgery, you will 
+receive 25-28 treatments of radiation to your involved breast.    It will usually be given once a day for 
+five days a week (except Saturday and Sunday) for 5 to 5½ weeks. In addition, your doctor may 
+advise you to receive additional adjuvant treatment for your cancer after your surgery.   
+
+WHAT TESTS ARE NECESSARY FOR THIS STUDY?   
+
+Procedures and tests that are part of regular care are listed in the table below.    These 
+procedures and tests will need to be done even if you decide not to join this study.   
+
+Procedure/Test (Part of regular care)   
+
+Physical examination and history   
+Standard blood testing   
+Testing for medical clearance for treatment and 
+surgery, including chest x-ray   
+Intravenous fluids, which may include 
+antibiotics   
+Lumpectomy   
+
+Axillary lymph node dissection operation 
+(ALND) may be performed   
+Radiation Therapy   
+
+Location of 
+
+Procedure/Test   
+
+Out-patient   
+Out-patient   
+Out-patient   
+
+Timing of Procedure/Test (When done as part of 
+regular care)   
+Usually within 42 days of surgery   
+Usually within 42 days of surgery   
+Usually within 42 days of surgery   
+
+In hospital   
+
+Before, during, and after surgery as needed   
+
+Out-patient or In 
+
+hospital   
+
+In hospital   
+
+Out-patient   
+
+Same day to 2 day hospital stay (1-2 hour 
+procedure)   
+Same day to 2 day hospital stay (1-2 hour 
+procedure)   
+Each week day for 5 to 5 ½ weeks (30 minute to 1 
+hour procedure)   
+
+ 
+
+ 
+
+Z0011 A9 
+
+ 
+
+40 
+
+ACOSOG 
+
+Protocol Z0011 
+
+The additional procedures and tests that will be performed if you decide to join this study are listed in 
+the table below.   
+
+ 
+
+Procedure/Test (Specific to this study)   
+
+Location of 
+
+Frequency of Procedure/Test   
+
+Symptom assessments, including measurements of 
+shoulder function   
+Measurement of arm circumference   
+
+Procedure/Test   
+
+Office visit   
+
+Office visit   
+
+Radioactive tracer and/or blue dye procedure to 
+locate sentinel nodes   
+Sentinel lymph node dissection (SLND)   
+
+Out-patient or in 
+
+hospital   
+
+In hospital   
+
+Before surgery and at scheduled 
+intervals after surgery   
+Before surgery and at scheduled 
+intervals after surgery   
+Before or during surgery (30 minutes to 
+1 hour procedure)   
+Same day to 2 day hospital stay (1-3 
+hour procedure)   
+
+ 
+
+HOW LONG WILL IBE IN THE STUDY?   
+
+We would like to keep track of your medical condition for the rest of your life to look at the 
+long-term effects of the procedures you will receive in this study.    Your doctor may decide to take 
+you off study if:   
+
+  Your medical condition changes, or   
+  New information becomes available affecting your willingness to rema in in the study.   
+
+ 
+In addition, your participation in the study may end because ACOSOG finds it must limit or stop 
+the study. You also can stop taking part in the study at any time. If you decide to withdraw from the 
+study, you should talk with your doctor first.   
+
+WHAT ARE THE RISKS OF BEING IN THE STUDY?   
+
+You are at risk for certain side effects while in the study. You should discuss them with your doctor. 
+There may be other side effects that we cannot predict. Your doctor may be able to offer medical 
+treatment to make your side effects less serious and uncomfortable.    Many side effects go away 
+shortly after treatment ends, but in some cases side effects can be serious, long lasting, or permanent. 
+Please talk with your doctor about these side effects.   
+
+The risks and side effects for the SLND and ALND procedures you may undergo as part of this 
+study are listed below. Likely side effects are those that occur in more than 5% of patients who 
+undergo the procedure. Unlikely side effects are those that occur in 5% or less of patients 
+undergoing these procedures.   
+
+For Radioactive Tracer Injection Associated with SLND, risks and side effects include: 
+
+Likely 
+
+Unlikely 
+
+ 
+
+Infection at the injection site 
+
+  Allergic reaction to the injected solution 
+
+  Exposure to radiation (equal to 1/10th to 
+
+1/20th of the annual exposure the average 
+person receives from the sun) 
+
+  Tenderness, redness, and pain in the area of 
+
+the injection site 
+
+ 
+
+ 
+
+Z0011 A9 
+
+ 
+
+ 
+
+41 
+
+ACOSOG 
+
+Protocol Z0011 
+
+For the Blue Dye Injection Associated with SLND, risks and side effects include: 
+
+Likely 
+
+Unlikely 
+
+  Slight blue coloring of the skin around the 
+
+area of the injection (usually temporary, may 
+be permanent) 
+
+  Tenderness and pain in the area of the 
+
+injection site 
+
+ 
+
+ 
+
+  Bluish or greenish discoloration of your urine 
+
+for several hours after injection 
+
+ 
+
+Infection at the injection site 
+
+  Allergic reaction to the injected solution 
+
+ 
+For the Sentinel Lymph Node Dissection (SLND), risks and side effects include: 
+
+Likely 
+
+Unlikely 
+
+  Time away from work 
+  Pain 
+  Mild edema or swelling in your breast and 
+
+arm that is temporary 
+
+  Scarring and/or indentation of your skin in 
+the area of the incision (may be permanent) 
+
+Other Potential Risks of SLND:   
+
+ 
+
+  Breast or axillary wound infection (may be 
+
+serious). If this occurs, it usually happens 
+within 2 weeks after surgery. 
+
+  Bleeding or development of a hematoma (a 
+
+localized blood-filled swelling) in the area of 
+the surgery (rarely serious) 
+
+ 
+
+In approximately 5% of SLNDs, the sentinel nodes may not accurately reflect the status of the 
+rest of the lymph nodes in the armpit. It is possible that removing only the sentinel nodes could 
+leave some cancer cells behind. These cells may be destroyed by adjuvant therapy you receive 
+(chemotherapy, hormonal therapy, and/or radiation therapy). It also is possible that these cells 
+will grow in the future and require further surgery and/or therapy.   
+
+  Chronic lymphedema is swelling of the arm on the side of the surgery that does not go away. This 
+
+can be serious. Chronic lymphedema from SLND has not been reported to date.   
+
+ 
+For the Axillary Lymph Node Dissection (ALND), risks and side effects include:   
+
+Likely 
+  Time away from work 
+  Pain 
+  Mild edema or swelling in your breast and 
+
+arm that is temporary 
+
+Unlikely 
+
+  Chronic lymphedema (may be serious). 
+
+This is swelling of the arm on the side of 
+the surgery that does not go away. 
+
+  Feeling of numbness in the arm that does 
+
+  Loss of feeling or touch at the incision site 
+
+not go away 
+
+and in areas of the upper arm (may be 
+permanent) 
+
+  Scarring and/or indentation of your skin in 
+the area of the surgery (may be permanent) 
+  Bleeding or development of a hematoma (a 
+
+ 
+
+localized blood-filled swelling) or seroma 
+(mass caused by accumulation of fluid 
+within a tissue or organ) in the armpit on 
+the side of the surgery (rarely serious) 
+
+Z0011 A9 
+
+  Symptoms from injury to the brachial 
+
+plexus nerve that involves the entire arm 
+and/or hand on the side of the surgery 
+Increased susceptibility to infection in the 
+arm on the side of the surgery if that arm is 
+injured in the future 
+
+  Breast or axillary wound infection (may be 
+
+serious). If this occurs, it usually happens 
+within 2 weeks after surgery. 
+
+ 
+
+ 
+
+42 
+
+ACOSOG 
+
+Protocol Z0011 
+
+For the adjuvant Radiation Therapy, risks and side effects include: 
+
+Likely 
+
+Unlikely 
+
+  Fatigue (tiredness) that goes away 
+
+  Slight cough and difficulty breathing in 
+
+within a month or two after completion 
+of radiation 
+
+  Temporary sunburn-like skin damage 
+
+within the area of radiation 
+
+  Swelling in your breast during 
+
+treatment and for several months 
+afterwards 
+
+  Temporary soreness in the chest wall 
+
+muscles under the treated breast during 
+and after radiation treatments 
+
+ 
+
+ 
+Reproductive Risks:   
+
+the part of the lung under the treated 
+breast (may be long-term) 
+
+  Rib fractures 
+  Pericarditis, (irritation of the sac 
+
+surrounding the heart), myocarditis 
+(irritation of the heart muscle), or rib 
+fractures may occur long after 
+completion of the radiation treatments 
+
+You should not be pregnant or breastfeeding at the time of this surgery. The anesthesia for the 
+surgery and the radioactive tracer and blue dye used to locate the sentinel nodes can affect an unborn 
+baby. You may wish to ask about counseling and more information about preventing pregnancy.   
+
+For more information about risks and side effects, ask the researcher or contact 
+__________________________________.   
+[Reference and attach other material on risks.]   
+
+ARE THERE BENEFITS TO TAKING PART IN THE STUDY?   
+
+There may or may not be direct medical benefits to you from your taking part in this study. We 
+hope that information learned from this study will help patients with breast cancer in the future.   
+
+A possible benefit of taking part in this study is that you may undergo a SLND, a less invasive 
+surgical procedure with fewer surgical side effects than the standard ALND.   
+
+WHAT OTHER OPTIONS DO I HAVE?   
+
+Instead of being in this study, you have the following options:   
+
+  Lumpectomy alone;   
+  Lumpectomy and ALND;   
+  Radiation therapy alone;   
+  Lumpectomy and radiation therapy;   
+  Lumpectomy, ALND and radiation therapy;   
+  Mastectomy with possible post-mastectomy radiation therapy; or   
+  No treatment   
+
+ 
+
+Z0011 A9 
+
+ 
+
+43 
+
+ACOSOG 
+
+Protocol Z0011 
+
+Please talk with your doctor about these and other options before you enter the study. You also 
+should ask your doctor about any options that may become available during this study.   
+
+HOW WILL INFORMATION ABOUT ME BE KEPT PRIVATE?   
+
+Your medical records and study records are confidential but they may be disclosed if required 
+by law.   
+
+If the study results are published, no personal information will be identified.    This is to ensure that 
+no one will be able to tell that you took part. Records of your progress on the study will be kept in a 
+confidential form at this institution and in a computer file at the American College of Surgeons 
+Oncology Group Coordinating Center (ACOSOG-CC).    The confidentiality of the central computer 
+record is carefully guarded. Your research records will include your medical history, results of your 
+exams, reports from your surgery and treatment, and reports of your office visits. Some of the 
+information collected as part of the research also may be included in your medical records.   
+
+Organizations that may inspect and/or copy your research records for quality assurance and data 
+analysis include:   
+
+  The American College of Surgeons Oncology Group (ACOSOG);   
+  The Cancer Trials Support Unit (CTSU), a research group sponsored by the National Cancer 
+
+Institute (NCI) to provide greater access to cancer trials;   
+
+  The local Institutional Review Board (IRB), a group of people who review the research study 
+
+to protect your rights; and   
+
+  Government agencies including the Office of Human Research Protection (OHRP) and the 
+
+National Cancer Institute (NCI). These agencies may review the research to see that it is 
+being done safely and correctly.   
+
+ 
+WHAT ARE THE COSTS?   
+Taking part in this study may lead to added costs to you or your insurance company. Please ask 
+your doctor about any expected added costs or insurance problems.   
+
+In the case of injury or illness resulting from this study, emergency medical treatment is available but 
+will be provided at the usual charge. No funds/funds have been set aside to compensate you in the 
+event of injury. (The local institution must choose the option that best fits the hospital’s situation). 
+You or your insurance company will be charged for continuing medical care and/or hospitalization.   
+
+You will receive no payment for taking part in this study.   
+
+Administration of your treatment will be (provided free of charge/charged in the usual way). The 
+parts of the research that involve keeping research records will be paid by those who are 
+organizing and conducting the research. The research requires that you receive certain standard 
+medical tests and examinations. These standard tests and   
+
+Z0011 A9 
+
+ 
+
+44 
+
+ACOSOG 
+
+Protocol Z0011 
+
+examinations will be (charged in the usual way/provided at a reduced rate). (The local institution 
+must choose the option that best fits the hospital’s situation).   
+ 
+WHAT ARE MY RIGHTS AS A PARTICIPANT?   
+
+Taking part in this study is voluntary.    You are free to choose to join, to not join, or to leave the 
+study at any time. If you have any questions about the study, you will have a chance to talk with your 
+doctor or one of the study staff about it. Do not sign this form unless you have had the chance to ask 
+questions and have received satisfactory answers.    Deciding not to participate in this study will not 
+result in any penalty or loss of benefits to which you are entitled.   
+
+You may withdraw from the study at any time. Before you withdraw, you should first talk with 
+one of the doctors or nurses involved with the study. Your decision will not affect your medical 
+treatment or your relationships with the medical personnel treating you. If you withdraw from the 
+study, you will still be offered all available care that meets your needs and medical condition.   
+
+A Data Monitoring Committee, an independent group of experts, will be reviewing the data from 
+this study on an ongoing basis. Your doctor will tell you about any new information from this or 
+other studies that may affect your health, welfare, or willingness to stay in this study.   
+
+WHO DO I CALL IF I HAVE QUESTIONS OR PROBLEMS?   
+
+For questions about the study or a research-related injury, contact (insert researcher’s name and 
+phone number). For questions about your rights as a research participant or for further information on 
+those rights, contact (insert name and phone number of Institutional Review Board or patient 
+representative).   
+
+WHERE CAN IGET MORE INFORMATION?   
+
+You may call the NCI’s Cancer Information Service at:   
+
+1–800–4–CANCER (1–800–422–6237) or TTY: 1–800–332–8615   
+
+Or visit the NCI’s Web site at:   
+
+http://www.cancer.gov/   
+
+You will get a copy of this form. You also may request a copy of the full study plan.   
+
+SIGNATURE   
+
+I agree to take part in this research study.   
+
+_______________________________________ 
+Participant   
+
+_______________________ 
+Date   
+
+Z0011 A9 
+
+ 
+
+45 
+
+ACOSOG 
+
+Protocol Z0011 
+
+16    Change Summary 
+
+Date   
+
+Section   
+
+Description   
+
+01/13/2012  Z0011 A9 
+
+ACOSOG Activation 
+
+12/07/2011  Z0011 A9 
+
+CTEP Approval 
+
+Begin A9 changes: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title page 
+
+Updated: Version number and dates 
+
+All pages 
+
+Pg 2 
+
+Contact 
+Information 
+
+ 
+
+Deleted: Update Date: 04/30/2004 
+
+Updated: Footer; page numbers 
+
+Updated: Study Chair, Committee Chair, Statistician and Pathology Chair information 
+
+ 
+
+Added: QA Specialist; Protocol Coordinator 
+
+ 
+Updated: Contact instructions 
+
+Pg 4 
+
+Table has been updated to reflect new data submission instructions. 
+
+Cancer Trials 
+Support Unit 
+(CTSU) Address 
+and Contact 
+Information 
+
+Sec 3, pg 13 
+
+Study Calendar 
+
+Sec 3, pg 13 
+
+Study Calendar 
+
+Sec 6.2, pg 21 
+
+Disease-related 
+Assessments 
+
+Sec 6.2, pg 21 
+
+Disease-related 
+Assessments 
+
+Long-term follow-up has been limited to 10 years from the date of surgery. “until 10 years” 
+has been added to the “Month 36, and then yearly” row in the Follow-up section. 
+
+“Assessment of long-term surgical side effects including axillary bed and arm effects” has been 
+removed from the “Month 36, and then yearly” row in the Follow-up section. These 
+assessments are no longer required during long-term follow-up. 
+
+Deleted first sentence: The results of disease-related assessments and treatment directed at breast 
+cancer will be reported at 6, 12, 18, 24, 30, and 36 months following registration, and then yearly 
+until death or lost to follow-up.     
+
+Deleted last sentence: Autopsy reports should be secured and submitted to ACOSOG when 
+possible. A copy of the death certificate also should be submitted. These reports should be submitted 
+using the Miscellaneous Shuttle CRF. 
+
+Sec 6.3, pg 21 
+
+This section has been revised to reflect changes in the Study Calendar. 
+
+Assessment of 
+Axillary Bed 
+and Arm Effects 
+
+Sec 7, pg 21 
+
+Evaluation of 
+Outcomes 
+
+Added to first paragraph: 
+Patients will be followed for overall survival for a maximum of 10 years from the date of surgery. 
+
+Sec 8.4.2, pg 22 
+
+This section has been revised to reflect changes in the Study Calendar. 
+
+Long Term 
+Effects 
+
+Sec 9, pg 25 
+
+Data 
+Considerations 
+
+This section has been revised to reflect revised CRF availability information and new data 
+submission instructions. 
+
+Sec 15.4.2, pg 36 
+
+This section has been revised to reflect new data submission instructions. 
+
+CTSU: Data 
+Submission 
+
+End A9 changes 
+
+ 
+
+ 
+
+ 
+
+All   
+
+Title Page   
+
+Z0011_A8R1 ACOSOG Activation Date   
+
+Changed from: Version A8 Activation Date 3/01/2004 Changed to: Version A8R1 Activation Date 
+4/30/2004 Changed from: Update Date 2/24/2004 Changed to: Update Date 4/30/ 2004   
+
+Z0011 A9 
+
+ 
+
+46 
+
+ACOSOG 
+
+Protocol Z0011 
+
+ 
+
+ 
+
+Page 2   
+
+Added: Contact Information for NSABP Investigator, Thomas Julian, MD, and NSABP 
+Coordinator, Joyce Mull. Added: The Following Groups Have Endorsed This Trial: 
+
+NCCTG: Co-
+
+NSABP: Co -chair Thomas Julian, MD All 
+
+Cooperative Group members who are not aligned with ACOSOG will enroll patients to this 
+study and submit data via the Cancer Trials Support Unit (CTSU).   
+
+03/01/2004    All   
+
+Z0011_A8 ACOSOG Activation Date   
+
+02/24/2004    15.4.3   
+
+Z0011_A8 update Changed from: Per Adverse Event Reporting section of the protocol, download 
+the Word version of the Adverse Drug Event Expedited Report (AdEERS) form from the Adverse 
+Events section of the ACOSOG-Z0011 web page located on the CTSU member site. Changed to: 
+Per Adverse Event Reporting section of the protocol, download the Word version of the 'ACOSOG 
+Adverse Event Expedited Report Surgical/Intervention Trials form from the Adverse Events section 
+of the ACOSOG-Z0011 web page located on the CTSU member site.   
+
+02/11/2004    All   
+
+02/03/2004    All   
+
+Z0011_A8 CTEP Approval Date   
+
+Z0011_A8 CTEP Submission Date   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title Page   
+
+Changed from: Amendment 7 Activation Date Changed to: Version A8 Activation Date Changed 
+from: Amendment 7 CTEP Submission Date Changed to: NCI Version Date   
+
+Page 2   
+
+Updated Contact Information table: Breast organ site chair, ACOSOG Statisticians, and Clinical 
+
+patient eligibility or treatment-related questions, send an email to the ACOSOG Study Chair(s). No 
+
+forms -
+statistical questions, send an email 
+contact the ACOSOG Study Coordinator by phone or email. All calls and correspondence will be 
+triaged to the appropriate representative.   
+
+Page 2-56   
+
+Changed footer from: Z0011_A7 Changed footer to: Z0011_A8   
+
+Page 4   
+
+Added: Cancer Trials Support Unit (CTSU) Address and Contact Information Table, and CTSU 
+
+from North American clinical sites that are not aligned with ACOSOG or NCCTG will be 
+conducted via the Cancer Trials Support Unit (CTSU) and all data should be sent to the CTSU. The 
+CTSU will use the ACOSOG-Z0011 protocol number as required for reporting to ACOSOG and 
+NCI, and when registering patients through the ACOSOG Registrar. CTSU participants and 
+institutions will be instructed to use the ACOSOG-Z0011 protocol number on all data forms.   
+
+Page 5-6   
+
+Updated: Table of Contents   
+
+1.1   
+
+2   
+
+2.1   
+
+2.1.7   
+
+2.1.11   
+
+2.1.14   
+
+2.1.15   
+
+Deleted 2nd paragraph: Women who participate in this study (Z0011) also may be registered to 
+study Z0010. However, this is not required for participation in Z0011.   
+
+Added: Each inclusion and exclusion criterion must be evaluated and documented in the patient’s 
+medical record.    Patient eligibility must be determined by the investigator.   
+
+Deleted 2nd and 3rd sentences 2nd paragraph: An investigator who is registering patients to this 
+study before performance of the SLND (intra-operative randomization) also should register 
+these patients to the ACOSOG Z0010 study, if possible. However, this is not required. Deleted last 
+sentence 3rd paragraph: Patients previously registered to Z0010 will have met eligibility 
+requirements #1 through #8 listed below.   
+
+Changed from: Patient must have ECOG/Zubrod status =2, as documented in patient’s medical 
+record. Changed to: Patient must have ECOG/Zubrod status =2, as documented in patient’s medical 
+record.   
+
+Changed from: A sentinel lymph node must be identified that contains metastatic breast cancer as 
+documented by frozen section, touch prep, or H&E staining on permanent section.    NOTE: 
+Patients with metastatic breast cancer identified by immunohistochemistry (IHC) are not eligible. 
+Changed to: A sentinel lymph node must be identified that contains metastatic breast cancer as 
+documented by frozen section, touch prep, or H&E staining on permanent section. (Refer to the 
+Staging Criteria section in the protocol.) NOTE: Patients with metastatic breast cancer identified 
+by immunohistochemistry (IHC) are not eligible.   
+
+Changed from: Signed and dated informed consent is obtained prior to patient registration. 
+Changed to: Patient or the patient’s legally acceptable representative must provide a signed and 
+dated written informed consent prior to registration and any study-related procedures.   
+
+Added: Patient must provide written authorization to allow the use and disclosure of their protected 
+health information. NOTE: This may be obtained in either the study-specific informed consent or 
+
+Z0011 A9 
+
+ 
+
+47 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACOSOG 
+
+Protocol Z0011 
+
+in a separate authorization form and must be obtained from the patient prior to study registration.   
+
+2.3 (old version)    Deleted section: The patient must have the ability to understand and the willingness to sign a 
+written informed consent document. Prior to registration, each patient must provide signed 
+informed consent. The original signed informed consent should be placed in the patient’s study 
+records or medical chart. A copy of the signed informed consent document must be given to the 
+patient. 
+
+2.3   
+
+4.1   
+
+5.3.2   
+
+8   
+
+8.4.1   
+
+8.4.2   
+
+8.5.1   
+
+8.6   
+
+Added section: For this study, patients will be staged according to the AJCC Cancer Staging 
+Manual, 5th edition, 1997 (See Appendix for Staging Reference). NOTE: In the 5th edition, specific 
+criteria for micrometastatic lymph node deposits are not defined. Although the 6th edition of the 
+AJCC Cancer staging manual defines micrometastases as tumor deposits greater than 0.2mm but 
+not greater than 2.0mm in largest dimension, this definition is not used to determine eligibility for 
+Z0011. Therefore, for this study, a SLN with a micrometastatic tumor deposit < 0.2mm will also be 
+considered a positive SLN.   
+
+Changed from: This section applies to clinical sites that have both ACOSOG study Z0010 and 
+study Z0011 open. Changed to: This section applies to clinical sites that have both ACOSOG Study 
+Z0010 and Study Z0011 open. Deleted last sentence 1st paragraph: Clinical sites are requested to 
+register patients participating in Z0011 to Z0010 as well, whenever possible. Deleted 2nd 
+paragraph: Patients who are to be registered to both Z0010 and Z0011 must sign a separate 
+informed consent for each study.    For patients to be randomized intra-operatively to Z0011, the 
+patient must sign the informed consent for Z0011 prior to the surgeon performing the SLND for 
+Z0010. To randomize a patient post-operatively to Z0011, sites should assess a patient’s eligibility 
+to Z0011 after completion of SLND for Z0010 and obtain informed consent for Z0011. Then, sites 
+should register the patient to Z0011 and obtain randomized arm. Added 2nd paragraph: The accrual 
+goal for ACOSOG Study Z0010 was met and the study was permanently closed to accrual on 
+5/30/2003. All patients currently on the study must continue to be followed according to protocol 
+specifications. Annual IRB review and approval of the protocol and consent form must continue 
+until all registered patients have completed the follow-up phase of the study.   
+
+Changed from: A patient with tumors located in the medial hemisphere of the breast that show a 
+complete absence of drainage to the axilla by lymphoscintigram or by absence of elevated gamma 
+counts will be discontinued from the study and will not be followed. Changed to: A patient with 
+tumors located in the medial hemisphere of the breast that show a complete absence of drainage to 
+the axilla by lymphoscintigram or by absence of elevated axillary lymph node gamma counts will 
+be discontinued from the study and will not be followed.   
+
+Deleted: Refer to the ACOSOG Adverse Event Reporting Guidelines at http://www.acosog.org for 
+additional information.   
+
+Changed 2nd sentence 1st paragraph from: The SSE-CRF will be used to report the status of the 
+patient’s AEs during the 30-day period following the last study related operation. Changed 2nd 
+sentence 1st paragraph to: The SSE-CRF will be used to report the status of the patient’s AEs 
+during the 30-day period following the last study-related operation. Changed 5th bullet 2nd 
+paragraph from: Neuropathy-sensory (axillary paresthesia and/or interocostobrachial nerve 
+paresthesia) Changed 5th bullet 2nd paragraph to: Neuropathy-sensory (axillary paresthesia and/or 
+intercostobrachial nerve paresthesia)   
+
+Changed 2nd sentence 1st paragraph from: The LSE-CRF will be used to report the status of the 
+patient’s AEs assessed at months 6, 12, 18, 24, 30 and 36, and then yearly, following the last study 
+related operation. Changed 2nd sentence 1st paragraph to: The LSE-CRF will be used to report the 
+status of the patient’s AEs assessed at months 6, 12, 18, 24, 30 and 36, and then yearly, following 
+the last study-related operation.   
+
+Changed 1st sentence from: All unexpected AEs related to surgical interventions will be reported 
+using the AE-CRF. Changed 1st sentence to: All unexpected AEs related to surgical interventions 
+will be reported using the AE-CRF.   
+
+Changed from: An expedited adverse event report requires submission to NCICTEP via the 
+AdEERS web application or the Adverse Event Expedited Report – Single Agent paper template. 
+Reports should be submitted within the timeframes specified below. Assistance for using AdEERS 
+or for completion of the AdEERS templates is available at http://ctep.cancer.gov/. Failure to report 
+SAEs in a timely manner may result in suspension of the investigator’s permission to perform 
+clinical research under Investigational New Drug applications (INDs) sponsored by the NCI 
+Division of Cancer Treatment and Diagnosis. SAE reporting is in addition to and does not supplant 
+the reporting of AEs as part of the data submission requirements for the study. Changed to: An 
+expedited adverse event report requires submission to ACOSOG. The new Word version of the 
+AdEERS form is available on the ACOSOG web site at www.acosog.org. This Word document can 
+be downloaded, completed, and emailed to ACOSOG at AdEERS@surgerytrials.duke.edu 
+
+The ACOSOG will fax the form to the NCI upon receipt. Failure to report AEs in a timely manner 
+
+Z0011 A9 
+
+ 
+
+48 
+
+ACOSOG 
+
+Protocol Z0011 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.6.1   
+
+8.6.3   
+
+8.6.4   
+
+9   
+
+9.1.1 (old   
+
+version)   
+
+11.2-11.9 (old 
+version)   
+
+11.2 (this   
+
+version)   
+
+11.4   
+
+11.5   
+
+may result in suspension of the investigator. AE reporting is in addition to and does not supplant the 
+reporting of adverse events as part of the data submission requirements for the study.   
+
+Deleted table subtitle: Phase 2 or Phase 3 Studies   
+
+Changed from: Access the CTEP home page at http://ctep.cancer.gov/. Click on “Reporting 
+Guidelines”. Then, click on “Adverse Event Expedited Reporting System (AdEERS)”. Under 
+AdEERS templates, click on “Single Agent Template”. Print out and complete the paper template 
+and submit completed report. NOTE: For surgical only studies, Section 4 -Course Information 
+will remain blank. DO NOT attempt to submit a completed form electronically through the 
+AdEERS web site, as the system currently will not permit electronic submission of reports 
+without the completion of Section 4. Changed to: Expedited adverse event reporting in NCI trials 
+utilizes the AdEERS, “The Adverse Event Expedited Reporting System” An online AdEERS form 
+cannot be used for surgical intervention only trials, such as Z0011 DO NOT attempt to submit a 
+completed form electronically through the AdEERS web site, as the system currently will not 
+permit electronic submission of reports without the completion of Section 4, which requires a 
+pharmaceutical agent. 
+
+-mail the completed form as an attachment to AdEERS@surgerytrials.duke.edu . 
+
+p
+The site is no longer required to fax a copy of the AdEERS form to the National Cancer 
+Institute. The ACOSOG will fax the form to the NCI upon receipt.   
+
+Deleted 1st table row (old version): NCI: Completed expedited reports should be sent to 
+Investigational Drug Branch (IDB), PO Box 30012, Bethesda, MD, 20824 or by fax to 301 
+230-0159. To make a telephone report, contact NCI at 301 230-2330, available 24 hours a day 
+(recorder after hours from 5:00 PM to 9:00 AM EST). Changed 1st table row (this version) from: 
+ACOSOG: A copy of all expedited AE reports should be sent to the ACOSOG Coordinating 
+Center by fax at 919 668-7122. All fatal (Grade 5) AEs should be reported by telephone within 24 
+hours of the event. To make a telephone report, contact ACOSOG at 919 6688400, available 24 
+hours a day (recorder after hours from 5:00 PM to 9:00 AM EST). Changed 2nd table row (this 
+version) to: ACOSOG: Microsoft Word form of AdEERS should be completed and submitted via 
+email at AdEERS@surgerytrials.duke.edu 
+
+For paper submission: A copy of expedited adverse event reports can be sent to the ACOSOG 
+
+Coordinating Center by fax at (919) 668-7156. All fatal (Grade 5) adverse events should be 
+reported by telephone within 24 hours of the event. To make a telephone report, contact ACOSOG 
+at (919) 668-8191, available 24 hours a day (recorder after hours from 5:00 PM to 9:00 AM EST).   
+
+Deleted 2nd sentence: This can be found by following the link labeled “Protocols”.   
+
+Deleted subsection number: 9.1.1   
+
+Changed section title from: Data Form Completion and Submission Guidelines Changed section 
+title to: Case Report Form Completion and Submission Guidelines Added last 2 sentences:NOTE: 
+The CRF cannot be used in lieu of the patient’s medical record. The CRF is used for transcription 
+of source documentation FROM the preexisting medical record only.   
+
+Changed from: 11.2-11.9 Changed to: 11.2-11.10   
+
+Added: All enrolling investigators must have an NCI investigator number and   
+
+must maintain an “active” investigator registration status through the annual submission of a 
+complete investigator registration packet (Form FDA 1572 with original signature, current CV, 
+Supplemental Investigator Data Form with original signature, and Financial Disclosure Form with 
+original signature) to the Pharmaceutical Management Branch. These forms, along with completion 
+and submission instructions, are available on the ACOSOG web site or by calling the PMB at 
+301-496-5725 Monday through Friday between 8:30AM and 4:30PM Eastern time.   
+
+Changed 1st sentence from: An ACOSOG member must enroll patients at clinical sites that have a 
+valid assurance number from the United States Office for Human Research Protection (OHRP). 
+Changed 1st sentence to: An ACOSOG member must enroll patients at clinical sites that have a 
+valid assurance number from the United States Office for Human Research Protections (OHRP). 
+Deleted last sentence 2nd paragraph: UIAs are only applicable when the study interventions can be 
+performed within the setting of a physician’s office. Changed 3rd paragraph from: Information on 
+applying for a FWA may be obtained from the ACOSOG Coordinating Center or by referring to 
+ACOSOG SOP “Applying for OHRP Assurance”. Changed 3rd paragraph to: Information on 
+applying for a FWA may be obtained from the ACOSOG Coordinating Center, by referring to 
+ACOSOG SOP “Applying for OHRP Assurance”, or by directly contacting OHRP.   
+
+Changed 2nd sentence 1st paragraph from: Each clinical site must obtain a letter of approval from 
+the IRB (full board review) prior to registering patients to this study as defined by the following 
+Changed 2nd sentence 1st paragraph to: Each clinical site must obtain a letter of approval from the 
+
+Z0011 A9 
+
+ 
+
+49 
+
+ACOSOG 
+
+Protocol Z0011 
+
+11.6.3 
+
+11.7.2 
+
+IRB (full board review) prior to screening and registering patients to this study as defined by the 
+following Changed 2nd paragraph from: The IRB also must review and approve the site’s informed 
+consent document and any other written information provided to the patient prior to any registration 
+of patients. Changed 2nd paragraph to: The IRB also must review and approve the site’s informed 
+consent document and any other written information provided to the patient prior to its use. 
+Changed 3rd paragraph from: A copy of the IRB approval letter for the protocol and informed 
+consent document must be provided to ACOSOG prior to registering the first patient. Changed 3rd 
+paragraph to: Participating investigators are required to submit a copy of the IRB document 
+indicating approval of the protocol and the consent form as well as a copy of the IRB-approved 
+consent form prior to registering the first patient. For instructions on the submission of these 
+documents please refer to the IRB Approval SOP (IRB App) found on the ACOSOG web site at 
+http://www.acosog.org/.   
+
+Changed 2nd paragraph from: The process for obtaining informed consent will be in accordance 
+with all applicable regulatory requirements. The informed consent document must be signed and 
+dated by both the investigator or his/her designee and the patient or the patient’s legally authorized 
+representative BEFORE the patient can participate in the study. The patient will receive a copy of 
+the signed and dated document, and the original will be retained in the patient’s study file or 
+medical record. 
+
+Changed 2nd paragraph to: The process for obtaining informed consent will be in accordance with 
+all applicable regulatory requirements. The informed consent document must be signed and dated 
+by the patient or the patient’s legally authorized representative BEFORE the patient can participate 
+in the study. In addition, the investigator will ensure that there is compliance with all institutional 
+requirements for consent form execution. The patient will receive a copy of the consent and the 
+original will be retained according to local requirements. 
+
+Deleted last sentence 1st paragraph: The patient grants permission to share research data with these 
+entities in the consent document. Federal regulations govern the protection of patient’s rights 
+relative to data confidentiality and use of research data. 
+Added 2nd paragraph: The Privacy Rule (Title 45, Code of Federal Regulations, Parts 160 and 164) 
+created as a result of the enactment of the Health Insurance Portability and Accountability Act of 
+1996 (HIPAA) protects the privacy of individually identifiable health information. The rule’s 
+requirements also heighten the protection of patient information by introducing more controls on 
+
+its use and disclosure. HIPAA refers to patient information as “protected health information” (PHI). 
+PHI includes any information that could identify a person, living or dead. To comply with HIPAA’s 
+Privacy Rule, the patient is required to authorize the use and disclosure of his/her PHI by either 
+signing a HIPAA compliant informed consent document or a separate authorization form created 
+for this purpose. The provisions of the Privacy Rule do not negate the other federal regulations that 
+govern the protection of patient’s rights relative to data confidentiality and the use of research data. 
+
+15.4 
+
+Added section: Cancer Trials Support Unit logistics 
+
+15.5 (15.4 old 
+version) 
+
+Changed title from: Sample Consent Form for ACOSOG Study Z0011   
+
+Changed title to: Model Consent Form for ACOSOG Study Z0011   
+Added in 2nd bullet 3rd paragraph: The Cancer Trials Support Unit (CTSU), a research group 
+sponsored by the National Cancer Institute (NCI) to provide greater access to cancer trials 
+
+16 
+
+Changed section heading from: Revision History 
+
+Changed section heading to: Change Summary 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11/01/2002    All   
+
+10/24/2002    All   
+
+10/16/2002    All   
+
+09/26/2001    All   
+
+09/26/2001    All   
+
+07/11/2001    All   
+
+03/07/2001    All   
+
+12/11/2000    All   
+
+Z0011_A7 Activation Date   
+
+Z0011_A7 CTEP Approval Date   
+
+Z0011_A7 CTEP Submission Date   
+
+Amendment #6, Revision 1 (A6R1)   
+
+Amendment #6, Revision 0 (A6R0)   
+
+Amendment #5, Revision #1 (A5R1)   
+
+Amendment #5, Revision 0 (A5R0)   
+
+CTEP approval of Amendment #5 (A5R0)   
+
+07/03/2000 
+
+Part 3   
+
+Amendment #4: Administrative 
+
+03/29/2000  All 
+
+Amendment #3: Activation Amendment, Administrative 
+
+03/03/2000 
+
+04/30/1999 
+
+ 
+
+ 
+
+ 
+
+Amendment #2: Administrative 
+
+Amendment #1: Activation Amendment, Administrative 
+
+Z0011 A9 
+
+ 
+
+50 
+
+

@@ -1,0 +1,73 @@
+Processing the protocol with id 132
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 2 BACKGROUND 
+I have not found anything about the rationales from titles, lets take a look for the introduction
+Rationales: NOT FOUND
+For more information about the previous studies, go to sections:
+2.4.3 Preclinical Studies with ABI 007 
+2.4.4 Clinical Studies with ABI 007 
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 1 OBJECTIVES AND ENDPOINTS 
+For more information about the primary objectives, go to sections:
+1.2.1 Primary Efficacy Endpoint(s) 
+For more information about the secondary objectives, go to sections:
+1.1.2 Secondary Objective(s) 
+1.2.2 Secondary Efficacy Endpoint(s) 
+Objectives: FOUND
+Occurrences in the text:
+3892	evaluate 	"... s to evaluate the efficacy of the combination of ABI 007  and gemcitabine versus gemcitabine alone in..."
+4551	determine 	"...  and determine its possible correlation with efficacy outcomes.    1.2 Study Endpoints   1.2.1 Primary..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 4 STUDY DESIGN AND PLAN 
+I found the following features of the study:
+5 per arm
+Phase III
+open label
+randomized
+2 Gemcitabine Premedication  Initial antiemetic prophylaxis for both arm
+multi center
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: 1:1
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 3 STUDY POPULATION 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5.1.2 Study Medication Administration 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 8.1 Study Design and Sample Size 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 6.5 Randomization and Treatment Phase Evaluations 
+Maybe this information will be interesting:
+25270	will be randomized	"... Prescribing Information is provided in the Study Manual).  2.5 Proposed Treatment Regimen  Patients will be randomized to one of the following treatment regimens:   ABI 007 125 mg/m2 administered in..."
+30999	will be randomized	"... iagnosed with metastatic adenocarcinoma of the pancreas. Six hundred thirty  patients (315 per arm) will be randomized to each treatment regimen in a 1:1 ratio.  The study will consist of the..."
+31248	will be randomized	"...    Baseline Assessments: To be performed within 28 days of randomization.   Randomization: Patients will be randomized within 28 days of starting their Baseline  assessments. To ensure that on study..."
+72525	will be randomized	"... t be completed within 28 days of randomization. Following  completion of Baseline testing, patients will be randomized. Patients should return within 7  days to begin Cycle 1 of study drug dosing...."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 8 STATISTICAL METHODS 
+I found the following methods:
+115137 	 log rank 	 "... es will be tested  using the stratified log rank test. In the event that a..."
+117864 	 log rank 	 "... es will be tested using the  stratified log rank test.  8.3.8 Other Secondary..."
+121447 	 log rank 	 "...  in the curves will be tested using the log rank test.  Confidential    Page 59..."
+116598 	 chi square 	 "... ween the arms will be tested  using the chi square test.  8.3.7.2 Progression..."
+119878 	 chi square 	 "... umor response will be  evaluated by the chi square test based on the patient s..."
+120407 	  cox  	 "...  overall survival will be evaluated by a Cox regression model.  8.3.8.8 SPARC..."
+120989 	  cox  	 "... ll survival (and PFS) with biomarkers, a Cox regression analysis will be  used..."
+120085 	 cochran mantel haenszel 	 "... response rates will be tested using the Cochran Mantel Haenszel (CMH) test..."
+114431 	 kaplan meier 	 "... l survival which will be analyzed using Kaplan Meier  methods. Survival will be..."
+114996 	 kaplan meier 	 "... he hazard ratio (including 95% CI). The Kaplan Meier curve for  survival will..."
+116790 	 kaplan meier 	 "... ponse guidelines will be analyzed using Kaplan Meier methods. PFS will be ..."
+117728 	 kaplan meier 	 "... he hazard ratio (including 95% CI). The Kaplan Meier curve for PFS will be ..."
+118429 	 kaplan meier 	 "... ccurs first. TTF will be analyzed using Kaplan Meier methods.  8.3.8.3 Time to..."
+121301 	 kaplan meier 	 "... ratio. For each treatment regimen,  the Kaplan Meier curve for survival will be..."
+124583 	 kaplan meier 	 "... time to recovery will be analyzed using Kaplan Meier  methods.  Abraxis..."

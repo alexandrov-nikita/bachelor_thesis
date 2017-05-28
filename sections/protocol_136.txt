@@ -1,0 +1,159 @@
+1.  FLOW CHART 
+8 weeks 
+2. TABLE OF CONTENTS 
+12.2.3 Monthly visits for patients continuing treatment with study drug after treatment 
+22. PREMATURE DISCONTINUATION OF THE STUDY OR PREMATURE 
+3. LIST OF ABBREVIATIONS 
+4. INTRODUCTION AND RATIONALE 
+4.1 Background and Rationale 
+4.1.1 Introduction 
+4.1.2 Oxaliplatin induced peripheral sensory neuropathy 
+4.1.4 Summary of the results of the Xenox study 
+4.2 Pharmaceutical information on xaliproden 
+4.2.1 Chemistry 
+4.2.2 Preclinical data 
+4.2.3 Pharmacokinetic properties 
+4.2.4 Preclinical Safety Data (toxicology) 
+4.2.5 Clinical Safety Data 
+5.  STUDY OBJECTIVES 
+5.1 Primary 
+5.2 Secondary 
+6. STUDY DESIGN 
+6.1 Description of the Clinical Trial Protocol 
+6.2 Duration of study participation 
+6.3 Study committee 
+7. SELECTION OF PATIENTS 
+7.1 Number of patients planned 
+7.2 Inclusion criteria 
+7.3 Exclusion criteria 
+8. TREATMENTS 
+8.1 Investigational product and chemotherapy 
+8.1.1 Xaliproden and matching placebo 
+8.1.1.1 Name of the investigational product 
+8.1.1.2 Pharmaceutical form 
+8.1.1.3 Number of units per administration and timing of administration 
+8.1.1.4 Duration of treatment 
+8.1.1.5 Description of the blinding methods 
+8.1.1.7 Packaging and labeling 
+8.1.1.8 Storage condition 
+8.1.1.9 Access to randomization code during the study 
+8.1.1.10 Compliance to study drug 
+8.1.2 Chemotherapy 
+8.1.2.1 Oxaliplatin 
+397.3 White to off white cake or powder 
+8.1.2.2 5 FU and Leucovorin 
+8.1.2.3 Chemotherapy administration 
+46 h 
+48 h 
+8.1.3 Guidelines for Treatment Modifications 
+8.1.3.1 Study drug 
+8.1.3.2.1 Dosing delays 
+5 FU 
+8.1.4 Responsibilities 
+8.1.5 Retrieval and / or destruction 
+8.2 Concomitant treatments 
+8.2.1 Prohibited treatments 
+8.2.2 Permitted concomitant treatments 
+8.2.2.1 Bevacizumab 
+8.2.2.2 Supportive therapies 
+9. ASSESSMENT OF INVESTIGATIONAL PRODUCT 
+9.1 Efficacy 
+9.1.2 Antitumor Efficacy 
+10. PATIENT SAFETY 
+10.1 Safety endpoints assessed in the trial and safety instruction specific to the study 
+10.2 Adverse Events monitoring 
+10.3 Obligation of the Investigator regarding safety reporting 
+10.4 Laboratory tests monitoring 
+10.6 Pregnancy 
+11. HANDLING OF PATIENT WITHDRAWAL 
+11.1 List of withdrawal criteria 
+11.2 Reasons for withdrawal 
+11.3 Withdrawal follow up procedure 
+11.4 Consequence 
+12. STUDY PROCEDURES 
+12.1 Baseline evaluations 
+12.2 Evaluation during the treatment period 
+12.2.1 Before each cycle (every 2 weeks) of chemotherapy with oxaliplatin 
+12.2.2 Every 4 cycles (8 weeks) of chemotherapy 
+12.2.3 Monthly visits for patients continuing treatment with study drug after 
+12.3 30 day Follow up visit (post last administration of study drug) 
+12.4 Follow up after 30 day Follow up visit 
+12.5 Definition of source data 
+13. STATISTICAL CONSIDERATIONS 
+13.1 Statistical and analytical plans 
+13.2 Determination of sample size 
+13.3 Study patient description 
+13.3.1 Disposition of patients 
+13.3.2 Clinical Trial Protocol deviations 
+13.4 Data analysis considerations 
+13.4.1 Dataset analyzed 
+13.5 Demographic and baseline characteristics 
+13.5.2 Previous medications 
+13.5.3 Baseline efficacy/activity data 
+13.5.4 Baseline safety parameters 
+13.6 Investigational Product and concomitant therapy 
+13.6.1 Investigational Product 
+13.6.1.1 Extent of exposure 
+13.6.1.2 Measurement of treatment compliance 
+13.6.2 Concomitant medication/therapy 
+13.7 Efficacy/activity analysis 
+13.7.1 Primary efficacy variable(s) 
+13.7.1.1 Description of the primary variable(s) 
+13.7.1.2 Primary analysis 
+13.7.1.2.1 Handling of dropouts or missing data 
+13.7.1.2.2 Multiple comparisons/multiplicity 
+13.7.1.2.3 Other analyses for primary variable(s) 
+13.7.2 Secondary/other efficacy variables 
+13.7.2.1 Description of secondary variables 
+13.7.2.2 Statistical analysis of secondary variables 
+13.8 Safety analysis 
+13.8.1 Adverse Events 
+13.8.1.1 Definitions 
+13.8.1.2 Treatment Emergent Adverse Events 
+13.8.1.3 Deaths and Serious Adverse Events 
+13.8.1.4 Adverse Events leading to treatment discontinuation 
+13.8.2 Clinical laboratory evaluations 
+13.8.3 Vital signs 
+13.8.4 ECG 
+14. ETHICAL AND REGULATORY STANDARDS 
+14.1 Ethical principles 
+14.2 Laws and regulations 
+14.3 Informed consent 
+14.4 Institutional Review Board/Independent Ethics Committee (IRB/IEC) 
+15. STUDY MONITORING 
+15.1 Responsibilities of the Investigator(s) 
+15.2 Responsibilities of the Sponsor 
+15.3 Source document requirements 
+15.4 Use and completion of Case Report Forms (CRFs) and additional request 
+16. ADMINISTRATIVE RULES 
+16.1 Curriculum Vitae 
+16.2 Record retention in Study sites 
+17. CONFIDENTIALITY 
+18. PROPERTY RIGHTS 
+19. DATA PROTECTION 
+20. INSURANCE COMPENSATION 
+21. SPONSOR AUDITS AND INSPECTIONS BY REGULATORY AGENCIES 
+22. PREMATURE DISCONTINUATION OF THE STUDY OR PREMATURE 
+22.1 Decided by the Sponsor in the following cases: 
+22.2 Decided by the Investigator 
+23. CLINICAL TRIAL RESULTS 
+24. PUBLICATIONS AND COMMUNICATIONS 
+25. CLINICAL TRIAL PROTOCOL AMENDMENTS 
+26. BIBLIOGRAPHIC REFERENCES 
+27. APPENDICES 
+2 D 
+8 weeks 
+5 FU 
+5 FU 
+10.1.1 General instruction 
+10.1.2 Echocardiographic evaluation (patients from US study sites) 
+10.1.3 Monitoring for potential pulmonary embolism 
+10.1.3.1 Patients with tumor evaluation that includes a spiral CT of the chest with 
+10.1.3.2 Patients with tumor evaluation that does not include a spiral CT of the chest 
+10.1.3.3 Patients presenting with suspicion of PE at any other time point during the 
+10.1 a Patients from US study sites 
+1. FLOW CHART 
+6.3 Study committee 
+7.2 Inclusion criteria 
+9.1.1 Neurological evaluation 
+12.1. Baseline evaluations 

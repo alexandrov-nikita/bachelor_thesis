@@ -1,0 +1,93 @@
+Processing the protocol with id 146
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. INTRODUCTION 
+For more information about the rationales, go to sections:
+1.4. Overall Rationale for the Study 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+93581	Clinical Experience	"... in plasma VELCADE concentrations.  Clinical Experience of VELCADE  1.1.4...."
+108070	Clinical Experience	"... (as described in Section 1.1.4,  Clinical Experience of VELCADE), this..."
+91232	Phase 1 	"... of VELCADE has been  determined from Phase 1 studies in subjects with solid..."
+94186	Phase 1 	"...  The overall goal of the Millennium Phase 1 program was to determine the ..."
+95332	Phase 1 	"... hyponatremia and hypokalemia.15  In Phase 1 clinical studies, antitumor..."
+99531	Phase 1 	"... 26866138 MMY 3002 Amendment INT 5    Phase 1 combination studies indicate..."
+100736	Phase 1 	"... on Days 1 to 4 every 6 weeks. The  Phase 1 part of the study has been..."
+91326	Phase 2 	"... malignancies, and confirmed in Phase 2 studies in subjects with ..."
+95716	Phase 2 	"...  myeloma were investigated in 2 Phase 2 clinical studies: M34100 024 ..."
+99260	Phase 2 	"... from an ongoing, multicenter, Phase 2 study of VELCADE alone  or in..."
+100856	Phase 2 	"... the recommended VELCADE dose for Phase 2 testing has been  determined at..."
+100925	Phase 2 	"... at 1.3 mg/m2 and accrual to the Phase 2 part has started. Six  subjects..."
+102104	Phase 2 	"... continuing  therapy. Accrual to the Phase 2 part of the study at the 1.3..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. OBJECTIVES 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+109824	evaluate 	"... will evaluate variations in drug metabolizing genes and  their relationship to pharmacokinetic..."
+114888	evaluate 	"... o re evaluate the sample size on the basis of accumulated study data  and to monitor safety data, and..."
+115428	evaluate 	"... s to evaluate safety data and the  results of the prospectively defined interim analysis of efficacy. ..."
+110084	explore 	"... will explore  the association between patterns of proteins, peptides, or small molecule  components in..."
+108392	determine 	"... s to determine whether the  addition of VELCADE to standard melphalan and prednisone (MP) therapy ..."
+108629	determine 	"... e to determine whether the addition  of VELCADE to standard MP therapy in subjects with previously..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3.2. Study Design Rationale 
+I found the following features of the study:
+randomized
+Phase 3
+4 It is intercalated into the  standard MP regimen
+5    therefore the same in both arm
+6 weeks to other  dosing regimen
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4.2. Inclusion Criteria 
+I have found neither inclusion nor exclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5.2. Procedures 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 11.2. Sample Size Determination 
+##########################################
+Searching any information about a randomzation
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+Maybe this information will be interesting:
+14610	will be randomized	"... umin   g/L )     in the Screening Phase  and will be analyzed by the  central laboratory. Subjects  will be randomized based on  the results submitted by the  central laboratory. Albumin  will also..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+I found the following methods:
+4835 	 fisher s exact test 	 "...   OS    New/Revised Text   OS and PFS   Fisher s exact test  !   the stratified..."
+35651 	 fleming 	 "... 3 interim analyses planned  The O Brien Fleming alpha spending  function71 will..."
+36338 	 fleming 	 "... nalysis has been  added.    The O Brien Fleming alpha  spending is more..."
+40375 	 fleming 	 "... . Liu Q, Chi GYH. 172 177. O Brien  PC, Fleming TR. 549 556.    HI 12 I feel..."
+51397 	 fleming 	 "... survival benefit  observed. The O Brien Fleming alpha  spending function72 will..."
+51558 	 fleming 	 "... nterim analyses performed, the  O Brien Fleming boundary will be 2.5228 (2 ..."
+222642 	 fleming 	 "... survival  benefit observed. The O Brien Fleming alpha spending function72 will..."
+222801 	 fleming 	 "... interim analyses performed, the O Brien Fleming boundary will be 2.5228  (2..."
+227600 	 fleming 	 "...  are planned in this study. The O Brien Fleming alpha  spending function72 will..."
+301654 	 fleming 	 "... . ISBN  2 930064 16 1.  72. O Brien PC, Fleming TR. A multiple testing..."
+68755 	 kaplan meier 	 "... ion (North America, Europe, other). The Kaplan Meier method will be used to..."
+68981 	 kaplan meier 	 "...  the OS and PFS between treatments, the Kaplan Meier method to  estimate the..."
+223673 	 kaplan meier 	 "... ion (North America, Europe, other). The Kaplan Meier  method will be used to..."
+224151 	 kaplan meier 	 "... on  (North America, Europe, other). The Kaplan Meier method will be used to ..."
+4912 	 log rank 	 "... ed Cochran  Mantel Haenszel test    The log rank test will  be considered as a ..."
+68471 	 log rank 	 "... t analysis will consist of a stratified log rank test for the comparison of the..."
+68910 	 log rank 	 "... point analyses consist of a stratified  log rank test for comparison of the OS..."
+69362 	 log rank 	 "... me to response will be compared using a log rank test and duration of response..."
+223061 	 log rank 	 "... y analysis will consist of a stratified log rank test for the  comparison of..."
+223776 	 log rank 	 "... of overall TTP for each  treatment. The log rank test will be considered as a..."
+223837 	 log rank 	 "...  considered as a sensitivity analysis.  log rank  Secondary Efficacy Endpoints ..."
+224722 	 log rank 	 "... me to response will be compared using a log rank test. Duration of  response..."
+233821 	  cox  	 "... OVA model, logistic regression model, or Cox Proportional Hazards  Model,..."
+69080 	 cochran mantel haenszel 	 "...  PFS for each treatment, the stratified Cochran Mantel Haenszel test  for..."
+224497 	 cochran mantel haenszel 	 "... s between the  stratified  2 treatment  Cochran Mantel Haenszel  the ..."

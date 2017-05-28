@@ -1,0 +1,5265 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Protection of Privacy and Confidentiality 
+
+This is a cover page for an Eli Lilly and Company document that has been redacted for either 
+Personal Information (PI) or Commercially/Company Confidential Information (CCI) or both. 
+Within this document PI or CCI is either removed (pages deleted) or redacted (specific content is 
+irreversibly deleted and replaced with a black bar or box) to protect personal privacy or 
+intellectual property. 
+
+Redacted Version 
+
+Eli Lilly and Company 
+
+Redacted Version Approval Date: 07-Mar-2016 GMTPage 1 
+
+Confidential Information 
+
+The information contained in this protocol is confidential and is intended for the 
+use of clinical investigators.  It is the property of Eli Lilly and Company or its 
+subsidiaries and should not be copied by or distributed to persons not involved in 
+the clinical investigation of pemetrexed (LY231514), unless such persons are 
+bound by a confidentiality agreement with Eli Lilly and Company or its 
+subsidiaries. 
+
+Protocol H3E-MC-JMHR(b) 
+
+A Randomized Phase 3 Study of Pemetrexed in 
+
+Combination with Cisplatin Versus Cisplatin 
+
+Monotherapy in Patients with Recurrent or Metastatic 
+
+Head and Neck Cancer 
+
+Alimta®
+
+ 
+
+(pemetrexed, LY231514) 
+
+A Phase 3, randomized, doub e-bl nd study of pemetrexed and cisplatin versus 
+cisplatin monotherapy in patients with recurrent or metastatic head and neck 
+cancer. 
+
+Eli Lilly and Company 
+
+Indianapolis, Indiana USA 46285 
+
+Protocol Approved by Lilly:  31 May 2006 
+
+Amendment (a) Approved by Lilly:  10 August 2007 
+
+Amendment (b) Approved by Lilly:  16 July 2008 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 2 
+
+A Randomized Phase 3 Study of Pemetrexed in 
+
+Combination with Cisplatin Versus Cisplatin 
+
+Monotherapy in Patients with Recurrent or Metastatic 
+
+Head and Neck Cancer 
+
+Section 
+
+Page 
+
+Table of Contents 
+
+1. 
+
+1.2.1. 
+1.2.2. 
+
+1.2.3. 
+
+Introduction....................................................................................... 12 
+1.1. 
+Indication ..................................................................................... 12 
+1.2.  Study Rationale ............................................................................ 12 
+Head and Neck Cancer:  Disease Overview .......................... 12 
+Chemotherapy in the Treatment of Head and Neck 
+Cancer........................................................
+Rationale for Use of Pemetrexed in Head and Neck 
+Cancer................................................ ................................. 14 
+.. .................................. 14 
+....................................... 15 
+Single-Agent Pemetrexed.......................................... 15 
+Pemetrexed Plus Cisplatin......................................... 16 
+
+1.2.3.1.  Mechanism of Action........... ...
+1.2.3.2.  Development of Pemetrexed .
+
+1.2.3.2.1. 
+1.2.3.2.2. 
+
+...
+
+................... 12 
+
+1.2.3.3.  Development of Pemetrexed for Patients with 
+
+Head and Neck Cancer.................................................... 18 
+
+1.2.3.3.1. 
+
+1.2.3.3.2. 
+
+Single-Agent Pemetrexed for Patients with 
+Head and Neck Cancer.............................................. 18 
+Pemetrexed Plus Cisplatin for Patients with 
+Head and Neck Cancer.............................................. 18 
+Summary and Conclusions.............................................. 18 
+
+1.2.3.4. 
+
+2.  Objectives ......................................................................................... 20 
+2.1.  Primary Objective ........................................................................ 20 
+2.2.  Secondary Objectives ................................................................... 20 
+
+3. 
+
+Investigational Plan ........................................................................... 21 
+3.1.  Summary of Study Design............................................................ 21 
+3.2.  Discussion of Design and Control................................................. 22 
+
+4.  Study Population ............................................................................... 24 
+Inclusion Criteria.......................................................................... 24 
+4.1. 
+4.2.  Exclusion Criteria......................................................................... 25 
+Rationale for Exclusion of Certain Study Candidates............ 26 
+
+4.2.1. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version 4.3.  Discontinuations........................................................................... 26 
+
+Page 3 
+
+5.2.1. 
+5.2.2. 
+5.2.3. 
+5.2.4. 
+5.2.5. 
+5.2.6. 
+
+5.  Treatment.......................................................................................... 28 
+5.1.  Treatments Administered.............................................................. 28 
+5.2.  Materials and Supplies.................................................................. 28 
+Pemetrexed (Treatment Arm A) ........................................... 28 
+Cisplatin (Both Treatment Arms).......................................... 29 
+Placebo (Treatment Arm B).................................................. 29 
+Folic Acid (Both Treatment Arms) ....................................... 29 
+Vitamin B12 (Both Treatment Arms) ................................... 30 
+Dexamethasone (Both Treatment Arms)............................... 30 
+5.3.  Method of Assignment to Treatment............................................. 30 
+5.4.  Rationale for Selection of Doses in the Study ............................... 31 
+................. 31 
+................. 31 
+.. ...................... 32 
+Special Treatment Considerations.....
+...... ........................... 33 
+Dose Adjustments or Delays for Subsequent Cycles ............. 33 
+5.5.2.1.  Hematologic Adverse Events . ........................................ 34 
+5.5.2.2.  Nonhematologic Adverse Events .................................... 34 
+5.5.2.3. 
+.. ................................................. 35 
+5.5.2.4.  Dose Adjustments for Neurosensory Adverse 
+
+Cisplatin...........................................................
+Pemetrexed in Combination with Cisplatin..
+..
+5.5.  Selection and Timing of Doses ..........................
+
+Creatinine Clearance.
+
+5.5.1. 
+5.5.2. 
+
+5.4.1. 
+5.4.2. 
+
+... ..
+
+5.5.2.5. 
+
+Events............. .... .......................................................... 36 
+Treatment Delays Due to Insufficient Folic Acid 
+or Vitamin B12 Supplementation .................................... 36 
+5.6.  Blinding .
+......................................................................... 36 
+5.7.  Concomitant Therapy ................................................................... 37 
+Colony Stimulating Factors .................................................. 37 
+Nonsteroidal Anti-Inflammatory Drugs ................................ 38 
+Leucovorin ........................................................................... 38 
+Therapy for Diarrhea ............................................................ 38 
+Therapy for Febrile Neutropenia........................................... 39 
+Clinically Significant Effusions ............................................ 39 
+5.8.  Treatment Compliance ................................................................. 39 
+
+5.7.1. 
+5.7.2. 
+5.7.3. 
+5.7.4. 
+5.7.5. 
+5.7.6. 
+
+6.  Efficacy, Health Outcome/Quality of Life Measures, and 
+
+Safety Evaluations............................................................................. 40 
+6.1.  Efficacy Measures ........................................................................ 40 
+Timing of Measurements...................................................... 40 
+Baseline and Study Treatment Periods ............................ 40 
+
+6.1.1.1. 
+
+6.1.1. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 4 
+
+6.1.2.1. 
+
+6.1.1.2. 
+
+Postdiscontinuation Period.............................................. 40 
+Efficacy Criteria for Tumor Response .................................. 41 
+Best Response................................................................. 41 
+Definition of Efficacy Measures ........................................... 41 
+6.2.  Health Outcome/Quality-of-Life Measures ................................... 42 
+6.3.  Safety Evaluations........................................................................ 44 
+Adverse Events .................................................................... 44 
+Clinical Adverse Events.................................................. 44 
+Serious Adverse Events .................................................. 45 
+Postdiscontinuation Safety Follow-Up ............................ 46 
+Laboratory Tests................................................................... 46 
+
+6.3.1.1. 
+6.3.1.2. 
+6.3.1.3. 
+
+6.3.1. 
+
+6.1.2. 
+
+6.1.3. 
+
+6.3.2. 
+
+6.3.2.1. 
+
+6.3.2.2. 
+
+6.3.2.2.1. 
+6.3.2.2.2. 
+
+Limited Use Samples for Standard Laboratory 
+Testing............................................................................ 47 
+....
+Samples for Translational Research ..........
+.............. 47 
+Stored Samples ........................... ... ....
+................... 48 
+.......................... 48 
+Collection Procedures .............. ..
+..
+................................ 48 
+................................... 49 
+................................................... 49 
+6.4.  Appropriateness of Measurements .............................................. 49 
+
+Other Safety Measures ..................
+Safety Monitoring .....................
+...
+Complaint Handling ........
+
+6.3.3. 
+6.3.4. 
+6.3.5. 
+
+7.  Data Quality Assurance........
+
+..................................................... 50 
+7.1.  Data Entry and Computerized Systems ......................................... 50 
+
+...
+
+8.  Sample Size and Statistical Methods ................................................. 51 
+8.1.  Determination of Sample Size ...................................................... 51 
+8.2.  Statistical and Analytical Plans..................................................... 51 
+General Considerations ........................................................ 51 
+8.2.1.1.  Qualifications for Efficacy Analysis................................ 52 
+8.2.1.2.  Qualifications for Health Outcome/Quality-of-
+
+8.2.1. 
+
+8.2.2. 
+8.2.3. 
+8.2.4. 
+8.2.5. 
+8.2.6. 
+
+Life Analysis .................................................................. 52 
+8.2.1.3.  Qualifications for Safety Analysis................................... 52 
+Patient Disposition ............................................................... 52 
+Patient Characteristics .......................................................... 52 
+Concomitant Therapy ........................................................... 53 
+Treatment Compliance ......................................................... 53 
+Efficacy Analyses................................................................. 53 
+Primary Outcome and Methodology................................ 53 
+Secondary Endpoints ...................................................... 53 
+Quality-of-Life Analysis....................................................... 54 
+
+8.2.6.1. 
+8.2.6.2. 
+
+8.2.7. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 5 
+
+8.2.8. 
+
+Statistical Strategy for Analyzing Selected Efficacy 
+Endpoints ............................................................................. 55 
+8.2.9. 
+Safety Analyses.................................................................... 55 
+8.2.10.  Subgroup Analyses............................................................... 55 
+8.2.11. 
+Interim Analyses .................................................................. 56 
+8.2.12.  Criteria for End of Study ...................................................... 57 
+8.2.13.  Translational Research Analyses .......................................... 57 
+
+9. 
+
+Informed Consent, Ethical Review, and Regulatory 
+Considerations................................................................................... 59 
+9.1. 
+Informed Consent ......................................................................... 59 
+9.2.  Ethical Review ............................................................................. 59 
+9.3.  Regulatory Considerations............................................................ 60 
+Investigator Information ....................................................... 60 
+Protocol Signatures .........................................
+.... .............. 60 
+Final Report Signature.............................. .. ... .................... 60 
+
+9.3.1. 
+9.3.2. 
+9.3.3. 
+
+10.  References.....................................................
+
+...... ........................... 61 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Table of Contents (concluded) 
+
+Page 6 
+
+ 
+List of Protocol Attachments 
+
+Protocol Attachment JMHR.1. 
+
+Study Schedule 
+
+Protocol Attachment JMHR.2. 
+Clinical Laboratory Tests 
+
+Protocol Attachment JMHR.3. 
+
+ECOG Performance Status Scale 
+
+Protocol Attachment JMHR.4. 
+
+Creatinine Clearance Assay Methods 
+
+Protocol Attachment JMHR.5. 
+
+RECIST Guidelines 
+
+Protocol Attachment JMHR.6. 
+
+Functional Assessment of Cancer Therapy - 
+Head and Neck Cancer (FACT-H&N) 
+
+Protocol Attachment JMHR.7. 
+
+Formula for Conditional Power 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Abbreviations and Definitions 
+
+Page 7 
+
+ALP 
+
+ALT 
+
+ANC 
+
+ASCO 
+
+AST 
+
+Assent 
+
+Audit 
+
+Blinding/Masking 
+
+CNS 
+
+Complaint 
+
+Compliance 
+
+Confirmation 
+
+alkaline phosphatase 
+
+alanine aminotransferase 
+
+absolute neutrophil count 
+
+American Society of Clinical Oncology 
+
+aspartate aminotransferase 
+
+Agreement from a child or other individual who is not legally capable of 
+providing consent, but who can understand the circumstances and risks involved 
+in participating in a study (required by some Institutional Review Boards 
+[IRBs]).  
+
+A systematic and independent examination of th  trial-related activities and 
+documents to determine whether the evaluated trial-related activities were 
+conducted, and the data were recorded, ana yzed, and accurately reported 
+according to the protocol, applicable standard operating procedures (SOPs), 
+good clinical practice (GCP), and the applicable regulatory requirement(s). 
+
+A procedure in which one or more parties to the trial are kept unaware of the 
+treatment assignment(s).  Single-blinding usually refers to the subject(s) being 
+unaware, and double blinding usually refers to the subject(s), investigator(s), 
+monitor(s), and in some cases, select sponsor personnel being unaware of the 
+treatment assignment(s). 
+
+central nervous system 
+
+A complaint is any written, electronic, or oral communication that alleges 
+deficiencies related to the identity, quality, purity, durability, reliability, safety 
+or effectiveness, or performance of a drug or drug delivery system. 
+
+Adherence to all the trial-related requirements, good clinical practice (GCP) 
+requirements, and the applicable regulatory requirements. 
+
+A process used to confirm that laboratory test results meet the quality 
+requirements defined by the laboratory generating the data and that Lilly is 
+confident that results are accurate.  Confirmation will either occur immediately 
+after initial testing or will require that samples be held to be retested at some 
+defined time point, depending on the steps required to obtain confirmed results. 
+
+CR 
+
+CrCl 
+
+complete response 
+
+creatinine clearance 
+
+(continued) 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Abbreviations and Definitions (Continued) 
+
+Page 8 
+
+CRF 
+
+CRP 
+
+CSF 
+
+CT 
+
+CTC 
+
+Case Report Form (sometimes referred to as Clinical Report Form).  A printed 
+or electronic form for recording study participants’ data during a clinical study, 
+as required by the protocol. 
+
+clinical research physician 
+
+colony stimulating factor 
+
+computed tomography 
+
+Common Toxicity Criteria 
+
+CTCAE 
+
+Common Terminology Criteria for Adverse Events 
+
+DHFR 
+
+DLTs 
+
+DMB 
+
+DNA 
+
+DoR 
+
+ECOG 
+
+ERCC1 
+
+EU 
+
+dihydrofolate reductase 
+
+dose-limiting toxicities 
+
+Data Monitoring Board 
+
+deoxyribonucleic acid 
+
+duration of response 
+
+Eastern Cooperative Oncology Group 
+
+excision-repair cross-complementing rodent repair deficiency 
+
+European Union 
+
+End of Study 
+(Trial) 
+
+End of study (trial) will occur when data collection for the study is completed. 
+(See Section 8.2.12 for further details about criteria for study termination.) 
+
+FACT-H&N 
+
+Functional Assessment of Cancer Therapy - Head and Neck Cancer 
+
+formalin-fixed, paraffin-embedded 
+
+folylpolyglutamyl synthetase 
+
+folate receptor-alpha 
+
+glycinamide ribonucleotide formyltransferase 
+
+granulocyte colony-stimulating factor 
+
+glomerular filtration rate 
+
+Global Product Safety 
+
+hemoglobin 
+
+FFPE 
+
+FPGS 
+
+FR-α 
+
+GARFT 
+
+G-CSF 
+
+GFR 
+
+GPS 
+
+Hgb 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+(continued) 
+
+Protocol Amendment 
+
+Redacted Version Page 9 
+
+Abbreviations and Definitions (Continued) 
+
+HNC 
+
+HRQoL 
+
+HR 
+
+IHC 
+
+head and neck cancer 
+
+health-related quality of life 
+
+hazard ratio 
+
+immunohistochemical 
+
+Interim Analysis 
+
+Any analysis intended to compare treatment groups at any time prior to the 
+formal completion of a trial. 
+
+Intention to Treat 
+(ITT) 
+
+Investigator 
+
+IRB/ERB 
+
+The principle that asserts that the effect of a treatment policy can be best 
+assessed by evaluating on the basis of the intention to treat a subject (that is, the 
+planned treatment regimen) rather than the actual treatment given.  It has the 
+consequence that subjects allocated to a treatment group should be followed up, 
+assessed and analyzed as members of that group irrespective of their compliance 
+to the planned course of treatment. 
+
+A person responsible for the conduct of the clini al trial at a trial site.  If a trial 
+is conducted by a team of individuals at a trial site, the investigator is the 
+responsible leader of the team and may be called the principal investigator. 
+
+Institutional review board/ethical review board:  a board or committee 
+(institutional, regional, or national) composed of medical professional and 
+nonmedical members whose responsibility is to verify that the safety, welfare, 
+and human rights of the subjects participating in a clinical trial are protected. 
+
+IUD 
+
+IVRS 
+
+K-M 
+
+intrauterine device 
+
+interactive voice response system 
+
+Kaplan-Meier 
+
+Legal 
+Representative 
+
+An individual, judicial, or other body authorized under applicable law to 
+consent, on behalf of a prospective subject, to the patient's participation in the 
+clinical trial. 
+
+LSMeans 
+
+least square means 
+
+MID 
+
+MPM 
+
+MQA 
+
+MRI 
+
+MTD 
+
+NCI 
+
+minimally important difference 
+
+malignant pleural mesothelioma 
+
+Medical Quality Assurance 
+
+magnetic resonance imaging 
+
+maximum tolerated dose 
+
+National Cancer Institute 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+(continued) 
+
+Protocol Amendment 
+
+Redacted Version Abbreviations and Definitions (Continued) 
+
+Page 10 
+
+NSAIDs 
+
+NSCLC 
+
+ORR 
+
+OS 
+
+Patient 
+
+PD 
+
+PET 
+
+PFS 
+
+PR 
+
+RECIST 
+
+REML 
+
+SAC 
+
+SAE 
+
+SD 
+
+nonsteroidal anti-inflammatory drugs 
+
+non-small cell lung cancer 
+
+overall response rate 
+
+overall survival 
+
+A subject with a defined disease. 
+
+progressive disease 
+
+positron emission tomography 
+
+progression-free survival 
+
+partial response 
+
+Response Evaluation Criteria in Solid Tumors 
+
+restricted maximum likelihood method 
+
+Statistical Analysis Center 
+
+serious adverse event 
+
+stable disease 
+
+Study Entry Terms  Enter/Consent 
+
+The act of obtaining informed consent for participation in a clinical trial from 
+individuals deemed potentially eligible to participate in the clinical trial.  
+Individuals entered into a trial are those who sign the informed consent 
+document directly or through their legally acceptable representatives. 
+
+Registration 
+The act of assigning a registration number to the patient indicating that the 
+investigator has verified that the patient meets the inclusion criteria and none of 
+the exclusion criteria. 
+
+Enroll/Randomize 
+The act of assigning a patient to a treatment.  Patients who are enrolled in the 
+trial are those who have been assigned to a treatment. 
+
+Trial Outcome Index 
+
+translational research 
+
+TOI 
+
+TR 
+
+ 
+
+(continued) 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 11 
+
+Abbreviations and Definitions (Concluded) 
+
+Treatment-
+Emergent Adverse 
+Event (TEAE) 
+
+Any untoward medical occurrence that either occurs or worsens at any time after 
+treatment baseline and which does not necessarily have to have a causal 
+relationship with this treatment (also called treatment-emergent signs and 
+symptoms [TESS]). 
+
+TS 
+
+TTW 
+
+ULN 
+
+US 
+
+ 
+
+thymidylate synthase 
+
+time to worsening 
+
+upper limit of normal 
+
+United States 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 12 
+
+A Randomized Phase 3 Study of Pemetrexed in 
+
+Combination with Cisplatin Versus Cisplatin 
+
+Monotherapy in Patients with Recurrent or Metastatic 
+
+Head and Neck Cancer 
+
+1. 
+
+Introduction 
+
+Indication 
+
+1.1. 
+Head and neck cancer (HNC) that is recurrent and not amenable to local therapy (surgery 
+or radiation) or newly diagnosed distant metastatic disease. 
+
+1.2.  Study Rationale 
+
+1.2.1.  Head and Neck Cancer:  Disease Overview 
+Head and neck cancer refers to a heterogeneous collection of malignancies arising in the 
+upper aerodigestive tract, including squamous cell carcinomas of the oral cavity (buccal 
+mucosa, upper and lower alveolar ridges, retromolar trigone, hard palate, anterior 
+two-thirds of the tongue, and the floor of the mouth), pharynx (nasopharynx, oropharynx, 
+and hypopharynx), and larynx. 
+
+The most common risk factors for HNC are tobacco and alcohol use, with concomitant 
+use conferring even higher risk   Occupational risk factors include nickel refining, 
+woodworking, and exposure to textile fibers.  Additionally, DNA from the Epstein-Barr 
+virus has been identified in human nasopharyngeal cancer tissue, and DNA from the 
+human papilloma virus has been identified in more than 50% of oropharyngeal cancer 
+tissues (Forastiere et al. 2001). 
+
+1.2.2.  Chemotherapy in the Treatment of Head and Neck Cancer 
+Recurrent and metastatic head and neck squamous cell cancers are generally incurable 
+and are associated with poor survival.  Palliative chemotherapy is usually offered to 
+patients with recurrent or distant metastatic disease that is recognized as incurable and 
+not amenable to local therapy.  The median survival with chemotherapy is approximately 
+6 months, with a 1-year survival rate of approximately 20% (Forastiere et al. 2005). 
+
+Until the early 1980s, single-agent methotrexate (with response rates of 10% to 35% and 
+median duration of response of approximately 2 to 5 months) was the standard agent for 
+palliation of patients with advanced HNC.  Two small, randomized trials later established 
+that cisplatin monotherapy has efficacy comparable with that of methotrexate 
+monotherapy (based on response rate and median response duration), as well as a 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 13 
+
+manageable toxicity profile in patients with advanced HNC (Hong et al. 1983; Grose et 
+al. 1985). 
+
+In 1985, Morton and colleagues reported the results of a Phase 3 study in which 
+116 patients with advanced HNC were randomized to 4 treatment arms:  (1) no active 
+treatment (control) (2) cisplatin 100 mg/m2 every month (3) bleomycin 15 mg/day for 5 
+consecutive days every month or (4) the combination arm of cisplatin 100 mg/m2 every 
+month plus bleomycin 15 mg/day for 5 consecutive days every month (Morton et al. 
+1985).  The primary aim of this study was to demonstrate a significant prolongation of 
+the 11-week median survival in this group of patients.  In this study, the only significant 
+prolongations of survival were for the 2 groups receiving cisplatin (single-agent cisplatin 
+versus control, p<0.05; two cisplatin arms versus 2 noncisplatin arms, p<0.01), with a 
+prolongation of median survival by 10 weeks.  Single-agent cisplatin almost reached 
+significance over cisplatin plus bleomycin combination therapy (p=0.065).  The response 
+rate was higher in the combination arm (24%) than in either single-agent arm (cisplatin:  
+13%; bleomycin:  14%), although the difference was not statistically significant. 
+
+Because of the higher response rate and significantly improved survival observed by 
+Morton and colleagues with cisplatin therapy, a variety of antineoplastic agents were 
+subsequently studied in combination with cisplatin in patients with advanced HNC.  
+However, cisplatin combination chemotherapy has not shown statistically significant 
+improvement in survival when compared to single-agent treatments (refer to Table 
+JMHR.1), with median survival durations for single-agent cisplatin ranging from 5 to 8 
+months. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Table JMHR.1. 
+
+Reference 
+Liverpool 
+Head and Neck  
+Oncology Group 
+1990  
+
+Jacobs et al. 1992  
+
+Page 14 
+
+Trials Evaluating Chemotherapy in Patients with Advanced 
+HNC 
+
+Study regimen 
+(cid:127)  Cisplatin 100 mg/m 2 monthly 
+(cid:127)  MTX 40 mg/m 2 biweekly 
+(cid:127)  Cisplatin 100 mg/m 2 monthly + 5-FU 1000 mg/m2 
+
+Survival 
+Cis arm significantly 
+better than MTX arm:  
+p <0.025. 
+
+for 4 days/month 
+
+(cid:127)  Cisplatin 100 mg/m 2 + MTX 40 mg/m2, monthly 
+(cid:127)  Cisplatin 100 mg/m 2 every 3 wks 
+(cid:127)  5-FU 1000 mg/m 2 for 4 days every 3 wks 
+(cid:127)  Cisplatin 100 mg/m 2 + 5-FU 1000 mg/m2 for 4 days 
+
+every 3 wks 
+
+No significant 
+difference between 
+arms: median OS of 5 
+months for cis, 6.1 
+months for 5-FU, and 
+5.5 months for cis + 
+5-FU.  
+No significant 
+difference between 
+arms: median OS of 5.6 
+months for MTX, 6.6 
+months for cis + 5-FU, 
+and 5 months for carbo 
++ 5-FU. 
+No significant 
+difference between 
+arms: median OS of 
+7.25 months for the 
+entire group. 
+
+No significant 
+difference between 
+treatment arms: median 
+OS of 9.2 months for 
+cetuximab + cis and 8.0 
+months for cis + 
+placebo. 
+
+Forastiere et al. 1992  
+
+(cid:127)  MTX 40 to 50 mg/m 2 weekly 
+(cid:127)  Cisplatin 100 mg/m 2 Day 1 + 5-FU 1000 mg/m2 for 
+
+4 days every 3 wks 
+
+(cid:127)  Carboplatin 300 to 360 mg/m 2 Day 1 + 5-FU, every 
+
+4 wks 
+
+Clavel et al. 1994 
+
+(cid:127)  MTX 40 mg/m 2 Days 1 and 5 + bleomycin 10 mg + 
+
+vincristine 2 mg Days 1, 8, and 15 + cisplatin 
+50 mg/m2 Day 4; every 3 wks 
+
+(cid:127)  Cisplatin 100 mg/m 2 + 5-FU 1000 mg/m2 for 4 days 
+
+every 3 wks 
+
+(cid:127)  Cisplatin 50 mg/m 2 Days 1 and 8, every 4 wks 
+(cid:127)  Cetuximab 200 mL/m 2 cycle 1, then 125 mL/m2/wk 
+
++ cisplatin 100 mg/m2 Day 1, every 4 wks 
+
+(cid:127)  Placebo + cisplatin 100 mg/m 2 Day 1, every 4 wks 
+
+Burtness et al. 2005 
+
+Abbreviations:  carbo = carboplatin; cis = cisplatin; HNC = head and neck cancer; MTX = methotrexate; 
+
+5-FU = 5-fluorouracil; OS = overall survival; wks = weeks. 
+
+1.2.3.  Rationale for Use of Pemetrexed in Head and Neck 
+
+Cancer 
+
+1.2.3.1.  Mechanism of Action 
+Pemetrexed is transported into cells by a reduced folate carrier and folate-binding protein 
+(Theti and Jackman 2004).  Upon entry into the cell, pemetrexed undergoes 
+polyglutamation by the action of the enzyme folylpolyglutamyl synthetase (Habeck et al. 
+1995).  The polyglutamated metabolites of pemetrexed have prolonged intracellular 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 15 
+
+retention times and are believed to play a profound role in determining the clinical 
+antitumor activity of this novel agent. 
+
+Studies have demonstrated that pemetrexed and its polyglutamate forms are potent 
+competitive inhibitors of several key folate-requiring enzymes, including thymidylate 
+synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide 
+formyltransferase.  Inhibition of TS and DHFR is the primary mechanism of action of 2 
+agents commonly used in the management of HNC patients:  5-FU and methotrexate.  
+The polyglutamates of pemetrexed also inhibit other folate-requiring enzymes, such as 
+aminoimidazole carboxamide ribonucleotide formyltransferase, C-1 tetrahydrofolate 
+synthase, and C-1 tetrahydrofolate dehydrogenase.  The combined effects of the enzyme 
+inhibition exerted by pemetrexed at each target give rise to an unusual end product 
+reversal pattern and signature on metabolic folate and nucleotide pools, which are 
+different from any other antifolates that have been studied so far (Shih et al. 1997).  Thus, 
+pemetrexed represents a new class of antifolate cytotoxic agents with the promise of 
+better overcoming inherent drug resistance through its multitargeted mechanism of 
+action. 
+
+1.2.3.2.  Development of Pemetrexed 
+
+1.2.3.2.1.  Single-Agent Pemetrexed 
+Early Phase 1 studies of pemetrexed without vitamin supplementation (conducted in 
+patients with a variety of refractory solid malignancies) established the treatment 
+schedule of pemetrexed administered once every 3 weeks.  The maximum-tolerated dose 
+(MTD) for this regimen was 700 mg/m2, with dose-limiting toxicities (DLTs) of 
+neutropenia, thrombocytopenia, and fatigue.  The dose selected for Phase 2 studies was 
+600 mg/m2.  Later, to decrease the toxicity reported in the early Phase 2 studies, the 
+recommended Phase 2 dose was decreased to 500 mg/m2, before the institution of routine 
+folic acid and vitamin B12 administration.   
+
+Based upon multivariate analyses of toxicities observed in several pemetrexed trials 
+(Niyikiza et al. 2002), all patients receiving pemetrexed were subsequently supplemented 
+with dietary folic acid (350 to 1000 µg) and vitamin B12 (1000 µg, administered as an 
+intramuscular injection) to decrease the frequency of severe hematologic and 
+nonhematologic toxicity.  Vitamin B12 was included in the supplementation because 
+approximately 15% of patients were not expected to achieve lower homocysteine levels 
+with the supplementation of daily folic acid alone.  It was hypothesized that these patients 
+might benefit from the addition of vitamin B12 because this agent is a cofactor in the 
+consumption of homocysteine by the methionine synthase enzyme. 
+
+Folic acid and vitamin B12 supplementation caused a statistically significant reduction in 
+plasma homocysteine concentrations over time and a significant reduction in the 
+frequencies of severe hematologic toxicities and nonhematologic toxicities, such as 
+mucositis, in patients receiving pemetrexed therapy (Bunn et al. 2001). 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 16 
+
+The randomized Phase 3 trial, Study H3E-MC-JMEI (JMEI), confirmed the safety and 
+tolerability of pemetrexed 500 mg/m2 with vitamin supplementation compared with 
+docetaxel 75 mg/m2 in patients with locally advanced or metastatic non-small cell lung 
+cancer (NSCLC) who were previously treated with chemotherapy.  Overall, Study JMEI 
+showed that pemetrexed was as efficacious as docetaxel and had a more favorable safety 
+profile.  The more favorable safety profile for pemetrexed was reflected in fewer 
+clinically relevant toxicities, particularly neutropenia-related toxicities and associated 
+supportive care (hospitalizations and concomitant medications), as well as fewer 
+discontinuations and drug-related adverse events and serious adverse events (SAEs).  
+Three study-drug-related deaths occurred on the pemetrexed arm, and 5 occurred on the 
+docetaxel arm (Hanna et al. 2004). 
+
+Pemetrexed is approved as second-line monotherapy for the treatment of patients with 
+locally advanced or metastatic NSCLC in the United States (US) and in the European 
+Union (EU). 
+
+1.2.3.2.2.  Pemetrexed Plus Cisplatin 
+Study H3E-MC-JMAP (JMAP) was a single-center, nonrandomized, open-label, Phase 1 
+study of pemetrexed plus cisplatin without vitamin supplementation in patients with 
+locally advanced or metastatic cancer to determine the MTD of pemetrexed and cisplatin 
+administered in combination intravenously on a 21-day cycle.  No patients received 
+low-dose folic acid or vitamin B12 because this study was completed before vitamin 
+supplementation was implemented.  The primary cancers most frequently seen in these 
+patients were mesothelioma (13 patients), HNC (11 patients), and non-small cell lung 
+cancer (7 patients).  Seven patients (17%) had a performance status of 2.  Forty-five 
+percent of the patients had received at least 1 prior chemotherapy regimen.  The MTD 
+was pemetrexed 600 mg/m2 and cisplatin 100 mg/m2, because 2 of the 6 patients treated 
+at this dose level experienced protocol-defined DLTs:  1 patient developed Grade 3 
+mucositis and Grade 4 thrombocytopenia, and 1 patient experienced Grade 4 
+thrombocytopenia.  At the next lower dose level (pemetrexed 600 mg/m2 and cisplatin 
+75 mg/m2), only 1 of 13 patients had a protocol-defined DLT (Grade 3 neutropenia).  The 
+data from this trial would have led to a dose of pemetrexed 600 mg/m2 and cisplatin 
+75 mg/m2 being recommended for Phase 2 study.  However, because of toxicities 
+observed in other single-agent Phase 2 studies, the recommended Phase 2 dose for this 
+combination became pemetrexed 500 mg/m2 and cisplatin 75 mg/m2. 
+
+The pivotal, randomized, Phase 3 trial, Study H3E-MC-JMCH (JMCH), established the 
+safety and tolerability of the addition of pemetrexed 500 mg/m2 with vitamin 
+supplementation to cisplatin 75 mg/m2, compared with single-agent cisplatin 75 mg/m2 
+in patients with malignant pleural mesothelioma (MPM).  Few patients discontinued 
+because of adverse events (12%).  Among patients who received vitamin 
+supplementation, the drug-related death rate was low and similar between arms; all 
+drug-related deaths in Study JMCH occurred in patients who did not receive vitamin 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 17 
+
+supplementation.  The main toxicities of this regimen were hematologic (28% Grade 3 or 
+4 neutropenia), but clinical manifestations of neutropenia, such as febrile neutropenia, 
+were rare (<2%).  Grade 3 or 4 nonlaboratory toxicities, such as diarrhea and mucositis, 
+which are common with other TS inhibitors, were observed in less than 5% of patients 
+who received the pemetrexed plus cisplatin regimen.  Furthermore, the toxicity profile of 
+the combination regimen of pemetrexed plus cisplatin was improved with folic acid and 
+vitamin B12 supplementation.  Although the toxicity of pemetrexed in combination with 
+cisplatin was higher than that of cisplatin alone, the increased toxicity was offset by the 
+associated significant improvements in overall survival (OS), time to disease progression, 
+response rate, pulmonary functioning, and pain in patients with MPM treated with 
+pemetrexed and cisplatin (Vogelzang et al. 2003). 
+
+Pemetrexed in combination with cisplatin is approved in the US and the EU for the 
+treatment of patients with MPM whose disease is unresectable or who are otherwise not 
+candidates for curative surgery. 
+
+Study H3E-MC-JMDB (JMDB) was a multicenter, randomized, open-label, Phase 3 
+study for first-line treatment of chemonaive patients with advanced/metastatic non-small 
+cell lung cancer (NSCLC) with pemetrexed and cisplatin (PC) versus gemcitabine and 
+cisplatin (GC).  The requirement for patient’s calculated creatinine clearance (CrCl) value 
+in Study JMDB was ≥ 45 mL/min based on the standard Cockcroft and Gault formula 
+(1976).  Of the 812 patients in PC arm who were randomized and treated at baseline, 65 
+patients had CrCl of 45 to <60 mL/min  low CrCl group), and 747 had CrCl ≥ 60 mL/min 
+(high CrCl group).  Clinically significant SAEs were similar between the low CrCl group 
+and the high CrCl group, including renal toxicities.  When comparing all treatment-
+emergent adverse events (TEAEs), the low CrCl group demonstrated more TEAEs 
+involving renal toxicities, such as blood creatinine increase 10.8% versus 6% for high 
+CrCl group, creatinine renal clearance decrease 26.2% versus 2%, and blood creatinine 
+3.1% versus 0.54%.  Dose delays due to renal toxicities were also observed to be higher 
+in the low CrCl group as compared to the high CrCl group, such as creatinine renal 
+clearance decrease 10.8% versus 0.4% for high CrCl group.  All other reasons for dose 
+delays were similar between the 2 groups.  Discontinuations due to SAEs and nonserious, 
+clinically significant adverse event were 11 (16.9%) patients for the low CrCl group 
+versus 57 (7.6%) patients for the high CrCl group; discontinuations for the low CrCl 
+group were all related to renal events.  As expected, there were increased dose delays and 
+discontinuations due to renal events in the low CrCl group.  However, most of the TEAEs 
+observed in the low CrCl group were of Grade 1 or 2, and there was no increase in 
+clinically significant SAEs.  Patients with CrCl of 45 to <60 mL/min did not exhibit 
+significant increase in toxicity as compared to patients with CrCl ≥ 60 mL/min.  This is 
+consistent with pemetrexed label to date.  Therefore, the calculated CrCl for Study JMHR 
+patients will be ≥ 45 mL/min. 
+
+Investigational sites involved in Study JMDB were also invited to participate in an 
+optional companion biomarker research protocol.  Prospective analyses from the trial 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 18 
+
+have been performed comparing OS and progression-free survival (PFS) by histologic 
+type (squamous and nonsquamous NSCLC) (Scagliotti et al. 2007, 2008).  Statistically 
+significant treatment-by-histology interactions were observed, with greater OS and PFS 
+exhibited in patients treated with pemetrexed/cisplatin and having nonsquamous 
+histology when compared to patients with squamous cell histology (Scagliotti et al. 2007, 
+2008). 
+
+Therefore, as part of Lilly’s ongoing efforts to understand the relationship between 
+cancer, genetics, and response to therapy, Study JMHR will analyze biomarkers that will 
+predict response to pemetrexed and cisplatin.  Study JMHR will also analyze the potential 
+correlation between biomarkers and differences in underlying tumor cell type. 
+
+1.2.3.3.  Development of Pemetrexed for Patients with Head and Neck 
+
+Cancer 
+
+1.2.3.3.1.  Single-Agent Pemetrexed for Patients with Head and Neck 
+
+Cancer 
+
+As a part of a broad Phase 2 program, pemetrexed was studied as a single agent in 
+advanced HNC patients (Study H3E-MC-JMAJ [JMAJ]).  In this single-arm, Phase 2 
+study of pemetrexed 500 mg/m2 without vitamin supplementation, a response rate of 
+27% was observed in 36 patients with advanced HNC.  Approximately 30% of patients 
+had received prior chemotherapy, and the majority had prior surgery and/or radiotherapy.  
+Median PFS was 3.1 months, and median survival time was 6.4 months.  Toxicity was 
+graded according to Common Toxicity Criteria (CTC) Version 1 (NCI 1993).  Grade 3/4 
+neutropenia was reported for 65% of patients, and Grade 4 thrombocytopenia was 
+observed in 11.4%.  Grade 3/4 infection was observed in 17.1% of patients.  Four deaths 
+were attributed to toxicity from study treatment (asphyxia secondary to laryngeal 
+hemorrhage, septic shock, septicemia, as well as laryngeal tumor bleeding and dyspnea). 
+
+1.2.3.3.2.  Pemetrexed Plus Cisplatin for Patients with Head and Neck 
+
+Cancer 
+
+In Study JMAP (see Section 1.2.3.2.2), 3 of the 11 patients with locally advanced or 
+metastatic HNC were observed to have a partial response to study treatment. 
+
+1.2.3.4.  Summary and Conclusions 
+Thus, the rationale for the development of pemetrexed in combination with cisplatin in 
+advanced HNC is as follows: 
+
+•  Because no platinum-based combination has improved survival in patients 
+
+with advanced HNC compared with single-agent cisplatin, there is a 
+significant unmet medical need in this patient population. 
+
+•  Phase 2 data established the activity of single-agent pemetrexed 
+
+500 mg/m2 without vitamin supplementation in advanced HNC patients. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 19 
+
+•  The addition of vitamin supplementation to pemetrexed treatment led to a 
+
+manageable and predictable toxicity profile for pemetrexed and for 
+pemetrexed plus cisplatin. 
+
+•  Pemetrexed with vitamin supplementation plus cisplatin showed 
+
+significant improvements in OS, with acceptable toxicity, compared with 
+single-agent cisplatin in Study JMCH, a randomized, Phase 3 trial that led 
+to the global registration of pemetrexed plus cisplatin combination therapy 
+in patients with MPM. 
+
+•  Experience gained with pemetrexed in a variety of tumors, including 
+
+HNC, provides evidence that pemetrexed in combination with cisplatin 
+with vitamin supplementation can be safely administered in this patient 
+population. 
+
+•  Pemetrexed, either as a single agent or in combination with cisplatin, has 
+
+shown promising activity in patients with advanced HNC. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 20 
+
+2.  Objectives 
+
+2.1.  Primary Objective 
+The primary objective of this study is to compare the OS of pemetrexed 500 mg/m2 plus 
+cisplatin 75 mg/m2 every 3 weeks to the OS of single-agent cisplatin 75 mg/m2 every 3 
+weeks in patients with HNC that is recurrent and not amenable to local therapy (surgery 
+or radiation) or newly diagnosed distant metastatic disease. 
+
+2.2.  Secondary Objectives 
+The secondary objectives of this study are to compare between the two treatment arms: 
+
+•  progression-free survival (PFS) 
+•  overall response rate (ORR) 
+•  duration of response (DoR) for responding patients 
+• 
+
+time to worsening (TTW) in dimensions of health-related quality of life 
+(HRQoL) using Functional Assessment of Cancer Therapy - Head and 
+Neck Cancer (FACT-H&N) 
+
+•  change from baseline in dimensions of HRQoL using FACT-H&N 
+• 
+
+the safety and adverse event profile (including Common Terminology 
+Criteria for Adverse Events [CTCAE Version 3.0, NCI 2003] grades for 
+laboratory and nonlaboratory adverse events) 
+
+• 
+
+to assess the ability of biological markers relevant to study therapy and 
+disease state to identify difference in treatment effect on overall survival 
+and on other relevant clinical endpoints including PFS, tumor response, 
+and toxicity. 
+
+Definitions for efficacy, HRQoL, and safety measures can be found in Sections 6.1, 6.2, 
+and 6.3, respectively. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version 3. 
+
+Investigational Plan 
+
+Page 21 
+
+3.1.  Summary of Study Design 
+Study H3E-MC-JMHR (JMHR) is a double-blind, randomized, Phase 3 study in patients 
+with HNC that is recurrent and not amenable to local therapy (surgery or radiation) or 
+newly diagnosed distant metastatic disease.  Approximately 790 patients will be enrolled 
+in this study.  Eligible patients will be randomized to one of the following treatment 
+arms: 
+
+•  Arm A (experimental arm):  pemetrexed 500 mg/m2 plus cisplatin 
+
+75 mg/m2 on Day 1 every 21 days 
+
+•  Arm B (control arm):  placebo plus cisplatin 75 mg/m2 on Day 1 every 21 
+
+days 
+
+Patients in both treatment arms will receive up to 6 cycles of assigned study treatment 
+and will also receive folic acid, vitamin B12 supplementation  and dexamethasone (refer 
+to Section 5.2.4 through Section 5.2.6).  All patients will be followed until death or study 
+closure.  However, a patient who is receiving benefit from treatment may receive 
+additional cycles after discussion between the El  Lilly and Company (Lilly) physician 
+and the investigator.  In this case, cycles will be repeated until the patient meets the 
+criteria for study treatment discontinuation (Section 4.3). 
+
+Patients will be evenly assigned (1:1 randomization) to the treatment arms based on the 
+following randomization factors:  Eastern Cooperative Oncology Group (ECOG) 
+performance status (0 or 1 versus 2), previously treated for HNC (no versus yes), distant 
+metastasis (no versus yes), prior platinum-based therapy (no versus yes), and country. 
+
+The primary efficacy measure will be OS.  Secondary endpoints include PFS, ORR, and 
+DoR; time to worsening (TTW) in dimensions of health-related quality of life (HRQoL) 
+using FACT-H&N, change from baseline in dimensions of HRQoL using FACT-H&N, 
+and safety.  The study is powered to detect a 25% improvement in OS when pemetrexed 
+is combined with cisplatin by showing the median OS of 8 months with cisplatin plus 
+placebo and 10 months with pemetrexed plus cisplatin. The 8-month survival estimate for 
+cisplatin plus placebo is based on results from the Burtness trial (see Table JMHR.1). 
+
+After approximately 632 deaths have been observed, the database for the final analysis 
+will be validated and “locked” for the final analysis and preparation of the clinical study 
+report. 
+
+An interim analysis for futility is planned for this study. The interim analysis will be 
+performed to assess safety and efficacy in order to determine whether it is scientifically 
+and ethically appropriate to continue enrollment.  The futility analysis will be based on 
+PFS as the OS data is not anticipated to mature at the time of interim analysis.  The 
+interim analysis will be conducted when approximately 300 patients have experienced 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version disease progression or have died.  Patient enrollment will continue during the interim 
+analysis.  (See Section 8.2.11 regarding details about the interim analysis and about 
+formation of the data monitoring board.) 
+
+Figure JMHR.1 illustrates the study design. 
+
+Page 22 
+
+ 
+
+ 
+
+Screening
+
+Randomization
+
+Pretreatment – Both Treatment Arms
+Dexamethasone (po): 4 mg BID taken on the day before, the day of, and day after study 
+treatment.
+Vitamin B12 (im): 1000 µg taken 1 to 2 weeks before treatment and every 9 weeks until 3 weeks 
+after last treatment dose.
+Folic Acid (po): 350 µg to 1000 µg taken 1 to 2 weeks before treatment and continue daily until 3
+weeks after last treatment dose.
+
+Treatment Arm A
+
+Pemetrexed 500 mg/m2 + cisplatin 75 mg/m2
+
+on Day 1 every 21 days
+
+Treatment Arm B
+Placebo + cisplatin 75 mg/m2
+
+on Day 1 every 21 days
+
+Patients will receive up to 6 cycles of therapy.
+
+All patients will be followed until death or end of study.
+
+ 
+
+Abbreviations:  BID = twice daily; im = intramuscularly; po = oral. 
+
+Figure JMHR.1. 
+
+Illustration of H3E-MC-JMHR study design. 
+
+3.2.  Discussion of Design and Control 
+Approximately 790 patients will be randomized to receive either pemetrexed plus 
+cisplatin (Treatment Arm A) or placebo plus cisplatin (Treatment Arm B) in a 1:1 manner 
+(395 patients in Treatment Arm A and 395 patients in Treatment Arm B).  A double-blind 
+design has been chosen for Study JMHR to minimize investigator and patient bias with 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version respect to treatment decisions and patient-reported outcomes.  Because OS is the primary 
+endpoint of this double-blind study, no independent review of PFS or ORR is planned.  
+The sponsor will collect and store all tumor measurement images on all patients 
+throughout the study. 
+
+Page 23 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version 4.  Study Population 
+
+Page 24 
+
+Inclusion Criteria 
+
+4.1. 
+Patients are eligible to be included in the study only if they meet all of the following 
+criteria: 
+
+[1]  Histologic or cytologic diagnosis of squamous cell HNC, either: 
+
+• 
+
+Recurrent disease (locally advanced or metastatic) that is not 
+amenable to local therapy, (i) with at least 6 months since 
+completion of systemic therapy (chemotherapy or biological 
+anticancer therapy), and (ii) with no more than 1 prior 
+multimodal therapy (such as concurrent chemoradiation with or 
+without sequential chemotherapy) for locally advanced HNC 
+tumor, and (iii) with no prior systemic therapy (chemotherapy or 
+biological anticancer therapy) for metastatic disease; OR 
+•  Newly diagnosed distant metastatic disease (Stage IVc). 
+
+[2]  Prior therapies: 
+
+•  Radiation therapy must be completed at least 4 weeks before study 
+enrollment.  For palliative therapy, prior radiation therapy allowed 
+to <25% of the bone marrow (Cristy and Eckerman 1987), and 
+prior radiation to the whole pelvis is not allowed.  Patients must 
+have recovered from the acute toxic effects of the treatment prior 
+to study enrollment. 
+
+•  Surgery (excluding prior diagnostic biopsy) must be completed at 
+
+least 4 weeks before study enrollment.  Patients must have fully 
+recovered from any acute effects of surgery prior to study 
+enrollment. 
+
+[3]  Life expectancy ≥3 months. 
+[4]  Eastern Cooperative Oncology Group (ECOG) performance status 0, 
+
+1, or 2 (Oken et al. 1982).  See Protocol Attachment JMHR.3. 
+
+[5]  Disease status may be measurable or nonmeasurable as defined by 
+
+Response Evaluation Criteria in Solid Tumors (RECIST; Therasse et 
+al. 2000).  Positron emission tomography (PET) scans and ultrasounds 
+may not be used for lesion measurements. 
+
+[6]  Patient compliance and geographic proximity that allow for adequate 
+
+follow-up. 
+
+[7]  Adequate organ function as defined by the following: 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 25 
+
+• 
+
+Bone marrow reserve:  absolute neutrophil (segmented and 
+bands) count (ANC) ≥1.5 × 109/L, platelets ≥100 × 109/L, and 
+hemoglobin ≥9 g/dL. 
+
+•  Hepatic:  bilirubin ≤1.5 × the upper limit of normal (ULN); 
+
+alkaline phosphatase (ALP), aspartate aminotransferase (AST), 
+and alanine aminotransferase (ALT) ≤3.0 × ULN.  (ALP, AST, 
+and ALT ≤5.0 × ULN is acceptable if the liver has tumor 
+involvement.) 
+Renal:  calculated creatinine clearance (CrCl) ≥ 45 mL/min.  (See 
+Section 5.5.2.3 and Protocol Attachment JMHR.4 for acceptable 
+methods of creatinine clearance assay.) 
+
+• 
+
+[8]  Signed informed consent from patient. 
+
+[9]  Patients at least 18 years of age. 
+
+[10]  For women:  Must be surgically sterile, postmenopausal, or compliant 
+
+with a medically approved contraceptive regimen (for example, 
+intrauterine device [IUD], birth control pills, or barrier device) during 
+and for 6 months after the treatment period; must have a negative 
+serum or urine pregnancy test within 7 days before study enrollment, 
+and must not be breast-feeding. 
+
+For men:  Must be surgically sterile or compliant with a contraceptive 
+regimen during and for 6 months after the treatment period. 
+
+4.2.  Exclusion Criteria 
+Patients will be excluded from the study if they meet any of the following criteria: 
+
+[11]  Prior systemic therapy (chemotherapy or biological anticancer 
+
+therapy) for metastatic disease. 
+
+[12]  Have received treatment within the last 30 days with a drug that has 
+
+not received regulatory approval for any indication at the time of study 
+entry. 
+
+[13]  Serious concomitant systemic disorder (for example active infection or 
+
+cardiac disease) or psychiatric disorder that, in the opinion of the 
+investigator, would compromise the patient’s ability to complete the 
+study. 
+
+[14]  Presence of clinically significant (by physical exam) third-space fluid 
+
+collections, for example, ascites or pleural effusions that cannot be 
+controlled by drainage or other procedures prior to study entry. 
+
+[15]  Second primary malignancy that is clinically detectable at the time of 
+
+consideration for study enrollment. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 26 
+
+[16]  Have had another primary malignancy other than HNC, unless that 
+
+prior malignancy was treated at least 2 years previously with no 
+evidence of recurrence.  Exception:  Patients with a history of in situ 
+carcinoma of the cervix, nonmelanoma skin cancer, or low-grade 
+(Gleason score ≤6) localized prostate cancer will be eligible even if 
+diagnosed and treated less than 2 years previously.   
+
+[17]  Nasopharyngeal, paranasal sinus, lip, or salivary gland cancer. 
+
+[18]  Have central nervous system (CNS) metastases (unless the patient has 
+completed successful local therapy for CNS metastases and has been 
+off corticosteroids for at least 4 weeks before starting study therapy).  
+Brain imaging is required in symptomatic patients to rule out brain 
+metastases, but is not required in asymptomatic patients. 
+
+[19]  Inability to interrupt aspirin or other nonsteroidal anti-inflammatory 
+
+agents, other than an aspirin dose ≤1.3 grams per day, for a 5-day 
+period (8-day period for long-acting agents, such as piroxicam). 
+
+[20]  Unable or unwilling to take folic acid, vitamin B12, or prophylactic 
+
+corticosteroids. 
+
+[21]  Concurrent administration of any other antitumor therapy. 
+
+[22]  Pregnant or breast-feeding. 
+
+4.2.1.  Rationale for Exclusion of Certain Study Candidates 
+Exclusion Criterion [12] uses the 30-day standard established by Lilly in order to clearly 
+attribute events associated with an investigational agent with the appropriate 
+investigational agent.  Exclusion Criteria [11], [13], [14], [15], [16], [17], and [18] help to 
+establish specificity of the patient population for both efficacy and safety analyses.  
+Exclusion Criteria [19], [20], and [21] provide for patient safety.  Because preclinical 
+data suggest that pemetrexed may have teratogenic effects, and safety has not been 
+established for nursing infants, Exclusion Criterion [22] ensures patient safety.   
+
+4.3.  Discontinuations 
+The criteria for enrollment must be followed explicitly.  If a patient who does not meet 
+enrollment criteria is inadvertently enrolled, that patient should be discontinued from the 
+study treatment, and Lilly or its designee must be contacted.  An exception may be 
+granted in rare circumstances where the patient has a serious or life-threatening condition 
+for which there is no effective alternative therapy and, in the opinion of the investigator, 
+is receiving benefit from study treatment.  In these rare cases, the investigator must obtain 
+documented approval from Lilly to allow the patient to continue study treatment.  In 
+addition, patients will be discontinued from study treatment in the following 
+circumstances: 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 27 
+
+•  The investigator decides that the patient should be withdrawn from the 
+study treatment.  If an SAE or a clinically significant laboratory value is 
+the basis for this decision, the investigator will discontinue the study 
+treatment, take appropriate measures, and immediately notify Lilly or its 
+designee (see Safety, Section 6.3). 
+
+•  The patient experiences any unacceptable adverse event that would require 
+
+a third dose reduction. 
+
+•  The patient or the attending physician requests that the patient be 
+
+withdrawn from the study treatment. 
+
+•  The patient cannot receive study treatment for 42 or more consecutive 
+
+days from the first day of the previous cycle for any reason. 
+
+•  The patient, for any reason, requires treatment with another therapeutic 
+agent for this study indication.  In this case, discontinuation from study 
+treatment occurs immediately upon introduction of the new agent. 
+
+•  The investigator or Lilly, for any reason, stops the study or stops the 
+
+patient's participation in the study. 
+
+•  The patient has completed 6 cycles of study treatment. 
+•  There is evidence of progressive disease (PD). 
+•  The patient becomes pregnant or fails to use adequate birth control. 
+•  The patient is noncompliant with study procedures. 
+
+The date a patient discontinues study treatment will also be the first day of the patient’s 
+30-day postdiscontinuation follow-up visit (refer to the Study Schedule in Protocol 
+Attachment JMHR.1). 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 28 
+
+5.  Treatment 
+
+5.1.  Treatments Administered 
+This study will randomize patients to receive pemetrexed plus cisplatin or placebo plus 
+cisplatin, as follows: 
+
+  Arm A (experimental arm):  pemetrexed 500 mg/m2 plus cisplatin 
+
+75 mg/m2 on Day 1 every 21 days 
+
+  Arm B (control arm):  placebo (approximately 100 mL normal saline) 
+
+plus cisplatin 75 mg/m2 on Day 1 every 21 days 
+
+Table JMHR.2 (see Section 5.5) outlines the details of each treatment regimen, including 
+supportive therapies. 
+
+The investigator or his/her designee is responsible for explaining the correct use of the 
+investigational agent(s) to the site personnel, verifying that instructions are followed 
+properly, maintaining accurate records of study drug dispensing and collection, and 
+returning all unused medication to Lilly at the end of the study. 
+
+Patients will be instructed to contact the inves igator as soon as possible if he or she has a 
+complaint or problem with the study drug so that the situation can be assessed. 
+
+5.2.  Materials and Supplies 
+Clinical trial materials will be labeled according to the country’s regulatory requirements.   
+
+5.2.1.  Pemetrexed (Treatment Arm A) 
+The freeze-dried drug product contains pemetrexed disodium and mannitol in a 1:1 ratio.  
+Sodium hydroxide  hydrochloric acid solution, or both, may be added during processing 
+to adjust the pH.  The 500-mg vial contains pemetrexed disodium equivalent to 510 mg 
+of the base compound, pemetrexed.  The vials contain a 2% excess to facilitate the 
+withdrawal of the label amount from the vial.  The drug product is stable when stored at 
+controlled room temperature. 
+
+Reconstituting the 500-mg vial contents with 10 to 50 mL of sodium chloride injection 
+gives a clear solution with a concentration of 10 to 50 mg/mL.  The reconstituted 
+formulation is in the pH range of 6.8 to 7.5 and is chemically stable for 72 hours at 
+refrigerated or room temperature.  However, the drug product contains no antimicrobial 
+agent and should be administered within 24 hours after reconstitution in the original vial.  
+Investigative site staff should discard unused portions.  Responsible individuals should 
+inspect vial contents for particulate matter before and after they withdraw the drug 
+product from a vial into a syringe. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 29 
+
+Investigative site personnel cannot administer the concentrated solution without further 
+dilution.  For the purposes of clinical administration, site staff must dilute an appropriate 
+quantity of the reconstituted contents of the vial into an infusion solution of 
+approximately 100 mL of 0.9% sodium chloride for injection.  After dilution, the shelf 
+life of the product is 24 hours at room temperature.  Pemetrexed is not sensitive to light.  
+Vials of pemetrexed contain no antimicrobial preservative, and they are single-use vials.  
+Site staff must not store any unused portion of a vial for future use and they must discard 
+unused portions of product. 
+
+Pemetrexed is incompatible in solution with acidic medications or media, and site staff 
+must not mix or administer simultaneously with other medications through the same 
+infusion line.  Site personnel should flush the infusion line before administration of any 
+concomitant medication.  Pemetrexed is compatible with standard polyvinyl chloride 
+administration sets and intravenous solution bags. 
+
+Site staff should inspect parenteral drug products visually for particulate matter and 
+discoloration before administration whenever solution and container permit inspection. 
+
+5.2.2.  Cisplatin (Both Treatment Arms) 
+Cisplatin will be obtained locally.  A total dose of 75 mg/m2 of cisplatin will be diluted to 
+a volume of 1000 mL with 0.9% sodium chloride prior to infusion.  The cisplatin solution 
+should not be refrigerated.  Prior to and following the administration of cisplatin, the 
+patient will be adequately hydrated according to local practice. 
+
+5.2.3.  Placebo (Treatment Arm B)  
+Placebo is normal saline (0.9% sodium chloride), and normal saline will also serve as the 
+diluent for pemetrexed and cisplatin (Sections 5.2.1 and 5.2.2). 
+
+Patients who are assigned to Treatment Arm B will receive approximately 100 mL 
+normal saline in place of the pemetrexed infusion.  In order to protect the blinding of the 
+study, the IV bags containing normal saline either with or without pemetrexed should be 
+visually indistinguishable for Treatment Arms A and B.  (Refer to Section 5.6, Blinding.) 
+
+5.2.4.  Folic Acid (Both Treatment Arms) 
+Investigators will obtain folic acid as one of the following options, with preference in 
+order from Option 1 to Option 3: 
+
+1) 
+
+2) 
+
+3) 
+
+350 to 600 µg folic acid 
+a multivitamin containing folic acid in the range of 350 to 600 µg 
+(acceptable only if Option 1 is not available) 
+a dose of folic acid between 600 and 1000 µg (acceptable only if 
+neither Option 1 nor Option 2 is available). 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 30 
+
+For purposes of this study, all patients should take oral folic acid daily beginning 
+approximately 1 to 2 weeks before treatment with pemetrexed plus cisplatin or cisplatin 
+alone and continuing daily until 3 weeks after discontinuation from study therapy. 
+
+5.2.5.  Vitamin B12 (Both Treatment Arms)  
+Vitamin B12 will be prescribed by the investigator and administered as a 1000-µg 
+intramuscular injection.  A vitamin B12 injection must be administered approximately 1 
+to 2 weeks before treatment with pemetrexed plus cisplatin or cisplatin alone and should 
+be repeated approximately every 9 weeks until 3 weeks after the last dose of study 
+treatment. 
+
+5.2.6.  Dexamethasone (Both Treatment Arms) 
+Dexamethasone is one of a variety of corticosteroids available in tablet form ranging 
+from 0.25 to 6 mg.  For purposes of this study, all patients will be given dexamethasone 
+4 mg orally (or an equivalent corticosteroid and dose) twice per day on the day before, 
+the day of, and the day after each dose of pemetrexed plus cisplatin or cisplatin alone. 
+
+5.3.  Method of Assignment to Treatment 
+A computerized, interactive, voice-activated response system (IVRS) at a central location 
+will control random assignment for all study sites.  In order to preserve the blinding of 
+the patient and the personnel involved in patient evaluations or data collection, an 
+unblinded third party (for example, a pharmacist) will be designated.  The investigator 
+should provide the necessary information to the unblinded pharmacist or designee who 
+will call the IVRS to obtain the patient’s treatment assignment.  Neither the patient nor 
+the investigator will know the treatment to which the patient has been assigned. 
+
+The IVRS will assign patients to treatment arms according to the method of Pocock and 
+Simon (1975).  Each patient will be assigned with probability 0.75 to the treatment arm 
+that minimizes imbalances among the following equally weighted prognostic factors.  If 
+the measures of imbalance are equal for both arms, then the probability of allocation to 
+either arm will be 0.5.  Prognostic factors considered by the randomization algorithm are: 
+
+•  ECOG Performance Status: 
+○  Baseline score = 0 or 1 
+
+○  Baseline score = 2 
+
+•  Previously treated for HNC: 
+
+○  No 
+
+○  Yes 
+
+•  Distant metastasis: 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 31 
+
+○  No 
+
+○  Yes 
+
+•  Prior platinum-based therapy: 
+
+○  No 
+
+○  Yes 
+•  Country 
+
+5.4.  Rationale for Selection of Doses in the Study 
+
+5.4.1.  Cisplatin 
+In randomized clinical trials in advanced HNC patients, cisplatin is frequently dosed at 
+75  mg/m2 every 3 weeks or 100 mg/m2 every 3 or 4 weeks, either as a single agent or as 
+combination therapy (yielding a planned cisplatin dose intensity of 25 to 33 mg/m2/wk).  
+In the Morton trial, in which a survival advantage was reported for cisplatin-based 
+regimens over best supportive care, the planned cisplatin dose intensity was 25 
+mg/m2/wk in both the cisplatin-only arm and the cisplatin-bleomycin arm (Morton et al. 
+1985).  In the Clavel study, the planned dose intensity was 25 mg/m2/wk for cisplatin 
+monotherapy, 33 mg/m2/wk for cisplatin plus 5-FU, and 16 mg/m2/wk for the cisplatin 
+plus methotrexate plus bleomycin plus vincristine regimen; the Clavel study did not show 
+a statistically significant difference in OS between arms (Clavel et al. 1994).  Together, 
+cisplatin-based trials in advanced HNC patients suggest that efficacy does not vary 
+substantially based on cisplatin dose intensity.  Veronesi and colleagues did not report 
+significant differences in response rate, PFS, or OS in advanced HNC patients treated 
+with either cisplatin 60 mg/m2 every 3 wks (20 mg/m2/wk) or cisplatin 120 mg/m2 every 
+3 wks (40 mg/m2/wk), suggesting that cisplatin activity has limited drug-dose 
+dependency in patients with advanced HNC (Veronesi et al. 1985).  Lastly, single-agent 
+cisplatin 25 mg/m2/wk has shown similar efficacy to other cisplatin combination 
+chemotherapies. 
+
+Therefore, the proposed dosage for cisplatin in Study JMHR for both the comparator arm 
+and the experimental arm is 75 mg/m2 administered intravenously every 3 weeks to yield 
+a planned dose intensity of 25 mg/m2/wk. 
+
+5.4.2.  Pemetrexed in Combination with Cisplatin 
+As mentioned in Section 1.2.3.3.1, single-agent pemetrexed 500 mg/m2 without vitamin 
+supplementation showed promising activity in locally advanced or metastatic HNC in 
+Study JMAJ. 
+
+In Study JMAP (see Section 1.2.3.2.2), a toxic death was reported in 1 HNC patient 
+treated with pemetrexed 600 mg/m2 and cisplatin 75 mg/m2 without vitamin 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 32 
+
+supplementation.  The patient experienced multiple CTC Grade 3 and 4 toxicities during 
+Cycle 1 of therapy:  stomatitis, dysphagia, neutropenia, thrombocytopenia, and sepsis 
+with pneumonia.  The patient died on Day 16.  Cause of death was not determined; an 
+autopsy was performed. 
+
+In Study JMCH (see Section 1.2.3.2.2), cisplatin 75 mg/m2 plus pemetrexed 500 mg/m2 
+showed a manageable safety profile when administered with vitamin supplementation in 
+the treatment of patients with MPM and led to its approval in the treatment of this cancer. 
+
+Therefore, the proposed experimental treatment in Study JMHR is cisplatin 75 mg/m2 
+plus pemetrexed 500 mg/m2 with vitamin supplementation, both agents administered on 
+Day 1 of a 3-week schedule. 
+
+5.5.  Selection and Timing of Doses 
+A delay of cycle as a result of holidays, weekends, bad weather, or other unforeseen 
+circumstances will be permitted and not counted as a protocol violation. 
+
+For patients on Treatment Arm A, the definition of a cycle is 1 dose of pemetrexed plus 1 
+dose of cisplatin administered on Day 1 every 21 days. 
+
+For patients on Treatment Arm B, the definition of a cycle is placebo (saline infusion) 
+plus 1 dose of cisplatin administered on Day 1 every 21 days. 
+
+The site will determine the actual doses of  he drugs to be administered to patients on 
+both treatment arms by calculating the patient’s body surface area at the beginning of 
+each cycle.  
+
+Table JMHR.2 describes the dosage and the mode of administration for each study 
+therapy. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Table JMHR.2. 
+
+Dosages and Mode of Administration of Study Therapies 
+
+Page 33 
+
+Dose 
+
+Time of Administration 
+
+Drug 
+Treatment Arm A (21-Day Cycle) 
+Pemetrexed 
+Cisplatin 
+
+500 mg/m2 iv infusion 
+75 mg/m2 iv infusion 
+
+Approximately 10 minutes on Day 1. 
+Hydration to be administered per local 
+practice on Day 1. 
+
+Treatment Arm B (21-Day Cycle) 
+Saline infusion as placebo  Approximately 100 mL iv 
+
+Approximately 10 minutes on Day 1.  
+
+Cisplatin 
+
+infusion 
+75 mg/m2 iv infusion 
+
+Pretreatment–Both Treatment Arms A and B 
+Folic acid 
+
+350 µg to 1000 µg orally 
+
+Vitamin B12 
+
+1000 µg im injection 
+
+Dexamethasone 
+
+4 mg, orally twice per day 
+(or equivalent) 
+
+Hydration to be administered per local 
+practice on Day 1. 
+
+Dose daily, beginning approximately 1 to 
+2 weeks before the first dose of study 
+therapy, and continuing daily until 3 weeks 
+after the last dose of study therapy.  
+Section 5.5 2.5 defines sufficient folic acid 
+supplementation. 
+Approximately 1 to 2 weeks before the first 
+dose of study therapy, and approximately 
+every 9 weeks until 3 weeks after the last 
+dose of study therapy.  Section 5.5.2.5 
+defines sufficient vitamin B12 
+supplementation. 
+Should be taken on the day before, the day 
+of, and the day after each dose of study 
+therapy.  Higher or additional doses are 
+permitted for reasons other than routine rash 
+prophylaxis (for example, antiemetic 
+prophylaxis). 
+
+Abbreviations:  im = intramuscular; iv = intravenous. 
+
+5.5.1.  Special Treatment Considerations 
+To maintain blinding of the study, patients in Treatment Arm B will receive 
+approximately 100 mL normal saline in place of pemetrexed infusion.  The IV bags 
+containing normal saline either with or without pemetrexed should be visually 
+indistinguishable for Treatment Arms A and B (see Section 5.6, Blinding).  All patients 
+will receive vitamin supplementation and prophylactic corticosteroids irrespective of 
+treatment assignment. 
+
+5.5.2.  Dose Adjustments or Delays for Subsequent Cycles 
+Any patient who requires a dose reduction of pemetrexed or cisplatin will continue to 
+receive the reduced dose for the remainder of the study.  Any patient who has 2 dose 
+reductions and experiences an adverse event that would require a third dose reduction 
+must be discontinued from study treatment. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 34 
+
+Treatment may be delayed for up to 42 days to allow a patient sufficient time for 
+recovery from a study-drug-related adverse event.  A patient who cannot be administered 
+study drug for 42 days from the time of last treatment must be discontinued from study 
+treatment. 
+
+5.5.2.1.  Hematologic Adverse Events 
+Dose adjustments at the start of a subsequent cycle of study treatment will be based on 
+nadir (lowest value) platelet and absolute neutrophil counts from the preceding cycle.  
+Prior to treatment, the ANC must be ≥1.5 × 109/L, and platelets must be ≥100 × 109/L.  
+Treatment should be delayed to allow sufficient time for recovery.  Upon recovery, 
+treatment should be administered according to the guidelines in Table JMHR.3 below. 
+
+Table JMHR.3. 
+
+Dose Adjustments for Pemetrexed/Cisplatin or Cisplatin 
+Based on Nadir Hematologic Values Prior to Next Dose  
+
+ 
+Platelets (× 109/L) 
+ 
+≥50 
+≥50 
+<50 
+<50 with bleeding  
+Any 
+Recurrence of CTCAE 
+Grade 3 or 4 after two dose 
+reductions 
+
+ 
+
+ 
+
+and 
+and 
+and 
+and 
+and 
+or 
+
+ 
+
+ANC (× 109/L) 
+
+Percentage of Previous 
+
+Dose (Both Drugs) 
+
+ 
+
+≥0.5 
+<0.5 
+Any 
+Any 
+
+<1.0 + fever of ≥38.5°C    
+
+ 
+
+100% 
+75% 
+75% 
+50% 
+75% 
+
+Recurrence of CTCAE Grade 3 
+or 4 after two dose reductions 
+
+Discontinue from 
+study treatment 
+
+Abbreviations:  ANC = absolute neutrophil count; CTCAE = Common Terminology Criteria for Adverse 
+
+Events (Version 3.0; NCI 2003). 
+
+ 
+
+5.5.2.2.  Nonhematologic Adverse Events 
+In general, for nonhematologic adverse events greater than or equal to CTCAE Grade 3, 
+treatment should be delayed until resolution to less than or equal to the patient’s baseline 
+value before resuming treatment.  Dose reductions at the start of the subsequent cycle 
+will be based on nonhematologic adverse events from the dose administered in the 
+preceding cycle. 
+
+Table JMHR.4 provides the relevant dose adjustments of pemetrexed and cisplatin for 
+nonhematologic adverse events. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 35 
+
+Table JMHR.4. 
+
+Dose Adjustments for Pemetrexed or Cisplatin 
+Nonhematologic Adverse Events 
+Prior to the Next Dose 
+
+ 
+CTCAE Grade 
+G4 nausea or vomiting 
+G3 aminotransferase elevations 
+G4 aminotransferase elevations 
+
+G3 or G4 mucositis 
+G3 or G4 diarrhea  
+   (or any grade requiring hospitalization) 
+Other G3 or G4 nonhematologic 
+CTCAEsa 
+Recurrence of G3 or G4 CTCAE after 
+two dose reductions 
+
+Percent of Previous Dose 
+
+Dose for Pemetrexed 
+
+Dose for Cisplatin 
+
+75% 
+75% 
+
+75% 
+75% 
+
+Discontinue from 
+study treatment 
+
+Discontinue from 
+study treatment 
+
+50% 
+
+75% 
+
+75% 
+
+100% 
+
+75% 
+
+75% 
+
+Discontinue from 
+study treatment 
+
+Discontinue from 
+study treatment 
+
+Abbreviations:  CTCAE = Common Terminology Criteria for Adverse Events (Version 3; NCI 2003); G3 = 
+
+Grade 3; G4 = Grade 4 
+
+a  If deemed appropriate by the treating physician. 
+ 
+
+5.5.2.3.  Creatinine Clearance 
+Creatinine clearance calculation will be based on the standard Cockcroft and Gault 
+formula (1976) or on measured glomerular filtration rate (GFR) as assayed by a 24-hour 
+urine sample or the appropriate radiolabeled method (51-CrEDTA or Tc99m-DTPA).  
+The method of CrCl assessment that is used at baseline should be used throughout the 
+study.  Enrollment and dosing decisions based on CrCl values may be made using either 
+local lab values (calculated using the acceptable assay methods [Protocol Attachment 
+JMHR.4]) or central laboratory values. 
+
+If the local CrCl value is used for enrollment and dosing decisions for a patient, the 
+serum creatinine must be assayed at the same local lab each time for that patient.  If a 
+local lab is being used to monitor a patient’s renal function, the central laboratory sample 
+still must be drawn for safety analysis. 
+
+Prior to study treatment (at baseline), creatinine clearance should be ≥ 45 mL/min.  At 
+subsequent cycles, if a patient’s CrCl value is <45 mL/min, the pemetrexed and cisplatin 
+doses should be delayed to allow the patient to recover from toxicity.  Table JMHR.5 
+provides the relevant dose adjustments of pemetrexed and cisplatin according to value of 
+creatinine clearance. 
+
+If the patient’s CrCl value has not returned to ≥ 45 mL/min within 42 days of the last 
+doses of pemetrexed and cisplatin administration, the patient must be discontinued from 
+study treatment unless continuation is approved by the Lilly clinical research physician 
+(CRP).  Safety analysis will be based on the central laboratory serum creatinine and 
+calculated CrCl values. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 36 
+
+Table JMHR.5. 
+
+Dose Adjustments for Creatinine Clearance 
+
+ 
+CrCl Value  
+≥45 mL/min 
+<45 mL/min 
+
+Percent of Previous Dose 
+
+Dose for Pemetrexed 
+
+Dose for Cisplatin 
+
+100% 
+
+Dose delay a 
+
+100% 
+
+Dose delay a 
+
+Abbreviation:  CrCl = creatinine clearance. 
+a  Delay treatment for up to 2 cycles (42 days).  If, after 42 days of the last doses of administration, the 
+
+patient’s creatinine clearance remains <45 mL/min, discontinued patient from study treatment. 
+
+5.5.2.4.  Dose Adjustments for Neurosensory Adverse Events 
+Table JMHR.6 documents the relevant dose adjustments in case of neurosensory adverse 
+events. 
+
+Table JMHR.6. 
+
+Dose Adjustments for Neurosensory Adverse Events 
+
+ 
+CTCAE Grade 
+0 to 1  
+2 
+
+3 to 4 
+
+Percent of Previous Dose 
+
+Dose for Pemetrexed 
+
+Dose for Cisplatin 
+
+100% 
+100% 
+
+Discontinue from 
+study treatment 
+
+100% 
+50% 
+
+Discontinue from 
+study treatment 
+
+Abbreviation:  CTCAE = Common Terminology Criteria for Adverse Events (NCI 2003). 
+ 
+
+5.5.2.5.  Treatment Delays Due to Insufficient Folic Acid or Vitamin B12 
+
+Supplementation 
+
+The first dose of study drug should be delayed until the patient has taken folic acid for at 
+least 5 of the 7 days before Day 1 of Cycle 1 and until the vitamin B12 injection has been 
+administered.  Subsequent doses should be delayed until the patient has taken folic acid 
+for at least 14 of the 21 days before Day 1 of the cycle. 
+
+5.6.  Blinding 
+Study JMHR is a randomized, double-blind study.  Treatment Arm A is defined as 
+pemetrexed 500 mg/m2 plus cisplatin 75 mg/m2, both administered intravenously on 
+Day 1 of a 21-day cycle.  Treatment Arm B is defined as placebo plus cisplatin 
+75 mg/m2, both administered intravenously on Day 1 of a 21-day cycle.  In order to 
+maintain blinding of the study, patients randomized to Treatment Arm B will receive 
+approximately 100 mL of normal saline in place of pemetrexed infusion.  Infusion bags 
+containing saline with or without pemetrexed should be visually indistinguishable for 
+Treatment Arms A and B.  The unblinded pharmacist or designee at each site will prepare 
+the study drugs. 
+
+If, in the investigator’s opinion, knowledge of treatment assignment would alter 
+management of SAEs, the investigator or designee may be unblinded through the IVRS 
+to obtain the patient treatment assignment.  This option may be used only if the patient's 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 37 
+
+well-being requires that medical staff have knowledge of the patient’s treatment 
+assignment.  All calls resulting in an unblinding event are recorded and reported by the 
+IVRS.  If the IVRS is inoperable, the investigator or designee must contact the unblinded 
+pharmacist to obtain the patient’s treatment assignment. 
+
+The investigator should make every effort to contact the Lilly CRP prior to unblinding a 
+patient's treatment assignment.  If a patient’s treatment assignment is unblinded, Lilly 
+must be notified immediately by telephone.  The investigator or designee must document 
+any unblinding event, and this documentation will include the patient’s number, the date, 
+and the reason for unblinding. 
+
+While every effort will be made to blind both the patient and the investigator to the 
+identity of the treatment, the inadvertent unblinding of a patient may occur.  This 
+unblinding will not be sufficient cause (in and of itself) for that patient to be discontinued 
+from the study treatment or excluded from any safety or efficacy analysis. 
+
+Efficacy information will not be shared between sites until the study is completed.  
+Treatment assignment will be scrambled in the reporting database until database lock for 
+data analysis.  This will ensure unblinded aggregate efficacy results are not available until 
+the time of the data analysis.  There is a planned interim analysis for futility.  Only the 
+Statistical Analysis Center (SAC) members and the independent Data Monitoring Board 
+(DMB) will have access to unblinded data, as necessary (see Section 8.2.11 for details 
+about the interim analysis). 
+
+5.7.  Concomitant Therapy 
+Patients are allowed to receive full supportive-care therapies during the study, including 
+hormone-replacement therapy.  No other anticancer therapy, immunotherapy (for 
+example, trastuzumab), hormonal cancer therapy, or experimental medications will be 
+permitted while the patients are participating in this study.  However, localized 
+radiotherapy is permitted for palliation of painful lesions at the investigator’s discretion, 
+provided the lesions do not represent PD.  Any PD requiring other forms of specific 
+antitumor therapy will be cause for discontinuation of study therapy.  Section 5.7.1 
+through Section 5.7.6 provide a discussion of the concomitant therapies that warrant 
+special attention. 
+
+5.7.1.  Colony Stimulating Factors 
+Routine use of colony stimulating factor (CSF) is not permitted during this study.  The 
+American Society of Clinical Oncology (ASCO) guidelines for use of CSF should be 
+followed (Ozer et al. 2000).  Granulocyte colony-stimulating factor (G-CSF) may be used 
+for patients who have ANC <0.5 × 109/L, neutropenic fever, or documented infections 
+while neutropenic.  Duration of uncomplicated neutropenia before initiation of G-CSF 
+treatment is left to the investigator’s discretion.  G-CSF must be discontinued at least 24 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 38 
+
+hours prior to the start of the next cycle of chemotherapy.  Use of erythropoietin is 
+allowed. 
+
+5.7.2.  Nonsteroidal Anti-Inflammatory Drugs 
+Patients should not take NSAIDs 2 days before, the day of, and 2 days after pemetrexed 
+(or placebo) administration.  If a patient is taking an NSAID with a long half-life (for 
+example, naproxen, piroxicam, diflunisal, or nabumetone), it should not be taken 5 days 
+before, the day of, or 2 days after receiving pemetrexed (or placebo). 
+
+Concurrent use of aspirin is allowed, up to a maximum dose of 1.3 grams per day. 
+
+5.7.3.  Leucovorin 
+Because folic acid and vitamin B12 supplementation has reduced the number of episodes 
+of CTCAE Grade 3 and Grade 4 adverse events associated with pemetrexed therapy, the 
+sponsor does not anticipate the need for leucovorin as a rescue agent.  However, this 
+section provides information on leucovorin rescue if clinically needed.  The protocol 
+allows leucovorin rescue in any of the following circumstances: 
+•  CTCAE Grade 4 leukopenia lasting longer than 3 days 
+•  CTCAE Grade 4 neutropenia lasting longer than 3 days 
+• 
+• 
+
+immediately for CTCAE Grade 4 thrombocytopenia 
+
+immediately for bleeding associated with CTCAE Grade 3 
+thrombocytopenia 
+
+• 
+
+immediately for CTCAE Grade 3 or CTCAE Grade 4 mucositis. 
+
+The following doses and schedules are recommended for intravenous (iv) use: 
+
+• 
+• 
+
+leucovorin, 100 mg/m2 iv once; followed by 
+
+leucovorin, 50 mg/m2 iv every 6 hours for 8 days. 
+
+The investigator also may use appropriate doses of the oral formulation at his or her 
+discretion. 
+
+5.7.4.  Therapy for Diarrhea 
+In the event of diarrhea, the following supportive measures are allowed:  hydration, 
+octreotide, and antidiarrheals. 
+
+If diarrhea is severe (requiring intravenous rehydration) and/or associated with fever or 
+severe (Grade 3 or 4) neutropenia, broad-spectrum antibiotics must be prescribed.  
+Patients with severe diarrhea or any diarrhea associated with severe nausea or vomiting 
+must be hospitalized for intravenous hydration and correction of electrolyte imbalances.  
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 39 
+
+5.7.5.  Therapy for Febrile Neutropenia 
+Patients experiencing febrile neutropenia, especially with diarrhea or dyspnea, should be 
+managed in a hospital setting according to standard procedures, with the urgent initiation 
+of intravenous antibiotic therapy. 
+
+5.7.6.  Clinically Significant Effusions 
+If a patient develops clinically significant pleural or peritoneal effusions (on the basis of 
+symptoms or clinical examination) prior to the first dose of study drug or during therapy, 
+draining the effusion prior to dosing is required.  However, if the investigator determines 
+that the effusion represents disease progression, the patient should be discontinued from 
+study treatment. 
+
+5.8.  Treatment Compliance 
+Both pemetrexed and cisplatin will be intravenously administered only at the 
+investigational sites by authorized study personnel.  Vitamin B12 supplementation will 
+also be administered as an intramuscular injection at the investigational sites.  As a result, 
+patient compliance is ensured.  In the period before the first dose of study therapy and 
+during therapy, compliance with folic acid supplementation is required and should be 
+documented by the investigative sites.  Section 5.5.2.5 provides definitions of sufficient 
+folic acid and vitamin B12 therapy. 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 40 
+
+6.  Efficacy, Health Outcome/Quality of Life Measures, 
+
+and Safety Evaluations 
+
+Study procedures and their timing (including tolerance limits for timing) are summarized 
+in the Study Schedule, Protocol Attachment JMHR.1.  Sites will assess tumor response in 
+patients by using Response Evaluation Criteria In Solid Tumors (RECIST) (Protocol 
+Attachment JMHR.5; Therasse et al. 2000). 
+
+6.1.  Efficacy Measures 
+
+6.1.1.  Timing of Measurements 
+
+6.1.1.1.  Baseline and Study Treatment Periods 
+Within 4 weeks before first dose of study treatment, baseline tumor measurement(s) will 
+be performed on each patient.  Computed tomography (CT) scans (including spiral CT 
+scans) and magnetic resonance imaging (MRI) are the preferred methods of 
+measurement, but chest x-ray is acceptable if the lesion(s) is/are clearly defined and 
+surrounded by aerated lung.  Ultrasound and PET scans will not be permitted as a method 
+of lesion measurements.  Within 2 weeks prior to the first dose of study treatment, 
+physical examination will be performed for baseline measurement of palpable tumor 
+lesions. 
+
+The same method used at baseline must be used consistently for all tumor assessments 
+and will be repeated every 6 weeks (± 2 weeks) except in the event of a response.  
+Confirmation of response must occur at least 28 days from the first evidence of 
+response.  Thereafter, a responding patient will be followed every other cycle per the 
+Study Schedule (Protocol Attachment JMHR.1).  The sponsor will collect and store all 
+tumor measurement images on all patients throughout the study. 
+
+6.1.1.2.  Postdiscontinuation Period 
+Patients in both treatment arms will continue treatment until they require discontinuation 
+for one of the reasons cited in Section 4.3 of this document.  Each enrolled patient will 
+have a follow-up period when the treatment period is completed. 
+
+Patients who discontinue study treatment for reasons other than objective disease 
+progression will be followed at regular intervals for tumor measurement, by the same 
+method used at baseline and during the study treatment period, every 6 weeks (±2 weeks) 
+until objective disease progression.  For patients who are considered unconfirmed tumor 
+responders and discontinue study treatment for reasons other than disease progression, a 
+confirmation of tumor response must be documented according to the RECIST guidelines 
+(Protocol Attachment JMHR.5; Therasse et al. 2000).  Once the patient has disease 
+progression, the patient will be followed every 90 days (±14 days). 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 41 
+
+The date of first documented disease progression must be recorded on the case report 
+form (CRF) even if it occurs after the patient has started a new therapy.  
+Postdiscontinuation data to be collected will include:  the date of disease progression; 
+documentation of any anticancer treatment patient has received including the dates of any 
+postdiscontinuation systemic therapy, radiotherapy, or surgical intervention; and the date 
+of death.  Patients will be followed until death or study closure (Section 8.2.12). 
+
+6.1.2.  Efficacy Criteria for Tumor Response 
+If this Phase 3 study is selected to support a new drug application, or if Lilly requires an 
+independent review for any other reason, the response status of all patients may be 
+reviewed by an independent panel of clinicians and may be reviewed by Lilly.  In case of 
+a discrepancy between the assessment of the independent panel and that of the 
+investigator, the independent panel’s assessment will take precedence.  Tumor responses 
+will be measured and recorded by using the RECIST guidelines (Protocol Attachment 
+JMHR.5; Therasse et al. 2000). 
+
+6.1.2.1.  Best Response 
+Best response is determined from the sequence of responses assessed.  For complete 
+response (CR) or partial response (PR), best response must be confirmed: a second 
+assessment must be performed at least 28 days (and recommended within 42 days) after 
+the first documentation of response.  Two objective status determinations of CR before 
+progression are required for a best response of CR.  Two determinations of PR or better 
+before progression, but not qualifying for a CR, are required for a best response of PR.  
+Best response of stable disease (SD) is defined as disease that does not meet the criteria 
+for CR, PR or PD and has been evaluated at least once and at least 6 weeks after baseline 
+assessment. 
+
+6.1.3.  Definition of Efficacy Measures 
+Regarding the time-to-event measures defined below, study enrollment refers to the date 
+of randomization. 
+
+The following definitions for efficacy measures will apply: 
+
+•  Overall survival (OS) duration is defined as the time from the date of 
+
+randomization to the date of death from any cause.  For each patient who 
+is not known to have died as of the data-inclusion cut-off date, OS 
+duration will be censored at the date of the patient’s last contact prior to 
+that cut-off date. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 42 
+
+•  Objective progression-free survival (PFS) is defined as the time from 
+
+the date of randomization to the date of objectively determined PD or 
+death from any cause, whichever comes first.  For patients who are not 
+known to have died as of the data-inclusion cut-off date, and who do not 
+have PD, PFS will be censored at the date of the last objective 
+progression-free disease assessment prior to the date of any subsequent 
+systemic anticancer therapy.  
+
+•  Overall response rate (ORR) is defined as the proportion of patients 
+
+whose best study response is CR or PR.  The response rate is calculated as 
+the number of responders (best study response recorded as CR or PR) 
+divided by the number of randomized patients. 
+
+•  Duration of response (DoR) is defined as the time from the first 
+
+observation of CR or PR to the first observation of PD or death from any 
+cause.  A response is defined as an objective status of CR or PR.  A 
+responder is defined as any patient who exhibits a CR or PR.  For patients 
+who are not known to have died as of the data-inclusion cut-off date and 
+who do not have PD, DoR will be censored at the date of the last objective 
+progression-free disease assessment prior to the date of any subsequent 
+systemic anticancer therapy. 
+
+6.2.  Health Outcome/Quality-of-Life Measures 
+The multiple burdens of cancer and the effects of anticancer treatment can have a 
+profound impact on patients’ health-related quality of life (HRQoL).  The Functional 
+Assessment of Cancer Therapy - Head and Neck Cancer (FACT-H&N) will be used in 
+this study to assess and compare changes in HRQoL between the 2 treatment arms. 
+
+The FACT H&N Version 4 is a reliable and valid instrument to assess HRQoL in patients 
+with HNC (List et al. 1996; see Protocol Attachment JMHR.6).  The instrument consists 
+of 39 items with 5-point rating scales where 0 equals “not at all” and 4 equals “very 
+much.”  It is organized into 5 sections where physical, social/family, and functional 
+subscales include 7 items, emotional subscale includes 6 items, and H&N subscale 
+includes 12 items. 
+
+The FACT-H&N scores will be calculated based on scoring criteria proposed by the 
+developer (Cella 2004).  Results of the FACT-H&N can be reported as the scores for 5 
+individual subscales, a FACT-General total score (sum of physical, social/family, 
+emotional, and functional well-being subscales), a Trial Outcome Index (TOI) (sum of 
+physical well-being, functional well-being, and FACT H&N subscales), and a Total 
+FACT-H&N score (sum of FACT-General total score and FACT H&N score).  For all 
+reports, a higher score represents a better quality of life. 
+
+Both time to worsening (TTW) and changes from baseline in dimensions of HRQoL 
+using FACT-H&N will be compared between treatment arms.  Minimally important 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 43 
+
+difference (MID) for change in scores will be used to determine meaningful differences 
+in patients’ FACT-H&N scores (Yost and Eton 2005). 
+
+Trial Outcome Index (TOI) is considered to be a valuable summary measure of physical 
+well-being, functional well-being, and disease-specific symptoms (Yost and Eton 2005).  
+In patients with recurrent or metastatic HNC, the patients’ well-being (including 
+functional/physical abilities and disease-specific symptoms) will generally continue to 
+worsen as disease progresses.  Time to worsening (TTW) in TOI is defined as a decrease 
+in the TOI score that is considered at least a MID, as compared to the patient’s baseline 
+score.  The upper range of MID points (based on the article by Yost and Eton) will be 
+used as a guide to determine the meaningful decrease for individual patient’s score.  Time 
+to worsening is measured from the date of randomization to the first date of a worsening 
+in the TOI (as defined by a decrease from baseline in TOI that is at least the MID) or of 
+death from any cause.  For patients who receive any subsequent systemic anticancer 
+therapy prior to an observation of worsening, TTW will be censored at the date of the last 
+worsening-free assessment prior to the subsequent systemic anticancer therapy.  For 
+patients not known to have died or have an observation of worsening as of the data cut-
+off date, TTW will be censored at the date of the last worsening-free assessment.  Time to 
+worsening in other dimensions of FACT-H&N will be measured in a similar fashion. 
+
+The lower range of MID (based on the article by Yost and Eton 2005) will be used for 
+interpreting the group mean change and the upper limit will be used for interpreting the 
+change in an individual patient’s score. 
+
+Patients will complete the FACT-H&N prior to randomization, prior to infusion at every 
+cycle of therapy (except Cycle 1), a  study-treatment discontinuation, and at 30-day 
+postdiscontinuation follow up   Additionally, patients will complete the FACT-H&N 
+every 6 weeks after the 30 day postdiscontinuation period until disease progression (refer 
+to the Study Schedule in Protocol Attachment JMHR.1 for timing of assessments). 
+
+During the treatment phase of the study, these assessments should be completed at the 
+beginning of office visits, before any extensive contact and consultation with the 
+clinician/study investigator.  Consultation with the clinician may bias perceptions about 
+HRQoL and symptoms and thus affect assessments.  During the treatment period, patients 
+will complete questionnaires prior to administration of subsequent cycles of study drug.  
+If study drug administration is delayed, it is not necessary to repeat assessments. 
+
+The FACT H&N will be completed by the patient.  Only patients with adequate literacy 
+and for whom there is a validated translation in the language in which the patient is fluent 
+will be asked to complete any self-administered questionnaires. 
+
+Medical resource utilization data will be collected at each cycle and is largely derived 
+from clinical data routinely collected through the CRFs.  These data include length of 
+hospitalization, concomitant medications, and transfusions.  Medical resource utilization 
+data will be analyzed for exploratory purposes. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 44 
+
+6.3.  Safety Evaluations 
+Investigators are responsible for monitoring the safety of patients entered in this study 
+and for alerting Lilly or its designee to any event that seems unusual, even if the event 
+may be considered an unanticipated benefit to the patient. 
+
+The investigator is responsible for appropriate medical care of patients during the study. 
+
+The investigator remains responsible for following, through an appropriate healthcare 
+option, adverse events that are serious or that caused the patient to discontinue before 
+completing the study.  The patient should be followed until the event is resolved or 
+explained.  Frequency of follow-up evaluation is left to the discretion of the investigator. 
+
+6.3.1.  Adverse Events 
+
+6.3.1.1.  Clinical Adverse Events 
+Lilly has standards for reporting adverse events that are to be followed regardless of 
+applicable regulatory requirements that may be less stringent   For purposes of collecting 
+and evaluating all information about Lilly drugs or drug delivery systems used in clinical 
+trials, a clinical trial adverse event is any untoward medical occurrence in a patient 
+administered a pharmaceutical product, without regard to the possibility of a causal 
+relationship. 
+
+Lack of drug effect is not an adverse event in clinical trials because the purpose of the 
+clinical trial is to establish drug effect  
+
+Cases of pregnancy that occur during maternal or paternal exposures to study drug or 
+drug delivery system should be reported for tracking purposes.  Data on fetal outcome 
+and breast-feeding are collected for regulatory reporting and drug safety evaluation. 
+
+Study site personnel will record the occurrence and nature of each patient’s preexisting 
+conditions. 
+
+During the study, site personnel will record any change in the condition(s) and the 
+occurrence and nature of any adverse events. 
+
+If a patient never receives study drug, but experiences an adverse event after the 
+informed consent document (ICD) is signed, ONLY events the investigator believes may 
+have been caused by a protocol procedure will be reported to Lilly or its designee via the 
+CRF. 
+
+All adverse events occurring after enrollment must be reported to Lilly or its designee by 
+CRF. 
+
+Investigators will be instructed to report to Lilly or its designee their assessment of the 
+potential relatedness of each adverse event to protocol procedure, studied disease state, 
+study drug and/or drug delivery system via CRF. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 45 
+
+In addition, study site personnel must report to Lilly or its designee immediately any 
+SAEs or any instance where the investigator unblinds a patient's treatment group 
+assignment for any other reason.  Remember that all adverse events must be reported by 
+CRF, even if a telephone report has been made. 
+
+If a patient's dosage is reduced or treatment is discontinued as a result of an adverse 
+event, study site personnel must clearly report to Lilly or its designee via CRF the 
+circumstances and data leading to any dosage reduction or discontinuation of treatment. 
+
+Events leading to the clinical outcome of death from PD will be included as part of the 
+safety and efficacy analyses for this study and will not be recorded as adverse events 
+unless the investigator believes that the events may have been caused by the study drug. 
+
+In cases where the investigator notices an unanticipated benefit to the patient, study site 
+personnel should report “unexpected benefit” with the actual event term to Lilly or its 
+designee via CRF (for example, the complete actual term would be “unexpected 
+benefit—sleeping longer”). 
+
+Thirty-day postdiscontinuation follow-up:  Each patient will have a 30-day 
+postdiscontinuation follow-up evaluation.  This follow-up period is defined as a period of 
+approximately 30 days commencing with the patient discontinuation from the treatment 
+portion of the study, rather than with patient’s last dose of the study drug.  The start date 
+of the first postdiscontinuation follow-up period should equal the date of patient 
+discontinuation.  During this period, all ongoing or new adverse events, regardless of 
+relatedness to study treatment or protocol procedure, must be evaluated and recorded on 
+the CRF.  Any event deemed serious within the 30-day follow-up period, regardless of 
+relatedness to study treatment or protocol procedure, must be reported immediately to 
+Lilly or its designee and recorded on the CRF (refer to Section 6.3.1.3). 
+
+Long-term follow-up:  After the 30-day postdiscontinuation follow-up, only adverse 
+events thought to be related to study treatment or protocol procedures and deemed serious 
+should be documented on the CRF.  Ongoing adverse events related to study treatment or 
+protocol procedures will be followed until their remission or stabilization.  Serious 
+adverse events determined to be related to study therapy also should be reported 
+immediately to Lilly or its designee via the designated transmission method (refer to 
+Section 6.3.1.3). 
+
+6.3.1.2.  Serious Adverse Events 
+Study site personnel must notify Lilly or its designee immediately, by the designated 
+transmission method, any adverse event from the study that results in one of the 
+following outcomes, or is significant for any other reason: 
+
+•  death (excluding death due to progression of study disease) 
+• 
+•  a life-threatening experience (that is, immediate risk of dying) 
+
+initial or prolonged inpatient hospitalization 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 46 
+
+•  persistent or significant disability/incapacity 
+•  congenital anomaly/birth defect. 
+
+Any SAEs occurring prior to enrollment that the investigator believes may have been 
+caused by a protocol procedure must be reported immediately to Lilly or its designee and 
+recorded on the case report form. 
+
+Study-specific clinical outcomes of death from PD should be reported as an SAE only if 
+the investigator deems them related to use of the study drug. 
+
+6.3.1.3.  Postdiscontinuation Safety Follow-Up  
+For all patients, a follow-up visit will occur approximately 30 days after discontinuation 
+from study treatment.  Evaluation at the 30-day postdiscontinuation visit will include: 
+
+•  chemistry and hematology assessments 
+•  CTCAE ratings (if delayed adverse events related to study drugs are 
+
+observed, the patient must be assessed approximately every 30 days until 
+adverse events resolve or stabilize) 
+
+• 
+
+report of postdiscontinuation adverse events, including the following: 
+
+○  any adverse events, regardless of relatedness to study therapy, that 
+
+occurred after discontinuation of study treatment 
+
+○  outcome of any residual adverse events at the time of 
+
+discontinuation of treatment 
+
+○  documentation of date of death, if death has occurred 
+
+○  key concomitant medications 
+
+○  hospitalizations 
+
+○ 
+
+transfusions. 
+
+After the 30-day postdiscontinuation follow up, only SAEs thought to be related to study 
+treatment or protocol procedures should be reported immediately to Lilly or its designee 
+via the designated transmission method and recorded on the CRF.  For these events, the 
+patient must be followed every 30 days (until the event has resolved, stabilized, or until 
+the initiation of a new systemic anticancer therapy). 
+
+6.3.2.  Laboratory Tests  
+Please refer to Protocol Attachment JMHR.2 for the listing of laboratory tests to be 
+performed for this study.  Refer to the Study Schedule (Protocol Attachment JMHR.1) for 
+the timing of laboratory tests and clinical procedures.  Laboratory analysis results that 
+would unblind the study will not be reported to investigational sites or other blinded 
+personnel until the study has been unblinded. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 47 
+
+6.3.2.1.  Limited Use Samples for Standard Laboratory Testing  
+Blood samples will be collected at the times specified in the Study Schedule (Protocol 
+Attachment JMHR.1).  Standard laboratory tests including chemistry and hematology 
+panels will be performed.  A serum or urine pregnancy test (if applicable) will be 
+performed at the investigative site or at a local laboratory.  Other clinical laboratory tests 
+may be analyzed by a central laboratory.  Protocol Attachment JMHR.2 lists the specific 
+tests that will be performed for the study. 
+
+Samples collected for specified laboratory tests will be destroyed within 60 days of 
+receipt of confirmed test results.  Certain samples may be retained for a longer period of 
+time, if necessary, to comply with applicable laws, regulations, or international laboratory 
+certification standards. 
+
+6.3.2.2.  Samples for Translational Research 
+As part of Lilly’s ongoing efforts to understand the relationship between cancer, genetics, 
+and response to therapy, this study will analyze biomarkers relevant to pemetrexed and 
+cisplatin and to the disease state.  The study will also analyze the correlation between 
+biomarkers and clinical outcome.  All sites are required to participate in this translational 
+research, with the exception of sites where local regulations prohibit or limit this activity.  
+Patient participation in this portion of the study is optional. 
+
+Formalin-fixed, paraffin-embedded (FFPE) tissue will be collected from the tumor 
+sample taken to make the initial histologic diagnosis of cancer or from the biopsy for 
+recurrent disease based on availability.  The tissue will be used for research aimed at 
+identifying markers for predicting clinical outcome to treatment with pemetrexed and 
+cisplatin. 
+
+Patients will not receive the translational research results at end of study.  Tissue samples 
+may be collected for gene expression using microarrays and/or immunohistochemical 
+(IHC) analyses, such as: 
+
+• 
+
+• 
+
+• 
+
+thymidylate synthase (TS):  TS is a direct enzyme target of pemetrexed 
+and plays an essential role in DNA synthesis.  Evidence suggests that high 
+levels of TS may represent a resistance state to anti-folates 
+
+folate receptor-alpha (FR-α):  FR-α is a membrane transporter of folates 
+and may contribute to concentration of pemetrexed into the tumor cell 
+
+folylpolyglutamyl synthetase (FPGS):  FPGS is an enzyme responsible for 
+polyglutamation of pemetrexed.  This results in higher affinity binding of 
+pemetrexed to both the folate-dependent enzymes TS and glycinamide 
+ribonucleotide formyltransferase (GARFT) 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 48 
+
+•  excision-repair cross-complementing rodent repair deficiency 1 (ERCC1):  
+
+ERCC1 is a DNA repair enzyme thought to play a role in sensitivity to 
+platinum agents.  High ERCC1 levels may represent an ability for the 
+tumor to repair cleavage induced by platinum agents and thus, a marker of 
+resistance. 
+
+The information from the expression profiles generated on a candidate gene level or by 
+Affymetrix gene chips or equivalent, for example, may be used to correlate clinical 
+outcome with potential changes in RNA/DNA levels.  Other markers of interest may be 
+examined, based on evolving information at the time the laboratory assessments are done, 
+given adequate material.  Taken collectively, these evaluations may assist in 
+understanding the biology of head and neck cancer in this group of patients and their 
+response to therapy. 
+
+6.3.2.2.1.  Stored Samples 
+Patients will have the option to participate in a portion of this study that involves storage 
+of identifiable tissue samples (for example, trial patient numbers) for possible future 
+research. 
+
+Stored samples will retain the patient identifier and therefore will not be stored 
+indefinitely.  Samples will be stored in the US for a maximum of 5 years after the last 
+patient visit for the study; any sample remaining at that time will be destroyed. 
+
+6.3.2.2.2.  Collection Procedures 
+Samples will be shipped by the central laboratory to the designated research laboratories 
+that are associated with Lilly and are located in the US. 
+
+Tumor tissue samples should be prepared and shipped for analysis within 4 weeks of 
+randomization. 
+
+All samples will be labeled with the same identification code assigned to each patient in 
+the clinical study.  This code will be used in lieu of the patient’s name to protect the 
+patient’s identity. 
+
+Samples must be prepared in accordance with the instructions on the lab requisition.  At 
+baseline visit, before the patient receives study treatment, the following samples will be 
+collected: 
+
+•  pretreatment FFPE tumor tissue sample taken from the original diagnostic 
+
+tumor specimen or from the biopsy at recurrent disease. 
+
+6.3.3.  Other Safety Measures 
+Other safety measures include physical examinations and adverse event ratings.  Patients 
+will be rated for adverse events before each cycle using the CTCAE grade (Version 3.0, 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 49 
+
+NCI 2003).  See the Cancer Therapy Evaluation Program Common Terminology Criteria 
+(Version 3.0; NCI 2003), supplied with the CRFs. 
+
+6.3.4.  Safety Monitoring 
+The Lilly CRP will monitor safety data throughout the course of the study.  The Lilly 
+CRP will review SAEs within time frames mandated by company procedures and will 
+review trends, laboratory analyses, and adverse events at periodic intervals. 
+
+For the purpose of the study, all deaths and SAE reports will be reviewed in a blinded 
+fashion by Lilly during the clinical trial.  These reports will be reviewed to ensure 
+completeness and accuracy but will not be unblinded to Lilly during the clinical trial.  If a 
+death or SAEs occurs, only the Lilly Global Product Safety (GPS) associate will be 
+nblended for regulatory reporting and safety monitoring purposes.  These measures will 
+preserve the integrity of the data collected during the clinical trial and minimize any 
+potential for bias while providing for appropriate safety monitoring. 
+
+6.3.5.  Complaint Handling 
+Lilly collects complaints on all study drugs and drug delivery systems used in clinical 
+trials in order to ensure the safety of study par icipants, monitor quality, and make 
+product improvements. 
+
+The investigator or his/her designee is responsible for handling the following aspects of 
+the complaint process in accordance with the instructions provided for the study: 
+
+recording a complete description of the product complaint reported 
+
+• 
+•  completing a formal complaint report using the study specific complaint 
+
+forms provided for this purpose 
+
+•  determining when a drug/drug delivery system is to be returned. 
+
+6.4.  Appropriateness of Measurements 
+All efficacy and safety assessments used in this study are appropriate for a Phase 3 
+oncology study. 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 50 
+
+7.  Data Quality Assurance 
+
+To ensure accurate, complete, and reliable data, Lilly or its representatives will do the 
+following: 
+
+•  provide instructional material to the study sites, as appropriate 
+• 
+
+sponsor a start-up training session to instruct the investigators and study 
+coordinators.  This session will give instruction on the protocol, the 
+completion of the CRFs, and study procedures 
+
+•  make periodic visits to the study site 
+•  be available for consultation and stay in contact with the study site 
+
+personnel by mail, telephone, and/or fax 
+
+• 
+
+review and evaluate CRF data and use standard computer edits to detect 
+errors in data collection 
+
+•  verify the quality of the data. 
+
+In addition, Lilly or its representatives may periodically check a sample of the patient 
+data recorded against source documents at the study site.  The study may be audited by 
+Lilly Medical Quality Assurance (MQA) or its representatives, and/or regulatory 
+agencies at any time.  Investigators will be given notice before an audit occurs. 
+
+To ensure the safety of participants in the study and to ensure accurate, complete, and 
+reliable data, the investigator will keep records of laboratory tests, clinical notes, and 
+patient medical records in the patient files as original source documents for the study.  If 
+requested, the investigator will provide the sponsor, applicable regulatory agencies, and 
+applicable ethical review boards with direct access to original source documents. 
+
+7.1.  Data Entry and Computerized Systems 
+The CRF data will be encoded and stored in a comprehensive computerized clinical 
+research system intended for collecting, managing, and reviewing clinical study data. 
+
+Central laboratory data will be stored electronically in the central laboratory’s database 
+system.  Data subsequently will be transferred from the contract laboratory to the Lilly 
+generic laboratories system. 
+
+Any data for which the CRF will serve as the source document will be identified and 
+documented by each site in that site’s study file. 
+
+Data from complaint forms submitted to Lilly will be encoded and stored in the global 
+complaint management system. 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 51 
+
+8.  Sample Size and Statistical Methods 
+
+8.1.  Determination of Sample Size 
+The study will enroll approximately 790 patients in 1:1 randomization (395 patients in 
+Treatment Arm A and 395 patients in Treatment Arm B), and the sponsor will perform 
+the final analysis after 632 deaths have occurred (that is, 20% censoring rate) to compare 
+OS in patients treated with pemetrexed plus cisplatin versus patients treated with cisplatin 
+alone.  Based on results from the Burtness trial (refer to Table JMHR.1), the median OS 
+with single-agent cisplatin was estimated to be 8 months (Burtness et al. 2005).  This 
+study is powered to detect a 25% improvement in OS when pemetrexed is combined with 
+cisplatin by showing a median OS of 10 months with pemetrexed plus cisplatin.  
+Assuming that the true survival hazard ratio (HR) of pemetrexed plus cisplatin to 
+cisplatin alone is 0.80, the study has 80% power to achieve statistical significance at a 
+two-sided level of 0.05. 
+ 
+An interim analysis for futility is planned for this study.  The interim analysis will be 
+performed to assess safety and efficacy in order to determine whether it is scientifically 
+and ethically appropriate to continue enrollment   The futility analysis will be based on 
+PFS as the OS data is not anticipated to mature at the time of interim analysis.  The 
+interim analysis will be conducted when approximately 300 patients have experienced 
+disease progression or have died.  All available data (from the randomized patients) prior 
+to this cut-off date will be included in the interim analysis.  Patient enrollment will 
+continue during the interim analysis (See Section 8.2.11 regarding details about the 
+interim analysis).  Because the interim analysis is strictly for futility, the test for positive 
+efficacy should not and will not be performed, and the trial can only be stopped due to 
+lack of efficacy.  Thus, the type-I error for the final analysis of PFS will not be adjusted. 
+
+8.2.  Statistical and Analytical Plans 
+
+8.2.1.  General Considerations 
+Statistical analysis of this study will be the responsibility of the Eli Lilly and Company.  
+The interpretation of study results will be the responsibility of the Lilly CRP and the 
+statistician. The Lilly CRP and the statistician will also be responsible for the appropriate 
+conduct of an internal review process for both the final study report and any study-related 
+material to be authorized for publication. 
+
+Any change to the data analysis methods described in the protocol will require an 
+amendment ONLY if it changes a principal feature of the protocol.  Before any 
+unblinding of the aggregate database, minor modifications or clarifications to the data 
+analysis methods will be described and justified in the statistical analysis plan. Any 
+retrospective or exploratory analyses not defined by the protocol or the statistical analysis 
+plan will be explained in the clinical study report. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version All tests of treatment effects will be conducted at a two-sided alpha level of 0.05, all tests 
+of interactions will be conducted at a two-sided level of 0.10, and all confidence intervals 
+will be given at a two-sided 95% level, unless otherwise stated. 
+
+Page 52 
+
+8.2.1.1.  Qualifications for Efficacy Analysis 
+The following are the qualifications for the analyses of efficacy parameters: 
+
+•  OS, PFS, and ORR:  All randomized patients (intention-to-treat [ITT] 
+
+population). 
+
+•  DoR:  All randomized patients with a confirmed best response of CR or 
+
+PR. 
+
+8.2.1.2.  Qualifications for Health Outcome/Quality-of-Life Analysis 
+The following are qualifications for the analyses of health outcome analyses: 
+
+•  All randomized patients with a baseline FACT-H&N assessment will be 
+
+included in the analysis of TTW. 
+
+•  All randomized patients with a baseline FACT-H&N assessment and at 
+least 1 post-randomization assessment will be included in the analysis of 
+change from baseline. 
+
+8.2.1.3.  Qualifications for Safety Analysis 
+All randomized patients who receive at least 1 dose of study drug (pemetrexed, cisplatin, 
+or placebo) will be evaluated for safety. 
+
+8.2.2.  Patient Disposition 
+A detailed description of patient disposition will be provided.  It will include: 
+
+•  A definition of patient qualification 
+•  A summary of data on patient discontinuation 
+•  A summary of data on overall qualification status of all patients 
+•  An account of all identified protocol violations. 
+
+All patients entered in the study will be accounted for in the summation.  The number of 
+patients who do not qualify for analysis, who die, or who discontinue before treatment 
+begins will be specified.  
+
+8.2.3.  Patient Characteristics 
+Patient characteristics will include a summary of the following: 
+
+•  patient demographics 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 53 
+
+•  baseline disease characteristics 
+•  pre-existing conditions 
+•  prior therapies 
+•  concomitant drugs. 
+
+Other patient characteristics will be summarized as deemed appropriate. 
+
+8.2.4.  Concomitant Therapy 
+Concomitant medications will be summarized for all randomized patients per treatment 
+arm. 
+
+8.2.5.  Treatment Compliance 
+Only authorized study personnel at the investigative sites will administer pemetrexed and 
+cisplatin.  Study personnel also will administer vitamin B12 as an intramuscular injection 
+at the investigative sites.  As a result, the sites ensure patient compliance. 
+
+Dose omissions, reductions, and delays will be summarized for all randomized patients 
+per treatment arm. 
+
+8.2.6.  Efficacy Analyses 
+
+8.2.6.1.  Primary Outcome and Methodology 
+The primary outcome measure for this trial is OS.  All randomized patients will be 
+included in the analysis of OS.  The primary analysis will be the comparison of OS 
+between the 2 study treatments using a stratified log-rank test at two-sided α=0.05 with 
+the following prognostic variables as stratification factors:  performance status (0 or 1 
+versus 2), previously treated for HNC (no versus yes), distant metastasis (no versus yes), 
+and prior platinum-based therapy (no versus yes).  Kaplan-Meier (K-M) estimation 
+(Kaplan and Meier 1958) including generating K-M curve, quartiles, and interval 
+estimation using 95% confidence intervals will also be done.  The supportive analysis of 
+the primary outcome will be performed to obtain treatment effect after adjusting for the 
+prognostic variables using Cox regression model (Cox 1972). 
+
+8.2.6.2.  Secondary Endpoints 
+The secondary efficacy endpoints are objective PFS, ORR, and DoR. 
+
+•  For each of the time-to-event endpoints (PFS and DoR), the following 
+
+analyses will be performed:   
+
+○  Kaplan-Meier estimation including generating K-M curve, 
+
+quartiles, and interval estimation using 95% confidence intervals. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 54 
+
+○  Stratified log-rank test stratified by the following prognostic 
+
+variables: performance status (0 or 1 versus 2), previously treated 
+for HNC (no versus yes), distant metastasis (no versus yes), and 
+prior platinum-based therapy (no versus yes). 
+
+○  Cox regression model to obtain treatment effect after adjusting for 
+
+the prognostic variables. 
+
+•  ORR will be compared between treatment arms based on an unadjusted, 
+
+normal distribution approximation for the difference in rates.  A 95% 
+confidence interval for the response rate of each arm will be calculated 
+using an exact method. 
+
+All randomized patients who were assigned to treatment will be included in the analysis 
+of PFS and ORR.  The patient population for DoR is all randomized patients with a 
+confirmed response. 
+
+Overall response rate will be estimated by dividing the total number of confirmed CR or 
+PR by the total number of patients randomized. 
+
+Patients who discontinue before the study endpoint is reached without disease 
+progression or death due to any cause will have their overall tumor response assessed per 
+protocol and will be included in the analysis. 
+
+8.2.7.  Quality-of-Life Analysis 
+The HRQoL data, as measured by the FACT-H&N, will be collected.  There are 5 
+subscale scores (physical well-being, social/family well-being, emotional well-being, 
+functional well-being, and H&N tumor subscales), a TOI score, a FACT-General total 
+score, and a total FACT-H&N score. 
+
+The time-to-worsening variables, including TTW in TOI, will be analyzed using the same 
+methods mentioned for other time-to-event variables (see Section 8.2.6.2).  All 
+randomized patients with a baseline assessment will be included in the TTW analyses. 
+
+The change from baseline in subscale scores, TOI score, FACT-General total score, and 
+Total FACT-H&N score will be analyzed using Mixed Model Repeated Measure analysis 
+with treatment, baseline score, visit, treatment-by-visit interaction as fixed effects, and 
+with patient nested in treatment as random effect in the model.  Within-subject 
+correlation over time will be accounted for through compound symmetric covariance 
+matrix.  The model will be fit using the restricted maximum likelihood method (REML).  
+The significance of comparison between treatments for each visit will be based on the 
+contrast of least square means (LSMeans).  The average of the LSMeans (over the 
+number of visits) for each treatment group will also be compared and tested.  
+Satterthwaite’s approximation will be used to estimate degrees of freedom.  All 
+randomized patients with baseline and at least 1 post-baseline measure will be included in 
+the change from baseline analysis. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 55 
+
+Internal consistency of baseline data for FACT-H&N subscales will be tested using 
+Cronbach’s alpha method.  Medical resource utilization data will be summarized by each 
+treatment arm for all randomized patients who received at least 1 dose of study drug. 
+
+8.2.8.  Statistical Strategy for Analyzing Selected Efficacy 
+
+Endpoints 
+
+To establish PFS, ORR, and FACT-H&N functional efficacy in the study while 
+controlling for type I error, a gatekeeping strategy will be applied in analyzing these 
+endpoints.  The endpoints will be analyzed with a two-sided 0.05 level of significance 
+with the following chronological order: 
+
+1.  PFS 
+
+2.  ORR 
+
+3.  TTW in TOI from FACT-H&N instrument 
+
+8.2.9.  Safety Analyses 
+The safety evaluation will include all patients who receive at least 1 dose of study 
+therapy, including saline placebo.  Safety analyses will include summaries of the 
+following: 
+
+•  maximum CTCAE grades for laboratory and nonlaboratory adverse 
+
+events. 
+
+treatment-emergent adverse events (TEAEs) 
+
+• 
+•  adverse events causing discontinuation from the study 
+•  SAEs causing discontinuation from the study 
+•  hospitalizations 
+•  blood transfusions. 
+
+The incidences of selected adverse events from the two treatment arms will be compared 
+using Fisher’s Exact test. 
+
+8.2.10. Subgroup Analyses  
+Subgroup analyses on OS and objective PFS will be conducted on important subgroups 
+of patients.  These subgroups are ECOG performance status (0 or 1 versus 2), previously 
+treated for HNC (no versus yes), distant metastasis (no versus yes), prior platinum-based 
+therapy (no versus yes), age (<50 versus ≥50), sex (male versus female), race (Caucasian 
+versus Non-Caucasian), and prior surgery or radiotherapy within 6 months of 
+randomization (no versus yes). 
+
+Additional subgroup analyses will be performed as deemed appropriate. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 56 
+
+8.2.11. Interim Analyses 
+There is one interim analysis planned for this study.  The interim analysis will be 
+performed to assess safety and efficacy in order to determine whether it is scientifically 
+and ethically appropriate to continue enrollment. The OS data is anticipated to be 
+preliminary (with high censoring) at the time of interim analysis, and it is assumed that 
+PFS is a reasonable surrogate for OS.  Therefore, the question of whether there is 
+evidence of a lack of efficacy for pemetrexed plus cisplatin (relative to placebo plus 
+cisplatin) will be evaluated based on an interim analysis of PFS (one of the secondary 
+endpoints of the study).  The interim analysis will calculate conditional power after 
+approximately 300 patients have had disease progression or have died.  It is anticipated 
+that the interim analysis will be conducted after approximately 400 patients have been 
+enrolled into the trial.  The data inclusion cut-off date for this analysis will be fixed when 
+approximately 300 PFS events have been observed.  All available data (from randomized 
+patients) prior to this cut-off date will be included in the interim analysis. 
+
+The trial enrollment may be stopped following this interim analysis, but only if the 
+experimental arm shows evidence of unacceptable toxicity or a lack of efficacy for 
+pemetrexed plus cisplatin over placebo plus cisplatin. 
+
+ 
+This futility analysis based on PFS can be described as follows: 
+
+The natural logarithm of the PFS hazard ratio (for pemetrexed plus cisplatin over placebo 
+plus cisplatin) will be estimated using the Cox model with 5 covariates (assigned 
+treatment arm, ECOG performance status, previously treated for HNC, distant metastasis, 
+and prior platinum based therapy)  
+
+Conditional on this interim estimate for the PFS HR, assuming the true PFS HR is 0.78, 
+and assuming the number of PFS events at the final analysis will be 700 (88.6% of 790), 
+the conditional statistical power of the final analysis of PFS will be calculated (Crowley 
+and Ankert 2006).  If this conditional power is strictly less than 0.741, then the DMB 
+should recommend that study enrollment be stopped.  Attachment JMHR.7 provides the 
+formula used to calculate conditional statistical power. 
+
+Assuming exactly 300 PFS events are included in this interim analysis, the operating 
+characteristics for this futility test are shown in Table JMHR.7. 
+
+Table JMHR.7. 
+
+Operating Characteristics for the Futility Test 
+
+Probability of not 
+stopping 
+(HR = 1.00) 
+19.3% 
+ 
+
+Probability of 
+
+stopping 
+
+(HR = 0.78) 
+
+9.9% 
+
+Stopping rule 
+
+based on 
+
+conditional power 
+
+< 74.1% 
+
+Stopping rule 
+
+Minimum 
+
+based on interim 
+
+conditional power 
+
+HR estimate 
+
+≥ 0.90 
+
+(HR = 0.78) 
+
+74.1% 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 57 
+
+Since the stopping rules are based on some assumptions, the threshold values (the interim 
+HR and the conditional power) should be viewed only as a guidance, not the absolute 
+rule, for interim decision making.  Analyses of safety data at interim will be performed as 
+described in Section 8.2.9.  At the interim analysis, the DMB may also recommend that 
+trial enrollment be stopped if the experimental arm shows evidence of unacceptable 
+toxicity. 
+ 
+The overall survival or any other efficacy data will not be analyzed and will not be 
+reported at the interim analysis. 
+ 
+During the interim analysis, patient accrual will continue.  A Data Monitoring Board 
+(DMB) will be formed in accordance with Lilly policies and procedures and will be 
+responsible for evaluating interim results.  Interim analysis will be conducted according 
+to the DMB charter.  A number of individuals outside the DMB will form the Statistical 
+Analysis Center (SAC), a group that will be responsible for ensuring the accuracy of 
+interim data and preparing interim summaries and analyses for the DMB.  The SAC 
+members will have access to interim data as needed to validate data and facilitate the 
+DMB’s review.  The SAC members will be limited to a minimal number of individuals 
+needed for this role.  The DMB and SAC members will be external to Lilly.  The SAC 
+members will not be allowed to disseminate any information pertaining to interim data 
+other than to members of the SAC or the DMB.  Only the DMB is authorized to review 
+completely unblinded interim analyses.  Study sites will receive information about 
+interim results ONLY if they need to know for the safety of their patients. 
+
+8.2.12. Criteria for End of Study 
+The study will end when data collection is stopped.  The study design is to enroll 790 
+patients and perform a final analysis after approximately 632 deaths have been observed, 
+at which time database lock will occur.  Lilly has the right to stop collecting data after the 
+database has been locked; however, after the final analysis, data may continue to be 
+collected on surviving patients.  If further data are collected that are not included as part 
+of the final locked database, the postlock data will eventually be combined with the 
+locked database and stored in a data library separate from the locked database.  The 
+clinical study report will not be revised to reflect these additional data. 
+
+8.2.13. Translational Research Analyses 
+The distributions of biomarkers with continuous measures, such as gene or protein 
+expression, will be described for total patient population and by treatment arms.  
+Summary statistics will include means, medians, corresponding standard errors, quartiles, 
+and ranges.  Biomarkers with discrete measures, such as genotype locus or IHC-staining-
+assessed protein expression, will be summarized in frequency tables for total population 
+and by treatment arm. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 58 
+
+A Cox regression analysis of time-to-event variables such as OS and PFS will be 
+performed with each gene measured fit as a single covariate, using the following 
+additional baseline covariates:  assigned study treatment arm (pemetrexed plus cisplatin 
+versus placebo plus cisplatin), performance status (0 or 1 versus 2), previously treated for 
+HNC (no versus yes), distant metastasis (no versus yes), and prior platinum-based 
+therapy (no versus yes).  The covariates in the model correspond to the study 
+randomization factors.  The Cox regression analysis of OS and PFS, will be repeated with 
+gene expression level data, along with interaction with treatment in the analytical model.  
+In addition, a Cox multiple regression analysis with those genes identified as significant 
+will be performed to look for interactions between multiple genes.  Logistic regressions 
+of best tumor response on gene expression will be done for each gene, using methods 
+analogous to those described above for the Cox regression analyses.  The protein 
+expression data will be analyzed in similar manner as gene expression. 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 59 
+
+9. 
+
+Informed Consent, Ethical Review, and Regulatory 
+
+Considerations 
+
+Informed Consent 
+
+9.1. 
+The investigator is responsible for ensuring that the patient understands the risks and 
+benefits of participating in the study, including answering any questions the patient may 
+have throughout the study and sharing any new information that may be relevant to the 
+patient's willingness to continue his or her participation in the trial in a timely manner. 
+
+The informed consent document will be used to explain the risks and benefits of study 
+participation to the patient in simple terms before the patient is entered into the study, and 
+to document that the patient is satisfied with his or her understanding of the risks and 
+benefits of participating in the study and desires to participate in the study. 
+
+The investigator is responsible for ensuring that informed consent is given by each 
+patient or legal representative.  This includes obtaining the appropriate signatures and 
+dates on the informed consent document prior to the performance of any protocol 
+procedures and prior to the administration of study drug. 
+
+As used in this protocol, the term "informed consent" includes all consent and assent 
+given by patients or their legal representatives. 
+
+9.2.  Ethical Review 
+Lilly must agree with all informed consent documents before they are submitted to the 
+ethical review board and are used at investigative sites(s).  All informed consent 
+documents must be compliant with the International Conference on Harmonisation 
+guideline on GCP.  Informed consent obtained under special circumstances may occur 
+only if allowed by local laws and regulations, and performed in accordance with a written 
+process approved by Lilly. 
+
+Documentation of ethical review board approval of the protocol and the informed consent 
+document must be provided to Lilly before the study may begin at the investigative 
+site(s).  The ethical review board(s) will review the protocol as required. 
+
+Any member of the ethical review board who is directly affiliated with this study as an 
+investigator or as site personnel must abstain from the ethical review board’s vote on the 
+approval of the protocol. 
+
+The study site’s ethical review board(s) should be provided with the following: 
+
+• 
+
+• 
+
+the current Clinical Investigator’s Brochure or package labeling and 
+updates during the course of the study 
+
+informed consent document 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 60 
+
+• 
+
+relevant curricula vitae. 
+
+9.3.  Regulatory Considerations 
+This study will be conducted in accordance with the ethical principles that have their 
+origin in the Declaration of Helsinki and that are consistent with good clinical practices 
+and the applicable laws and regulations.  The investigator, head of the medical institution, 
+or designee will promptly submit the protocol to applicable ethical review board(s). 
+
+An identification code assigned by the investigator to each patient will be used in lieu of 
+the patient's name to protect the patient’s identity when reporting adverse events and/or 
+other trial-related data. 
+
+9.3.1.  Investigator Information 
+Physicians with a specialty in oncology will participate as investigators in this clinical 
+trial. 
+
+9.3.2.  Protocol Signatures 
+After reading the protocol, each principal investigator will sign the protocol signature 
+page and send a copy of the signed page to a Lilly representative. 
+
+9.3.3.  Final Report Signature 
+The clinical study report coordinating investigator will sign the final clinical study report 
+for this study, indicating agreement that, to the best of his or her knowledge, the report 
+accurately describes the conduct and results of the study. 
+
+The sponsor’s responsible medical officer will sign the final clinical study report for this 
+study, confirming that to the best of his or her knowledge, the report accurately describes 
+the conduct and results of the study. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 61 
+
+10. References 
+
+Bunn P, Paoletti P, Niyikiza C, Rusthoven J, Nelson K, Hanauske A, Stabler S, Calvert 
+AH, Allen R. 2001. Vitamin B12 and folate reduce toxicity of ALIMTA (pemetrexed 
+disodium, LY231514, MTA), a novel antifolate/antimetabolite [abstract]. In: Proc Am 
+Soc Clin Oncol 37th annual meeting program/proceedings; 2001 May 12-15; San 
+Francisco. Alexandra (VA): American Society of Clinical Oncology. 20(1):76a. 
+Abstract 300. 
+
+Burtness B, Goldwasser MA, Flood W, Matter B, Forastiere AA. 2005. Phase III 
+
+Randomized Trial of Cisplatin Plus Placebo Compared With Cisplatin Plus Cetuximab 
+in Metastatic/Recurrent Head and Neck Cancer:  An Eastern Cooperative Oncology 
+Group Study. J Clin Oncol 23(34):8646-8654. 
+
+Cella D (ed). 2004. Manual of the Functional Assessment of Chronic Illness Therapy 
+(FACIT) measurement system  (Version 4.1). Evanston, IL: Center on Outcomes, 
+Research and Education (CORE), Evanston Northwestern Health Care and 
+Northwestern University. 
+
+Clavel M, Vermorken JB, Cognetti F, Cappelaere P, de Mulder PH, Schornagel JH, 
+Tueni EA, Verweij J, Wildiers J, Clerico M, Dalesio O, Kirkpatrick A, Snow GB. 
+1994. Randomized comparison of cisplatin, methotrexate, bleomycin and vincristine 
+(CABO) versus cisplatin and 5-fluorouracil (CF) versus cisplatin (C) in recurrent or 
+metastatic squamous cell carcinoma of the head and neck: a phase III study of the 
+EORTC Head and Neck Cancer Cooperative Group. Ann Oncol 5(6):521-526. 
+
+Cockcroft DW, Gault MH. 1976. Prediction of creatinine clearance from serum 
+
+creatinine. Nephron 16(1):31-41. 
+
+Cox DR. 1972. Regression models and life tables (with discussion). J Royal Stat Soc B 
+
+74(2):187-220. 
+
+Cristy M, Eckerman KF. 1987. Specific absorbed fractions of energy at various ages from 
+
+internal sources: I. methods. Prepared by the Oak Ridge National Laboratory, Oak 
+Ridge, Tenn. 
+
+Crowley J, Ankert DP, editors. 2006. Handbook of Statistics in Clinical Oncology. 2nd 
+
+ed. Boca Raton, FL: CRC Press. p 232-233. 
+
+Forastiere A, Ang K, Brizel D, Brockstein BE, Dunphy F, Eisele DW, Goepfert H, Hicks 
+WL Jr, Kies MS, Lydiatt WM, Maghami E, McCaffrey T, Mittal BB, Pfister DG, Pinto 
+HA, Posner MR, Ridge JA, Samant S, Schuller DE, Shah JP, Spencer S, Trotti A 3rd, 
+Wheeler RH 3rd, Wolf GT, Worden F, Yueh B; National Comprehensive Cancer 
+Network. 2005. Head and Neck Cancers.  J Natl Compr Canc Netw 3(3):316-91. 
+
+Forastiere A, Koch W, Trotti A, Sidransky D. 2001. Head and neck cancer [erratum in: N 
+
+Engl J Med 346(10):788]. N Engl J Med 345(26):1890-1900. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 62 
+
+Forastiere AA, Metch B, Schuller DE, Ensley JF, Hutchins LF, Triozzi P, Kish JA, 
+
+McClure S, VonFeldt E, Williamson SK, Von Hoff DD. 1992. Randomized 
+comparison of cisplatin plus fluorouracil and carboplatin plus fluorouracil versus 
+methotrexate in advanced squamous-cell carcinoma of the head and neck: a Southwest 
+Oncology Group study. J Clin Oncol 10(8):1245-1251. 
+
+Grose WE, Lehane DE, Dixon DO, Fletcher WS, Stuckey WJ. 1985. Comparison of 
+
+methotrexate and cisplatin for patients with advanced squamous cell carcinoma of the 
+head and neck region: a Southwest Oncology Group study. Cancer Treat Rep 
+69(6):577-581. 
+
+Habeck LL, Mendelsohn LG, Shih C, Taylor EC, Colman PD, Gossett LS, Leitner TA, 
+
+Schultz RM, Andis SL, Moran RG. 1995. Substrate specificity of mammalian 
+folylpolyglutamate synthetase for 5,10-dideazatetrahydrofolate analogs. Mol 
+Pharmacol 48(2):326-333. 
+
+Hanna N, Shepherd FA, Fossella FV, Pereira JR, De Marinis F, von Pawel J, Gatzemeier 
+
+U, Tsao TC, Pless M, Muller T, Lim HL, Desch C, Szondy K, Gervais R, Shaharyar, 
+Manegold C, Paul S, Paoletti P, Einhorn L, Bunn PA Jr  2004. Randomized phase III 
+trial of pemetrexed versus docetaxel in patients with non-small-cell lung cancer 
+previously treated with chemotherapy. J Clin Oncol 22(9):1589-1597. 
+
+Hong WK, Schaefer S, Issell B, Cummings C, Luedke D, Bromer R, Fofonoff S, D'Aoust 
+
+J, Shapshay S, Welch J, Levin E, Vincent M, Vaughan C, Strong S. 1983. A 
+prospective randomized trial of methotrexate versus cisplatin in the treatment of 
+recurrent squamous cell carcinoma of the head and neck. Cancer 52(2):206-210. 
+
+Jacobs C, Lyman G, Velez-Garcia E, Sridhar KS, Knight W, Hochster H, Goodnough 
+
+LT, Mortimer JE, Einhorn LH, Schacter L, Cherng N, Dalton T, Burroughs J, 
+Rozencweig M. 1992. A phase III randomized study comparing cisplatin and 
+fluorouracil as single agents and in combination for advanced squamous cell carcinoma 
+of the head and neck. J Clin Oncol 10(2):257-263. 
+
+Kaplan EL, Meier P. 1958. Nonparametric estimation of incomplete observations. J Am 
+
+Stat Assoc 53:457-481. 
+
+List MA, D'Antonio LL, Cella DF, Siston A, Mumby P, Haraf D, Vokes E. 1996. The 
+
+Performance Status Scale for Head and Neck cancer patients and the Functional 
+Assessment of Cancer Therapy-Head and Neck (FACT-H&N) scale: A study of utility 
+and validity. Cancer  77(11): 2294-2301. 
+
+Liverpool Head and Neck Oncology Group.1990. A phase III randomised trial of 
+
+cisplatinum, methotrexate, cisplatinum + methotrexate and cisplatinum + 5-FU in end 
+stage squamous carcinoma of the head and neck. Br J Cancer 61(2):311-315. 
+
+Morton RP, Rugman F, Dorman EB, Stoney PJ, Wilson JA, McCormick M, Veevers A, 
+Stell PM. 1985. Cisplatinum and bleomycin for advanced or recurrent squamous cell 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 63 
+
+carcinoma of the head and neck: a randomized factorial phase III controlled trial. 
+Cancer Chemother Pharmacol 15(3):283-289. 
+
+Niyikiza C, Baker SD, Seitz DE, Walling JM, Nelson K, Rusthoven JJ, Stabler SP, 
+Paoletti P, Calvert AH, Allen RH. 2002. Homocysteine and methylmalonic acid: 
+markers to predict and avoid toxicity from pemetrexed therapy. Mol Cancer Ther 
+1(7):545-552. 
+
+[NCI] National Cancer Institute. 1993. Investigational agent adverse drug reaction 
+
+reporting chart. p 153-157. 
+
+[NCI] National Cancer Institute. 1998. Common Toxicity Criteria (CTC). Version 2.0. 
+Available at: http://ctep.cancer.gov/reporting/CTC-3.html. Accessed 17 June 2005. 
+
+[NCI] National Cancer Institute. 2003. Cancer therapy evaluation program common 
+
+terminology criteria for adverse events, version 3.0. Available at 
+http://ctep.cancer.gov/reporting/ctcnew.html. Accessed 11 May 2006. 
+
+Oken MM, Creech RH, Tormey DC, Horton J, Davis TE, McFadden ET, Carbone PP. 
+
+1982. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J 
+Clin Oncol 5:649-655. 
+
+Ozer H, Armitage JO, Bennett CL, Crawford J, Demetri GD, Pizzo PA, Schiffer CA, 
+
+Smith TJ, Somlo G, Wade JC, Wade JL 3rd, Winn RJ, Wozniak AJ, Somerfield MR, 
+for the American Society of Clinical Oncology. 2000. 2000 update of 
+recommendations for the use of hematopoietic colony-stimulating factors: evidence-
+based, clinical practice guidelines  J Clin Oncol 18(20):3558-3585. 
+
+Pocock SJ, Simon R. 1975  Sequential treatment assignment with balancing for 
+
+prognostic factors in controlled clinical trials. Biometrics 31(1):103-115. 
+
+Scagliotti G, Parikh P, von Pawel J, Biesma B, Vansteenkiste J, Manegold C, Simms L, 
+Posther Sugarman K, Obasaju C, Blatter J. 2007. Phase III study of pemetrexed plus 
+cisplatin versus gemcitabine plus cisplatin in chemonaive patients with locally 
+advanced or metastatic non-small cell lung cancer (NSCLC). 12th World Conference 
+on Lung Cancer. J Thorac Oncol 2(8 Suppl 4):S306. Abstract PRS-03. 
+
+Scagliotti G, Parikh P, von Pawel J, Biesma B, Vansteenkiste J, Manegold C, 
+
+Serwatowski P, Gatzemeier U, Digumarti R, Zukin M, Lee JS, Mellemgaard A, Park 
+K, Patil S, Rolski J, Goksel T, de Marinis F, Simms L, Sugarman KP, Gandara D. 
+2008. Phase III study comparing cisplatin plus gemcitabine with cisplatin plus 
+pemetrexed in chemotherapy-naive patients with advanced-stage non-small-cell lung 
+cancer. J Clin Oncol 26(21): [Epub ahead of print on May 27, 2008.] 
+
+Shih C, Chen VJ, Gossett LS, Gates SB, MacKellar WC, Habeck LL, Shackelford KA, 
+Mendelsohn LG, Soose DJ, Patel VF, Andis SL, Bewley JR, Rayl EA, Moroson BA, 
+Beardsley GP, Kohler W, Ratnam M, Schultz RM. 1997. LY231514, a pyrrolo[2,3-
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 64 
+
+d]pyrimidine-based antifolate that inhibits multiple folate-requiring enzymes. Cancer 
+Res 57(6):1116-1123. 
+
+Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L, Verweij J, 
+
+Van Glabbeke M, van Oosterom AT, Christian MC, Gwyther SG. 2000. New 
+guidelines to evaluate the response to treatment in solid tumors. J Natl Cancer Inst 
+92(3):205-216. 
+
+Theti DS, Jackman AL. 2004. The role of alpha-folate receptor-mediated transport in the 
+
+antitumor activity of antifolate drugs. Clin Cancer Res 10(3):1080-1089. 
+
+Veronesi A, Zagonel V, Tirelli U, Galligioni E, Tumolo S, Barzan L, Lorenzini M, 
+
+Comoretto R, Grigoletto E. 1985. High-dose versus low-dose cisplatin in advanced 
+head and neck squamous carcinoma: a randomized study. J Clin Oncol 3(8):1105-1108. 
+
+Vogelzang NJ, Rusthoven JJ, Symanowski J, Denham C, Kaukel E, Ruffie P, Gatzemeier 
+
+U, Boyer M, Emri S, Manegold C, Niyikiza C, Paoletti P. 2003. Phase III study of 
+pemetrexed in combination with cisplatin versus cisplatin alone in patients with 
+malignant pleural mesothelioma. J Clin Oncol 21(14):2636-2644. 
+
+Yost KJ, Eton DT. 2005. Combining distribution- and anchor-based approaches to 
+
+determine minimally important differences: the FACIT experience. Eval Health Prof 
+28(2):172-91. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 66 
+
+Footnotes for Study Schedule, Protocol H3E-MC-JMHR(b) (Continued) 
+
+Abbreviations:  BL = baseline, CrCl = creatinine clearance; CRF = case report form; CT = computed 
+tomography; CTCAE = Common Terminology Criteria for Adverse Events; dc = discontinuation; 
+ECOG = Eastern Cooperative Oncology Group; FACT-H&N = Functional Assessment of Cancer 
+Therapy for Head and Neck Cancer; FFPE = formalin-fixed, paraffin-embedded; G-CSF = granulocyte 
+colony-stimulating factor; GM-CSF = granulocyte-macrophage colony-stimulating factor; MRI = 
+magnetic resonance imaging. 
+
+a  See Section 5.5 for exceptions to timing of doses.  Patients will continue cycles of therapy until disease 
+
+progression or until the patient meets criteria for study treatment discontinuation. 
+
+b  Postdiscontinuation visit is approximately 30 days after patient discontinuation from the treatment 
+
+portion of the study, rather than after the last dose of the study drug. 
+
+  Following 30-day postdiscontinuation visit and objective disease progression, patients will be followed 
+
+every 90 days (±14 days).  Data collected will include:  date of disease progression; any anticancer 
+treatment including the dates of any postdiscontinuation systemic therapy, radiotherapy, or surgical 
+intervention; and the date of death.  The date of first documented disease progression must be recorded 
+on the CRF even if it occurs after the patient has started a new therapy.  Patients will be followed until 
+death or study closure. 
+
+c  Before the infusion. 
+d  Physical examination will include measurements of height (at baseline only) and weight. 
+e  Female patients with childbearing potential must have a negative urine or serum pregnancy test within 7 
+
+days prior to study enrollment. 
+
+f  Record key concomitant medications or growth factors (including G-CSF, GM-CSF, erythropoietin, 
+
+antibiotics, and any nonstudy vitamin supplementation) and information related to transfusions at every 
+cycle including the 30-day postdiscontinuation visit. 
+
+g  Visual measurements (for palpable lesions) must be performed using a metric ruler or calipers, and a 
+
+color medical photograph must be taken   For radiologic tests, CT (including spiral CT) scans and MRI 
+are the preferred methods of measurement, but chest x-ray is acceptable if the lesion(s) is/are clearly 
+defined and surrounded by aerated lung   Investigators must consistently use the same imaging 
+modality. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Baseline (palpable le ions):  Within 2 weeks before the first dose of study treatment. 
+Baseline (radiological):  Within 4 weeks before first dose of study treatment. 
+During study treatment:  Before the infusion.  Palpable lesion measurements and radiological 
+assessments should be completed approximately every 6 weeks (±2 weeks) within 7 days of every 
+other cycle of treatment; for example, after baseline, assessments should 
+be repeated within 7 days prior to, or the day of, Day 1 of Cycle 3, Cycle 5, etc. 
+Response confirmation:  Responses must be confirmed.  Confirmation should be performed 
+≥ 28 days after initial response documentation and then every 6 weeks (±2 weeks). 
+Postdiscontinuation follow-up period:  Every 6 weeks (±2 weeks) until objective disease 
+progression based on lesion measurements.  Thereafter, repeated as clinically indicated.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+h  Chemistry and Hematology: 
+
+Baseline:  ≤ 7 days prior to Day 1 of Cycle 1. 
+Cycle 1, Day 15:  All patients will have blood collected during Cycle 1, on Day 15 ±3 days 
+During study treatment:  ≤ 3 days prior to Day 1 of each cycle.   
+Additional chemistry and hematology values may be collected during study treatment cycles 
+per local practice guidelines.  Investigators must document their review of each laboratory report. 
+Postdiscontinuation visit:  ~ 30 days after patient discontinuation from the treatment portion of 
+
+the study, rather than after the last dose of the study drug. 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+(continued) 
+
+Protocol Amendment 
+
+Redacted Version Page 67 
+
+Footnotes for Study Schedule, Protocol H3E-MC-JMHR(b) (Concluded) 
+
+i  Calculated CrCl:  ≤ 7 days prior to Day 1 of Cycle 1 and ≤ 3 days prior to Day 1 of subsequent cycles. 
+
+The CrCl does not need to be calculated at the postdiscontinuation visit.  
+
+j  Grade adverse events using the CTCAE scale before each cycle and at the 30-day postdiscontinuation 
+
+visit (Version 3.0, NCI 2003). 
+
+k  Daily, beginning approximately 7 to 14 days before the first dose of pemetrexed and continuing daily 
+
+until 3 weeks after the last dose of study therapy. 
+
+l  Given as an intramuscular injection within approximately 7 to 14 days before the first dose of study 
+
+treatment and repeated approximately every 9 weeks until 3 weeks after the last dose of study therapy. 
+
+m  Dexamethasone (or equivalent): taken twice a day the day before, the day of, and the day after study 
+
+treatment. 
+
+n  Baseline: ≤ 7 days prior to randomization. 
+  During study treatment:  prior to infusion at every cycle (except Cycle 1), on approximately Day 21 of 
+
+the previous cycle, not to be repeated in case of cycle delays. 
+At study discontinuation:  (may be conducted via telephone) 
+Postdiscontinuation: 
+ 
+ 
+ 
+ 
+
+○  postdiscontinuation visit:  approximately 30 days after patient discontinuation from the 
+     treatment portion of the study, rather than after the last dose of the study drug. 
+ 
+○  if patient discontinued from study treatment prior to disease progression:  repeat every 
+     6 weeks until disease progression. 
+
+o  A sample of pretreated FFPE tumor tissue should be prepared according to instructions provided by the 
+
+central laboratory.  Study personnel will ship FFPE  issue sample to the central laboratory within 4 
+weeks of randomization. 
+
+ 
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 68 
+
+Protocol Attachment JMHR.2. 
+
+Clinical Laboratory Tests 
+
+Clinical Laboratory Tests 
+
+ 
+
+Hematologya: 
+
+Hemoglobin (Hgb) 
+ 
+Leukocytes (WBC) 
+Platelets (PLTs) 
+Neutrophils (sum of segmented and bands) 
+ 
+ 
+
+Serum Pregnancy Testb 
+
+Serum or Urine Pregnancy Testa, d 
+
+ 
+ 
+Translational Researchb 
+
+Pretreatment FFPE tumor tissue sample 
+ 
+
+ 
+
+Clinical Chemistrya, b:  
+
+Total bilirubin 
+Alkaline phosphatase (ALP) 
+Alanine aminotransferase (ALT/SGPT) 
+Aspartate aminotransferase (AST/SGOT) 
+Blood urea nitrogen (BUN) 
+Serum creatinine 
+Calculated creatinine clearance (CrCl)c, d 
+ 
+Sodium 
+Potassium 
+Magnesium 
+ 
+ 
+
+Abbreviations:  FFPE = formalin-fixed, paraffin-embedded; WBC = white blood cell. 
+a  Assayed by local laboratory. 
+b  Assayed by central laboratory. 
+c  See Protocol Attachment JMHR.4  
+d  If used for enrollment or dosing decisions, the local laboratory will perform certain chemistries, serum 
+
+or urine pregnancy test, and CrCl. 
+
+ 
+
+Note:  Patients may be enrolled and randomized on the basis of local chemistries and 
+CrCl only if the central laboratory values are not available (if local CrCl is used, the 
+same local lab must be used throughout the study).  However, a specimen must be 
+collected prior to the initiation of treatment and sent to the central laboratory for blood 
+chemistries.  If local blood chemistry values are used for subsequent dosing decisions, 
+specimens must still be collected and sent to the central laboratory.  These central 
+laboratory results will be used for subsequent safety analyses. 
+
+Additional chemistry and hematology values may be collected during study treatment 
+cycles per local practice guidelines.  Investigators must document their review of each 
+laboratory report. 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 69 
+
+Protocol Attachment JMHR.3. 
+
+Eastern Cooperative Oncology Group (ECOG) 
+
+Performance Status Scale 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 70 
+
+Protocol Attachment JMHR.3 
+
+ECOG Performance Status Scale 
+
+Description 
+
+ 
+
+Fully active, able to carry on all pre-disease performance without 
+restriction. 
+ 
+Restricted in physically strenuous activity but ambulatory and able 
+to carry out work of a light or sedentary nature, eg, light housework, 
+office work. 
+ 
+Ambulatory and capable of all self-care but unable to carry out any 
+work activities.  Up and about more than 50% of waking hours. 
+ 
+Capable of only limited self-care, confined to bed or chair more than 
+50% of waking hours. 
+ 
+Completely disabled.  Cannot carry on any self-care.   Totally 
+confined to bed or chair. 
+ 
+Dead 
+ 
+
+ 
+
+Grade 
+ 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+(from Oken MM, Creech RH, Tormey DC, Horton J, Davis TE, McFadden ET, Carbone PP. 1982. Toxicity 
+
+and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol 5:649-655). 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Protocol Attachment JMHR.4. 
+
+Creatinine Clearance Assay Methods 
+
+Page 71 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 72 
+
+Protocol Attachment JMHR.4. 
+
+Creatinine Clearance Assay Methods 
+
+Creatinine clearance calculation in this study will be based on any the following assay 
+methods: 
+
+1)  The standard Cockcroft and Gault formula (1976) 
+
+Note:  This formula is to be used for calculating CrCl from local lab results only.  
+Central laboratory applies the formula and reports the value in its calculated form.   
+
+ 
+
+ 
+ 
+CrCl (mL/min)  = 
+
+ 
+ 
+ 
+CrCl (mL/min) = 
+
+For serum creatinine concentration in mg/dL: 
+  (140 – age+) × (wt+)  ×  (0.85 for women*) 
+
+72 × serum creatinine (mg/dL) 
+
+ 
+For serum creatinine concentration in µmol/L: 
+   (140 – age+) × (wt+)  ×  (0.85 for women*) 
+
+0.81 × serum creatinine (µmol/L) 
+
+Abbreviation: CrCl = creatinine clearance. 
++age in years, weight (wt) in kilograms. 
+*factor is 1.0 for men. 
+Cockcroft and Gault 1976. 
+ 
+
+2)  Glomerular filtration rate (GFR) as measured by a 24-hour urine 
+
+sample. 
+
+3)  Glomerular filtration rate (GFR) as measured by the appropriate 
+
+radiolabeled method (51-CrEDTA or Tc99m-DTPA). 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 73 
+
+Protocol Attachment JMHR.5. 
+
+RECIST Guidelines 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 74 
+
+Response Evaluation Criteria in Solid Tumors (RECIST) Guidelines 
+
+Protocol Attachment JMHR.5 
+
+(Therasse et al. 2000) 
+
+Measurability of Tumor Lesions at Baseline: 
+
+Measurable lesions - lesions that can be accurately measured in at least one dimension 
+as ≥ 20 mm with conventional techniques or as  ≥ 10mm with spiral CT scan (longest 
+diameter to be recorded).  
+
+Nonmeasurable lesions -  all other lesions, including small lesions (longest diameter <20 
+mm with conventional techniques or <10 mm with spiral CT scan) and truly 
+nonmeasurable lesions.  Lesions considered to be truly nonmeasurable include the 
+following:  bone lesions, leptomeningeal disease, ascites, pleural/pericardial effusion, 
+inflammatory breast disease, lymphangitis cutis/pulmonis, abdominal masses that are not 
+confirmed and followed by imaging techniques, and cystic lesions. 
+
+Documentation of “target” and “nontarget” lesions at Baseline: 
+
+All tumor measurements will be recorded in centimeters using a ruler or calipers.  All 
+baseline evaluations should be performed as close as possible to the start of treatment but 
+never more than 28 days before beginning treatment. 
+
+Target - All measurable lesions up to a maximum of 5 lesions per organ and 10 lesions 
+in total, representative of all involved organs, should be identified as target lesions and 
+recorded and measured at baseline.  Target lesions should be selected on the basis of their 
+size (those with the longest diameter) and their suitability for accurate repeated 
+measurements (either by imaging techniques or clinically).  If the measurable disease is 
+restricted to a solitary lesion, its neoplastic nature should be confirmed by 
+cytology/histology. 
+
+A sum of the longest diameter for all target lesions will be calculated and reported as the 
+baseline sum longest diameter.  The baseline sum longest diameter will be used as the 
+reference by which to characterize the objective tumor response. 
+
+Nontarget – All other lesions (or sites of disease) including small lesions (longest 
+diameter <20 mm with conventional CT scan, <10 mm with spiral CT scan) and other 
+non-measurable lesions should be identified as nontarget lesions and should be recorded 
+at baseline.  Measurement of these lesions are not required, but the presence of absence 
+of each should be noted throughout follow-up. 
+
+Method of Measurement 
+
+The same method of measurement and the same technique should be used to characterize 
+each identified and reported lesion at baseline and during follow-up.  Computerized 
+tomography (CT), or magnetic resonance imaging (MRI), should be performed with cuts 
+of 10 mm or less in slice thickness contiguously.  Spiral CT should be performed using a 
+5 mm contiguous reconstruction algorithm.  This applies to the chest, abdomen, and 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 75 
+
+pelvis.  Chest X-ray is acceptable as measurable lesions when they are clearly defined 
+and surrounded by aerated lung.  However, CT scan or MRI is preferred.    
+
+Clinical lesions will only be considered measurable when they are superficial  (for 
+example, skin nodules or palpable lymph nodes).  For the case of skin lesions, 
+documentation by color photography including a ruler to estimate the size of the lesion is 
+recommended. 
+
+Timing of Subsequent Tumor Assessments 
+
+Radiological and physical assessments will be routinely repeated before drug 
+administration at every other cycle throughout the treatment period and at follow-up 
+visits (as specified in the Schedule of Events, Protocol Attachment JMHR.1).  All areas 
+of disease must be re-evaluated at each subsequent assessment.  The same technique used 
+at baseline must be used.  Chest x-rays are acceptable for a subsequent assessment if used 
+at baseline, however CT scan or MRI is preferred.  
+
+If the patient’s disease has responded to therapy, the investigator must confirm the 
+response.  It is recommended that confirmation of response occur ≥28 days and ≤42 days 
+after the first evidence of response using the same radiological technique as at baseline.  
+The baseline sum of longest diameters of target lesions will be used as reference for 
+confirmation of response. 
+
+Both measurable and nonmeasurable lesions should be evaluated at each restaging to 
+determine whether they have completely resolved or persisted, or whether new lesions 
+have appeared. 
+
+Response Criteria: 
+
+Patients will be assessed using the following criteria: 
+
+•  Complete response (CR): Disappearance of all tumor lesions. 
+•  Partial response (PR): Either a) at least a 30% decrease in the sum of 
+
+the longest diameter (LD) of target lesions taking as reference the 
+baseline sum LDs or b) complete disappearance of target lesions, with 
+persistence (but not worsening) of one or more nontarget lesions.  In 
+either case, no new lesions may have appeared.  
+
+•  Stable disease (SD): Neither sufficient shrinkage to qualify for PR nor 
+
+sufficient increase to qualify for PD taking as references the smallest 
+sum LD. 
+
+•  Progressive disease (PD): At least a 20% increase in the sum of LD 
+of target lesions taking as references the smallest sum LD recorded 
+since the treatment started or the appearance of one or more new 
+lesions. 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 76 
+
+•  Unknown:  Progression has not been documented and one or more 
+
+target or nontarget sites have not been assessed. 
+
+Overall Responses for All Possible Combinations of Tumor Responses in Target and 
+Nontarget Lesions with Or without the Appearance of New Lesions. 
+
+Target 
+Lesions 
+CR 
+CR 
+PR 
+SD 
+PD 
+Any 
+Any 
+
+Nontarget Lesions 
+
+New Lesions 
+
+Overall Response 
+
+CR 
+Incomplete response/SD 
+Non-PD 
+Non-PD 
+Any 
+PD 
+Any 
+
+No 
+No 
+No 
+No 
+Yes or no 
+Yes or no 
+Yes 
+
+CR 
+PR 
+PR 
+SD 
+PD 
+PD 
+PD 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 77 
+
+Protocol Attachment JMHR.6. 
+
+Functional Assessment of Cancer Therapy - 
+
+Head and Neck Cancer (FACT-H&N) 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 78 
+
+Protocol Attachment JMHR.6 
+
+Fact-H&N (Version 4) 
+
+Below is a list of statements that other people with your illness have said are important.  
+By circling one (1) number per line, please indicate how true each statement has 
+been for you during the past 7 days. 
+
+ 
+
+not 
+
+a little 
+
+some- 
+
+quite 
+
+very 
+
+ at all 
+
+  bit 
+
+what 
+
+a bit 
+
+much 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+a little 
+
+some- 
+
+quite 
+
+very 
+
+what 
+
+a bit 
+
+much 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+4  
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+PHYSICAL WELL-BEING  
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+GP1. I have a lack of energy   
+
+GP2.  I have nausea 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+0 
+
+GP3. Because of my physical condition, I have trouble 
+   meeting the needs of my family 
+0 
+
+ 
+
+ 
+
+GP4. I have pain 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GP5. I am bothered by side effects of treatment 
+
+GP6. I feel ill   
+
+ 
+
+ 
+
+ 
+
+GP7. I am forced to spend time in bed 
+
+SOCIAL/FAMILY WELL-BEING  
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GS1. I feel close to my friends 
+
+ 
+
+ 
+
+ 
+
+ 
+ at all 
+
+ 
+
+GS2. I get emotional support from my family 
+
+GS3. I get support from my friends 
+
+ 
+
+GS4. My family has accepted my illness 
+
+ 
+
+ 
+
+0 
+
+0 
+
+0 
+
+0 
+
+not 
+
+  bit 
+
+0 
+
+0 
+
+0 
+
+0 
+
+GS5. I am satisfied with family communication about my 
+   illness 
+
+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GS6. I feel close to my partner  
+(or the person who is my main support) 
+
+ 
+
+ 
+
+0 
+
+Regardless of your current level of sexual activity, please answer the following question.  
+If you prefer not to answer it, please check this box  and go to the next section. 
+
+GS7. I am satisfied with my sex life   
+
+ 
+
+0 
+
+1 
+
+2 
+
+3 
+
+4 
+
+ 
+ 
+
+ 
+
+US English 
+Copyright 1987, 1997 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version By circling one (1) number per line, please indicate how true each statement has 
+been for you during the past 7 days. 
+
+Page 79 
+
+EMOTIONAL WELL-BEING 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GE1. I feel sad0 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+GE2. I am satisfied with how I am coping with my  
+   illness 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GE3. I am losing hope in the fight against my  
+   illness 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GE4. I feel nervous 
+
+ 
+
+GE5. I worry about dying 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GE6. I worry that my condition will get worse 
+
+FUNCTIONAL WELL-BEING  
+
+not 
+
+a little 
+
+some- 
+
+quite 
+
+at all 
+
+  bit 
+
+what 
+
+a bit 
+
+very 
+much 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+not 
+
+a little 
+
+some- 
+
+quite 
+
+at all 
+
+  bit 
+
+what 
+
+a bit 
+
+very 
+much 
+
+GF1.I am able to work (include work at home) 
+
+0 
+
+GF2. My work (include work at home) is fulfilling  0 
+
+GF3. I am able to enjoy life 
+
+ 
+
+GF4. I have accepted my illness 
+
+GF5. I am sleeping well 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+0 
+
+0 
+
+GF6. I am enjoying the things I usually do for fun  0 
+
+GF7. I am content with the quality of my life right 
+    now  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+US English 
+Copyright 1987, 1997 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version By circling one (1) number per line, please indicate how true each statement has 
+been for you during the past 7 days. 
+
+ADDITIONAL CONCERNS 
+
+not 
+
+a little 
+
+some- 
+
+quite 
+
+at all 
+
+ bit 
+
+what 
+
+ a bit 
+
+very 
+much 
+
+Page 80 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+H&N1. I am able to eat the foods that I like   
+
+H&N2. My mouth is dry 
+
+ 
+
+H&N3. I have trouble breathing 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+0 
+
+0 
+
+H&N4. My voice has its usual quality and strength  0 
+
+H&N5. I am able to eat as much food as I want 
+
+H&N6. I am unhappy with how my face and neck 
+   look   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+H&N7. I can swallow naturally and easily 
+
+H&N8. I smoke cigarettes or other tobacco 
+   products 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+H&N9. I drink alcohol (e.g. beer, wine, etc.)  
+
+H&N10. I am able to communicate with others 
+
+H&N11. I can eat solid foods  
+
+ 
+
+ 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+H&N12. I have pain in my mouth, throat, or neck  0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+US English 
+Copyright 1987, 1997 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 81 
+
+Protocol Attachment JMHR.7. 
+Formula for Conditional Power 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version Page 82 
+
+Protocol Attachment JMHR.7. 
+Formula for Conditional Power 
+
+ 
+
+Let I be the number of PFS events at the interim analysis, F the number of PFS events at 
+the final analysis, and ZI the value of the standard normal interim test statistic under H0.  
+Then for testing H0 (conditional on ZI with true HR = y): 
+
+Power  =  1 – Φ[(Zα/2 + ZI (I/F)1/2 – (1–I/F)(0.5)(F)1/2 log(1/y)) / (1–I/F)1/2]. 
+ 
+
+Zα/2  is the upper 100th(1-α/2) percentile of the standard normal distribution; y is 
+the true PFS hazard ratio of Pemetrexed plus Cisplatin relative to Placebo plus 
+Cisplatin; where Φ is the standard normal distribution function. 
+
+ 
+
+ 
+
+Pemetrexed H3E-MC-JMHR(b) 
+Confidential 
+
+Protocol Amendment 
+
+Redacted Version 

@@ -1,0 +1,134 @@
+2  ACOSOG 
+3  ACOSOG 
+4  ACOSOG 
+5  ACOSOG 
+6  ACOSOG 
+1.1.1 Axillary Lymph Node Dissection (ALND) 
+1.1.2 Sentinel Lymph Node Dissection 
+1.1.3 The Need for Axillary Lymph Node Dissection 
+7  ACOSOG 
+8  ACOSOG 
+1.1.4 Treatment and Survival Following Axillary Recurrence 
+1.1.5 SLND Only Versus ALND 
+9  ACOSOG 
+1.1.6 The Design of Z0011 
+1.2 Objectives 
+1.3 Study Design 
+1.3.1 Accrual Goal 
+1.4 Schema 
+2.1 Inclusion Criteria 
+5. Date of the patient s first tissue diagnosis of invasive breast carcinoma or cytologic diagnosis of 
+9. Patient of childbearing potential must have a negative serum or urine pregnancy test within 14 days of 
+11. A sentinel lymph node must be identified that contains metastatic breast cancer as documented by frozen 
+13. A patient with a history of a previous malignancy is eligible for this study as long as the patient meets the 
+14. Patient or the patient s legally acceptable representative must provide a signed and dated written informed 
+15. Patient must provide written authorization to allow the use and disclosure of their protected health 
+11  ACOSOG 
+2.2 Exclusion Criteria 
+5. Patient has clinically and radiologically identified multi centric disease that is not amenable to a single 
+7. Patient has a medical contraindication to ALND or is considered a poor surgical risk due to a 
+2.3 Staging Criteria 
+12  ACOSOG 
+13  ACOSOG 
+1. Post Operative Registration with Randomization must be followed when the patient is eligible for this 
+2. Pre Registration with Intra Operative Randomization can be used for sites electing to randomize 
+4.1 ACOSOG Companion Study Z0010 
+4.2 Randomization Arms 
+4.2.1 Assessment of Stratification Factors 
+4.3 Registration/Randomization Procedures 
+4.3.1 Registration Worksheet 
+14  ACOSOG 
+4.3.2 Pre Registration with Intra operative Randomization 
+4. Confirmation of pre registration is e mailed from the ACOSOG Coordinating Center to the clinical site 
+6. Submission of the completed RW CRF is required within 24 hours following completion of patient 
+4.3.3 Post Operative Registration with Randomization 
+15  ACOSOG 
+1. Documented informed consent must be obtained prior to any study related procedures or assessment being 
+3. The registration and randomization process consists of accessing the ACOSOG website 
+4. Confirmation of the registration is e mailed from the ACOSOG Coordinating Center to the clinical site 
+4.3.4 North Central Cancer Treatment Group (NCCTG) Registration Instructions 
+16  ACOSOG 
+5.1 Intervention Scheme 
+5.2.2 Lymphoscintigraphy/ Intraoperative Gamma Counting 
+5.2.3 Sentinel Lymph Node Dissection (SLND) 
+17  ACOSOG 
+18  ACOSOG 
+5.2.4 Axillary Lymph Node Dissection (ALND) for Arm 1 
+19  ACOSOG 
+5.3 Study Withdrawal 
+1. If a patient was registered to the study based on cytologic diagnosis suggestive of carcinoma from FNA 
+20  ACOSOG 
+2. A patient with tumors located in the medial hemisphere of the breast that show a complete absence of 
+6.1 Subsequent Care 
+6.2 Disease Related Assessments 
+6.2.1 Suggested Assessments in Response to Symptoms 
+6.3 Assessment of Axillary Bed and Arm Effects 
+21  ACOSOG 
+8.1 Definition of Adverse Event 
+8.2 Definition of Serious Adverse Event 
+8.3 NCI Common Toxicity Criteria 
+8.4 Expected Adverse Events 
+8.4.1 Short Term Effects 
+8.4.2 Long Term Effects 
+22  ACOSOG 
+8.4.3 Reporting of Expected Adverse Events 
+8.5 Unexpected Adverse Events 
+8.5.1 Reporting of Unexpected Adverse Events 
+8.5.2 Attribution of Adverse Event 
+23  ACOSOG 
+8.6 Expedited Adverse Event Reporting 
+8.6.1 What to report: 
+8.6.2 When to report 
+8.6.3 How to report 
+24  ACOSOG 
+8.6.4 Where to report: 
+25  ACOSOG 
+26  ACOSOG 
+11.1 ACOSOG Membership 
+11.2 NCI Investigator Registration 
+11.3 Clinical Site Eligibility 
+11.4 OHRP Considerations 
+27  ACOSOG 
+11.5 Institutional Review Board Approval 
+11.6 Informed Consent 
+11.6.1 ACOSOG Preparation of the Model Informed Consent Document 
+11.6.2 Adaptation of the Model Informed Consent Document 
+11.6.3 Informed Consent Process 
+28  ACOSOG 
+11.7 Protection of Patient Rights 
+11.7.1 Protection from Unnecessary Harm 
+11.7.2 Confidentiality of Patient Data 
+11.8 Inclusion of Women and Minorities 
+29  ACOSOG 
+11.9 Clinical Site Audits 
+11.10 Clinical Monitoring 
+30  ACOSOG 
+31  ACOSOG 
+32  ACOSOG 
+15.1 Abbreviations 
+33  ACOSOG 
+34  ACOSOG 
+15.4 Cancer Trials Support Unit (CTSU) Participation Procedures 
+15.4.1 Registration / Ramdomization 
+35  ACOSOG 
+15.4.2 Data Submission 
+15.4.3 Adverse Event (AE) Reporting 
+36  ACOSOG 
+15.5 Model Informed Consent Document 
+37  ACOSOG 
+38  ACOSOG 
+39  ACOSOG 
+40  ACOSOG 
+41  ACOSOG 
+42  ACOSOG 
+43  ACOSOG 
+44  ACOSOG 
+45  ACOSOG 
+46  ACOSOG 
+2.1.15 Deleted 2nd paragraph: Women who participate in this study (Z0011) also may be registered to 
+2.3 (old version) Deleted section: The patient must have the ability to understand and the willingness to sign a 
+48  ACOSOG 
+9.1.1 (old 
+11.2 (this 
+49  ACOSOG 
+15.4 Added section: Cancer Trials Support Unit logistics 

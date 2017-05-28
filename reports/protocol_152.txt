@@ -1,0 +1,67 @@
+Processing the protocol with id 152
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. INTRODUCTION 
+I have not found anything about the rationales from titles, lets take a look for the introduction
+Rationales: NOT FOUND
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+10248	Phase II 	"... This finding is consistent with the Phase II data for  gefitinib, extensive..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. STUDY OBJECTIVES 
+Primary objectives: NOT FOUND
+For more information about the secondary objectives, go to sections:
+2.2 The secondary objectives of the study are: 
+Objectives: FOUND
+Occurrences in the text:
+12788	investigate 	"...   To investigate baseline biomarker data in consenting patients to ascertain if there  are any..."
+11489	compare 	"... s to compare gefitinib with carboplatin / paclitaxel  doublet chemotherapy given as first line treatment..."
+11733	compare 	"...   to compare the randomized treatment arms in terms of overall survival,  and to compare gefitinib with..."
+11809	compare 	"... d to compare gefitinib with carboplatin / paclitaxel doublet chemotherapy given as first line  treatment..."
+12622	compare 	"...   To compare gefitinib with carboplatin / paclitaxel doublet chemotherapy given as  first line treatment..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3. STUDY PLAN AND PROCEDURES 
+I found the following features of the study:
+placebo controlled
+prospective
+randomised
+3 Both treatment arm
+1 To allow for possible dose delays on both arm
+open label
+Phase III
+phase 3
+phase III
+placebo  controlled
+two treatment  regimen
+0  Platinum based chemotherapy has become established as the standard first line treatment for  advanced NSCLC with no evidence of a difference in the effectiveness of one regimen
+Placebo: found -> randomized-controlled study
+Occurrences in the text:
+48322	placebo	 "... Notably, in a large placebo  controlled phase 3..."
+48709	placebo	 "... from this large phase III  placebo controlled study..."
+48907	placebo	 "... survival relative to  placebo, although the..."
+49313	placebo	 "... therapy compared with placebo for never smokers of..."
+49511	placebo	 "... for patients receiving placebo to 8.9 months for ..."
+Allocation ratio: 1:1, 1:1, 1:1
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “7a how sample size was determined”...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 4.1 Progression Free Survival (PFS) is defined as the time from randomisation to the first 
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 6. STATISTICAL METHODS AND DETERMINATION OF 
+I found the following methods:
+141502 	 kaplan meier 	 "... ill also be displayed graphically using Kaplan Meier plots (Kaplan EL et al..."

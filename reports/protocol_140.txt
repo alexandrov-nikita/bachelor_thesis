@@ -1,0 +1,63 @@
+Processing the protocol with id 140
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1.0 Introduction 
+For more information about the rationales, go to sections:
+1.1 Background and Rationale 
+1.1.3 Rationale for the Use of CAELYX 
+1.1.4 Rationale for the Use of Paclitaxel HCl 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+18391	Phase I 	"... of  measurement.19  In 2 separate Phase I dose escalation studies, 56..."
+15848	clinical studies with	"... affecting normal tissue.  On going clinical studies with CAELYX suggest a..."
+19213	Phase II 	"... Of 35 patients enrolled in a Phase II study in  which CAELYX was..."
+19067	clinical activity	"... based on tumour markers.  Substantial clinical activity has been demonstrated..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 1.2 Objective 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+24473	compare 	"... s to compare the efficacy and safety of CAELYX versus  Paclitaxel HCl in patients with epithelial..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 1.3 Study Design 
+I found the following features of the study:
+open label
+prospective
+randomised
+7 CONFIDENTIAL    Doxorubicin HCl Liposome Injection  SEQUUS Pharm
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 2.0 Patient Enrollment 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 4.0 Administration of Study Drug 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 8.6.5 Statistical Power and Sample Size Considerations 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 2.4 Randomisation 
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 8.6 Data Analysis And Statistical Consideration 
+This part was defined, probably, at this section: 8.6.1 Data Analysis 
+I found the following methods:
+72377 	 log rank 	 "... entre, and all interactions. Stratified log rank test  (stratified by platinum..."
+73551 	 log rank 	 "... s will be compared using the stratified log rank  test as a primary analysis...."
+74869 	 log rank 	 "... .4 Duration of Response  The stratified log rank statistic will be used for..."
+77743 	 fleming 	 "... ed in the EaSt software 36 with O Brien Fleming  type spending function was..."
+72102 	 cochran mantel haenszel 	 "... tegorical data will be tested using the Cochran Mantel Haenszel  (CMH) tests,..."
+74547 	 cochran mantel haenszel 	 "... tment groups will be  conducted using a Cochran Mantel Haenszel analysis..."
+73616 	 wilcoxon 	 "... ry analysis. The stratified generalized Wilcoxon test will also be provided. ..."
+75029 	 wilcoxon 	 "... responders. The stratified generalized  Wilcoxon test will also be provided. ..."
+73473 	 kaplan meier 	 "... estimated for each treatment using the  Kaplan Meier method. The two treatments..."

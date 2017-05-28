@@ -1,0 +1,67 @@
+Processing the protocol with id 145
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 3.1 Introduction
+For more information about the rationales, go to sections:
+3.3 Rationale for Immunotherapy Including the Use of Pre 
+3.3.1 Rationale for Immunotherapy
+3.3.2 Rationale for Use of Cyclophosphamide
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+49129	Phase I 	"... Trials Trial Description B25 LG 300 Phase I open  label, safety &  dose..."
+66127	phase II 	"... (7.5) Survival data on the B25 LG 305 phase II trial is not yet available...."
+49194	Phase II 	"... &  dose comparison  study B25 LG 302 Phase II open  label, safety & ..."
+49285	Phase II 	"... Clinical Protocol Numbers B25 LG 303 Phase II open  label, dose  escalation..."
+50088	Phase II 	"... 07 Jan 2005 B25 LG 305 B25 PR 501 Phase II open label  study to assess..."
+50216	Phase II 	"... from GSK  Biologicals North  America Phase II open label  study to test the ..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 4Study Objectives
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+74618	evaluate 	"... ther evaluate the potential effect of L BLP25, the secondary endpoints will include: 1)  TTSP using the..."
+68282	compare 	"...   To compare survival duration of all randomized subjects in the primary analysis population by ..."
+68431	compare 	"... e to compare all randomized subjects in the primary analysis  population by treatment arm for:  Time to..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 5.3 Selection of the Study Population
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 8.6 Sample Size
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 7.7.4 Randomization
+Maybe this information will be interesting:
+88681	randomization will be stratified	"... l baseline evaluations, determination of subject eligibility, and  receipt of informed consent. The randomization will be stratified by disease stage (stage IIIA or  IIIB), response to primary chemo..."
+7943	will be randomized	"... stable  disease or objective response following primary  chemo radiotherapy  sequential).  Subjects will be randomized 2:1 either to L BLP25  drug product (hereinafter L BLP25 ) (investigational ..."
+69905	will be randomized	"... pproximately 250 centers worldwide (including 42 active  sites in the USA). In total, 1476 subjects will be randomized in a 2:1 ratio: either to L BLP25  (investigational arm) (984 subjects) or to..."
+70875	will be randomized	"... llowing a minimum washout period of 4  weeks (28 days) to a maximum of 12 weeks (84 days), subjects will be randomized in the study. In order to exclude subjects with metastatic disease it is..."
+88464	will be randomized	"... ndomization and before the first treatment administration has to be  documented carefully. Subjects will be randomized 2:1 to either the investigational arm (L BLP25) or the placebo arm  following..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 6.3.1 Blinding
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 8.4 Description of Statistical Analyses
+I found the following methods:
+189233 	 fleming 	 "... t with a one sided level 0.001  O Brien Fleming design.  A futility boundary..."
+189410 	 fleming 	 "... ic group sequential design with O Brien Fleming boundary  relationships. Under..."
+219959 	 fleming 	 "...  Biometrika 1986;73:573 581 Emerson SS, Fleming TR. Symmetric group sequential..."
+220236 	 fleming 	 "... 5051  5253  5455 5657  5859 Emerson SS, Fleming TR. Parameter estimation..."
+168208 	  cox  	 "... ical  hypothesis testing methods such as Cox Regression, etc! Ninety five..."
+169637 	  cox  	 "... y variable, survival duration, will be a Cox proportional  hazards regression..."
+170262 	  cox  	 "... a, Eastern Europe and Asia ).  Using the Cox proportional hazards regression..."
+184389 	  cox  	 "... ompared to those receiving placebo using Cox regression. The time to  worsening..."
+184805 	  cox  	 "... ompared to those receiving placebo using Cox regression. The time to  worsening..."
+185283 	  cox  	 "... mpared to those receiving placebo  using Cox regression. The time to worsening..."
+179404 	 kaplan meier 	 "...  each subject s randomization using the Kaplan Meier estimates. Document No...."

@@ -1,0 +1,73 @@
+1.0 INTRODUCTION 
+1.3 Immunotherapy utilizing BCG (bacille Calmette Gu rin) and autologous tumor 
+1.5 One possible cause for the reported lack of efficacy of adjuvant treatments in Stage 
+2.0 OBJECTIVES 
+2.1 To determine whether adjuvant treatment with MoAb 17 1A will improve the 
+2.2.2 To determine whether alterations in markers of metastatic potential expression of 
+2.2.3 To determine whether a marker of cellular differentiation sucrase isomaltase 
+2.2.4 To determine whether DNA ploidy and cell proliferation are prognostic of tumor 
+2.2.5 To determine whether interactions among these tumor markers identify subsets 
+3.0 ELIGIBILITY CRITERIA 
+3.1 Introduction 
+3.2 Required Tumor Parameters 
+3.2.1 Pathologic documentation of adenocarcinoma of the colon with or without 
+3.12 Required Initial Laboratory Data: 
+4.1 Randomization 
+4.1.1 Randomization Requirements 
+4.1.2 CALGB Randomization Procedures 
+4.1.3 ECOG Randomization Procedures 
+4.1.4 SWOG Randomization Procedures 
+4.1.5 NCCTG Randomization Procedures 
+4.1.6 CRCTU Randomisation Procedures 
+4.1.7 NCIC CTG Randomization Procedures 
+4.1.8 EORTC Randomization Procedures 
+4.2 Stratification Factors 
+4.2.1 Histology Degree of differentiation 
+4.3.1 Data Form Submission: Data forms should be submitted to the following 
+4.3.2 Treatment Codes 
+4.3.3 Submission Schedule for Follow up and Adverse Event Forms 
+4.4 Sample Procurement 
+4.4.1 CALGB Institutions 
+4.4.2 ECOG Institutions 
+4.4.3 SWOG Institutions 
+4.4.4 NCCTG Institutions 
+4.4.5 CRCTU Institutions 
+4.4.6 NCIC CTG Institutions 
+4.4.7 EORTC Institutions 
+4.5 Pathologic and Histologic Studies 
+5.0 REQUIRED DATA 
+6.0 TREATMENT PLAN 
+6.1 Therapy with monoclonal antibody 17 1A must not commence earlier than 7 
+6.2 All patients must be observed by appropriately qualified personnel for at least one 
+7.0 TOXICITY MANAGEMENT AND DOSE MODIFICATIONS 
+7.1 Gastrointestinal Toxicity: The routine use of all antiemetics except dexamethasone 
+7.2.3 If adverse experiences related to MoAb 17 1A infusion occur at some point 
+8.2 Additional Instructions for CRCTU Institutions 
+8.3 Additional Instructions for EORTC Institutions: 
+9.0 ANCILLARY THERAPY 
+9.2 Treatment with hormones or other chemotherapeutic agents may not be administered 
+10.0 CRITERIA FOR RELAPSE 
+10.1 Objective Relapse: 
+11.0 REMOVAL OF PATIENTS FROM PROTOCOL THERAPY 
+11.1 Duration of Treatment: Patients with clear disease progression at any time during 
+12.0 ADVERSE EVENT REPORTING (AER) 
+12.1 CALGB Investigators: 
+12.1.2 Reporting requirements and procedures depend upon: (1) whether investigational 
+12.2 ECOG Investigators 
+12.3 SWOG Investigators 
+12.4 NCCTG Investigators 
+12.5 CRCTU Investigators 
+12.6 NCIC CTG Investigators 
+12.7 EORTC Investigators 
+12.7.1 Secondary malignancies 
+12.7.2 Serious Adverse Event Definitions 
+12.7.3 Reporting Procedures 
+12.7.4 Serious adverse events or serious adverse drug reactions 
+13.0 STATISTICAL CONSIDERATIONS 
+13.1 Background 
+13.2 Sample Size 
+13.3 Analyses 
+13.4 Interim Monitoring 
+13.5 Women and Minorities 
+14.0 REFERENCES 
+15.0 INFORMED CONSENT FORM 

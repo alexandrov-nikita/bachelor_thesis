@@ -1,0 +1,89 @@
+1. INTRODUCTION 
+1.1. Background 
+1.1.1. Pharmacokinetic and pharmacodynamic studies were conducted in the rat 
+1.1.2. Single dose intravenous toxicity studies were conducted with VELCADE in 
+1.1.3. The clinical pharmacology characterization of VELCADE has been 
+1.2. Potential Risks of VELCADE 
+1.3. Melphalan and Prednisone as Front line Therapy in 
+1.4. Overall Rationale for the Study 
+2. OBJECTIVES 
+3.2. Study Design Rationale 
+3.2.1. Patients with newly diagnosed multiple myeloma require treatment if the 
+4.2. Inclusion Criteria 
+4.3. Exclusion Criteria 
+5.2. Procedures 
+6.2. Dose Modification and Delay 
+6.2.1. The start of a NEW cycle can be delayed on a weekly basis (for a maximum 
+6.2.2. VELCADE Dose Modifications for Hematologic 
+6.2.3. Melphalan Dose Modifications for Hematologic 
+6.2.5. VELCADE Dose Modifications for Neuropathic Pain 
+8.2. Therapy for Tumor Lysis Syndrome 
+8.3. Permitted Therapies 
+8.4. Excluded Therapies 
+8.5. Recording of Concomitant Medications 
+8.6. Subsequent Therapies 
+9.1.1. The Time and Events Schedule summarizes the frequency and timing of 
+9.2. Pharmacokinetic Evaluations 
+9.2.1. Venous blood 
+9.2.2. Concentrations of VELCADE in plasma will be determined using a validated 
+9.2.3. Full plasma concentration time profiles of VELCADE will be obtained from 
+9.3. Efficacy Evaluations 
+9.3.1. Myeloma Protein Measurements in Serum and Urine 
+9.3.2. Bone marrow aspiration and biopsy are to be performed for all subjects 
+9.3.5. Blood samples for calculating serum calcium corrected for albumin will be 
+9.3.6. Blood samples for beta2 microglobulin and albumin are to be collected in the 
+9.3.7. Assessment of Progressive Disease and Disease 
+9.3.9. The EQ 5D is a 5 item questionnaire and a thermometer visual analogue 
+9.4. Efficacy Criteria 
+9.5. Pharmacogenomics 
+9.5.3. Genetic Testing Directly Linked to the Clinical Study 
+9.5.4. Subjects will be asked also to provide consent for a DNA sample to be stored 
+9.6. Proteomics 
+9.6.1. The use of analytic methods to identify tumor (or surrogate) biomarkers is an 
+9.6.2. Proteomic blood samples will be collected from a subset of subjects 
+9.7. Safety Evaluations 
+10.2. Discontinuation of Treatment 
+10.3. Withdrawal From the Study 
+11.2. Sample Size Determination 
+11.3. Pharmacokinetics 
+11.4.1. The primary analysis will consist of a stratified log rank test for the 
+11.4.2. The OS and PFS between the 2 treatments will be compared using a 
+2 treatment 
+11.4.3. Patient reported outcome assessments using the EORTC QLQ C30 and 
+11.4.4. Demographic and baseline characteristics will be summarized by treatment 
+11.5. Interim Analyses 
+11.6. Safety Analyses 
+11.7. Pharmacogenomic Analyses 
+11.8. Proteomic Analyses 
+12. ADVERSE EVENT REPORTING 
+12.1. Definitions 
+12.1.1.  Adverse Event 
+12.2. Procedures 
+12.2.2. Serious adverse events should be recorded until 30 days after the last dose of 
+12.2.3. Subject pregnancy must be reported by the investigational staff within 
+12.3. Contacting Sponsor Regarding Safety 
+13.2. Packaging 
+13.3. Labeling 
+13.4. Preparation and Handling 
+13.5. Drug Accountability 
+14. STUDY SPECIFIC MATERIALS 
+15.2. Regulatory Ethics Compliance 
+15.2.1. The investigator is responsible for ensuring that the clinical study is 
+15.2.2. Independent Ethics Committee or Institutional 
+15.2.4. The collection and processing of personal data from subjects enrolled in this 
+16. ADMINISTRATIVE REQUIREMENTS 
+16.1. Protocol Modifications 
+16.2. Regulatory Documentation 
+16.2.1. This protocol and any amendment(s) must be submitted to the appropriate 
+16.2.2. The following documents must be provided to the sponsor before shipment 
+16.3. Subject Identification Register and Subject Screening 
+16.4. Case Report Form Completion 
+16.5. Data Quality Assurance 
+16.6. Record Retention 
+16.7. Monitoring 
+16.8. Study Completion/Termination 
+16.8.1. The study is considered completed with the last visit of the last subject 
+16.8.2. The sponsor reserves the right to close the investigational site or terminate 
+16.9. On Site Audits 
+16.10. Use of Information and Publication 
+17. REFERENCES 

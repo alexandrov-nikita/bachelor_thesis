@@ -1,0 +1,79 @@
+1.2 Secondary 
+1.3 Exploratory 
+2.2 AMG 162 Background 
+2.2.1 Preclinical Studies 
+2.2.1.1 Pharmacokinetic Studies 
+2.2.1.2 Toxicology Studies 
+2.2.2 Safety Profile 
+2.2.3 Clinical Efficacy 
+2.3 Rationale 
+2.4 Clinical Hypothesis 
+3.2 Number of Centers 
+3.3 Number of Subjects 
+3.4 Estimated Study Duration 
+3.4.1 Safety Follow up phase 
+4. SUBJECT ELIGIBILITY 
+4.1 Inclusion Criteria 
+4.1.1 Histologically or cytologically confirmed adenocarcinoma of the breast 
+4.1.4 Female (cid:116) 18 years of age 
+4.1.5 ECOG Performance status 0 and 1 
+4.2 Exclusion Criteria 
+4.2.2 Evidence of distant metastases 
+4.2.3 Prior history of non traumatic fracture or vertebral fracture after the age of 25 
+4.2.10 Recurrence of the primary malignancy 
+4.2.12 Evidence of any of the following conditions per subject self report or chart review: 
+4.2.13 Inadequate organ function as defined by the following criteria: 
+4.2.14 25 hydroxy Vitamin D 12 ng/mL 
+4.2.16 Currently enrolled in or has not yet completed at least 4 weeks washout since 
+4.2.17 Known sensitivity to mammalian derived products 
+4.2.19 Self reported drug or alcohol abuse within the previous 24 weeks before study 
+5. SUBJECT ENROLLMENT 
+5.1 Subject Identification Number Assignment 
+5.2 Randomization 
+6.3 Concomitant Therapy 
+6.4 Proscribed Therapy During the Treatment Period 
+7. STUDY PROCEDURES 
+7.1 Medical History 
+7.2 Medication History 
+7.3 Physical Examination 
+7.4 Vital Signs 
+7.5 Blood and Laboratory Assessments 
+7.5.1 Biomarker Development 
+7.6 Calcium and Vitamin D Supplementation 
+7.7 Dual X ray Absorptiometry (DXA) Assessment 
+7.7.1 Screening DXA 
+7.7.2 On Study DXA 
+7.9 Non vertebral Fracture Recording 
+7.10 Bone and Cartilage Marker 
+7.11 Concomitant Therapy 
+7.12 Adverse Events 
+7.13 Information Collected During Safety Follow Up Phase
+8.2 Removal From Study Medication 
+8.3 Replacement of Subjects 
+9.1.1 Adverse Events 
+9.1.2 Serious Adverse Events 
+9.2 Reporting Procedures for All Adverse Events 
+9.3 Serious Adverse Event Reporting Procedures 
+10.2.1 Endpoints 
+10.2.2 Covariates 
+10.2.3 Stratification 
+10.2.4 Subsets 
+10.3 Sample Size Considerations 
+10.4 External Data Monitoring Committee 
+10.5 Interim Analysis and Early Stopping Guidelines 
+10.6 Planned Methods of Analysis 
+10.6.1 General Approach/Considerations 
+10.6.2 Analysis of Key Study Endpoints 
+10.6.2.1 Efficacy Endpoints 
+10.6.2.2 Safety Endpoints 
+10.6.2.3 Exploratory Analyses 
+11.2 Access to Blinded Investigational Product Assignment 
+12.2 Independent Ethics Committee/Institutional Review Board 
+12.3 Prestudy Documentation Requirements 
+12.4 Subject Confidentiality 
+12.5 Investigator Signatory Obligations 
+13.2 Study Documentation and Storage 
+13.3 Study Monitoring and Data Collection 
+13.4 Language 
+13.5 Publication Policy 
+13.6 Compensation 

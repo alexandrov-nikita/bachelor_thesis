@@ -1,0 +1,8718 @@
+Janssen Research & Development 
+
+Clinical Study Report 
+
+[Protocol SEQUUS-30-49; Phase 3] 
+
+JNJ-17302753-AAC  (Doxorubicin HCl Liposome Injection) 
+
+Redaction and Removal of Information in This Document 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Information  (including  individual  data  listings,  where  applicable)  has  been  removed  or 
+redacted to protect the privacy of patients, study subjects, and all named persons associated 
+with  the  study.  Names  of  companies  other  than  Janssen  Research  &  Development  or 
+Johnson & Johnson affiliates have been redacted, unless a contractual agreement is in place 
+with those companies to disclose their names. 
+ 
+Information has been removed or redacted to protect commercially confidential information. 
+  Aggregate  data  have  been  included,  with  any  direct  reference  to  an  individual  patient  or 
+
+study subject excluded. 
+
+  To  disclose  as  much  scientifically  useful  data  as  possible,  no  information  other  than  that 
+
+outlined above has been removed or redacted. 
+
+Confidentiality Statement 
+
+The information in this document contains trade secrets and commercial information that are privileged or confidential and may 
+not be disclosed unless such disclosure is required by applicable law or regulations. In any event, persons to whom the 
+information is disclosed must be informed that the information is privileged or confidential and may not be further disclosed by 
+them. These restrictions on disclosure will apply equally to all future information supplied to you that is indicated as privileged 
+or confidential. 
+
+Doxil:  Clinical Study Report 30-49
+
+A Phase III, Randomized, Open-Label, Comparative Study of DOXIL®/CAELYX™ 
+
+versus Topotecan HCl in Patients with Epithelial Ovarian Carcinoma Following 
+
+Failure of First-Line, Platinum-Based Chemotherapy 
+
+ALZA Corporation         
+1900  Charleston Road 
+Mountain View, CA 94043 
+ 
+ 
+
+IND#:  36,778 
+Protocol No.:  SEQUUS-30-49 
+Date:  January 24, 1997 
+Administrative Change:  March 6, 1997 
+Amendment #1:  December 8, 1997 
+Amendment #2:  March 1, 1999 
+Amendment #3:  March 26, 2001 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This material is the property of SEQUUS Pharmaceuticals, Inc. The information is 
+confidential and is to be used only in connection with matters authorized by SEQUUS 
+Pharmaceuticals and no part is to be disclosed to others, reproduced, or quoted without 
+prior written permission from SEQUUS Pharmaceuticals.  
+ 
+DOXIL and CAELYX are registered trademarks of SEQUUS Pharmaceuticals, Inc. 
+DOXIL is known as CAELYX in certain countries and was formally known as DOX-SL in Europe.
+
+ 
+ 
+ 
+
+890 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+TABLE OF CONTENTS 
+
+ 
+ 
+ 
+Protocol Synopsis ...............................................................................................................v 
+
+Page 
+
+DOXIL/CAELYX Schedule of Events .......................................................................... vii 
+
+Topotecan HCl Schedule of Events .............................................................................. viii 
+
+1.0 
+
+2.0 
+
+3.0 
+
+Introduction............................................................................................................2 
+1.1  Background and Rationale...................................................................................2 
+1.2  Objective..............................................................................................................6 
+1.3  Study Design........................................................................................................6 
+Patient Enrollment.................................................................................................7 
+2.1 
+Inclusion Criteria..................................................................................................7 
+2.2  Exclusion Criteria ................................................................................................8 
+2.3  Patient Registration..............................................................................................8 
+2.4  Randomization.....................................................................................................9 
+Study Activities.......................................................................................................9 
+
+3.1  Pretreatment (within 7 days prior to first dose of study drug, unless otherwise 
+specified)........................................................................................................................9 
+3.2  Day 1 (DOXIL/CAELYX) or Days 1-5 (Topotecan).........................................10 
+3.3  Weekly ...............................................................................................................10 
+3.4  Every Cycle........................................................................................................11 
+3.5  Every 2 Cycles ...................................................................................................11 
+3.6  Every 8 Weeks ...................................................................................................11 
+3.7  End of Treatment (4 weeks after the last dose)..................................................11 
+3.8  Follow-Up (every 3 months after the last dose).................................................12 
+3.9  Study Completion ..............................................................................................12 
+Administration of Study Drug............................................................................13 
+4.1 
+Investigational Drug Supply ..............................................................................13 
+4.2  Dose, Administration and Treatment Schedule .................................................13 
+4.3  Precautions.........................................................................................................14 
+4.4  Criteria for Temporary Suspension or Premature Discontinuation of Therapy.16 
+Concomitant Medications ...................................................................................17 
+
+Adverse Experiences............................................................................................17 
+
+891 
+ii 
+
+4.0 
+
+5.0 
+
+6.0 
+
+ 
+ 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+8.0 
+
+9.0 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+6.1  Definitions..........................................................................................................17 
+6.2  Reporting Adverse Events .................................................................................17 
+6.3  Serious Adverse Events .....................................................................................19 
+7.0  Health-related Quality of Life ............................................................................20 
+7.1  Background and Objectives ...............................................................................20 
+7.2  Schedule of HQL Evaluations............................................................................21 
+Study Analysis......................................................................................................21 
+8.1  Definitions of Disease........................................................................................22 
+8.2  Definitions of Response.....................................................................................22 
+8.3  Efficacy Assessments.........................................................................................23 
+8.4  Stratification.......................................................................................................24 
+8.5  Patient Populations ............................................................................................24 
+8.6  Data Analysis And Statistical Consideration.....................................................24 
+8.7 
+Interim Analysis.................................................................................................28 
+8.8  Additional ..........................................................................................................28 
+8.9  Safety Analyses..................................................................................................29 
+Study Administration and Investigator Obligations ........................................29 
+Institutional Review Board ................................................................................29 
+9.1 
+9.2 
+Informed Consent...............................................................................................29 
+9.3  Drug Accountability...........................................................................................30 
+9.4  Record Retention ...............................................................................................31 
+9.5  Case Report Forms.............................................................................................31 
+9.6  Monitoring the Study .........................................................................................32 
+9.7  Termination of Study .........................................................................................32 
+9.8  Study Amendments............................................................................................32 
+9.9  Publication Statement ........................................................................................33 
+ References............................................................................................................34 
+
+10.0 
+
+APPENDIX I 1988 FIGO Staging System For Ovarian Carcinoma...........................38 
+
+Tumor involves one or both ovaries plus distant metastasis; pleural effusion must be 
+cytologically positive to be considered stage IV; or presence of parenchymal liver 
+metastasis ...........................................................................................................................38 
+
+Appendix II  
+
+ Karnofsky Performance Status..........................................................39 
+
+Appendix III New York State Heart Association Classification .................................40 
+
+Appendix IV Instructions For Drug Storage and Administration of 
+DOXIL/CAELYX ............................................................................................................41 
+
+ 
+ 
+
+892 
+iii 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+Appendix V Topotecan Package Insert..........................................................................43 
+
+Appendix VII NCI Common Toxicity Criteria .............................................................49 
+
+Appendix VIII Health-related Quality of Life Questionnaire.....................................54 
+
+Appendix IX HQL Administration Guidelines.............................................................60 
+
+APPENDIX X   DECLARATION OF HELSINKI.......................................................67 
+
+ 
+ 
+
+893 
+iv 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Protocol Synopsis 
+
+TITLE:  A Phase III, Randomized, Open-Label, Comparative Study of 
+DOXIL®/CAELYX™  versus Topotecan HCl in Patients with Epithelial Ovarian 
+Carcinoma Following Failure of First-Line, Platinum-Based Chemotherapy 
+
+OBJECTIVE:  The objective of this study is to compare the efficacy and safety of 
+DOXIL/CAELYX versus topotecan HCl in patients with epithelial ovarian carcinoma 
+following failure of first-line, platinum-based chemotherapy.   
+
+PRIMARY ENDPOINT:  Time to progression following treatment with either 
+DOXIL/CAELYX or topotecan. 
+
+SECONDARY ENDPOINTS: Response rate, time to response, duration of response, 
+health-related quality of life assessment, survival, and quality-adjusted survival following 
+treatment with either DOXIL/CAELYX or topotecan. 
+
+PATIENT POPULATION:  Up to a total of 460 protocol-eligible patients (in order to 
+obtain 370 evaluable patients), with epithelial ovarian carcinoma following failure of 
+first-line, platinum-based chemotherapy. 
+
+STUDY DESIGN: This is a randomized, open-label, comparative study of 
+DOXIL/CAELYX versus topotecan in the treatment of patients with epithelial ovarian 
+carcinoma following failure of first line chemotherapy with a platinum-based regimen.  
+Patients entering the trial will be stratified prospectively for platinum-sensitivity and 
+bulky disease.  Protocol-eligible patients, with measurable or measurable and evaluable 
+disease, who have received no more than one prior regimen, which was platinum-based, 
+will be randomized to receive either a one-hour intravenous infusion of 
+DOXIL/CAELYX, 50 mg/m2 every 4 weeks, or topotecan, 1.5 mg/m2/day as a 30 minute 
+infusion for 5 consecutive days every 3 weeks.  Patients will be treated for up to one year.  
+Patients with ongoing clinical benefit may continue study drug upon approval of the 
+sponsor.  
+
+Patients will undergo appropriate radiologic imaging (x-ray, CT scan, MRI) to document 
+baseline disease, as well as a chest x-ray and an assessment of left ventricular ejection 
+fraction (LVEF) by MUGA scan within 30 days prior to the first dose of study drug. 
+Patients will be followed weekly for hematologic toxicities.  Radiologic imaging will be 
+repeated every 8 weeks to assess disease status.  Patients who achieve complete or partial 
+response will have the radiologic imaging repeated 4 weeks later to confirm the initial 
+observation of response.  All patients will be followed for a minimum of one year for 
+survival. 
+
+ 
+ 
+
+894 
+v 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+LVEF will be assessed by MUGA at baseline, when the cumulative anthracycline dose 
+reaches 300 mg/m2, and after every 2 cycles of DOXIL thereafter. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+STATISTICAL RATIONALE AND ANALYSIS:  A statistical rationale for the number 
+of patients has been provided using the proportional hazard model.  Two interim analyses 
+are planned after approximately 200 and 280 evaluable patients have either experienced 
+disease progression or have been on study for at least 6 months. 
+
+SAFETY:  Physical examinations, hematology, serum chemistry, urinalysis, and patient 
+monitoring for adverse events. 
+
+ANTICIPATED STUDY START: December, 1996 
+
+ANTICIPATED ENROLLMENT COMPLETION: December, 1998 
+
+ANTICIPATED STUDY COMPLETION: December, 1999 
+
+ 
+ 
+
+895 
+vi 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+DOXIL/CAELYX Schedule of Events 
+
+Pre- 
+Treat-
+ment1 
+
+Day 1  Weekl
+
+y 
+
+ 
+
+Every 
+cycle 
+
+Every 
+8 weeks 
+
+Every 
+
+2 
+cycle
+s 
+
+Follow-up  
+every 3 mo. 
+after last 
+
+dose 
+
+End of 
+Treatmen
+
+t 
+
+(4 weeks 
+after last 
+dose) 
+
+X 
+
+ 
+X 
+X 
+
+X4 
+X 
+X 
+X 
+X 
+X 
+X 
+
+X 
+ 
+
+ 
+
+X2 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+X 
+ 
+X 
+
+ 
+ 
+ 
+X 
+X 
+X 
+ 
+ 
+X 
+
+ 
+
+ 
+ 
+ 
+
+ 
+X6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+X5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+X 
+ 
+X 
+
+ 
+X 
+ 
+X 
+X 
+X 
+X 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Parameter 
+
+Informed Consent 
+Health-related Quality of 
+Life Questionnaire 
+Medical History 
+Physical Examination 
+Radiologic Assessment 3 
+
+MUGA3 
+12-lead Electrocardiogram 
+Hematology 
+Serum Chemistry 
+CA-125 
+Urinalysis 
+Pregnancy Test7 
+
+DOXIL/CAELYX 
+Administration 
+Concomitant Medications 
+
+ 
+ 
+ 
+
+X 
+X 
+ 
+
+ 
+ 
+ 
+
+X 
+X 
+ 
+
+ 
+ 
+ 
+
+Monitor for Adverse 
+Events 
+Survival 
+1.  Within 7 days prior to first dose of DOXIL/CAELYX unless otherwise noted. 
+2.  Health-related Quality of Life will be completed on the day of administration of each dose of study drug, prior to 
+
+ 
+ 
+X 
+
+ 
+ 
+ 
+
+X 
+X 
+ 
+
+physical examination and drug administration. 
+
+3.  Within 30 days prior to first dose of DOXIL/CAELYX. 
+4.  Chest X-ray and appropriate CT scans or MRI at baseline.  
+5.  Radiologic assessment of response using same methodology as at baseline.  Responses must be confirmed 4 
+
+weeks later using the same radiographic methodology. 
+
+6.  After patient has received 300 mg/m2 cumulative anthracycline dose, MUGA will be obtained after every 2 cycles 
+
+of DOXIL thereafter. 
+
+7.  For women of child bearing potential. 
+
+ 
+ 
+
+896 
+vii 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Topotecan HCl Schedule of Events 
+
+Pre- 
+
+Treatment1 
+
+Days 
+1-5 
+
+ 
+
+Weekly 
+
+Every  
+cycle 
+
+Every 
+8 weeks 
+
+ 
+ 
+Parameter 
+
+End of 
+Treatmen
+
+t 
+
+(4 weeks 
+after last 
+dose) 
+
+ 
+
+Follow-up 
+every 3 mo. 
+after End of 
+Treatment 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+X 
+
+ 
+
+X 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+X4 
+
+X2 
+
+X 
+X 
+
+X 
+X 
+
+Informed Consent 
+Health-related Quality 
+of Life Questionnaire 
+Medical History 
+Physical Examination 
+Radiologic 
+Assessment3,5 
+MUGA3 
+12-lead 
+Electrocardiogram 
+Hematology 
+Serum Chemistry 
+CA-125 
+Urinalysis 
+Pregnancy Test6 
+Topotecan 
+Administration 
+Concomitant 
+Medications 
+Monitor for Adverse 
+Events 
+Survival 
+ 
+1.  Within 7 days prior to first dose of topotecan unless otherwise noted. 
+2. 
+
+X 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+X 
+
+X 
+X 
+X 
+X 
+
+X 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+X 
+
+X 
+
+ 
+
+ 
+
+X 
+
+ 
+X 
+
+ 
+
+ 
+ 
+
+X 
+X 
+X 
+ 
+ 
+X 
+
+X 
+
+X 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+X 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+X 
+
+ 
+X 
+
+ 
+
+X 
+ 
+
+X 
+X 
+X 
+X 
+ 
+ 
+
+X 
+
+X 
+
+ 
+
+Health-related Quality of Life will be completed on the day of administration of first dose of study drug prior to physical examination and drug 
+administration. 
+
+3.  Within 30 days prior to first dose of topotecan.  
+4. 
+5. 
+
+Chest X-ray and appropriate CT scans or MRI at baseline.  
+Radiologic assessment of response using same methodology as at baseline.  Responses must be confirmed 4 weeks later using the 
+same radiographic methodology. 
+For women of child-bearing potential. 
+
+6. 
+ 
+
+ 
+ 
+
+897 
+viii 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+1.0  Introduction 
+
+ 
+
+ 
+
+1.1  Background and Rationale 
+
+ 
+
+1.1.1  Ovarian Cancer 
+
+In the United States and European countries, ovarian cancer is the most frequent cause of 
+death due to gynecologic malignancies.  Approximately 26,700 women in the U.S. alone 
+will be diagnosed with ovarian cancer in 1996, with an estimated 14,800 deaths due to the 
+disease.1  Although the median age at diagnosis is 59 years, the highest age-related 
+incidence is seen in women in their mid-to-late 70s.  Survival correlates most strongly 
+with surgical staging, and 5-year survival rates for Stages I, II, III, and IV are 74%, 58%, 
+30%, and 19%, respectively.  Ovarian cancer is rarely detected in an early stage; 75% to 
+85% of patients are first diagnosed with advanced disease (Stages III and IV).2, 3  
+
+The extent of disease in ovarian cancer patients is generally described as either "early 
+stage" or "late stage."  For patients with advanced-stage (Stage III or IV) disease, 
+combined modality therapy, consisting of aggressive surgical debulking followed by 
+platinum-based combination chemotherapy, is the standard of care. 4   With carboplatin- 
+or cisplatin-based therapy, a response rate of 60% to 80%  is seen, with a complete 
+response rate of 30% to 50%.5,6  Platinum-based multidrug chemotherapy produces a 
+slightly better overall response rate, but no difference in survival.  Median survival is 18 
+to 24 months, and 5-year survival for patients with Stage III and IV disease is 15% to 
+20%.5 As a result of recent GOG studies, paclitaxel and cisplatin therapy is considered by 
+many to be the new standard of care for patients with advanced-stage ovarian cancer.7  
+The majority of patients with advanced-stage ovarian cancer  have a complete clinical 
+response (defined by normal physical exam, CT studies, and CA 125) following surgical 
+debulking and post-operative chemotherapy.8  However, only 50% of these patients have 
+a complete pathological response (defined by negative biopsy specimens obtained during 
+second-look laparotomy). 9  
+
+Platinum-sensitivity, which is defined by response to first-line platinum-based therapy, is 
+predictive of the response to subsequent retreatment with a platinum-containing regimen.  
+Patients who have disease progression during treatment or those who have had stable 
+disease in response to initial platinum-based therapy or who relapse within 6 months are 
+considered to have platinum-refractory disease.  On the other hand, patients with 
+recurrent disease are designated as potentially "platinum-sensitive" if they have a 
+progression-free interval of greater than 6 months after response to first-line platinum-
+based chemotherapy.  These patients have a 20% to 30% chance of responding to 
+ 
+ 
+
+2 
+
+898 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+retreatment with platinum-based chemotherapy and they are also likely to respond to non-
+platinum regimens.  In general, a worse prognosis is seen for those patients with 
+progressive disease during their initial chemotherapy, residual bulky disease after initial 
+therapy, or recurrent disease within 6 months of treatment.  Such patients are much less 
+likely to respond to subsequent cytotoxic chemotherapy regimens.10, 11  
+
+Patients with recurrent disease have usually been exposed to platinum (cisplatin and/or 
+carboplatin) and/or an alkylator, with or without an anthracycline, or paclitaxel.  While a 
+patient with recurrent disease is rarely cured, some patients can be rendered disease-free 
+for variable periods of time, even years.  In the majority of patients with recurrent disease, 
+radiographic evidence of persistent disease, with or without chemical evidence or 
+findings on physical examination, will be present.  In other instances, evidence of disease 
+may be present only on physical examination or suspected on the basis of a rising 
+CA-125.12  
+
+CA-125 levels may be elevated in up to 80% of ovarian malignancies. Because serum 
+CA-125 levels may also be elevated or fluctuate in the presence of non-malignant 
+conditions, measurement of CA-125 has not proven to be useful as a screening test. 
+However, decreasing levels are often associated with response to therapy and increasing 
+levels with tumor progression. 12  
+
+ 
+
+ 
+
+1.1.2  Chemistry and Pharmacology of DOXIL/CAELYX 
+
+The anthracycline antibiotic doxorubicin has a broad spectrum of antineoplastic action 
+and a correspondingly widespread degree of clinical use.  In addition to its role in the 
+treatment of breast cancer, doxorubicin is indicated in the treatment of Hodgkin’s Disease 
+and non-Hodgkin’s lymphoma, hepatocellular and gastric carcinoma, small cell cancer of 
+the lung, soft tissue and bone sarcomas, as well as cancer of the ovary, bladder, and 
+thyroid.  Unfortunately, toxicity often limits the therapeutic activity of doxorubicin and 
+may preclude adequate dosing. 
+
+The conventional formulation of the drug is rapidly cleared from the bloodstream and has 
+a very large volume of distribution, which may contribute to the drug's toxicity.  High 
+cumulative doses of doxorubicin generally must be avoided because of the potential for 
+cardiotoxicity, while individual doses are often limited by myelosuppression.  Alopecia 
+typically develops and persists throughout treatment.  Severe acute nausea and vomiting, 
+stomatitis, and esophagitis are additional adverse effects of doxorubicin that may 
+necessitate dose-reduction or discontinuation of the drug.  A doxorubicin formulation 
+with improved tolerability would increase the drug's therapeutic ratio and thus enhance its 
+efficacy. 
+
+ 
+ 
+
+3 
+
+899 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+Liposomal encapsulation of doxorubicin may reduce both the nonspecific drug delivery to 
+normal tissues as well as the high peak plasma levels of free drug responsible for its 
+toxicity.  At the same time, a liposomal formulation may deliver doxorubicin to tumors 
+with improved specificity.  DOXIL®/CAELYX™ is a doxorubicin formulation in which 
+the drug is encapsulated in liposomes (STEALTH® liposomes) that escape instant 
+recognition and uptake by the mononuclear phagocyte system.  As a result, the 
+formulation has a long circulation time, and the liposomes can eventually become 
+extravasated through the abnormally permeable vessels characteristic of many tumors.  
+Once concentrated in tumors, the liposomes of DOXIL/CAELYX can deliver high levels 
+of doxorubicin to malignant cells, without affecting normal tissue. 13 
+
+On-going clinical studies with DOXIL/CAELYX suggest a favorable toxicity profile 
+when compared with standard anthracyclines.  Evaluation of the long-term cardiac effects 
+of DOXIL/CAELYX, as compared to the conventional formulation of doxorubicin, is on-
+going.  There is evidence suggesting that DOXIL/CAELYX is less cardiotoxic than 
+conventional doxorubicin.  Histologic examination of cardiac biopsies from patients who 
+received cumulative doses of DOXIL/CAELYX from 440 to 840 mg/m2, and had no prior 
+exposure to anthracyclines, revealed significantly less cardiac toxicity than in matched 
+doxorubicin controls (p < 0.001). 14 In addition to diminished cardiac toxicity, diminished 
+gastrointestinal toxicity (nausea/vomiting), decreased incidence of alopecia, and a shorter 
+depth and duration of granulocytopenia have been noted. 13 
+
+ 
+
+ 
+
+1.1.3  Rationale for the Use of DOXIL/CAELYX 
+
+Doxorubicin has not had a role as a salvage agent for ovarian cancer after cisplatin-based 
+chemotherapy; response rates have been low and toxicity has been substantial.  Moreover, 
+a reduced sensitivity to doxorubicin in a clonogenic assay in tumors obtained from 
+patients after initial doxorubicin treatment has been described.15  It is unclear what 
+accounts for this decreased sensitivity, and one possibility is enhanced multi-drug 
+resistant 1 (MDR1) expression.16 
+
+Liposomal encapsulation may overcome resistance mediated by MDR1.17,18  Furthermore, 
+several animal studies have shown that STEALTH® liposomal doxorubicin (DOXIL/ 
+CAELYX) is tolerated at higher doses than free doxorubicin.  Preclinical studies have 
+shown a clear superiority of DOXIL/CAELYX over free doxorubicin against human 
+ovarian cancer xenografts in nude mice.19 
+
+DOXIL/CAELYX has been studied extensively in patients with AIDS-related Kaposi's 
+sarcoma (N = 1200) and in patients with solid tumors (N = 200).  There are well-
+documented cases of anthracycline failure in some Kaposi's sarcoma patients who have 
+subsequently responded to DOXIL/CAELYX at a dose of 20 mg/m2 every 3 weeks.  In 
+ 
+ 
+
+4 
+
+900 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+this population, 43 patients were identified as having progressed on prior chemotherapy 
+with Adriamycin.  Of those 43 patients, response rates ranged from 27% to 52% 
+depending on the method of measurement.20 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+In two separate Phase I dose-escalation studies, 56 patients with breast, prostate, ovarian, 
+non-small-cell lung (NSCL), melanoma, mesothelioma, pancreatic, GI, uterine, renal cell, 
+sarcoma, head and neck, or colorectal cancer were treated with DOXIL/CAELYX in 
+doses of 20-80 mg/m2.21  Palmar-plantar erythrodysesthesia and stomatitis were dose-
+limiting at 70 mg/m2 and above.  Skin toxicity manifested primarily as palmar-plantar 
+erythrodysesthesia (PPE) was dose-limiting after repetitive doses, but tolerable at doses of 
+50 mg/m2 every 4 weeks.  Patients with carcinomas of the breast, ovary, prostate and head 
+and neck showed responses or improvement based on tumor markers. 
+
+Substantial clinical activity has been demonstrated in patients with ovarian carcinoma 
+refractory to platinum and paclitaxel treated with DOXIL/CAELYX.22  Of 35 patients 
+enrolled in a Phase II study in which DOXIL/CAELYX was administered in a dose of 50 
+mg/m2, 9 patients achieved responses: 1 patient achieved a Complete Response, 6 
+patients achieved partial responses, and 2 patients achieved unconfirmed partial 
+responses.  The duration of response ranges from 3.1 months to 10.7 months, with a 
+median time to progression of 6.0 months.  While median survival has not yet been 
+reached, the 6-month survival is 77 - 80%. 
+
+Preliminary results of the use of DOXIL/CAELYX in 60 patients with breast cancer have 
+been reported recently.23  These patients received DOXIL/CAELYX in doses of 60 
+mg/m2 every 3 weeks, as well as a better tolerated dose of 45 mg/m2 every 4 weeks.  
+Response occurred in 16/43 evaluable patients, with 3 CRs and 13 PRs. The trial is on-
+going.  Thus far, 72 patients have been enrolled in this study, and 55 are evaluable; 
+responses have been seen in 31% of those patients. 
+
+ 
+
+ 
+
+1.1.4  Rationale for the Use of Topotecan 
+
+Topotecan is a semi-synthetic, water soluble topoisomerase I inhibitor which has recently 
+been approved for the treatment of ovarian cancer after failure of first-line therapy.  
+Topotecan inhibits the enzyme topoisomerase I, which facilitates DNA replication.  The 
+enzyme Topoisomerase I relieves torsional strain in DNA by inducing reversible single 
+strand breaks.  Because the enzyme’s activity is not linked to proliferative activity, 
+inhibitors of topoisomerase I theoretically would be effective in solid tumors with a low 
+proliferative index as well as rapidly proliferating cells.24 
+
+On April 19, 1996, FDA’s Oncology Drug Advisory Committee recommended approval 
+of topotecan for the treatment of patients with metastatic carcinoma of the ovary after 
+ 
+ 
+
+5 
+
+901 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+failure of initial or subsequent chemotherapy.  In the registration trial, 226 women with 
+ovarian cancer who had failed platinum therapies were randomized either to topotecan or 
+to Taxol.  Because the median time to response for topotecan-treated patients was 9 to 12 
+weeks in 3 clinical trials, a minimum of 4 courses of the drug is recommended.  In the 
+comparison trial, 19.6% of topotecan patients had a complete or partial response, 
+compared with 12.3% of Taxol-treated patients.  Of the topotecan-treated patients, 5.4% 
+achieved CR, whereas 3.5% of the Taxol-treated arm achieved a CR.  The median 
+duration of response was 22.2 weeks for the topotecan-treated arm, versus 12 weeks for 
+the Taxol-treated arm.  The median time to progression was 23.1 weeks for the topotecan-
+treated patients, compared to14 weeks for the patients on the Taxol-treated arm of the 
+study.25 
+
+ 
+
+1.2  Objective 
+
+The objective of this study is to compare the efficacy and safety of DOXIL/CAELYX 
+versus topotecan HCl in patients with epithelial ovarian carcinoma following failure of 
+first-line, platinum-based chemotherapy. 
+
+ 
+
+1.3  Study Design 
+
+This is a randomized, open-label, comparative study of DOXIL/CAELYX versus 
+topotecan in the treatment of patients with epithelial ovarian carcinoma following failure 
+of first-line chemotherapy with a platinum-based regimen.  In order to obtain 370 
+evaluable patients, it is expected that up to 460 patients will be enrolled.  Patients 
+entering the trial will be stratified prospectively for platinum-sensitivity and bulky 
+disease.  Protocol-eligible patients, with measurable, or measurable and evaluable 
+disease, who have received no more than one prior regimen which is platinum-based, will 
+be randomized to receive either a one-hour intravenous infusion of DOXIL/CAELYX, 
+50 mg/m2 every 28 days, or topotecan, 1.5 mg/m2/day as a 30 minute infusion for five 
+consecutive days every 21 days.  Patients will be treated for up to one year.  Patients with 
+ongoing clinical benefit may continue study drug upon approval of the sponsor.  
+
+Patients will undergo appropriate radiologic imaging (x-ray, CT scan, MRI) to document 
+baseline disease, as well as a chest x-ray and an assessment of left ventricular ejection 
+fraction (LVEF) by MUGA scan within 30 days prior to the first dose of study drug. 
+Patients will be followed weekly for hematologic toxicities.  Radiologic imaging will be 
+repeated every 8 weeks to assess disease status.  Patients who achieve complete or partial 
+response will have the radiologic imaging repeated 4 weeks later to confirm the initial 
+observation of response.  All patients will be followed for a minimum of one year for 
+survival. 
+
+ 
+ 
+
+6 
+
+902 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+LVEF will be assessed by MUGA at baseline, when the cumulative anthracycline dose 
+reaches 300 mg/m2, and after every 2 cycles of DOXIL thereafter. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Primary endpoint is time to progression following treatment with either 
+DOXIL/CAELYX or topotecan HCl. 
+
+Secondary endpoints are response rate, time to response, duration of response, survival, 
+quality-adjusted survival, and health-related quality of life assessment following 
+treatment with either DOXIL/CAELYX or topotecan. 
+
+Safety will be assessed by examination of adverse events, clinical laboratory data, and 
+vital signs (See Schedule of Events, pages vi and vii).  
+
+2.0  Patient Enrollment 
+
+Patients who are considered candidates for the study will be evaluated for eligibility by 
+the investigators.  Patients who meet the eligibility criteria must be registered with 
+SEQUUS (see Section 2.3). 
+
+ 
+
+2.1  Inclusion Criteria 
+
+Each patient must meet all these criteria to be considered for enrollment. 
+
+ 
+
+ 
+been staged at diagnosis according to FIGO Classification.  (See Appendix I). 
+
+2.1.1  Histologically proven epithelial ovarian carcinoma.  Patient’s will have 
+
+ 
+
+ 
+evaluable disease.  (See Section 8.1, Definitions of Disease.) 
+
+2.1.2  All patients must have measurable disease or measurable and 
+
+ 
+
+ 
+first-line platinum-based chemotherapy. 
+
+2.1.3  Recurrence of disease or disease progression indicative of failure of 
+
+ 
+
+ 
+Performance Status). 
+
+2.1.4  Karnofsky Performance status of > 60%.  See Appendix II (Karnofsky 
+
+ 
+
+ 
+
+2.1.5  Age > 18 years. 
+
+ 
+
+ 
+hemoglobin > 9 g/dL, and ANC > 1,500 cells/mm3. 
+
+2.1.6  Adequate bone marrow function: platelets > 100,000 cells/mm3, 
+
+ 
+
+ 
+ 
+
+ 
+
+2.1.7  Adequate renal function: creatinine < 2.5 mg/dL (< 220 µmol/L). 
+
+7 
+
+903 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+alkaline phosphatase < 2.0 x upper limit of normal, except if attributed to tumor, and 
+bilirubin < upper limit of normal. 
+
+2.1.8  Adequate liver function: AST and ALT < 2 x upper limit of normal, 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+ 
+
+ 
+assessing institution). 
+
+2.1.9  LVEF > 50% determined by MUGA (or within normal range for 
+
+ 
+
+ 
+
+2.1.10  Written informed consent. 
+
+ 
+
+2.1.11  Disease-free from prior malignancies for > 5 years with the exception 
+
+ 
+of curatively-treated basal cell or squamous cell carcinoma of the skin or carcinoma in 
+situ of the cervix 
+
+2.2  Exclusion Criteria 
+
+ 
+A patient must not be enrolled if any of these criteria apply. 
+ 
+
+2.2.1  Pregnant or breast feeding. 
+
+ 
+
+ 
+
+ 
+
+2.2.2  Life expectancy of < 3 months. 
+
+ 
+
+ 
+Patients must have resolution of hematopoietic toxicities prior to treatment. 
+
+2.2.3  Prior radiation therapy to more than one-third of hematopoietic sites. 
+
+ 
+
+2.2.4  History of cardiac disease, with New York Heart Association Class II 
+
+ 
+or greater with congestive heart failure.  See Appendix III (New York State Heart 
+Association Classification). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2.5  Uncontrolled systemic infection. 
+
+2.2.6  Any investigational agent within 30 days of first dose of study drug. 
+
+2.2.7  Prior therapy with DOXIL/CAELYX or topotecan. 
+
+ 
+
+ 
+days if patient has received a nitrosourea or mitomycin). 
+
+2.2.8  Prior chemotherapy within 28 days of first dose of study drug (or 42 
+
+ 
+
+2.3  Patient Registration 
+
+Once a patient has met all enrollment criteria and before administration of study drug, the 
+patient must be registered with SEQUUS.  The patient will be randomly assigned to 
+receive either DOXIL/CAELYX or topotecan.  For U.S. sites to enroll a patient, call or 
+fax an Inclusion/Exclusion form to: 
+ 
+ 
+
+8 
+
+904 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+SEQUUS Pharmaceuticals, Inc. 
+Clinical Research Department 
+960 Hamilton Court 
+Menlo Park, CA  94025 
+Phone:  
+Fax:  
+
+For European sites to enroll a patient, call or fax an Inclusion/Exclusion form to: 
+
+SEQUUS Pharmaceuticals, Inc. 
+European Medical Operations 
+Profile West 
+950 Great West Road 
+Brentford, Middlesex 
+TW8 9ES England 
+Fax:  
+
+ 
+
+2.4  Randomization 
+
+Randomization will be 1:1 between the two treatment regimens.  Patients will be 
+stratified by platinum-sensitivity and bulky disease.  Platinum-sensitivity is defined by 
+response to first-line platinum-based therapy.  Patients will be assigned to either 
+DOXIL/CAELYX or topotecan and, once randomized, will receive the same drug until 
+disease progression.  (For definitions, see Sec. 8.4) 
+
+Any patient who withdraws from the study prior to completion of 2 cycles of therapy will 
+be replaced, but in such cases the patient number will not be reassigned SEQUUS will 
+generate random treatment assignments for each stratum, as well as a set of replacement 
+patient numbers. 
+
+3.0  Study Activities 
+
+A summary table of the study procedures can be found in the Schedule of Events, pages 
+vi and vii. The following procedures apply to all study patients regardless of study drug 
+assignment unless otherwise noted. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3.1  Pretreatment (within 7 days prior to first dose of study drug, unless 
+
+otherwise specified) 
+
+ 
+
+ 
+
+3.1.1  Signed informed consent 
+
+3.1.2  Medical History 
+
+9 
+
+905 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+Karnofsky Performance Status and body surface area. 
+
+ 
+
+3.1.3  Physical Examination, inclusive of height, weight, vital signs, and 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+ 
+MRI scans (within 30 days prior to first dose ). 
+
+3.1.4  Radiologic Assessment, to include chest X-ray and appropriate CT or 
+
+ 
+
+ 
+30 days prior to first dose of study drug). 
+
+3.1.5  MUGA scan to evaluate left ventricular ejection fraction (within 
+
+ 
+ 
+drug). 
+
+3.1.6  12-lead electrocardiogram (within 7 days prior to first dose of study 
+
+ 
+
+ 
+necessary), RBC count, hemoglobin, hematocrit, and platelet count. 
+
+3.1.7  Hematology, including WBC count with differential (manually, if 
+
+ 
+
+3.1.8  Serum chemistry to include: BUN, creatinine, total bilirubin, alkaline 
+ 
+phosphatase, LDH, ALT, AST, total protein, albumin, sodium, chloride, and potassium. 
+
+ 
+
+ 
+
+3.1.9  CA-125 levels. 
+
+ 
+
+ 
+occult blood. 
+
+3.1.10  Urinalysis, including pH, protein, glucose, ketones, bilirubin, and 
+
+ 
+
+ 
+
+ 
+
+3.1.11  Serum pregnancy test in females of childbearing potential. 
+
+3.2  Day 1 (DOXIL/CAELYX) or Days 1-5 (Topotecan) 
+
+ 
+
+ 
+patient (prior to any study procedures and first dose of study drug).  See Appendix VIII. 
+
+3.2.1  Health-related Quality of Life Questionnaire must be completed by the 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2.2  Topotecan drug administration as per Section 4.2.1 
+
+3.2.3  DOXIL/CAELYX drug administration as per Section 4.2.2 
+
+3.2.4  Monitor for adverse events. 
+
+3.2.5  Record concomitant medications. 
+
+3.3  Weekly 
+
+ 
+
+ 
+necessary), RBC count, hemoglobin, hematocrit, and platelet count.  
+
+3.3.1  Hematology, including WBC count with differential (manually, if 
+
+ 
+ 
+
+10 
+
+906 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+3.4  Every Cycle  
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+ 
+patient (prior to any study procedures and dose of study drug). 
+
+3.4.1  Health-related Quality of Life Questionnaire must be completed by the 
+
+ 
+
+ 
+Performance Status. 
+
+3.4.2  Physical Examination, inclusive of weight, vital signs, and Karnofsky 
+
+ 
+
+ 
+hematocrit, WBC differential (manually, if necessary), and platelet count. 
+
+3.4.3  Hematology, including WBC count, RBC count, hemoglobin, 
+
+ 
+
+3.4.4   Serum chemistry, including BUN, creatinine, total bilirubin, alkaline 
+ 
+phosphatase, LDH, ALT, AST, total protein, albumin, sodium, chloride, and potassium.  
+
+ 
+
+ 
+
+3.4.5  CA-125 levels. 
+
+ 
+
+ 
+DOXIL/CAELYX drug administration as per Section 4.2.2  
+
+3.4.6  Topotecan drug administration as per Section 4.2.1, or 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.4.7  Continue monitoring for adverse events. 
+
+3.4.8  Record concomitant medications. 
+
+3.5  Every 2 Cycles 
+
+ 
+
+ 
+3.5.1  For patients randomized to receive DOXIL/CAELYX:  After patients 
+have received a cumulative anthracycline dose of 300 mg/m2, a MUGA will be obtained 
+after every 2 cycles thereafter to evaluate LVEF. 
+
+ 
+
+3.6  Every 8 Weeks 
+
+ 
+
+ 
+methodology as at baseline. 
+
+3.6.1  Appropriate radiologic assessments of response using same 
+
+ 
+
+3.7  End of Treatment (4 weeks after the last dose) 
+
+ 
+
+ 
+patient prior to any End of Treatment study procedures. 
+
+3.7.1  Health-related Quality of Life Questionnaire must be completed by the 
+
+ 
+
+ 
+Performance Status. 
+
+3.7.2  Physical Examination, inclusive of weight, vital signs, and Karnofsky 
+
+ 
+ 
+
+11 
+
+907 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+ 
+
+3.7.3  MUGA scan to evaluate left ventricular fraction. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+ 
+hematocrit, WBC differential (manually, if necessary), and platelet count. 
+
+3.7.4  Hematology, including WBC count, RBC count, hemoglobin, 
+
+ 
+
+ 
+3.7.5  Serum chemistry, including BUN, creatinine, total bilirubin, alkaline 
+phosphatase, LDH, ALT, AST, total protein, albumin, sodium, chloride, and potassium. 
+
+ 
+
+ 
+
+3.7.6  CA-125 levels. 
+
+ 
+
+ 
+occult blood. 
+
+3.7.7  Urinalysis, including pH, protein, glucose, ketones, bilirubin, and 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+3.7.8  Continue monitoring for adverse events. 
+
+3.7.9  Record concomitant medications. 
+
+3.8  Follow-Up (every 3 months after the last dose) 
+
+When patients complete or withdraw from the study, they will be followed for survival 
+every 3 months for a minimum of one year. 
+
+ 
+
+3.9  Study Completion 
+
+The study is completed when all of the following conditions have been met: 
+
+ 
+
+ 
+
+3.9.1  The target enrollment has been reached. 
+
+ 
+
+3.9.2  All patients have been removed from study; Or the minimum period of 
+
+ 
+time on study for any patient still receiving treatment is 6 months; Or the results of the 
+interim analysis (Section 8.7) indicate that the study should not proceed to completion. 
+
+When these conditions have been met, a data cut-off date will be established, all CRFs 
+will be completed up to that date and retrieved by SEQUUS, and the study will be 
+analyzed according to Section 8.0.   
+
+For patients who remain in the treatment phase at the date of data cut-off, the assigned 
+treatment will continue according to the protocol, as long as clinical benefit is evident.  
+Data generated from this additional experience will be summarized. 
+
+ 
+ 
+
+12 
+
+908 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+4.0  Administration of Study Drug 
+
+ 
+
+4.1  Investigational Drug Supply 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Topotecan for injection is commercially available and is supplied as a sterile, lyophilized, 
+buffered, light yellow to greenish powder available in single-dose vials. Each vial 
+contains topotecan hydrochloride equivalent to 4 mg of topotecan as free base. The 
+reconstituted solution ranges in color from yellow to yellow-green and is intended for 
+administration by intravenous infusion.  
+
+Each topotecan 4 mg vial is reconstituted with 4 mL Sterile Water for injection. The 
+appropriate volume of the reconstituted solution is then diluted in either 0.9% Sodium 
+Chloride Intravenous Infusion or 5% Dextrose Intravenous Infusion prior to 
+administration. Because the lyophilized dosage form contains no bacterial preservative, 
+the reconstituted product should be used immediately.  
+
+See APPENDIX V (Topotecan Package Insert) for further storage and handling 
+instructions.  
+
+DOXIL/CAELYX will be supplied by SEQUUS in sterile vials, each containing 20 mg 
+doxorubicin hydrochloride at a concentration of 2.0 mg/mL.  The study drug must be 
+refrigerated at 2° to 8° C.  See Appendix IV (Instructions for Drug Storage and 
+Administration of DOXIL/CAELYX) for further storage and handling instructions. 
+
+ 
+
+4.2  Dose, Administration and Treatment Schedule 
+
+Treatment with either drug will be continued for up to 1 year in the absence of disease 
+progression. 
+
+ 
+
+ 
+
+4.2.1  Topotecan 
+
+Patients randomized to receive topotecan will be given the drug in a dose of 1.5 mg/m2 by 
+intravenous infusion over 30 minutes daily for 5 consecutive days, starting on day 1 of a 
+21-day cycle.  
+
+ 
+
+ 
+
+4.2.2  DOXIL/CAELYX 
+
+Patients randomized to receive DOXIL/CAELYX will be given the drug in a dose of 50 
+mg/m2 over 1 hour every 4 weeks.  See Appendix IV (Instructions For Drug Storage and 
+Administration of DOXIL/CAELYX). 
+
+ 
+ 
+
+13 
+
+909 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+4.3  Precautions 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+ 
+
+4.3.1  Topotecan 
+
+See Appendix V (Topotecan Package Insert). 
+
+ 
+
+ 
+
+ 
+
+4.3.1.1  Hematologic 
+
+Monitoring of bone marrow function is essential.  Prior to the administration of the first 
+course of topotecan, patients must have a baseline neutrophil count of > 1500 cells/mm3 
+and a platelet count of > 100,000 cells/mm3.   Bone marrow suppression, primarily 
+neutropenia, is the dose-limiting toxicity of topotecan. Neutropenia is not cumulative 
+over time. In the event of severe neutropenia during any course, the dose should be 
+reduced by 0.25 mg/m2 for subsequent courses.  Alternatively, in the event of severe 
+neutropenia, G-CSF may be administered following the subsequent course (before 
+resorting to dose reduction) starting from day 6 of the course (24 hours after completion 
+of topotecan administration).  
+
+ 
+
+ 
+
+ 
+
+4.3.1.2  Renal Function Impairment 
+
+No dosage adjustment appears to be required for treating patients with mild renal 
+impairment (Clcr 40-60 mL/min). Dosage adjustment to 0.75 mg/m2 is recommended for 
+patients with moderate renal impairment (Clcr 20-39 mL/min).  Insufficient data are 
+available in patients with severe renal impairment to provide a dosage recommendation.  
+
+ 
+
+ 
+
+4.3.2  DOXIL/CAELYX 
+
+See Appendix VI (Guidelines For DOXIL/CAELYX Dose Modification) and Appendix 
+VII (NCI Common Toxicity Criteria). 
+
+ 
+
+ 
+
+ 
+
+4.3.2.1  Palmar-Plantar Erythrodysesthesia 
+
+In the case of palmar/plantar erythrodysesthesia (PPE), the dosing intervals may be 
+increased if necessary for patients to tolerate therapy.  For patients exhibiting Grade 1 
+PPE, continue treatment at the same dose at 4-week intervals if the patient has not 
+previously experienced Grade 3 or 4 skin toxicity.  If the patient has experienced a Grade 
+3 or 4 toxicity that has now resolved to Grade 1, hold study drug for an additional week.  
+If Grade 1 toxicity persists when the dose has been delayed for 2 weeks (6 weeks since 
+the last dose), then reduce the study drug dose by 25% and continue dosing at 4-week 
+intervals.  If Grade 2 or greater PPE is present on the scheduled day for dosing, hold 
+treatment for 1 week.  If the patient still exhibits PPE of Grade 2 or greater after treatment 
+has been delayed for 1 week, hold treatment for an additional week.  If the patient 
+ 
+ 
+
+14 
+
+910 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+continues to exhibit Grade 2 toxicity after the dose has been delayed for 2 weeks (6 weeks 
+since the last dose), then resume treatment at 4-week intervals with DOXIL/CAELYX at 
+a 25% reduced dose.  For Grade 3 and 4 toxicity persisting 2 weeks beyond the next 
+scheduled dose (6 weeks since the last dose), discontinue study drug therapy. 
+
+Whenever PPE symptoms persist for 6 weeks or longer, the investigator may elect to 
+follow the dose modifications outlined above or to withdraw the patient from the study, 
+based on an overall risks/benefits analysis. 
+
+ 
+
+ 
+
+ 
+
+4.3.2.2  Hematologic Toxicities 
+
+If a patient develops Grade 2 or 3 neutropenia or thrombocytopenia, study drug will be 
+withheld until both are resolved to Grade 1 (ANC > 1500, platelets > 75,000) after which 
+study treatment will resume with no dose modification.  If prolonged Grade 4 neutropenia 
+(ANC < 500 for > 7 days or failure of ANC to recover by 22 days) thrombocytopenia 
+(platelet count < 25,000) develops, wait until both are resolved to Grade 1 and resume 
+treatment  with either of the following options:  A) Resume DOXIL/CAELYX with a 
+25% reduction in dose; or B) Continue full dose DOXIL/CAELYX therapy with cytokine 
+support. The prophylactic use of cytokines is discouraged in conjunction with the first 
+dose of DOXIL/CAELYX, but their use is endorsed in subsequent cycles under specific 
+circumstances: in patients with prolonged Grade 4 neutropenia (ANC < 500 cells/mm3 for 
+> 7 days, or failure of ANC to recover within 22 days); or the occurrence of febrile 
+neutropenia in a prior cycle of treatment. 
+
+ 
+
+ 
+
+ 
+
+4.3.2.3  Bilirubin 
+
+If the total bilirubin rises to > 1.2 (>20 µmol/L) but < 3.0 mg/dL (<50 µmol/L) in the 
+prior cycle, a 25% reduction of the DOXIL/CAELYX dose will be required.  If the 
+bilirubin rises to > 3 mg/dL (50 µmol/L) and is considered to be unrelated to 
+DOXIL/CAELYX, the dose of DOXIL/CAELYX must be reduced by 50%.  If the 
+elevation of bilirubin to > 3 mg/dL is considered to be related to DOXIL/CAELYX, the 
+patient should be withdrawn from the study. 
+
+ 
+
+ 
+
+ 
+
+4.3.2.4  Stomatitis 
+
+In the case of stomatitis, the dosing intervals may be increased if necessary for patients to 
+tolerate therapy.  For patients exhibiting Grade 1 stomatitis, continue treatment at the 
+same dose at 4-week intervals if the patient has not previously experienced Grade 3 or 4 
+toxicity.  If the patient has experienced a Grade 3 or 4 toxicity that has now resolved to 
+Grade 1, hold study drug for an additional week.  If Grade 1 toxicity persists when the 
+dose has been delayed for 2 weeks (6 weeks since the last dose), then reduce the study 
+
+ 
+ 
+
+15 
+
+911 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+drug dose by 25% and continue dosing at 4-week intervals.  If Grade 2 or greater 
+stomatitis toxicity is present on the scheduled day for dosing, hold treatment for 1 week.  
+If the patient still exhibits stomatitis toxicity of Grade 2 or greater after treatment has 
+been delayed for 1 week, hold treatment for an additional week.  If the patient continues 
+to exhibit Grade 2 toxicity after the dose has been delayed for 2 weeks (6 weeks since the 
+last dose), then resume treatment at 4-week intervals with DOXIL/CAELYX at a 25% 
+reduced dose.  For Grade 3 and 4 toxicity persisting 2 weeks beyond the next scheduled 
+dose (6 weeks since the last dose), discontinue study drug therapy. 
+
+Whenever stomatitis symptoms persist for 6 weeks or longer, the investigator may elect to 
+follow the dose modifications outlined above or to withdraw the patient from the study, 
+based on an overall risks/benefits analysis. 
+
+ 
+
+ 
+
+ 
+
+4.3.2.5  Other (GI, skin, neurologic, etc.) 
+
+For all other Grade 3 and 4 events, a 25% reduction of the DOXIL/CAELYX dose is 
+recommended, once the toxicity has resolved to < Grade 2. 
+
+ 
+
+ 
+
+4.4  Criteria for Temporary Suspension or Premature Discontinuation of 
+
+Therapy 
+
+ 
+
+4.4.1  Progression of disease. 
+
+ 
+
+4.4.2  Unable to tolerate therapy despite dose adjustment.  See Appendix V 
+
+ 
+(Topotecan Package Insert) and Appendix VI (Guidelines for DOXIL/CAELYX Dose 
+Modification). 
+
+ 
+
+4.4.3  Patients requiring radiation therapy (palliative or primary) should be 
+ 
+removed from study treatment during radiation therapy and for 30 days thereafter.  Such 
+patients may be retreated with study drug provided that the metastases do not represent 
+progression of disease. 
+
+ 
+
+ 
+
+4.4.4  Patient desires to withdraw. 
+
+ 
+
+ 
+20% of the baseline value.   
+
+4.4.5  Left ventricular ejection fraction decreases to < 45% or decreases by 
+
+ 
+ 
+
+16 
+
+912 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+5.0  Concomitant Medications 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+5.2  No concurrent investigational agents will be permitted. 
+
+5.4 
+
+  The prophylactic use of cytokines is discouraged in conjunction with the first 
+
+5.3  No concurrent anti-neoplastic agents will be permitted.  
+
+5.1  All concomitant medications will be recorded from dosing on day 1 until the 
+
+ 
+end of treatment. 
+ 
+ 
+ 
+ 
+ 
+ 
+dose of DOXIL/CAELYX, or the 1st cycle of topotecan, but their use is endorsed in 
+subsequent cycles under specific circumstances:  in patients with prolonged neutropenia 
+(Grade 4 neutropenia lasting > 7 days, or failure of ANC to recover within 22 days); or 
+the occurrence of febrile neutropenia in a prior cycle of treatment.   
+
+6.0  Adverse Experiences 
+
+ 
+
+6.1  Definitions 
+
+An adverse event is any unfavorable, harmful or unintended change involving function, 
+structure, or chemistry that occurs during the study, regardless of drug relationship, 
+including any intercurrent illness, injury, toxicity, sensitivity or sudden death. 
+
+Any new adverse event that was not evident at screening/baseline or that increases in 
+intensity or frequency, or changes in character is to be reported on the Adverse Event 
+Case Report Form. 
+
+A pre-existing condition is one that is present prior to or at the start of the study and is to 
+be reported as part of the patient's medical history.  It should be reported as an adverse 
+event if the frequency, intensity, or the character of the condition worsens during study 
+treatment. 
+
+Lack of efficacy is a worsening of the disease being studied or lack of desired effect of 
+the study drug.  If followed as an efficacy parameter, it should not be recorded as an 
+adverse event. 
+
+ 
+
+6.2  Reporting Adverse Events 
+
+All adverse events that occur at any time during the study, including the post-treatment 
+period as defined in the protocol after drug administration is discontinued, are to be 
+reported in the patient’s Case Report Forms. 
+ 
+ 
+
+17 
+
+913 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+Each patient will be evaluated by the investigator or study coordinator at each visit during 
+the study for any new or continuing symptoms since the previous visit.  Any symptoms 
+changing in character or in intensity should be noted.  Any clinically significant adverse 
+event reported by the patient or caregiver or noted by the investigator or study coordinator 
+will be recorded on the Adverse Event Case Report Form.  The intensity will be 
+evaluated, relationship to study drug will be determined, and any necessary management 
+will be recorded in the patient's medical record. 
+
+Intensity will be evaluated using the following criteria: 
+
+Mild (Grade 1):  The patient is aware of the sign or symptom, but finds it easily tolerated.  
+The event is of little concern to the patient and of little clinical significance.  The event is 
+not expected to have any effect on the patient’s overall health or well-being. 
+
+Moderate (Grade 2):  The patient has discomfort enough to cause interference with or 
+change in usual activities.  The event is of some concern to the patient’s health or 
+well-being and may require medical intervention and/or close follow-up. 
+
+Severe (Grade 3):  The adverse event interferes considerably with the patient’s usual 
+activities.  The event is of definite concern to the patient and/or poses substantial risk to 
+the patient’s health or well-being.  The event is likely to require medical intervention 
+and/or close-follow-up and may be incapacitating or life-threatening.  Hospitalization and 
+treatment may be required. 
+
+Life-Threatening (Grade 4):  The patient is incapacitated.  The event poses substantial 
+risk to the patient’s immediate health or well-being. 
+
+Relationship to study drug will be assessed using the following criteria: 
+
+Related:  The drug is reasonably suspected as the cause of the event after considering 
+basic illness, concurrent illness, concomitant medications, and other modes of therapy 
+administered to the patient.  In addition, the event follows a logical sequence from 
+administration of the study drug as follows.  The event improves or disappears after 
+stopping or reducing the dose, and/or reappears after additional drug exposure; or the 
+event is an unusual event that is known to be associated with the drug or this class of 
+compound, and cannot be reasonably explained by other therapy or the patient's physical 
+condition. 
+
+Not Related:  The event does not meet the criteria above, and the event is known to be 
+associated with the clinical conditions or other medications taken by the patient. 
+
+ 
+ 
+
+18 
+
+914 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Unknown:  Current information about the event and the drug is insufficient to determine 
+that the event is not related to the use of the drug. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+A clinical laboratory abnormality should be reported as an adverse event only if the 
+following conditions are met: 
+•  The laboratory abnormality has been confirmed by at least one repeat test, or 
+•  The abnormality suggests disease and/or organ toxicity, or 
+•  The abnormality is of a degree that requires active management; e.g., change of dose, 
+
+discontinuation of drug, more frequent follow-ups, diagnostic investigation. 
+
+"Death" should not be reported as an adverse event. The cause of death should be 
+reported as an adverse event.  The only exception is “Sudden Death” when the cause is 
+unknown. 
+
+ 
+
+6.3  Serious Adverse Events 
+
+Is a congenital anomaly, cancer, or overdose. 
+
+A serious adverse event is any experience that suggests significant hazard, 
+contraindication, side effect, or precaution.  A serious adverse event includes any 
+experience that: 
+Is fatal or immediately life-threatening 
+• 
+Is severely or permanently disabling 
+• 
+•  Requires or prolongs hospitalization 
+• 
+•  Clinically serious. 
+Adverse events that meet the definition of serious, must be reported within 24 hours to 
+SEQUUS by SEQUUS Clinical Trials Serious AE Reporting Form.   Patients who have 
+any adverse event continuing through the follow-up period must remain under 
+observation until the adverse event has subsided or stabilized and all serious pathological 
+values and findings have returned to normal or stabilized. 
+ 
+Gravity of Adverse Event 
+Serious 
+
+Reporting Time Interval 
+Within 24 Hours 
+
+Report Format 
+Fax SEQUUS Clinical Trials 
+Serious AE Reporting Form  
+to SEQUUS with completed 
+CRFs 
+ 
+Completed Adverse Event 
+CRF 
+
+Nonserious 
+
+With completed CRFs 
+
+ 
+ 
+
+19 
+
+915 
+
+Doxil:  Clinical Study Report 30-49
+
+ 
+ 
+
+For European Patients: 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+To report serious adverse experiences, fax a Clinical Trials Serious AE Reporting Form to:  
+For U.S. patients: 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+SEQUUS Pharmaceuticals, Inc. 
+960 Hamilton Court 
+Menlo Park, California 94025 
+FAX: 
+SEQUUS Pharmaceuticals, Inc. 
+European Medical Operations 
+Profile West 
+950 Great West Road 
+Bentford, Middlesex 
+TW8 9ES England 
+Fax:  
+ 
+
+7.0  Health-related Quality of Life 
+
+ 
+
+7.1  Background and Objectives 
+
+The availability of extensively used and psychometrically validated disease-specific 
+health-related quality of life (HQL) instruments for the use in ovarian cancer clinical 
+trials is limited.  However, several studies have measured the HQL of cancer patients 
+with a variety of diagnoses, using the European Organization for the treatment of Cancer 
+Core Quality of Life Questionnaire (EORTC-QLQ-C30).26, 27, 28  The limitation of this 
+questionnaire is that it is a general cancer HQL instrument.  A disease-specific modular 
+approach is recommended and is frequently used in clinical trials.29  Disease-specific 
+modules provide a more comprehensive method for the measurement of HQL in patients 
+with a specific diagnosis, i.e., ovarian cancer. 
+
+Using the modular approach and to address the specific needs of this study (ovarian 
+cancer and DOXIL/CAELYX toxicities), an ovarian cancer checklist (questions #31-35) 
+has been developed and used by the NCIC.30, 31 In addition to this module, 
+DOXIL/CAELYX side effect questions (questions#46-48), as well as topotecan side 
+effect questions (questions#36-37), and general chemotherapy side effects questions 
+(questions#38-45) have been added. There are four other questions featured in this 
+questionnaire. The first concerns sexual activity (question#49), the second and third 
+concern pain control (questions#50-51). The final question is a global question of 
+subjective significance (question #52). This was added to aid in interpreting the meaning 
+of the degree of change in terms of clinical relevance for global quality of life. Because of 
+the intent of this question, question #52 is only included in all visits after the baseline 
+visit. 
+ 
+ 
+
+20 
+
+916 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+The EORTC QLQ-C30 (version 2.0) instrument contains the following HQL dimensions:  
+physical functioning, role functioning, emotional functioning, cognitive functioning, 
+social functioning, and global quality of life/health status.  Symptom scales/items include 
+questions related to fatigue, nausea and vomiting, pain, dyspnea, sleep disturbance, 
+appetite loss, constipation, diarrhea, and financial impact. 
+
+The objective for collecting health-related quality of life data in this study is to obtain 
+pilot data and information about the use of the HQL questionnaire for patients with 
+ovarian cancer, as well as monitor this patient population for changes during treatment 
+when compared to baseline in measuring the effects of chemotherapy on HQL in this 
+clinical trial.  The HQL questionnaire is comprised of the EORTC QLQ-C30 (version 
+2.0) and the ovarian cancer checklist/toxicity questions and subjective significance 
+question (see Appendix VII). 
+
+7.2  Schedule of HQL Evaluations 
+
+ 
+Patients will complete the HQL questionnaire prior to study entry, every cycle, at the end 
+of treatment visit.  The HQL questionnaire will be completed by the patient on the day of 
+the visit corresponding to the physical exam, prior to treatment.  Patients should arrive 20 
+to 30 minutes earlier to allow time to complete the questionnaire in the clinic.  
+Demographic information will be recorded by the study personnel on the HQL 
+questionnaire.  The patient will complete the HQL questionnaire while waiting in the 
+reception area to see the physician and before any medical assessments are taken.  The 
+HQL questionnaire must be completed at the clinic and not taken home for completion. 
+ 
+The investigator is responsible for adherence to this protocol and to the Questionnaire 
+Administration Guidelines for Health-related Quality of Life Questionnaire (Appendix 
+VIII).  HQL questionnaire will be retrieved by the SEQUUS Study Monitor. 
+ 
+8.0  Study Analysis 
+
+Pretreatment radiographic response evaluations are to be done within the 30-day period 
+prior to first dose of study drug.  This 30 day period defines the patient’s disease state at 
+baseline which will be compared to subsequent response assessments.  Because the 
+primary efficacy endpoint is time to progression, it is imperative that all patients have 
+their baseline and subsequent disease assessments completed according to the protocol. 
+The lesion measurements resulting from tumor imaging recorded on the case report form 
+(CRF) will be those approved by the Principal Investigator after discussion with the 
+radiologist and/or appropriate study site staff members. 
+
+ 
+ 
+
+21 
+
+917 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+8.1  Definitions of Disease 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+8.1.1  Measurable Disease:  Bidimensionally measurable lesions with clearly 
+
+ 
+defined margins by 1) plain X-ray with at least one diameter > 0.5 cm (bone lesions are 
+not included) or, 2) CT, MRI or other imaging scan with both diameters greater than the 
+distance between cuts of the imaging study, or 3) palpation with both diameters > 2cm. 
+
+ 
+
+8.1.2  Evaluable Disease:  Unidimensionally measurable lesions, masses with 
+
+ 
+margins not clearly defined, lesions with both diameters < 0.5 cm, lesions on scan with 
+either diameter smaller than the distance between cuts, palpable lesions with either 
+diameter < 2 cm.  Malignant ascites or pleural effusion in conjunction with serum levels 
+of  CA-125 > 100 U/mL in the absence of cirrhosis. 
+
+ 
+
+ 
+by indirect evidence only (e.g. serum tumor markers or other lab values). 
+
+8.1.3  Nonevaluable Disease:  Pleural effusions, ascites, disease documented 
+
+ 
+
+8.2  Definitions of Response 
+
+If an organ has too many measurable lesions to measure at each evaluation, choose 3 to be 
+followed before the patient has entered the study.  The remaining measurable lesions in 
+that organ will be considered evaluable for determination of disease status.  All 
+measurable and evaluable sites must be assessed using the same methodology as at 
+baseline. A durable response must persist for 2 separate measurements taken 4 weeks 
+apart. 
+
+ 
+
+ 
+and evaluable disease.  No new lesions.  No disease-related symptoms.   
+
+8.2.1  Complete Response (CR):  Complete disappearance of all measurable 
+
+ 
+
+8.2.2  Partial Response (PR):  Applies only to patients with a > 50% decrease 
+
+ 
+in the sum of the products of bidimensional perpendicular diameters of all measurable 
+lesions.  No progression of evaluable disease.  No new lesions.  
+
+ 
+
+ 
+
+8.2.3  Stable Disease (SD):  Does not qualify for CR, PR, or progression. 
+
+ 
+
+8.2.4  Progressive Disease (PD):  A > 50% increase in the sum of the 
+
+ 
+products of bidimensionally measured lesions over the smallest sum obtained at best 
+response (over baseline, if no decrease); OR reappearance of any lesion which had 
+disappeared; OR clear worsening of any evaluable disease; OR failure to return for 
+evaluation due to death or deteriorating condition (unless clearly unrelated to this cancer); 
+OR appearance of any new lesion/site.  For bone disease, increased up take on the scan 
+
+ 
+ 
+
+22 
+
+918 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+does not constitute clear worsening of disease.  Worsening of existing nonevaluable 
+disease does not constitute progression.  
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+ 
+
+8.3  Efficacy Assessments 
+
+ 
+
+8.3.1  Primary efficacy parameters 
+
+ 
+
+ 
+drug administration until documented disease progression or death due to any cause. 
+
+8.3.1.1  Time to Progression:  The time, in weeks, from first study 
+
+ 
+
+ 
+
+ 
+
+8.3.2  Secondary Efficacy Parameters 
+
+ 
+
+ 
+
+ 
+Section 8.2.  The response rate is the proportion of patients with at least a durable 
+response. 
+
+8.3.2.1  Response Rate: The definitions of response are described in 
+
+ 
+
+ 
+
+ 
+
+8.3.2.2  Time to Response 
+
+From the start of study drug to the first observation of a durable response (the first of 
+2 confirmatory measurements) 
+
+ 
+
+ 
+
+ 
+
+8.3.2.3  Duration of Response 
+
+From the first observation of a durable response (the first of the 2 confirmatory 
+measurements) to the first observation of progressive disease or to death due to any cause.  
+
+ 
+
+8.3.2.4  Health-related Quality of Life  
+
+The HQL questionnaire will be completed prior to 1st dose of study drug, prior to 
+initiation of each cycle of study drug, and 4 weeks after the last dose of study drug. 
+
+ 
+
+ 
+
+ 
+
+8.3.2.5  Survival 
+
+From the start of study drug to death due to any cause. 
+
+ 
+
+ 
+
+ 
+
+8.3.2.6  Quality-adjusted Survival 
+
+Quality-adjusted survival will be calculated using the Quality-adjusted Time Without 
+Symptoms of disease and Toxicity of treatment (Q-TWiST) method.32,33 
+
+ 
+ 
+
+23 
+
+919 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+8.4  Stratification 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Eligible patients will be stratified on the basis of baseline platinum-sensitivity and bulky 
+disease.  Platinum-sensitivity is defined by response to first-line platinum-based therapy.  
+Patients who respond to initial platinum-based therapy and who have a progression-free 
+interval of greater than 6 months off treatment are defined as platinum-sensitive.  On the 
+other hand, patients who progress during treatment or who have stable disease in response 
+to initial platinum-based therapy or who relapse within 6 months of cessation of therapy 
+are defined as platinum-refractory. 
+
+Patients will also be stratified on the basis of the presence or absence of bulky disease.  
+Bulky disease is defined as the presence of a tumor mass which is greater than 5 cm in 
+size. 
+
+ 
+
+8.5  Patient Populations 
+
+ 
+
+ 
+
+8.5.1  Intent-to-Treat Population (ITT) 
+
+ 
+The ITT Patient Population is defined as all patients who were randomized and received 
+at least a partial dose of study drug. 
+ 
+The evaluable patient population is defined as all patients who were randomized, meet the 
+enrollment criteria, and received at least 2 cycles of study drug. 
+ 
+
+8.6  Data Analysis And Statistical Consideration 
+
+8.5.2  Evaluable Population 
+
+ 
+
+ 
+
+8.6.1  Data Analysis 
+
+Assessment of demographic and baseline characteristics such as age (continuous 
+variable), age (< 65yr versus ≥ 65yr), race, Karnofsky performance status (< 80% versus 
+≥ 80%), previous therapy (carboplatin versus cisplatin), and ascites (presence or absence), 
+will be done to ensure the comparability between the two treatment groups at the time of 
+analysis.  Differences between the two treatment groups for categorical data will be tested 
+using the Cochran-Mantel-Haenszel (CMH) tests, adjusting for platinum-sensitivity and 
+bulky disease.  For continuous variables, a three-way analysis of variance will be 
+performed with effects for treatment, platinum-sensitivity, bulky disease, and all two-way 
+interactions involving the treatment group.  Stratified log-rank test (stratified by 
+platinum-sensitivity and bulky disease) will be used as the primary analysis, and the 
+proportional hazard model will be used as secondary analyses to test for treatment 
+differences in all time-to-event data.   
+
+ 
+ 
+
+24 
+
+920 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+The primary efficacy analysis is a comparison of time to progression between the two 
+treatment regimens for the evaluable patient population.  Secondary efficacy analyses 
+include response rate, time to response, duration of response, health-related quality of 
+life, survival, and quality-adjusted survival.  Statistical analyses will be performed on the 
+secondary efficacy parameters for the intent-to-treat (ITT) and the evaluable patient 
+populations.  All statistical tests in these analyses will be 2-sided for all variables except 
+the time to progression variable.  For all variables, an overall 5% level of significance 
+will be used for treatment difference, and 10% level for interaction, with adjustments for 
+the 2 planned interim analyses (Section 8.7). 
+
+ 
+
+ 
+
+8.6.2  Time to Progression, Time to Response and Survival Analyses 
+
+The distribution of overall time to event will be estimated for each treatment using the 
+Kaplan-Meier method.  The two treatments will be compared using the stratified log-rank 
+test as a primary analysis.  The stratified generalized Wilcoxon test will also be provided. 
+
+In addition, the proportional hazard model will be used  to estimate the overall hazard 
+ratio (with 95% one-sided confidence interval) between the two treatment groups and to 
+evaluate the effect of covariates.  The main covariates included in this analysis are 
+platinum-sensitivity, baseline CA-125, Karnofsky performance status, bulky disease, 
+drug-free interval after last dose of first-line therapy (≤ 6 months, > 6 to ≤18 months, and 
+>18 months), age, prior therapy (carboplatin versus cisplatin), and the presence or 
+absence of ascites at baseline.  Other covariates may also be assessed. 
+
+ 
+
+ 
+
+8.6.3  Response Analysis 
+
+Comparison of response rates (CR + PR) between the two treatment groups will be 
+conducted using a Cochran-Mantel-Haenszel analysis stratified by platinum-sensitivity, 
+and bulky disease.  The response rates will also be summarized using two-sided 95% 
+confidence intervals on the difference in the response rates.  
+
+ 
+
+ 
+
+8.6.4  Duration of Response 
+
+The stratified log-rank statistic will be used for comparison of the duration of response 
+curves between the two treatment groups for  responders.  The stratified generalized 
+Wilcoxon test will also be provided. 
+
+The proportional hazard model will be used to evaluate the hazard ratio between the 
+2 treatment groups and to evaluate the effect of the covariates.  
+
+ 
+ 
+
+25 
+
+921 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+8.6.5   Analysis of HQL Data 
+
+ 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Calculation of each HQL domain scale for the EORTC QLQ-C30 (Version 2.0), will be 
+performed according to the scoring guidelines for each of the HQL measures. The HQL 
+analysis will focus on scales measuring physical functioning, pain, nausea, fatigue, and 
+global quality of life. 
+
+Change from baseline for the two treatment groups will be compared using general linear 
+models.  If a large proportion of HQL data is missing in the later stages of the study, the 
+analyses may be limited up to the week where a reasonable proportion of HQL data is 
+available.  The covariates considered in the primary analysis may be included in the 
+models for HQL as well.   
+
+Furthermore, the number of patients who maintain or improve their baseline HQL scores 
+will be tabulated. 
+
+            
+
+8.6.6  Analysis of Q-TWiST 
+
+Quality-adjusted survival will be calculated using the Quality-adjusted Time Without 
+Symptoms of disease and Toxicity of treatment (Q-TWiST) method. The purpose of this 
+analysis is to evaluate the trade-off between increased toxicity versus improved 
+progression-free survival between the treatment groups. 
+
+For each patient, overall survival will be partitioned into 3 periods of time corresponding 
+to different health states moving from treatment to death.  These health states are:  
+1) Toxicity (Tox) – time with toxicity defined as the time spent with grade 3 or 4 adverse 
+events due to study drugs; 2) Time without symptoms of disease and toxicity due to 
+treatment (TWiST) – time without either toxicity or progression; and 3) Progression 
+(Prog) – total time following documented disease progression until death. 
+
+Standard survival analysis techniques will be used to estimate the mean duration, 
+restricted to the follow-up interval of the study, for each of the health states Tox, TWiST, 
+and Prog.  Estimates will be obtained for each treatment group separately. 
+
+The average quality-adjusted survival time for each treatment arm will be calculated 
+according to the formula below: 
+
+Q-TWiST = U (Tox) x Duration (Tox) + U (TWiST) x Duration (TWiST) + U(Prog) x Duration (Prog), 
+
+where U denotes the health-state specific utility coefficients. 
+
+ 
+ 
+
+26 
+
+922 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+In addition, Q-TWiST analysis incorporating time with good quality of life and time with 
+bad quality of life instead of the time with Tox and TWiST may be explored.  Good or 
+bad quality of life will be determined by the Global Quality of Life scale.  Pain, Nausea, 
+and Fatigue in the EORTC QLQ-C30 symptom scales may also be explored to define the 
+duration of maintained good quality of life.   
+
+ 
+
+ 
+
+8.6.7  Statistical Power and Sample Size Considerations 
+
+In a randomized clinical trial, it has been shown that median time to progression is 
+23 weeks for topotecan-treated patients.  We will consider DOXIL/CAELYX to be at 
+least as efficacious as topotecan, if the progression-free survival rate of DOXIL/CAELYX 
+at 23 weeks, is not more than 10% less than that for topotecan. Therefore, the statistical 
+hypotheses of interest to test are as follows: 
+
+H0:  Stopotecan(23) - SDOXIL/CAELYX(23) ≥ 10% 
+
+versus 
+
+H1:  Stopotecan(23) - SDOXIL/CAELYX(23) < 10%,  
+
+where S(23) denotes the progression-free survival rate at 23 weeks. 
+
+Under the proportional hazards model, DOXIL/CAELYX can be considered to be as 
+efficacious as topotecan if  
+
+Median time to progression for DOXIL/CAELYX ≥ 23*(ln(.5)/ln(.4)) = 17.4 weeks. 
+
+If the enrollment phase is completed in 24 months, followed by a therapy period of 
+6 months to observe for disease response or progression, a total of 350 evaluable patients 
+are required, 175 in each treatment group, to assure with a probability of 80% that the 
+lower 95% one-sided confidence limit of the hazard ratio of topotecan to 
+DOXIL/CAELYX (or median time to progression ratio of DOXIL/CAELYX to 
+topotecan) will not fall below 0.757. 
+
+There are 2 additional factors to consider that influence the number of patients required.  
+Two planned interim analyses will be conducted (Section 8.7), requiring approximately 
+5% more patients to be enrolled.  Second, up to 20% of randomized patients may not be 
+evaluable for the primary efficacy endpoints, therefore the number of patients needed to 
+be randomized (1:1) is up to 460, depending on evaluability rate. 
+
+ 
+ 
+
+27 
+
+923 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+8.7  Interim Analysis 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Two interim analyses and a final analysis are planned.  The first and second interim 
+analyses may be conducted once 200 and 280, respectively, of the evaluable patients have 
+been enrolled and all such patients have either experienced disease progression or have 
+been on study for at least 6 months. Enrollment will continue while the interim analyses 
+are being conducted. A final analysis will be conducted at the end of the study when 
+approximately 370 evaluable patients have either experienced disease progression or have 
+been on study for at least 6 months. 
+
+The O’Brien-Fleming-type spending function was utilized to determine the appropriate 
+boundaries for the group sequential approach and were calculated using EaSt software.34  
+In accordance with this approach, the nominal α levels needed to maintain an overall 
+significance level of 0.05 are 0.008, 0.022, and 0.042 for the first, second, and final look 
+at the data, respectively.  The study is planned to be terminated if the O’Brien-Fleming 
+boundary is crossed at any of the interim analyses (first interim analysis: p=0.008; second 
+interim analysis: p=0.022).  When a decision has been made to terminate the study, all 
+data will be brought in-house and final statistical analyses will be performed. 
+
+The primary efficacy parameter for the interim analyses is time to progression. 
+
+The log-rank test stratified for platinum sensitivity and bulky disease will be considered 
+the primary efficacy analysis for the interim as well as final analyses. The hazard ratio 
+and corresponding one-sided (1-α)% confidence interval from a proportional hazard 
+regression model will also be presented. In addition, response rates will also be calculated 
+as a supplemental analysis to support the primary efficacy parameter results.  Response 
+rates for each of the enrollment stratum will be calculated.  Treatment group differences 
+will be tested using the Cochran-Mantel-Haenszel (CMH) test, adjusting for platinum-
+sensitivity and bulky disease. 
+
+The interim analyses may also include an analysis of HQL data and quality-adjusted 
+survival time. 
+
+ 
+
+8.8 Additional 
+
+ 
+As stated in the protocol, the end of planned treatment analysis was the final formal analysis to 
+be conducted on Doxil Protocol 30-49.  However the analyses conducted for this report 
+yielded results that could be clarified by additional analyses.  While the overall survival 
+time did not differ between the Doxil and topotecan groups, there was a statistically 
+significant survival advantage for Doxil in the subgroup of platinum sensitive patients.  
+ 
+ 
+
+28 
+
+924 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+At the time of data cutoff for this planned end of treatment report, over 50 % of the 
+platinum sensitive patients were still alive.  ALZA will conduct an additional set of 
+survival and progression free survival analyses when 90% of the patients have either died 
+or been lost to follow-up.  These analyses will be for the purpose of assessing whether the 
+survival advantage in the platinum sensitive group sustained, and examining the overall 
+survival differences between the Doxil and topotecan groups. 
+ 
+
+ 
+
+ 
+
+8.9  Safety Analyses 
+
+Detailed tabulations of safety data will be provided for all patients who received study 
+medication.  Summaries of adverse events and other safety parameters by treatment 
+received will also be provided where appropriate . 
+
+9.0  Study Administration and Investigator Obligations 
+
+ 
+
+9.1  Institutional Review Board 
+
+This study must have the approval of a properly constituted  Hospital Ethics Committee, 
+Regional Ethics Committee  or other Institutional Review Board (IRB). 
+
+Before the investigational drug will be shipped to the investigator, the investigator will 
+provide the Sponsor with a copy of the IRB approval letter stating that the study protocol 
+and informed consent form have been reviewed and approved by the IRB. 
+
+All serious and clinically important adverse experiences must also be reported to the IRB 
+by the investigator. 
+
+ 
+
+9.2  Informed Consent 
+
+It is the responsibility of the investigator to design the Informed Consent form using 
+appropriate National or Regional Guidelines (equivalent to the American Federal 
+Guidelines (Federal Register--July 27, 1981, or 21 CFR Part 50). 
+
+The consent form must be approved by the Institutional Review Board.  A copy of the 
+approved form must be submitted to the Sponsor prior to the initiation of the study.  State 
+and local laws, and/or institutional requirements may require the disclosure of additional 
+information on the informed consent form. 
+
+ 
+ 
+
+29 
+
+925 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Amendment #3: March 26, 2001 
+A copy of the informed consent form must be given to the patient.  The investigator must 
+keep each patient’s signed consent form on file for inspection by a regulatory authority at 
+any time. 
+
+ 
+
+9.3  Drug Accountability 
+
+The investigator will not supply DOXIL/CAELYX to any patient not enrolled in the 
+study, or to any physicians or scientists except those designated as co-investigators. 
+
+For sites in Europe, the investigator is expected to comply with the Declaration of 
+Helsinki, adopted June, 1964 and amended in Tokyo, October, 1975; Venice, October, 
+1983 and Hong Kong, September, 1989 (refer to Appendix IX). 
+
+The investigator must ensure that personnel who administer the study drugs to patients 
+understand the dosing procedures.  The investigator or pharmacist will record drug 
+distribution on a log form provided with each shipment. 
+
+Each shipment of drug supplies for a study will contain an investigational drug 
+Transmittal and Receipt Form to assist the investigator in maintaining current and 
+accurate inventory records. 
+
+Records should cover receipt, dispensing, and the return of study drug supplies. 
+
+The investigational Transmittal and Receipt Form will be included routinely for all 
+studies, and will identify for each shipment the subject identification code (if applicable), 
+the lot number, and the quantity of vials contained in the shipment. 
+
+Upon receipt of the investigational drug, the pharmacist shall visually inspect the 
+shipment and verify the number and condition of vials received.  The lower portion of the 
+investigational transmittal and receipt form shall be completed and signed by the 
+pharmacist.  A copy of the signed form is to be filed with the inventory/drug 
+accountability records.  The original completed form is to be mailed back to SEQUUS, in 
+the envelope provided with the drug shipment. 
+
+The drug supply will be packaged and shipped in insulated containers. Only authorized 
+personnel should have access to the drug.  For accurate accountability, the following 
+information must be noted when drug supplies are used during the course of the study:  
+the identification code of the subject to whom the drug is dispensed, the lot number of the 
+drug dispensed for that subject, and the date(s) and quantity of drug dispensed. Inventory 
+records must be readily available for inspection by the study monitor and are open to 
+FDA inspection at any time. 
+
+ 
+ 
+
+30 
+
+926 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+Return of all drug supplies must be coordinated with the Clinical Research Associate 
+(CRA) prior to shipment.  When unused drug supplies are to be returned, the pharmacist 
+should record the number of vials and lot numbers being returned in their inventory log, 
+and complete the Return Authorization Form provided by SEQUUS.  Further instructions 
+for return will be provided by SEQUUS. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Upon completion of this study the investigator and pharmacist should verify and sign that 
+all unused drug supplies have been returned and that no drug supplies remain in the 
+investigator’s possession.  If all drug supplies are not returned, the investigator and 
+pharmacist must include an explanation and document this in the accountability records.  
+A copy of the inventory sheets and drug accountability information must be returned to 
+the Sponsor at the end of the study. 
+
+ 
+
+9.4  Record Retention 
+
+It is the responsibility of the investigator and the study staff to maintain a comprehensive 
+and centralized filing system of all documentation relevant to the study.  Such 
+documentation includes: 
+•  Case Report Forms—must be legible, accurate, and up-to-date. 
+•  Patient Files—should substantiate the data entered in the Case Report Forms with 
+
+regard to laboratory data, patient histories, treatment regimens, etc. 
+
+•  Patient Exclusion Record—should record the reason any patient was screened for the 
+
+study and found to be ineligible. 
+
+•  Drug Dispensing Log—should record the total amount of investigational drug 
+
+received and returned to the Sponsor, and the amount distributed and returned.  This 
+information must agree with the information entered in the Case Report Forms. 
+Informed Consent Forms—completed consent forms from each patient must be 
+available and verified for proper documentation. 
+Informed Consent Log—must identify all patients entered into the study such that the 
+patients can be identified by audit. 
+
+• 
+
+• 
+
+Protocols, amendments, IRB approvals, FDA-1572 forms, all correspondence, and any 
+other documents pertaining to the conduct of the study, must be kept on file by the 
+Principal Investigator for a minimum of 2 years after notification by the Sponsor of either 
+NDA approval or discontinuation of the IND. 
+
+ 
+
+9.5  Case Report Forms 
+
+All data will be recorded on Case Report Forms provided by SEQUUS.  All forms must 
+be legible and complete.  Blue or black ink must be used in completing these forms. 
+
+ 
+ 
+
+31 
+
+927 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+All corrections must be initialed and dated by the individual making the correction.  All 
+final and corrected Case Report Forms (CRF’s) will be reviewed and signed by the 
+Principal Investigator.  Corrected copies of CRFs will be filed with the corresponding 
+original. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Case Report Forms will be completed on a timely basis.  The original copy will remain at 
+the site until collected by the Clinical Research Associate (CRA). 
+
+ 
+
+9.6  Monitoring the Study 
+
+Individual sites will be monitored at appropriate intervals to assure satisfactory 
+enrollment rate, data recording, and protocol adherence.  The frequency of monitoring 
+may vary depending on enrollment rate and the quality of data collected.  The investigator 
+and staff are expected to cooperate with the monitor and provide all relevant study 
+documentation in detail at each site visit on request for review by the CRA.  In addition to 
+these visits, each site will be routinely monitored by phone to keep abreast of patient 
+status and to answer questions. 
+
+ 
+
+9.7  Termination of Study 
+
+The Sponsor retains the right to terminate the study and remove all the study materials 
+from the study site at any time.  Specific instances that may precipitate such termination 
+are: 
+
+ 
+
+ 
+
+9.7.1  Unsatisfactory patient enrollment with regard to quality or quantity. 
+
+ 
+
+ 
+Sponsor. 
+
+9.7.2  Deviation from protocol requirements, without prior approval from the 
+
+ 
+
+ 
+
+9.7.3 
+
+Inaccurate and/or incomplete data recording on a recurrent basis. 
+
+ 
+
+ 
+other studies indicating a potential health hazard caused by the treatment. 
+
+9.7.4  The incidence and/or severity of adverse drug experiences in this or 
+
+ 
+
+9.8  Study Amendments 
+
+This protocol may be altered by the investigator only to eliminate apparent immediate 
+hazards to the patient.  Any other change will be initiated by the Sponsor in writing in a 
+protocol amendment document.  One copy of this protocol must be signed in 
+acknowledgment by the investigator at all European sites and returned to the Sponsor.  If 
+the change in any way increases the risk to the patient or changes the scope of the study, 
+the amendment must be submitted to the IRB, together with, if applicable, a revised 
+ 
+ 
+
+32 
+
+928 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+consent form.  If IRB approval is required, written documentation of IRB approval must 
+be received by the Sponsor before the amendment may take effect. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+9.9  Publication Statement 
+
+The results of this clinical trial may be used by SEQUUS in registration documents for 
+regulatory authorities in the U.S. or abroad or for public dissemination in the form of 
+papers, abstracts, posters, or other informational materials to be presented at scientific 
+meetings, or published in professional journals, or as part of an academic thesis by an 
+investigator.  In all cases, in order to avoid disclosures that could jeopardize proprietary 
+rights and to ensure accuracy of the data, SEQUUS requests the opportunity to preview 
+all manuscripts and abstracts related to this study, allowing SEQUUS sufficient time to 
+make appropriate comments prior to submission for publication. 
+
+ 
+ 
+
+33 
+
+929 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+10.0  References 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+1.  Boring C, et al.  CA-A Cancer Journal for Clinicians, 44(1):7-26, 1994. 
+
+2.  Greenberg P, et al.  Breast Cancer and Gynecologic Malignancies in Pazdur R (ed):  
+
+Medical Oncology, A Comprehensive Review, New York, PRR, Inc., 1993. 
+
+3.  Bates SE, et al.  Serum Tumor Marker.  Hematology—1992; Educational Program 
+of the American Society of Hematology, Anaheim, California, December 5-8, 1992. 
+
+4.  Richardson GS, et al.  Common epithelial cancer of the over (first of two parts).  
+
+New England Journal of Medicine, 312:415-424, 1985. 
+
+5.  Alberts DS, et al.  Improved therapeutic index of carboplatin plus 
+
+cyclophosphamide versus cisplatin plus cyclophosphamide:  Final report of the 
+Southwest Oncology Group of a Phase III randomized trial in Stages III and IV 
+ovarian cancer.  Journal of Clinical Oncology, 10:716-717, 1992. 
+
+6. 
+
+Ten Bokkel Huinink WW, et al.  Studies with carboplatin in ovarian cancer:  
+Experiences of the Netherlands Cancer Institute and GCCG of the European 
+Organization for Research and Treatment of Cancer, in Bunn PA, Canetta R, Ozols, 
+RF, et al (eds):  Carboplatin (JM-9):  Current Perspectives and Future Directions, 
+Philadelphia, WB Saunders,163-173, 1990. 
+
+7.  McGuire WP, Hoskins WJ, Brady MS, et al.  Cyclophosphamide and cisplastin 
+
+compared with paclitaxel and cisplastin in patients with Stage III and Stage IV of 
+ovarian cancer.  New England Journal of Medicine, 1996; 334:1-6. 
+
+8.  Ozols, RF, Young RC.  Ovarian cancer.  Curr Probl Cancer, 61-122, 1987. 
+
+9.  Cannistra SA:  Cancer of the Ovary, New England Journal of Medicine, 329:No. 21, 
+
+1550-1559. 
+
+10.  McGuire WP, Rowinsky EK, Rosenshein NB, et al.  TAXOL: A unique 
+
+antineoplastic agent with significant activity in advanced ovarian epithelial 
+neoplasms.  Ann Intern Med, 111:273-279, 1989. 
+
+11.  Christian MC and EL Trimble:  Salvage Chemotherapy for Epithelial Ovarian 
+
+Carcinoma in Gynecologic Oncology, 55:S143-S150, 1994. 
+
+ 
+ 
+
+34 
+
+930 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+12.  Van der Burg MEL, Lammes FB, Verweij J:  CA 125 in ovarian cancer.  
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Netherlands Journal of Medicine, 40:36-51, 1992. 
+
+13.  SEQUUS Pharmaceuticals, Inc., DOXIL/CAELYX Investigator’s Drug Brochure, 
+
+May 1996. 
+
+14. 
+
+sarcoma patients treated with pegylated liposomal doxorubicin (DOXIL®) as 
+compared to conventional doxorubicin.  In preparation. 
+
+ et al.  Reduced cardiotoxicity in AIDS Kaposi’s 
+
+15.  Ozols RB, et al.  Chemotherapy for murine ovarian cancer:  A rationale for IP 
+
+therapy with Adriamycin.  Cancer Treat Rep, 63:269-274, 1979. 
+
+16.  Chavdury PM, Roninson IB.  Induction of multidrug resistance in human cells by 
+
+transient exposure to different chemotherapeutic drugs.  J Natl Cancer Institute, 
+85:632-639, 1993. 
+
+17.  Ouclard S, et al.  Sensitization of multidrug-resistant colon cancer cells to 
+
+doxorubicin encapsulated in liposomes.  Cancer Chemother Pharmacol, 28(4):259-
+265, 1991. 
+
+18.  Thierry AR, et al.  Effect of liposomes on P glycoprotein function in multidrug-
+
+resistant cells.  Biochem-Biophys Res Commun, 187:1098-1105, 1992. 
+
+19.  Data on file, SEQUUS Pharmaceuticals. 
+
+20.  Data on file, SEQUUS Pharmaceuticals. 
+
+21.  Uziely B, Jeffers S, Isacson R, et al.  Liposomal doxorubicin:  Antitumor activity 
+
+and unique toxicities during two complementary Phase I studies.  Journal of Clinical 
+Oncology, 13(7): 1777-1785, 1995. 
+
+22.  Muggia F, Hainsworth S, Jeffers S, et al.  Liposomal doxorubicin (DOXIL) is active 
+
+against refractory ovarian cancer.  Proc Am Soc Clin Oncol, 15:78, 1996. 
+
+23.  Ranson M, O’Byrne K, Carmichael J, et al.  Phase II Dose-Finding Trial of DOX-
+SL (Stealth Liposomal Doxorubicin HCL) in the Treatment of Advanced Breast 
+Cancer.  Proc Am Soc Clin Oncol,15:161, 1996. 
+
+24.  Burris HA, Rothenberg ML, Kuhn JG, and Von Hoff DD.  Clinical Trials with the 
+
+Topoisomerase I Inhibitors.  Sem in Oncol,19, 6:663-669, 1992. 
+
+ 
+ 
+
+35 
+
+931 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+25.  Minutes of ODAC meeting (4/16/96). 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+26.  Aaronson NK, Ahmedzai S, Bullinger M, et al.  The EORTC Core Quality of Life 
+Questionnaire:  Interim Results of an International Field Study.  Chapter 14:  Effect 
+of Cancer in Quality-of-Life.  Osoba D.  CRC Press Inc., 185-203, 1991. 
+
+27.  Aaronson NK, Ahmedzai S, Bergman B, et. al.  The EORTC QLQ-C30:  Quality of 
+
+Life Instrument for Use in International Trials in Oncology Journal of National 
+Cancer Institute, 85(5), March 1993. 
+
+28.  Ringdal GI, Ringdal K.  Testing the EORTC Quality of Life Questionnaire on 
+
+Cancer Patients with Heterogeneous Diagnoses.  Quality of Life Research, 2:129-
+40, 1993. 
+
+29.  Sprangers MAG, Cull A, Bjordal K, et al.  The European Organization for Research 
+
+and Treatment of Cancer approach to quality of life assessment:  guidelines for 
+developing questionnaire modules.  Quality of Life Research, 2:287-95, 1993. 
+
+30.  Osoba D.  Self-Rating Symptoms Checklists:  A simple method for recording and 
+evaluating symptom control in oncology.  Cancer Treatment Reviews, 19:43-45, 
+1993.  (Supplement A) 
+
+31.  Osoba D, Dancy G, Zee B, Myles J, Pater J.  Health-related quality-of-life studies of 
+the national Cancer Institute of Canada Clinical Trial Group.  Monographs National 
+Cancer Institute, 20:102-111, 1996. 
+
+32.  Glasziou PP, Sime RF, Gelber RD. Quality-adjusted survival analysis. Statistics in 
+
+Medicine, 9:1259-1276, 1990. 
+
+33.  Goldhirsch A, Gelber RD, Simes, RF, Glasziou P, Coates AS. Costs and benefits of 
+
+adjuvant therapy in breast cancer: a quality-adjusted survival analysis. Journal of 
+Clinical Oncology, 7:36-44, 1989. 
+
+34.  Collett D.  Modeling Survival Data in Medical Research.  Chapman and Hall, 1994; 
+253-259.  EaSt: A software package for the design and interim monitoring of group 
+sequential clinical trials.  
+ 
+
+ 
+ 
+
+36 
+
+932 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+ 
+ 
+
+37 
+
+933 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+APPENDIX I 
+
+1988 FIGO Staging System For Ovarian Carcinoma 
+
+ 
+Stage I 
+Tumor limited to the ovaries: 
+ 
+
+1a. 
+
+1b. 
+
+1c. 
+
+Involves only one ovary, no ascites, capsule intact, no tumor on external 
+surface. 
+Involves both ovaries, no ascites, capsule intact, no tumor on external 
+surface. 
+Stage 1a or b with tumor on surface of the ovary, rupture of the capsule, 
+malignant ascites, or positive peritoneal washings. 
+
+ 
+Stage II 
+Tumor involves one or both ovaries with pelvic extension: 
+ 
+
+11a.  Extension to uterus and/or tubes. 
+11b.  Extension to other pelvic tissue. 
+11c.  Stage 11a or 11b with tumor on surface of one or both ovaries, capsule 
+
+ruptured, malignant ascites, or positive peritoneal washings. 
+
+ 
+Stage III 
+Tumor involves one or both ovaries with peritoneal implants outside the pelvis and/or 
+positive retroperitoneal or inguinale lymph nodes; superficial liver metastasis; or tumor 
+limited to the true pelvis, but there histologically proven extension to small bowel or 
+omentum . 
+
+111a.  Grossly limited to true pelvis with negative lymph nodes, but microscopic 
+
+seeding of the abdominal peritoneal surfaces. 
+
+111b.  Tumor involves one or both ovaries with histologically proven implants of 
+
+the abdominal peritoneal surfaces, none > 2 cm in diameter; nodes 
+negative. 
+
+111c.  Abdominal implants > 2 cm in diameter and/or positive retroperitoneal or 
+
+inguinale lymph nodes. 
+
+Stage IV 
+Tumor involves one or both ovaries plus distant metastasis; pleural effusion must be 
+cytologically positive to be considered stage IV; or presence of parenchymal liver 
+metastasis 
+
+ 
+ 
+
+38 
+
+934 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+   
+
+Appendix II 
+
+ 
+Karnofsky Performance Status 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+ 
+
+Normal; no complaints; no evidence of disease 
+ 
+Able to carry on normal activity; minor signs or symptoms of disease 
+ 
+Normal activity with effort; some signs or symptoms of disease 
+ 
+Cares for self; unable to carry on normal activity or to do active work 
+ 
+Requires occasional assistance but is able to care for most needs 
+ 
+Requires considerable assistance and frequent medical care 
+ 
+Disabled; requires special care and assistance 
+ 
+Severely disabled; hospitalization is indicated although death not imminent 
+ 
+Very sick; hospitalization necessary; active supportive treatment is 
+necessary 
+ 
+Moribund, fatal processes progressing rapidly 
+ 
+Dead 
+ 
+
+100% 
+
+90% 
+
+80% 
+
+70% 
+
+60% 
+
+50% 
+
+40% 
+
+30% 
+
+20% 
+
+10% 
+
+0 
+
+References:  Karnofsky, Burchenal.  Evaluation of Chemotherapeutic Agents, 1949:199-205. 
+
+Schag CC, Heinrich RL, Ganz PA.  J. Clinical Oncology.  1984;2:187-193. 
+
+39 
+
+935 
+
+ 
+
+ 
+
+ 
+ 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+New York State Heart Association Classification 
+
+Appendix III 
+
+ 
+ 
+ 
+CLASS I: 
+
+ 
+CLASS II: 
+
+ 
+CLASS III: 
+
+ 
+ 
+
+Patients in whom angina is provoked by strenuous exertion.  Patients with 
+cardiac  disease  but  without  resulting  limitations  of  physical  activity.  
+Ordinary  physical  activity  does  not  cause  undue  fatigue,  palpitations, 
+dyspnea, or anginal pain. 
+
+Patients  with  cardiac  disease  resulting  in  slight  limitation  of  physical 
+activity.  They are comfortable at rest.  Ordinary physical activity results in 
+fatigue, palpitation, dyspnea, or anginal pain. 
+
+Patients  with  cardiac  disease  resulting  in  marked  limitation  of  physical 
+activity. They are comfortable at rest. Less than ordinary physical activity 
+causes fatigue, palpitation, dyspnea, or anginal pain. 
+
+ 
+CLASS IV:  Patients with cardiac disease resulting in inability to carry on any physical 
+activity without discomfort. Symptoms of cardiac insufficiency or of the 
+anginal syndrome may be present even at rest. 
+
+ 
+ 
+
+40 
+
+936 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Appendix IV 
+
+Instructions For Drug Storage and 
+Administration of DOXIL/CAELYX 
+
+ 
+
+HOW SUPPLIED 
+ 
+DOXIL/CAELYX is supplied in vials as a liquid.  Each vial contains 20 mg 
+doxorubicin HCl.   
+ 
+Do not use if a precipitate or foreign matter is present. 
+ 
+Do not use if vial seal is breached. 
+
+ 
+
+ 
+
+STORAGE OF MATERIAL 
+ 
+Store DOXIL/CAELYX in a refrigerator at 2° to 8°C.  Avoid freezing. 
+
+DOSAGE AND ADMINISTRATION 
+ 
+The vial contains 2.0 mg/mL doxorubicin HCl, unless specified otherwise on the label.  
+Determine the volume of DOXIL/CAELYX to be administered (based upon the dose 
+specified in the protocol). 
+ 
+Take the appropriate volume of DOXIL/CAELYX up into a sterile syringe.  Aseptic 
+technique must be strictly observed since no preservative or bacteriostatic agent is present 
+in DOXIL/CAELYX.  Each vial is single use only. 
+ 
+Dilute the DOXIL/CAELYX in 5% Dextrose Injection, USP (D5W).  For doses > 12 mg 
+and < 90 mg, dilute in 250 mL of D5W.  For doses > 90 mg, dilute in 500 mL of D5W.  
+Once the DOXIL/CAELYX has been diluted it must be kept refrigerated at 2° to 8°C and 
+administered within 24 hours of mixing.  Ordinarily, the drug will be administered by 
+intravenous infusion over 1 hour.  However, because of occasional acute reactions to the 
+first dose, that initial infusion can be administered more slowly if necessary.  Infusion 
+may be given through a peripheral vein or a central line.   
+
+ 
+ 
+
+41 
+
+937 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Appendix IV(Continued) 
+
+ 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+HANDLING AND DISPOSAL 
+ 
+DOXIL/CAELYX should not be mixed with other drugs until specific compatibility data 
+are available.  
+ 
+The presence of any bacteriostatic agent, such as benzyl alcohol, may cause precipitation 
+of DOXIL/CAELYX. 
+ 
+Caution should be exercised in handling DOXIL/CAELYX solution. The use of gloves is 
+recommended. If DOXIL/CAELYX comes into contact with skin or mucosa, immediately 
+wash thoroughly with soap and water. 
+ 
+DOXIL/CAELYX should be handled and disposed of in a manner consistent with other 
+anti-cancer drugs. 
+ 
+
+ 
+ 
+
+42 
+
+938 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Appendix V 
+
+Topotecan Package Insert 
+
+ 
+ 
+
+43 
+
+939 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+ 
+
+44 
+
+940 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+ 
+
+45 
+
+941 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+
+ 
+ 
+
+Guidelines For DOXIL/CAELYX Dose Modification 
+
+Appendix VI 
+
+PALMAR - PLANTAR ERYTHRODYSESTHESIA 
+
+ 
+
+Week after Dose 
+
+Toxicity Grade 
+
+4 
+
+5 
+
+6 
+
+1 
+
+(mild erythema, 
+
+swelling, or 
+
+desquamation not 
+
+interfering with daily 
+
+activities) 
+
+2 
+
+(erythema, 
+
+desquamation, or 
+
+swelling interfering with, 
+
+but not precluding 
+normal physical 
+
+activities; small blisters 
+or ulcerations less than 2 
+
+cm in diam.) 
+
+Redose unless  
+
+patient has 
+experienced a 
+
+previous Grade 3 or 
+4 skin toxicity in 
+which case wait an 
+additional week 
+
+Redose unless  
+
+patient has 
+experienced a 
+
+previous Grade 3 or 
+4 skin toxicity in 
+which case wait an 
+additional week 
+
+Wait an additional 
+
+week 
+
+Wait an additional 
+
+week 
+
+ 
+
+ 
+
+Redose at 25% 
+dose reduction; 
+return to 4 week 
+
+interval 
+
+or withdraw patient 
+per investigator’s 
+
+assessment 
+
+Redose at 25% 
+dose reduction; 
+return to 4 week 
+
+interval 
+
+or withdraw patient 
+per investigator’s 
+
+assessment 
+
+3 
+
+(blistering, ulceration, or 
+swelling interfering with 
+walking or normal daily 
+activities; cannot wear 
+
+regular clothing) 
+
+4 
+
+(diffuse or local process 
+
+causing infectious 
+
+complications, or a bed 
+
+ridden state or 
+hospitalization) 
+
+Wait an additional 
+
+week 
+
+Wait an additional 
+
+week 
+
+Withdraw patient 
+
+ 
+
+ 
+
+Wait an additional 
+
+week 
+
+Wait an additional 
+
+week 
+
+Withdraw patient 
+
+46 
+
+942 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix VI (Continued) 
+
+ 
+ 
+ 
+ 
+
+HEMATOLOGICAL TOXICITY  
+GRADE 
+
+ANC
+
+PLATELETS
+
+MODIFICATION 
+
+1 
+
+2 
+
+3 
+
+4 
+
+1500 - 1900 
+
+1000  - <1500 
+
+75,000 - 150,000  Resume treatment with no dose 
+
+reduction  
+
+50,000 - <75,000  Wait until ANC > 1,500 and 
+
+platelets > 75,000; redose with no 
+dose reduction 
+
+500 - 999 
+
+25,000 - <50,000  Wait until ANC > 1,500 and 
+
+platelets > 75,000; redose with no 
+dose reduction 
+
+<500 
+
+<25,000 
+
+Wait until ANC > 1,500 and 
+platelets > 75,000; redose at 25% 
+dose reduction or continue full 
+dose with cytokine support. 
+
+BILIRUBIN 
+
+1.2 - 3 mg/dl 
+
+Redose with 25% dose reduction 
+
+>3 mg/dl 
+
+Redose with 50% dose reduction if not drug related.  If drug 
+related, then discontinue 
+
+47 
+
+943 
+
+ 
+
+ 
+ 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix VI (Continued) 
+
+ 
+
+ 
+ 
+
+STOMATITIS 
+
+ 
+
+Week after Dose 
+
+Toxicity Grade 
+
+4 
+
+5 
+
+6 
+
+1 
+ 
+
+(painless ulcers, 
+erythema, or mild 
+
+soreness) 
+
+Redose unless  
+
+patient has 
+experienced a 
+
+Redose unless  
+
+patient has 
+experienced a 
+
+previous Grade 3 or 
+
+previous Grade 3 or 
+
+4 stomatitis in 
+
+which case wait an 
+additional week 
+
+4 stomatitis in 
+
+which case wait an 
+additional week 
+
+2 
+ 
+
+Wait an additional 
+
+week 
+
+Wait an additional 
+
+week 
+
+(painful erythema, 
+
+edema, or ulcers, but can 
+
+eat) 
+
+ 
+
+ 
+
+Redose at 25% 
+dose reduction; 
+return to 4 week 
+
+interval 
+
+or withdraw patient 
+per investigator’s 
+
+assessment 
+
+Redose at 25% 
+dose reduction; 
+return to 4 week 
+
+interval 
+
+or withdraw patient 
+per investigator’s 
+
+assessment 
+
+3 
+
+(painful erythema, 
+edema, or ulcers, but 
+
+cannot eat) 
+
+4 
+
+(requires parenteral or 
+
+enteral support) 
+
+ 
+
+Wait an additional 
+
+week 
+
+Wait an additional 
+
+week 
+
+Withdraw patient 
+
+ 
+
+ 
+
+Wait an additional 
+
+week 
+
+Wait an additional 
+
+week 
+
+Withdraw patient 
+
+ 
+ 
+ 
+ 
+
+48 
+
+944 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Appendix VII 
+
+NCI Common Toxicity Criteria 
+
+ 
+ 
+
+TOXICITY 
+
+(Adverse Event) 
+
+GRADE 0 
+
+GRADE 1 
+
+(Mild) 
+
+GRADE 2 
+(Moderate) 
+
+GRADE 3 
+(Severe) 
+
+GRADE 4 
+(or Life-
+
+Threatening) 
+
+> 2.0 
+
+> 4.0 
+WNL 
+WNL 
+> 2.0 
+
+ 
+BLOOD/BONE MARROW 
+WBC 
+PLT 
+Hgb 
+Granulocytes/ 
+Bands 
+Lymphocytes 
+ 
+LIVER 
+Bilirubin 
+Transaminase 
+(SGOT, SGPT) 
+Alk Phos or 
+5' nucleotidase 
+ 
+GASTROINTESTINAL 
+Nausea 
+
+WNL 
+WNL 
+
+WNL 
+
+none 
+
+Vomiting 
+
+Diarrhea 
+
+none 
+
+none 
+
+Stomatitis 
+
+none 
+
+ 
+KIDNEY/BLADDER 
+Creatinine 
+Proteinuria 
+
+WNL 
+no change 
+
+Hematuria 
+
+neg 
+
+ 
+ 
+
+3.0 - 3.9 
+75.0 - normal 
+10.0 - normal 
+1.5 - 1.9 
+
+1.5 - 1.9 
+
+2.0 - 2.9 
+50.0 - 74.9 
+8.0 - 10.0 
+1.0 - 1.4 
+
+1.0 - 1.4 
+
+1.0 - 1.9 
+25.0 - 49.9 
+6.5 - 7.9 
+0.5 - 0.9 
+
+0.5 - 0.9 
+
+< 1.0 
+< 25.0 
+< 6.5 
+< 0.5 
+
+< 0.5 
+
+-- 
+< 2.5 x N 
+
+< 2.5 x N 
+
+< 1.5 x N 
+2.6 - 5.0 x N 
+
+1.5 - 3.0 x N 
+5.1 - 20.0 x N 
+
+> 3.0 x N 
+> 20.0 x N 
+
+2.6 - 5.0 x N 
+
+5.1 - 20.0 x N 
+
+> 20.0 x N 
+
+able to eat 
+reasonable intake 
+
+1 episode in 
+24 hours 
+
+intake significantly 
+decreased, but can 
+eat 
+2-5 episodes in 
+24 hours 
+
+no significant 
+intake 
+
+6-10 episodes in 
+24 hours 
+
+increase of 
+2-3 stools/day over 
+pre-Rx 
+
+increase of 
+4-6 stools/day, or 
+nocturnal stools, or 
+moderate cramping
+
+increase of 
+7-9 stools/day, or 
+incontinence, or 
+severe cramping 
+
+painless ulcers, 
+erythema, or mild 
+soreness 
+
+painful erythema, 
+edema, or ulcers, 
+but can eat 
+
+painful erythema, 
+edema, or ulcers, 
+and cannot eat 
+
+--- 
+
+> 10 episodes in 
+24 hours or requiring 
+parenteral support 
+increase of 
+> 10 stools/day, or 
+grossly bloody 
+diarrhea, or need for 
+parenteral support 
+requires parenteral 
+or enteral support 
+
+< 1.5 x N 
+1+ or <0.3 g% or < 
+3 g/l 
+micro only 
+
+1.5 - 3.0 x N 
+2 - 3+ or 0.3 - 1.0 
+g% or 3 -10 g/l 
+gross, no clots 
+
+3.1 - 6.0 x N 
+4+ or > 1.0 g% or 
+> 10 g/l 
+gross + clots 
+
+> 6.0 x N 
+nephrotic syndrome 
+
+requires transfusion 
+
+49 
+
+945 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix VII (Continued) 
+
+ 
+
+TOXICITY 
+
+(Adverse Event) 
+
+ 
+HEART/LUNGS 
+Cardiac 
+dysrhythmias 
+
+GRADE 0 
+
+GRADE 1 
+
+(Mild) 
+
+GRADE 2 
+(Moderate) 
+
+GRADE 3 
+(Severe) 
+
+none 
+
+asymptomatic, 
+transient, requiring 
+no therapy 
+
+recurrent or 
+persistent, no 
+therapy required 
+
+requires treatment 
+
+GRADE 4 
+(or Life-
+
+Threatening) 
+
+requires monitoring; 
+or hypotension, or 
+ventricular 
+tachycardia, or 
+fibrillation 
+severe or refractory 
+CHF 
+
+mild CHF, 
+responsive to 
+therapy 
+
+asymptomatic, 
+decline of resting 
+ejection fraction by 
+more than 20% of 
+baseline value 
+asymptomatic, ST 
+and T wave 
+changes suggesting 
+ischemia 
+pericarditis (rub, 
+chest pain, ECG 
+changes) 
+
+angina without 
+evidence for 
+infarction 
+
+symptomatic 
+effusion; drainage 
+required 
+
+acute myocardial 
+infarction 
+
+tamponade; drainage 
+urgently required 
+
+dyspnea on 
+significant exertion
+
+dyspnea at normal 
+level of activity 
+
+dyspnea at rest 
+
+10.0 - 19.9% 
+
+> 20.0% 
+
+--- 
+
+recurrent or 
+persistent increase 
+by greater than 
+20 mm Hg (D) or 
+to > 150/100 if 
+previously WNL; 
+no treatment 
+required 
+requires fluid 
+replacement or 
+other therapy  
+
+requires therapy 
+
+hypertensive crisis 
+
+requires therapy 
+and resolves 
+within 48 hours of 
+stopping the agent 
+
+requires therapy  for 
+> 48 hours after 
+stopping the agent 
+
+Cardiac function 
+
+none 
+
+Cardiac--ischemia 
+
+none 
+
+Cardiac--
+pericardial 
+
+none 
+
+Pulmonary 
+
+none or no change 
+
+< 5.0% 
+
+Weight gain/loss 
+ 
+BLOOD PRESSURE 
+Hypertension 
+
+none or no change 
+
+Hypotension 
+
+none or no change 
+
+ 
+
+ 
+ 
+
+asymptomatic, 
+decline of resting 
+ejection fraction by 
+less than 20% of 
+baseline value 
+non-specific T-
+wave flattening 
+
+asymptomatic 
+effusion, no 
+intervention 
+required 
+asymptomatic, 
+with abnormality 
+in PFT's 
+5.0 - 9.9% 
+
+asymptomatic, 
+transient increase 
+by greater than 
+20 mm Hg (D) or 
+to > 150/100 if 
+previously WNL; 
+no treatment 
+required 
+changes requiring 
+no therapy 
+(including 
+transient 
+orthostatic 
+hypotension) 
+
+50 
+
+946 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix VII (Continued) 
+
+ 
+
+GRADE 0 
+
+GRADE 1 
+
+(Mild) 
+
+GRADE 2 
+(Moderate) 
+
+GRADE 3 
+(Severe) 
+
+GRADE 4 
+(or Life-
+
+Threatening) 
+
+TOXICITY 
+
+(Adverse Event) 
+
+ 
+NEUROLOGIC 
+Neuro--sensory 
+
+none or no change  mild paresthesias, 
+
+loss of deep 
+tendon reflexes 
+
+Neuro--motor 
+
+none or no change 
+
+Neuro--cortical 
+
+none 
+
+subjective 
+weakness; no 
+objective findings 
+
+mild somnolence 
+or agitation 
+
+Neuro--cerebellar 
+
+none 
+
+Neuro--mood 
+
+no change 
+
+Neuro--headache 
+
+none 
+
+slight 
+incoordination 
+dysdiakokinesis 
+mild anxiety or 
+depression 
+mild 
+
+mild or moderate 
+objective sensory 
+loss; moderate 
+paresthesias 
+
+mild objective 
+weakness without 
+significant 
+impairment of 
+function 
+moderate 
+somnolence or 
+agitation 
+
+intention tremor, 
+dysmetria, slurred 
+speech, nystagmus 
+moderate anxiety 
+or depression 
+moderate or severe 
+but transient 
+moderate 
+
+severe objective 
+sensory loss or 
+paresthesias that 
+interfere with 
+function 
+objective 
+weakness with 
+impairment of 
+function 
+
+severe 
+somnolence, 
+agitation, 
+confusion, 
+disorientation, or 
+hallucinations 
+locomotor ataxia 
+
+severe anxiety or 
+depression 
+unrelenting and 
+severe 
+severe  
+
+hearing loss 
+interfering with 
+function but 
+correctable with 
+hearing aid 
+symptomatic 
+subtotal loss of 
+vision 
+
+--- 
+
+paralysis 
+
+coma, seizures, toxic 
+psychosis 
+
+cerebellar necrosis 
+
+suicidal ideation 
+
+--- 
+
+ileus > 96 hours 
+
+deafness not 
+correctable 
+
+blindness 
+
+Neuro--
+constipation 
+Neuro--hearing 
+
+none or no change  mild 
+
+none or no change 
+
+asymptomatic, 
+hearing loss on 
+audiometry only 
+
+tinnitus 
+
+Neuro--vision 
+
+none or no change 
+
+--- 
+
+--- 
+
+ 
+
+ 
+ 
+
+51 
+
+947 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+TOXICITY 
+
+(Adverse Event) 
+
+GRADE 0 
+
+Appendix VII (Continued) 
+GRADE 2 
+(Moderate) 
+
+GRADE 1 
+
+(Mild) 
+
+ 
+
+GRADE 3 
+(Severe) 
+
+GRADE 4 
+(or Life-
+
+Threatening) 
+
+ 
+DERMATOLOGIC 
+Skin 
+
+none or no change 
+
+Palmar-Plantar 
+Erythro-
+dysesthesia 
+
+no symptoms 
+
+Allergy 
+
+none 
+
+scatter macular or 
+papular eruption or 
+erythema that is 
+asymptomatic 
+
+Mild erythema, 
+swelling, or 
+desquamation not 
+interfering with 
+daily activities. 
+
+transient rash, drug 
+fever < 38°C, 
+100.4°F 
+
+Alopecia 
+
+no loss 
+
+mild hair loss 
+
+ 
+METABOLIC 
+Hyperglycemia 
+
+< 116 
+
+> 64 
+WNL 
+< 10.6 
+> 8.4 
+> 1.4 
+
+Hypoglycemia 
+Amylase 
+Hypercalcemia 
+Hypocalcemia 
+Hypomagnesemia 
+ 
+COAGULATION 
+Fibrinogen 
+WNL 
+Prothrombin time  WNL 
+WNL 
+Partial thrombo-
+plastin time 
+Hemorrhage 
+(Clinical) 
+
+none 
+
+116 - 160 
+
+55 - 64 
+< 1.5 x N 
+10.6 - 11.5 
+8.4 - 7.8 
+1.4 - 1.2 
+
+0.99-0.75 x N 
+1.01-1.25 x N 
+1.01-1.66 x N 
+
+mild, no 
+transfusion 
+
+scatter macular or 
+papular eruption or 
+erythema with 
+pruritus or other 
+associated 
+symptoms 
+Erythema, 
+desquamation, or 
+swelling 
+interfering with, 
+but not precluding 
+normal physical 
+activities; small 
+blisters or 
+ulcerations less 
+than 2 cm in diam. 
+urticaria, drug 
+fever = 38°C, 
+100.4°F, mild 
+bronchospasm 
+
+pronounced or 
+total hair loss 
+
+generalized 
+symptomatic 
+macular, papular, 
+or vesicular 
+eruption 
+
+Blistering, 
+ulceration, or 
+swelling 
+interfering with 
+walking or normal 
+daily activities; 
+cannot wear 
+regular clothing. 
+
+serum sickness, 
+bronchospasm 
+requiring 
+parenteral 
+medications 
+--- 
+
+161 - 250 
+
+251 - 500 
+
+40 - 54 
+1.5 - 2.0 x N 
+11.6 - 12.5 
+7.7 - 7.0 
+1.1 - 0.9 
+
+30 -39 
+2.1 - 5.0 x N 
+12.6 - 13.5 
+6.9 - 6.1 
+0.8 - 0.6 
+
+exfoliative dermatitis 
+or ulcerating 
+dermatitis 
+
+Diffuse or local 
+process causing 
+infectious 
+complications, or a 
+bed ridden state or 
+hospitalization. 
+
+anaphylaxis 
+
+--- 
+
+> 500 or 
+ketoacidosis 
+< 30 
+> 5.1 x N 
+> 13.5 
+< 6.0 
+< 0.5 
+
+0.74-0.50 x N 
+1.26-1.50 x N 
+1.67-2.33 x N 
+
+0.49-0.25 x N 
+1.51-2.00 x N 
+2.34-3.00 x N 
+
+< 0.24 x N 
+> 2.00 x N 
+> 3.00 x N 
+
+gross, 1-2 units 
+transfusion per 
+episode 
+
+gross, 3-4 units 
+transfusion per 
+episode 
+
+massive, >4 units 
+transfusion per 
+episode 
+
+Appendix VII (Continued) 
+
+ 
+
+ 
+
+ 
+ 
+
+52 
+
+948 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+TOXICITY 
+
+(Adverse Event) 
+
+GRADE 0 
+
+GRADE 1 
+
+(Mild) 
+
+GRADE 2 
+(Moderate) 
+
+GRADE 3 
+(Severe) 
+
+ 
+OTHER 
+Chills (rigors) 
+
+none 
+
+any rigor, mild 
+
+rigors requiring 
+medication 
+
+rigors not 
+controlled by 
+medication 
+
+GRADE 4 
+(or Life-
+
+Threatening) 
+
+--- 
+
+ 
+
+Source (modified from): 
+ 
+
+ 
+
+National Institute of Health, National Cancer Institute, Cancer Therapy Evaluation  
+Program, Bethesda, Maryland 20892 
+
+ 
+
+ 
+ 
+
+53 
+
+949 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Appendix VIII 
+
+Health-related Quality of Life Questionnaire 
+HEALTH-RELATED QUALITY OF LIFE QUESTIONNAIRE 
+
+ 
+ 
+We are interested in some things about you and your health.  Please answer all questions yourself 
+by circling the number that best applies to you.  There are no "right" or "wrong" answers.  The 
+information that you provide will remain strictly confidential.   
+ 
+Please fill in your initials:  
+ 
+ 
+Your birthdate (Day, Month, Year):             
+ 
+ 
+Today's date (Day, Month, Year):               
+ 
+ 
+1.  Do you have trouble doing strenuous activities, like carrying a 
+
+_____________ 
+
+_____________ 
+
+_____________ 
+
+ 
+
+ 
+
+NO 
+
+YES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+NO 
+
+NO 
+
+NO 
+
+NO 
+
+ 
+ 
+
+YES 
+
+YES 
+
+YES 
+
+YES 
+
+ 
+ 
+
+ 
+ 
+
+heavy shopping bag or a suitcase? 
+
+ 
+2.  Do you have any trouble taking a long walk?
+
+3.  Do you have any trouble taking a short walk outside of the 
+
+house? 
+
+ 
+4.  Do you have to stay in bed or a chair for most of the day? 
+ 
+5.  Do you need help with eating, dressing, washing yourself or 
+
+using the toilet? 
+
+ 
+(PLEASE GO ON TO THE NEXT PAGE) 
+ 
+
+ 
+ 
+
+54 
+
+950 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix VIII (cont.) 
+
+Not 
+at All 
+
+A  
+Little 
+
+Quite 
+a Bit 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+ 
+
+ 
+
+ 
+ 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+ 
+
+ 
+
+ 
+ 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+ 
+
+ 
+
+ 
+ 
+
+Very 
+Much 
+
+ 
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+ 
+
+ 
+
+ 
+ 
+
+Doxil:  Clinical Study Report 30-49
+
+ 
+ DURING THE PAST WEEK: 
+
+6. 
+
+ 
+7.  
+
+ 
+8. 
+
+9.  
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+15. 
+
+16. 
+
+17. 
+
+18. 
+
+19. 
+
+Were you limited in any way in doing either 
+your work or other daily activities? 
+
+Were you limited in pursuing your hobbies or 
+other leisure activities? 
+
+Were you short of breath? 
+
+Have you had pain? 
+
+Did you need to rest? 
+
+Have you had trouble sleeping? 
+
+Have you felt weak? 
+
+Have you lacked appetite? 
+
+Have you felt nauseated? 
+
+Have you vomited? 
+
+Have you been constipated? 
+
+Have you had diarrhea? 
+
+Were you tired? 
+
+Did pain interfere with your daily activities? 
+
+(PLEASE GO ON TO THE NEXT PAGE) 
+
+ 
+ 
+
+ 
+ 
+
+55 
+
+951 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix VIII (cont.) 
+
+ 
+
+Not 
+at All 
+
+A  
+Little 
+
+Quite 
+a Bit 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+Very 
+Much 
+
+ 
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DURING THE PAST WEEK: 
+ 
+
+20. 
+
+ 
+21. 
+
+22. 
+
+23. 
+
+24. 
+
+25. 
+
+26. 
+
+ 
+27. 
+
+ 
+28. 
+
+Have you had difficulty in concentrating on         
+things like reading a newspaper or watching 
+television? 
+
+Did you feel tense? 
+
+Did you worry? 
+
+Did you feel irritable? 
+
+Did you feel depressed? 
+
+Have you had difficulty remembering things? 
+
+Has your physical condition or medical 
+treatment interfered with your family life? 
+
+Has your physical condition or medical 
+treatment interfered with your social 
+activities? 
+
+Has your physical condition or medical 
+treatment caused you financial difficulties? 
+
+ 
+ 
+(PLEASE GO ON TO THE NEXT PAGE) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+56 
+
+952 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix VIII (cont.) 
+
+FOR THE FOLLOWING QUESTIONS PLEASE CIRCLE THE NUMBER BETWEEN 1 AND 7 
+THAT BEST APPLIES TO YOU 
+ 
+29. 
+ 
+
+How would you rate your overall health during the past week? 
+
+2 
+ 
+
+3 
+ 
+
+4 
+ 
+
+6 
+ 
+
+7 
+
+Excellent 
+
+ 
+
+5 
+ 
+
+1 
+
+Very 
+Poor 
+
+1 
+
+Very 
+Poor 
+
+ 
+
+ 
+
+ 
+30. 
+ 
+
+How would you rate your overall quality of life during the past week? 
+
+2 
+ 
+
+3 
+ 
+
+4 
+ 
+
+5 
+ 
+
+6 
+ 
+
+7 
+
+Excellent 
+
+Not  
+at All 
+
+ 
+
+A 
+
+Little 
+
+ 
+
+Quite 
+a Bit 
+
+ 
+
+Very  
+Much 
+ 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+ 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+ 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+ 
+
+ 
+
+ 
+ 
+DURING THE PAST WEEK: 
+ 
+ 
+31.    Did you have cramps in your abdomen? 
+
+32.  Were you bothered by swelling in your abdomen? 
+
+33.  Did you have pain or discomfort with bowel 
+
+movements? 
+
+34.  Were you bothered by frequent urination? 
+
+35.  Did you have loss of bladder control? 
+
+36.  Did you have painful joints? 
+
+(PLEASE GO ON TO THE NEXT PAGE) 
+ 
+
+ 
+
+ 
+ 
+
+57 
+
+953 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix VIII (cont.) 
+
+ 
+
+Not 
+at All 
+
+A  
+Little 
+
+Quite a 
+
+Bit 
+
+1 
+
+1 
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+1 
+
+1 
+ 
+
+2 
+
+2 
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+
+2 
+2 
+
+2 
+ 
+
+3 
+
+3 
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+
+3 
+3 
+
+3 
+ 
+
+Very 
+Much 
+
+ 
+4 
+
+4 
+4 
+
+4 
+
+4 
+
+4 
+ 
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+
+4 
+4 
+
+4 
+ 
+
+Doxil:  Clinical Study Report 30-49
+
+DURING THE PAST WEEK: 
+
+37.  Did you have aching muscles? 
+
+38.  Did you have a fever? 
+39.  Did you have chills? 
+
+40.  Did you have any unexpected bruising? 
+
+41.  Did you have any unexpected bleeding? 
+
+42.  Were you bothered by hair loss? 
+
+43.  Did soreness in your mouth or throat interfere with 
+
+eating or drinking? 
+
+44.  Have you had a problem with changes in sensation 
+
+in your fingers or toes? 
+
+45.  Did you have difficulty doing up buttons? 
+
+46.  Did you have trouble wearing shoes? 
+
+47.  Did you have blistering or cracking of the skin of 
+
+your fingers or toes? 
+
+48.  Did you have painful fingers or toes? 
+49.  Did you have a decrease in your interest in sexual 
+
+activity? 
+
+50.  Did you take medicine for pain? 
+
+(PLEASE GO ON TO THE NEXT PAGE) 
+
+ 
+ 
+
+58 
+
+954 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+DURING THE PAST WEEK: 
+
+Appendix VIII (cont.) 
+
+ 
+
+Not 
+at All 
+
+A  
+Little 
+
+Quite 
+a Bit 
+
+Very 
+Much 
+
+ 
+4 
+
+51. 
+
+52. 
+
+If you took medicine for pain, did any pain 
+remain? 
+In this question, the words overall quality of life refer to such things as your overall health 
+and the other things that you would call your “quality of life.”  Please circle your answer. 
+
+3 
+
+2 
+
+1 
+
+Since the last time I filled out a questionnaire, the overall quality of my life is: 
+
+Doxil:  Clinical Study Report 30-49
+
+1 
+
+Very much 
+
+worse 
+
+2 
+ 
+
+Moderately 
+
+worse 
+
+3 
+ 
+
+A little 
+worse 
+
+ 
+4 
+ 
+
+About the 
+
+ same 
+
+A little  
+better 
+
+5 
+ 
+
+ 
+ 
+
+6 
+ 
+
+Moderately 
+
+ better 
+
+7 
+ 
+
+Very  
+much  
+better 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+THANK YOU! 
+
+59 
+
+955 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Appendix IX 
+
+HQL Administration Guidelines 
+
+QUESTIONNAIRE ADMINISTRATION GUIDELINES FOR  
+
+THE HEALTH-RELATED QUALITY OF LIFE QUESTIONNAIRE  
+
+FOR PATIENTS WITH ADVANCED EPITHELIAL OVARIAN CANCER 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Acknowledgment 
+
+ 
+This document was adapted for this study and was originally prepared by the International 
+Resource Center for Health Care Assessment at The Health Institute, New England 
+Medical Center Hospitals, Boston, Massachusetts in April 1992.  It is based on 
+questionnaire administration guidelines developed by the Department of Quality 
+Assessment, New England Medical Center Hospitals. 
+ 
+
+ 
+ 
+
+60 
+
+956 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix IX (cont.) 
+
+ 
+Introduction 
+ 
+Guidelines for administering the Health-Related Quality of Life Questionnaire (HQLQ) 
+during this clinical study are presented in this document.  The questionnaire will be 
+completed by the patients during their scheduled visits. 
+ 
+These guidelines assume that an appropriate person has been designated to facilitate self-
+administration of the questionnaires and enter the data with each investigator's office, and 
+that a procedure has been established for recording the patient's initials and identification 
+number, visit date, and site code on the questionnaire, as well as reviewing the 
+questionnaire for completeness. 
+ 
+Foreign Speaking Patients, Visual Problems 
+ 
+Patients must be able to read the language of their country in order to complete the 
+HQLQ.  If a patient is not able to speak the language of their country, check if the patient 
+is able to read the language of their country, and if so, give the patient the questionnaire. 
+ 
+The Questionnaire was prepared under the assumption that patients would not have 
+problems reading a questionnaire that has normal-size type.  In general, if a clinical study 
+is expected to have a large number of patients who have visual problems, a large-type 
+version of the questionnaire also should be prepared.  If the questionnaire is to be given to 
+a large number of patients who are unable to read, then an interviewer-administered 
+version of the form and accompanying script for the interviewer must be developed.   
+ 
+When Should the Questionnaire Be Administered? 
+ 
+The Questionnaire should be administered before the patient sees the physician, so that 
+the interaction between the patient and physician will not influence the patient's answers 
+to the questionnaire.  Ideally, the questionnaire also should be administered before the 
+patient is asked about adverse experiences and concurrent illnesses, again so that any 
+discussions of health problems do not influence the patient's answers to the questionnaire.  
+It is important that the Questionnaire be administered and the adverse event questions be 
+asked in the same order in all study sites. 
+ 
+
+ 
+
+ 
+ 
+
+61 
+
+957 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Appendix IX (cont.) 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+ 
+ 
+How Should the Questionnaire Be Introduced? 
+ 
+A sample script for introducing the questionnaire is given below.  This is one possible 
+script that could be used.  Staff members at each study site can reword this script so that it 
+sounds more like their natural style of speech and fits the setting of the clinical site. 
+ 
+“Your doctor would like to better understand how you and other patients in this study 
+feel, how well you are able to do your usual activities, and how you rate your health.  To 
+help us understand these things about you and other patients better, please complete this 
+questionnaire about your health. 
+ 
+The questionnaire is easy to fill out.  The instructions are on the front cover [point to 
+them].  You should read each question and then circle the appropriate number that 
+matches your answer.  Remember, this is not a test and there are no right or wrong 
+answers.  Choose the answer that best describes the way you feel.  I will quickly review 
+your questionnaire when you are done to make sure that all the questions have been 
+answered. 
+ 
+You should answer these questions by yourself.  Spouses or other family members should 
+not help you when you answer the questionnaire.  I will be nearby in case you want to ask 
+me any questions.  Please return the questionnaire to me when you are done.” 
+ 
+What To Do if the Patient Asks for Clarification of Survey Items 
+ 
+Some patients may ask what specific questions mean.  If this happens, the staff member 
+can assist the patient by rereading the question for them verbatim.  If the patient asks 
+what something means, do not try to explain what the question means, but tactfully 
+suggest that the patient use their own interpretation of the question.  All patients should 
+answer the questions based on what they think the questions mean, or the study results 
+may be biased. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+62 
+
+958 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix IX (cont.) 
+
+ 
+
+ 
+Questionnaire Completion 
+ 
+When the patient returns the questionnaire, check that all the questions have been 
+answered.  If the questionnaire is not complete, tell the patient that some of the questions 
+weren't answered.  If the patient does not quickly volunteer to answer these items, ask the 
+patient whether she had any difficulty completing the questionnaire. 
+
+If the patient says that she had trouble understanding a question, ask the patient why  she 
+had difficulty with that item.  Reread the question for her verbatim, but do not attempt to 
+explain or reword the question, as explained before.  If the patient is still unable to 
+complete the question, accept the questionnaire as incomplete. 
+ 
+Some patients may be confused by the response choices.  They may want to respond with 
+"I don't know" or some other response choice that is not on the questionnaire.  If that 
+happens, try to tactfully help the patient choose one of the response categories by saying 
+something like:  "I know it may be hard for you to pick an answer, but which of these 
+answers do you think comes closest to the way that you are thinking or feeling?"  If the 
+patient still can't select an answer, accept the questionnaire as incomplete. 
+ 
+Occasionally, patients may not report having difficulty with a question or with the 
+response choices, but still may hesitate or refuse to answer an item or items.  If this 
+happens, accept the questionnaire as incomplete. 
+ 
+For questions that are incomplete, please indicate for that question, directly on the 
+questionnaire “patient prefers not to answer”. 
+ 
+The questionnaire should also be reviewed for these common errors; should the patient 
+still be unable to select a single answer, then the following rules will apply: 
+ 
+(1) 
+
+If a respondent circles two responses and the responses are adjacent to each other, 
+choose the lower number. 
+
+ 
+(2) 
+
+ 
+
+ 
+ 
+
+If a respondent circles two responses for an item and they are not adjacent to each 
+other, code the lower number. 
+
+63 
+
+959 
+
+Doxil:  Clinical Study Report 30-49
+
+ 
+(3) 
+
+ 
+(4) 
+
+ 
+(5) 
+
+ 
+ 
+ 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix IX (cont.) 
+
+If a respondent circles three or more responses for an item, code that item 
+“missing”. 
+
+If a respondent answers the “yes/no” items by writing in “yes” or “no”, code the 
+answer as though “yes” or “no” had been circled. 
+
+If a respondent places a circle or mark between two responses, code the lower 
+number. 
+
+ 
+Please review the specific DOs and DON'Ts of Questionnaire Administration in Table 1.  
+If a patient asks for interpretation of their responses or asks for their score on the 
+questionnaire, tell respondents that you are not trained in how to score or interpret the 
+questionnaire.  Emphasize that their answers are to be kept confidential. 
+ 
+Completed Questionnaires 
+ 
+In general, when questionnaires like the SF-36 or EORTC QLQ-C30 are administered in 
+clinical settings, the patient is thanked once she has completed the questionnaire and the 
+staff member has checked it for completeness.  A draft script for thanking the patient is 
+provided below.  Again, the staff member should reword this to sound like their natural 
+speech. 
+ 
+“Thank you for taking the time to complete this survey.  We will be asking you to 
+complete this survey again during this study.” 
+ 
+Depending on the visit week, the second sentence can be modified to say the number of 
+additional times the survey will be administered, or to say that this is the last time that the 
+survey will be administered.  Because the patient is providing other information during 
+her visit, a specific thank you for completing the HRQL Questionnaire may not be 
+appropriate in this study. 
+ 
+Physician/Staff Review of Questionnaires 
+ 
+The physician should not be allowed to review the questionnaire.  Physicians may be 
+interested in knowing the results for their patients, especially if they know that quality of  
+
+Appendix IX (cont.) 
+
+ 
+
+64 
+
+960 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+life questionnaires are currently being used in some physician's practices.  However, 
+allowing the physician to review the survey introduces a potential bias into the study, 
+since a physician might discuss the results with patients or somehow influence patient's 
+answers on subsequent administrations of the survey.  Even if a physician does not mean 
+to do this, the potential for inadvertently doing so exists. 
+ 
+Staff members who administer the questionnaire and enter the data also should not 
+discuss the results with patients.  If a patient asks about her results, the staff member 
+should say that the results are being analyzed as part of the study and that staff members 
+at the individual sites cannot interpret the results.  The patient also could be reminded that 
+the Questionnaire is not a test and that there are no right or wrong answers. 
+ 
+ 
+Adverse Event Reporting and QOL Assessment 
+ 
+Site personnel should not attempt to reconcile QOL responses and adverse events, unless 
+specifically instructed by protocol. 
+ 
+
+ 
+ 
+
+65 
+
+961 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+Appendix IX (cont.) 
+
+Doxil:  Clinical Study Report 30-49
+
+ 
+TABLE 1  QUESTIONNAIRE ADMINISTRATION Dos AND DON'Ts 
+ 
+DOs 
+ 
+Do have the respondents fill out the 
+questionnaire before they fill out any 
+other health data forms and before 
+they see their physicians 
+ 
+Do be warm, friendly, and helpful 
+
+ 
+DON'Ts 
+ 
+Do not discuss respondents' health, 
+health data, or emotions with them 
+before they fill out the questionnaire 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+Do not force or command 
+respondents to fill out the 
+questionnaire 
+ 
+Do not accept an incomplete 
+questionnaire without first 
+encouraging the respondent to fill 
+out unanswered questions 
+ 
+Do not interpret or explain a 
+question 
+ 
+Do not force or command 
+respondents to fill out a particular 
+question 
+ 
+Do not allow spouses or family 
+members to help the respondent fill 
+out the questionnaire 
+ 
+Do not minimize the importance of 
+the questionnaire 
+ 
+ 
+
+ 
+ 
+
+ 
+Do request and encourage 
+respondents to fill out the 
+questionnaire 
+
+ 
+Do read and repeat a question 
+verbatim for the respondent 
+ 
+Do tell respondents to answer a 
+question based on what they think 
+the question means 
+ 
+Do have respondents fill out the 
+questionnaire by themselves 
+
+ 
+Do encourage respondents to fill out 
+all questions 
+ 
+Do thank respondents for filling out 
+the questionnaire 
+ 
+Do inform respondents if they will be 
+asked to fill out the same 
+questionnaire again at other clinic 
+visits 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+66 
+
+962 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+APPENDIX X   
+
+DECLARATION OF HELSINKI 
+
+ 
+
+Recommendations guiding medical doctors in biomedical research involving human 
+subjects 
+ 
+Adopted  by  the  18th  World  Medical  Assembly,  Helsinki,  Finland,  June  1964  and 
+amended  by  the  29th  World  Medical  Assembly,  Tokyo,  Japan,  October  1975  the  35th 
+World  Medical  Assembly,  Venice,  Italy,  October  1983  and  the  41st  World  Medical 
+Assembly, Hong Kong, September 1989 
+ 
+INTRODUCTION 
+ 
+It  is  the  mission  of  the  physician  to  safeguard  the  health  of  the  people.  His  or  her 
+knowledge and conscience are dedicated to the fulfillment of this mission. 
+ 
+The Declaration of Geneva of the World Medical Association binds the physician with 
+the world, "The health of my patient will be my first consideration," and the International 
+Code of Medical Ethics declares that, "A physician shall act only in the patient's interest 
+when providing medical care which might have the effect of weakening the physical and 
+mental condition of the patient". 
+ 
+The  purpose  of  biomedical  research  involving  human  subjects  must  be  to  improve 
+diagnostic,  therapeutic  and  prophylactic  procedures  and  the  understanding  of  the 
+aetiology and pathogenesis of disease. 
+ 
+In  current  medical  practice  most  diagnostic,  therapeutic  or  prophylactic  procedures 
+involve hazards. This applies especially to biomedical research. 
+ 
+Medical  progress  is  based  on  research  which  ultimately  must  rest  in  part  on 
+experimentation involving human subjects. 
+ 
+In the field of biomedical research a fundamental distinction must be recognized between 
+medical research in which the aim is essentially diagnostic or therapeutic for a patient, 
+and  medical  research,  the  essential  object  of  which  is  purely  scientific  and  without 
+implying direct diagnostic of therapeutic value to the person subjected to the research. 
+
+ 
+ 
+
+67 
+
+963 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+ 
+
+APPENDIX X  (cont.) 
+
+ 
+Special  caution  must  be  exercised  in  the  conduct  of  research  which  may  affect  the 
+environment, and the welfare of animals used for research must be respected. 
+ 
+Because  it  is  essential  that  the  results  of  laboratory  experiments  be  applied  to  human 
+beings to further scientific knowledge and to help suffering humanity, the World Medical 
+Association has prepared the following recommendations as a guide to every physician in 
+biomedical research involving human subjects. They should be kept under review in the 
+future. It must be stressed that the standards as drafted are only a guide to physicians all 
+over  the 
+  world.  Physicians  are  not  relieved  from  criminal,  civil  and  ethical 
+responsibilities under the laws of their own countries. 
+ 
+I - BASIC PRINCIPLES 
+ 
+1.  Biomedical research involving human subjects must conform to generally accepted 
+scientific  principles  and  should  be  based  on  adequately  performed  laboratory  and 
+animal experimentation and on a thorough knowledge of the scientific literature. 
+
+ 
+2.  The  design  and  performance  of  each  experimental  procedure  involving  human 
+subjects should be clearly formulated in an experimental protocol which should be 
+transmitted  for  consideration,  comment  and  guidance  to  a  specially  appointed 
+committee  independent  of  the  investigator  and  the  sponsor  provided  that  this 
+independent committee is in conformity with the laws and regulations of the country 
+in which the research experiment is performed. 
+
+ 
+3.  Biomedical  research  involving  human  subjects  should  be  conducted  only  by 
+scientifically qualified persons and under the supervision of a clinically competent 
+medical  person.  The  responsibility  for  the  human  subject  must  always  rest  with  a 
+medically qualified person and never rest on the subject of the research, even though 
+the subject has given his or her consent. 
+
+ 
+4.  Biomedical  research  involving  human  subjects  cannot  legitimately  be  carried  out 
+unless  the  importance  of  the  objective  is  in  proportion  to  the  inherent  risk  to  the 
+subject. 
+
+ 
+
+ 
+ 
+
+68 
+
+964 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+ 
+
+APPENDIX X  (cont.) 
+
+ 
+5.  Every biomedical research project involving human subjects should be preceded by 
+careful assessment of predictable risks in comparison with foreseeable benefits to the 
+subject or to others. Concern for the interests of the subject must always prevail over 
+the interests of science and society. 
+
+ 
+6.  The  right  of  the  research  subject  to  safeguard  his  or  her  integrity  must  always  be 
+respected. Every precaution should be taken to respect the privacy of the subject and 
+to minimize the impact of the study on the subject's physical and mental integrity and 
+on the personality of the subject. 
+
+ 
+7.  Physicians  should  abstain  from  engaging  in  research  projects  involving  human 
+subjects  unless  they  are  satisfied  that  the  hazards  involved  are  believed  to  be 
+predictable.  Physicians  should  cease  any  investigation  if  the  hazards  are  found  to 
+outweigh the potential benefits. 
+
+In  publication  of  the  results  of  his  or  her  research,  the  physician  is  obliged  to 
+preserve the accuracy of the results. Reports of experimentation not in accordance 
+with  the  principles  laid  down  in  this  Declaration  should  not  be  accepted  for 
+publication. 
+
+In any research on human beings, each potential subject must be adequately informed 
+of the aims, methods, anticipated benefits and potential hazards of the study and the 
+discomfort it may entail. He or she should be informed that he or she is at liberty to 
+abstain from participation in the study and that he or she is free to withdraw his or 
+her  consent  to  participation  at  any  time.  The  physician  should  then  obtain  the 
+subject's freely-given informed consent, preferably in writing. 
+
+ 
+10.  When  obtaining  informed  consent  for  the  research  project  the  physician  should  be 
+particularly cautious if the subject is in a dependent relationship to him or her or may 
+consent  under  duress.  In  that  case  the  informed  consent  should  be  obtained  by  a 
+physician who is not engaged in the investigation and who is completely independent 
+of this official relationship. 
+
+ 
+8. 
+
+ 
+9. 
+
+ 
+
+ 
+ 
+
+69 
+
+965 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+CONFIDENTIAL 
+
+ 
+
+APPENDIX X  (cont.) 
+
+ 
+11. In case of legal incompetence, informed consent should be obtained from the legal 
+guardian  in  accordance  with  national  legislation.  Where  physical  or  mental 
+incapacity makes it impossible to obtain informed consent, or when the subject is a 
+minor,  permission  from  the  responsible  relative  replaces  that  of  the  subject  in 
+accordance  with  national  legislation.    Whenever  the  minor  child  is  in  fact  able  to 
+give a consent, the minor's consent must be obtained in addition to the consent of the 
+minor's legal guardian. 
+
+ 
+12. The research protocol should always contain a statement of the ethical considerations 
+involved and should indicate that the principles enunciated in the present Declaration 
+are complied with. 
+
+ 
+II - MEDICAL RESEARCH COMBINED WITH PROFESSIONAL CARE 
+      (Clinical research) 
+ 
+1. 
+
+In  the  treatment  of  the  sick  person,  the  physician  must  be  free  to  use  a  new 
+diagnostic  and  therapeutic  measure,  if  in  his  or  her  judgement  it  offers  hope  of 
+saving life, reestablishing health or alleviating suffering. 
+
+ 
+2. 
+
+ 
+3. 
+
+ 
+4. 
+
+ 
+5. 
+
+ 
+ 
+
+The potential benefits, hazards and discomfort of a new method should be weighed 
+against the advantages of the best current diagnostic and therapeutic methods. 
+
+In  any  medical  study,  every  patient  -  including those of a control group, if any - 
+should be assured of the best proven diagnostic and therapeutic method. 
+
+The  refusal  of  the  patient  to  participate  in  a  study  must  never  interfere  with  the 
+physician-patient relationship. 
+
+If the physician considers it essential not to obtain informed consent, the specific 
+reasons  for  this  proposal  should  be  stated  in  the  experimental  protocol  for 
+transmission to the independent committee (I, 2.). 
+
+70 
+
+966 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+CONFIDENTIAL 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #3: March 26, 2001 
+
+6. 
+
+ 
+1. 
+
+ 
+2. 
+
+ 
+3. 
+
+ 
+4. 
+
+ 
+
+ 
+ 
+
+APPENDIX X  (cont.) 
+
+ 
+
+The physician can combine medical research with professional care, the objective 
+being  the  acquisition  of  new  medical  knowledge,  only  to  the  extent  that  medical 
+research is justified by its potential diagnostic or therapeutic value for the patient. 
+
+ 
+III  -  NON-THERAPEUTIC  BIOMEDICAL  RESEARCH  INVOLVING  HUMAN 
+
+SUBJECTS (Non-clinical biomedical research) 
+
+In  the  purely  scientific  application  of  medical  research  carried  out  on  a  human 
+being, it is the duty of the physician to remain the protector of the life and health of 
+that person on whom biomedical research is being carried out. 
+
+The subjects should be volunteers - either healthy persons or patients for whom the 
+experimental design is not related to the patient's illness. 
+
+The  investigator  or  the  investigating  team  should  discontinue  the  research  if  in 
+his/her or their judgement it may, if continued, be harmful to the individual. 
+
+In research on man, the interest of science and society should never take precedence 
+over considerations related to the well-being of the subject.  
+
+71 
+
+967 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+ 
+A Phase III, Randomized, Open-Label, Comparative Study of DOXIL®/CAELYX™ 
+
+versus Topotecan HCl in Patients with Epithelial Ovarian Carcinoma Following 
+
+Failure of First-Line, Platinum-Based Chemotherapy 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Menlo Park, CA  94025 
+ 
+ 
+
+SEQUUS Pharmaceuticals, Inc. 
+960 Hamilton Court 
+
+ 
+IND #:  36,778 
+Protocol No:  SEQUUS 30-49 
+Date:  January 24, 1997 
+ 
+Administrative Change:  March 6, 1997 
+Amendment #1:  December 8, 1997   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This material is the property of SEQUUS Pharmaceuticals, Inc. The information is 
+confidential and is to be used only in connection with matters authorized by SEQUUS 
+
+968 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #1:  December 8, 1997 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+Pharmaceuticals, Inc. and no part is to be disclosed to others, reproduced, or quoted 
+without prior written permission from SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+DOXIL and CAELYX are registered trademarks of SEQUUS Pharmaceuticals, Inc. 
+DOXIL is known as CAELYX in certain countries and was known formerly as DOX-SL in Europe. 
+
+ 
+ 
+
+ii 
+
+969 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #1:  December 8, 1997 
+
+CONFIDENTIAL 
+
+ 
+
+ 
+
+SUMMARY OF AMENDMENTS 
+
+ 
+ 
+Protocol SEQU-30-49 
+ 
+ 
+1. 
+ 
+
+experience. 
+
+Amendment #1:  December 8, 1997 
+
+•  Revised criteria for assessing the relationship of the study drug to an adverse 
+
+•  Revised the Health-related Quality of Life Questionnaire. 
+
+ 
+
+ 
+
+ 
+i 
+
+970 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #1:  December 8, 1997 
+
+CONFIDENTIAL 
+
+ 
+
+ 
+
+Amendment #1 
+
+ 
+ 
+Date: 
+ 
+Protocol Number: 
+ 
+Protocol Title: 
+
+December 8, 1997 
+
+SEQUUS-30-49 
+
+A Phase III, Randomized, Open-Label, Comparative Study of 
+DOXIL/CAELYX versus Topotecan HCl in Patients with 
+Epithelial Ovarian Carcinoma Following Failure of First-Line, 
+Platinum-Based Chemotherapy 
+
+ 
+Rationale for clinical changes: 
+ 
+The criteria for assessing the relationship of the study drug to an adverse experience was 
+revised to reflect the current SEQUUS standard criteria. 
+ 
+After consultation with Dr. 
+Life Questionnaire, we have amended the question content to reflect symptoms seen 
+within this group of patients and to look more closely at side effects that may be 
+encountered.  
+ 
+ 
+Clinical Changes:  
+ 
+1. 
+ 
+
+ (NCIC) concerning the Health-related Quality of 
+
+Location: 
+Delete: 
+
+Section 6.2, Reporting Adverse Events 
+Probably Related:  An event that follows a logical sequence from 
+administration of the drug, improvement or disappearance after 
+stopping or reducing the dose (dechallenge), and/or reappearance of 
+the event after repeated exposure (rechallenge), or an unusual event 
+that is known to be associated with the drug or this class of compound, 
+and cannot be reasonably explained by other therapy or the patient's 
+physical condition. 
+Possibly Related:  An event that follows a plausible sequence and it is 
+reasonable to suspect drug causation after considering basic illness, 
+concurrent illness, concomitant medications, and other modes of 
+therapy administered to the patient. 
+
+ 
+
+ 
+
+ 
+
+ 
+1 
+
+971 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+
+ 
+
+ 
+
+Insert: 
+
+ 
+
+ 
+
+ 
+2. 
+
+ 
+ 
+
+ 
+
+ 
+
+Location: 
+
+Delete: 
+ 
+
+ 
+
+Insert: 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #1:  December 8, 1997 
+
+Probably Not Related:  Any event not meeting the criteria above, and 
+the event is known to be associated with the clinical conditions or 
+other medications taken by the patient. 
+Related:  The drug is reasonably suspected as the cause of the event 
+after considering basic illness, concurrent illness, concomitant 
+medications, and other modes of therapy administered to the patient.  
+In addition, the event follows a logical sequence from administration 
+of the study drug as follows.  The event improves or disappears after 
+stopping or reducing the dose, and/or reappears after additional drug 
+exposure; or the event is an unusual event that is known to be 
+associated with the drug or this class of compound, and cannot be 
+reasonably explained by other therapy or the patient's physical 
+condition. 
+Not Related:  The event does not meet the criteria above, and the event 
+is known to be associated with the clinical conditions or other 
+medications taken by the patient. 
+Unknown:  Current information about the event and the drug is 
+insufficient to determine that the event is not related to the use of the 
+drug. 
+
+Section 7.0, Health-related Quality of Life; subsection 7.1, Background 
+and Objectives 
+After… “with a specific diagnosis, i.e., ovarian cancer”: 
+Using the modular approach and to address the specific needs of this 
+study (ovarian cancer and DOXIL/CAELYX toxicities), an ovarian 
+cancer checklist (questions #31-43, 47-53) has been developed and 
+used by the NCIC.30, 31  In addition to this module, DOXIL/CAELYX 
+side effect questions (questions #44-55), as well as a global question of 
+subjective significance (question #54) were also included.  The latter 
+was added to aid in interpreting the meaning of the degree of change in 
+terms of clinical relevance for global quality of life.  Because of the 
+intent of this question, Question #54 is only included in all visits after 
+baseline assessment.   
+Using the modular approach and to address the specific needs of this 
+study (ovarian cancer and DOXIL/CAELYX toxicities), an ovarian 
+cancer checklist (questions #31-35) has been developed and used by 
+
+ 
+
+ 
+2 
+
+972 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+ 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #1:  December 8, 1997 
+
+the NCIC.33,34 In addition to this module, DOXIL/CAELYX side effect 
+questions(questions#46-48), as well as topotectan side effect questions 
+(questions#36-37), and general chemotherapy side effects questions 
+(questions#38-45) have been added. There are four other questions 
+featured in this questionnaire. The first concerns sexual activity 
+(question#49), the second and third concern pain control 
+(questions#50-51). The final question is a global question of subjective 
+significance (question #52). This was added to aid in interpreting the 
+meaning of the degree of change in terms of clinical relevance for 
+global quality of life. Because of the intent of this question, question 
+#52 is only included in all visits after the baseline visit. 
+
+Location:  Appendix VIII, Health-related Quality of Life Questionnaire; 
+
+ 
+3. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+
+Insert: 
+Delete: 
+
+Insert: 
+Delete: 
+
+numbers 36 through 53 
+After… “36.”:  Did you have a fever 
+Did you have painful joints 
+After… “37.”:  did you have chills 
+Did you have aching muscles 
+After… “38.”:  Did you have any unexpected bruising 
+Did you have a fever 
+After… “39.”:  Did you have any unexpected bleeding 
+Did you have chills 
+After… “40.”:  Were you bothered by hair loss 
+Did you have any unexpected bruising 
+After.. “41.”:  Did soreness in your mouth or in your thoart interfere 
+with eating or drinking 
+Did you have any unexpected bleeding 
+After… “42.”:  Have you had a problem with changes in sensation in 
+your fingers or toes 
+Were you bothered by hair loss 
+After… “43.”:  Did you have difficulty doing up buttons 
+
+ 
+
+ 
+3 
+
+973 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #1:  December 8, 1997 
+
+Did soreness in your mouth or throat interfere with eating or drinking 
+After… “44.”:  Did you have trouble wearing shoes 
+Have you had a problem with changes in sensation in your fingers or 
+toes 
+After… “45.”:  Did you have blistering or cracking of the skin of your 
+fingers or toes 
+Did you have difficulty doing up buttons 
+After… “46.”:  Did you have painful fingers or toes 
+Did you have trouble wearing shoes 
+After… “47.”:  Were you bothered by headaches 
+Did you have blistering or cracking of the skin of your fingers or toes 
+After… “48.”:  Did you cough 
+Did you have painful fingers or toes 
+After… “49.”:  Did you have a skin rash 
+Did you have a decrease in your interest in sexual activity 
+After… “50.”:  Were you bothered by weight loss 
+Did you take medicine for pain 
+After… “51.”:  Did you have a decrease in your interest in sexual 
+activity 
+If you took medicine for pain, did any pain remain 
+52.  Did you take medicine for pain? 
+53.  If you took medicine for pain, did any pain remain? 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Delete: 
+
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+ 
+ 
+
+Insert: 
+Delete: 
+Insert: 
+
+Insert: 
+Delete: 
+Delete: 
+
+ 
+ 
+ 
+ 
+Administrative Changes: 
+ 
+1. 
+ 
+ 
+ 
+2. 
+
+Location: 
+
+Location:  Cover Page, Title 
+ 
+Insert: 
+
+Protocol Synopsis, Title 
+After… “Open-Label,”:  Comparative 
+
+Protocol Synopsis, Secondary Endpoints 
+
+ 
+
+ 
+4 
+
+974 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #1:  December 8, 1997 
+
+After… “duration of response,”:  health-related 
+
+Doxil:  Clinical Study Report 30-49
+
+Insert: 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+ 
+3. 
+ 
+ 
+
+Location:  DOXIL/CAELYX Schedule of Events 
+ 
+ 
+
+Topotecan Schedule of Events 
+Section 3.2, Day 1 (DOXIL/CAELYX) or Day 1-5 Topotecan; 
+subsection 3.2.1 
+Section 3.4, Every Cycle; subsection 3.4.1 
+Section 3.7, End of Treatment (4 weeks after the last dose); 
+subsection 3.7.1 
+Before… “Quality of Life”:  Health-related 
+
+Section 1.3, Study Design 
+Section 7.0, Health-related Quality of Life; subsection 7.1, Background 
+and Objectives 
+Section 8.6, Data Analysis and Statistical Consideration; 
+subsection 8.6.1 
+
+Insert: 
+
+Before… “quality of life”:  health-related 
+
+ 
+ 
+
+Insert: 
+
+ 
+ 
+
+ 
+
+ 
+
+4. 
+ 
+
+Location: 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. 
+
+Location: 
+
+Section 2.1, Inclusion Criteria; subsection 2.1.6 
+
+ 
+
+ 
+
+6. 
+
+ 
+
+ 
+
+Insert: 
+
+After… “100,000”:  cells 
+
+Location:  Appendix IV, Instructions For Drug Storage and Administration of 
+
+DOXIL/CAELYX 
+
+Delete: 
+
+After… “administered within”:  8 
+
+Insert: 
+
+24 
+
+ 
+
+ 
+5 
+
+975 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+ 
+A Phase III, Randomized, Open-Label, Comparative Study of DOXIL®/CAELYX™ 
+
+versus Topotecan HCl in Patients with Epithelial Ovarian Carcinoma Following 
+
+Failure of First-Line, Platinum-Based Chemotherapy 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Menlo Park, CA  94025 
+ 
+ 
+
+SEQUUS Pharmaceuticals, Inc. 
+960 Hamilton Court 
+
+ 
+IND #:  36,778 
+Protocol No:  SEQUUS 30-49 
+Date:  January 24, 1997 
+ 
+Administrative Change:  March 6, 1997 
+Amendment #1:  December 8, 1997   
+Amendment #2:  March 1, 1999 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This material is the property of SEQUUS Pharmaceuticals, Inc. The information is 
+confidential and is to be used only in connection with matters authorized by SEQUUS 
+Pharmaceuticals, Inc. and no part is to be disclosed to others, reproduced, or quoted 
+without prior written permission from SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+DOXIL and CAELYX are registered trademarks of SEQUUS Pharmaceuticals, Inc. 
+DOXIL is known as CAELYX in certain countries and was known formerly as DOX-SL in Europe. 
+
+976 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+CONFIDENTIAL 
+
+ 
+
+ 
+
+SUMMARY OF AMENDMENTS 
+
+ 
+ 
+Protocol SEQU-30-49 
+ 
+ 
+1. 
+ 
+
+experience. 
+
+Amendment #1:  December 8, 1997 
+
+•  Revised criteria for assessing the relationship of the study drug to an adverse 
+
+•  Revised the Health-related Quality of Life Questionnaire. 
+
+2. 
+
+Amendment #2:  March 1, 1999 
+•  Specified that the lesion measurement recorded on the case report form (CRF) 
+
+for study analysis will be those approved by the Principal Investigator after 
+discussion with the radiologist and/or appropriate study site staff members. 
+
+•  Revised the definition of progressive disease. 
+•  Corrected definition of time to progression to include death due to any cause. 
+•  Corrected definition of duration of response. 
+•  Clarified the primary endpoint. 
+•  Provided details regarding the statistical analysis plan for the interim analysis 
+
+and quality of life data. 
+
+ 
+
+ 
+
+ 
+i 
+
+977 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+CONFIDENTIAL 
+
+ 
+
+ 
+
+Amendment #2 
+
+ 
+ 
+Date: 
+ 
+Protocol Number: 
+ 
+Protocol Title: 
+
+March 1, 1999 
+
+SEQUUS-30-49 
+
+A Phase III, Randomized, Open-Label, Comparative Study of 
+DOXIL/CAELYX versus Topotecan HCl in Patients with 
+Epithelial Ovarian Carcinoma Following Failure of First-Line, 
+Platinum-Based Chemotherapy 
+
+ 
+Rationale for clinical changes: 
+The Principal Investigator will determine the lesion measurement reported on the CRF for 
+study analysis after discussion with the radiologist and/or appropriate study site staff 
+member. This clarification specifies who has final responsibility for assessing lesion 
+sizes. 
+
+Progressive disease based on measurement of tumor size is defined as "A > 50% increase, 
+or an increase to 10 cm2 (whichever is smaller) in the sum of the products of 
+bidemensionally measured lesions over the smallest sum obtained at best response (over 
+baseline, if no decrease)…." The practice of defining progressive disease as an increase of 
+tumor size to 10 cm2 has not been applied by investigators for a number of valid reasons: 
+
+• 
+
+• 
+
+In many cases the baseline and/or smallest sum obtained at best response is greater 
+than 10 cm2, so the rule cannot be applied. 
+
+In other cases the baseline and/or smallest sum obtained at best response is close to 
+10 cm2 (e.g., 9 cm2) and an increase to 10 cm2 was considered within the range of 
+measurement error and not considered progressive disease. 
+
+Therefore the definition of disease progression was refined to an increase of > 50% in 
+tumor size. 
+ 
+
+ 
+
+ 
+1 
+
+978 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+Clinical changes:  
+ 
+1. 
+ 
+
+Location: 
+Insert: 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+Section 8.0, Study Analysis 
+After… “according to the protocol.”:  The lesion measurements 
+resulting from tumor imaging recorded on the case report form (CRF) 
+will be those approved by the Principal Investigator after discussion 
+with the radiologist and/or appropriate study site staff members. 
+Section 8.2, Definitions of Response; subsection 8.2.4, Progressive 
+Disease (PD) 
+After… “A > 50% increase”:  , or an increase to 10 cm2 (whichever is 
+smaller) 
+
+2. 
+
+Location: 
+
+ 
+
+Delete: 
+
+ 
+Administrative changes: 
+ 
+1. 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+3. 
+ 
+ 
+ 
+ 
+
+Location: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+
+Location: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+
+Location: 
+Delete: 
+Insert: 
+Delete: 
+
+Protocol Synopsis, Primary Endpoints 
+After… “PRIMARY”: ENDPOINTS 
+ENDPOINT 
+After… “Time to progression”: and response rates 
+
+Protocol Synopsis, Secondary Endpoints 
+After… “ENDPOINTS:”  Time 
+Response rate, time 
+After… “quality of life assessment,”:  and 
+After… “survival”:  , and quality-adjusted survival 
+
+Section 1.3, Study Design 
+After… “Primary”:  endpoints are 
+endpoint is 
+After… “time to progression”:  and response rates 
+After… “Secondary endpoints are”:  response rate, 
+
+ 
+
+ 
+2 
+
+979 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+ 
+4. 
+ 
+ 
+ 
+ 
+ 
+5. 
+ 
+ 
+
+Location: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+
+Location: 
+Delete: 
+ 
+
+Insert: 
+
+After… “survival,”:  quality-adjusted survival 
+
+Section 7.1, Background and Objectives 
+After… “(EORTC”:  QLQC-30 
+QLQ-C30 
+After… “measuring the effects of”:  DOXIL/CAELYX 
+chemotherapy 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+Section 7.3, Analysis of HQL Data 
+7.3 Analysis of HQL Data 
+Calculation of each HQL domain scale for the EORTC QLQ-C30 
+(Version 2.0), and the checklist module will be performed according to 
+the scoring guidelines for each of the HQL measures.  On treatment 
+changes will be compared to baseline values. 
+
+ 
+6. 
+ 
+ 
+ 
+ 
+7. 
+ 
+ 
+ 
+8. 
+ 
+
+ 
+
+Location: 
+Delete: 
+Insert: 
+Delete: 
+
+Section 8.0, Study Analysis 
+After… “endpoints”:  are 
+is 
+After… “time to progression”:  and response rates 
+
+Location: 
+Delete: 
+Insert: 
+
+Section 8.3, Efficacy Assessments; subsection 8.3.1.1 
+After… “death due to”:  underlying malignancy 
+any cause 
+
+Location: 
+Delete: 
+
+Section 8.3, Efficacy Assessments; subsection 8.3.1.2 
+8.3.1.2  Response Rate: The definitions of response are described in 
+Section 8.2.  The response rate is the proportion of patients with at 
+least a durable response. 
+
+ 
+
+ 
+3 
+
+980 
+
+Doxil:  Clinical Study Report 30-49
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+9. 
+ 
+
+Location: 
+Insert: 
+
+Section 8.3.2, Secondary Efficacy Parameters; subsection 8.3.2.1 
+8.3.2.1  Response Rate: The definitions of response are described in 
+Section 8.2.  The response rate is the proportion of patients with at 
+least a durable response. 
+
+ 
+10.  Location: 
+
+ 
+ 
+ 
+
+Delete: 
+Insert: 
+Delete: 
+
+ 
+11.  Location: 
+
+ 
+ 
+
+Insert: 
+ 
+
+ 
+12.  Location: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Insert: 
+Delete: 
+
+Section 8.3, Efficacy Parameters; subsection 8.3.2, Secondary Efficacy 
+Parameters; subsection 8.3.2.3, Duration of Response 
+After… “disease”: , 
+or 
+After…. “any cause”:  , or early discontinuation of treatment due to 
+progressive disease 
+
+Section 8.3, Secondary Efficacy Parameters; subsection 8.3.2, 
+Secondary Efficacy Parameters; subsection 8.3.2.6, Quality-adjusted 
+Survival 
+8.3.2.6  Quality-adjusted Survival 
+Quality-adjusted survival will be calculated using the Quality-adjusted 
+Time Without Symptoms of disease and Toxicity of treatment (Q-
+TWiST) method.32,33 
+
+Section 8.6, Data Analysis And Statistical Consideration; subsection 
+8.6.1, Data Analysis 
+After… “For continuous variables, a”:  four-way 
+three-way 
+After… “with effects”:  of 
+for 
+After… “bulky disease,”: center 
+After… “and all”:  two-way 
+After… “interactions”:  involving the treatment group 
+After… “will be used as”:  a 
+
+ 
+
+ 
+4 
+
+981 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13.  Location: 
+
+Delete: 
+Insert: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+Delete: 
+Insert: 
+
+After… “secondary”:  analysis 
+analyses 
+After… “differences in”:  all 
+After… “efficacy analysis”:  are 
+is a 
+After… “to progression”:  and response rates 
+After… “analyses include”:  response rate 
+After… “quality of life,”:  and 
+After… “survival”:  , and quality-adjusted survival 
+
+Insert: 
+Delete: 
+Insert: 
+
+ 
+ 
+ 
+ 
+14.  Location: 
+
+ 
+ 
+
+ 
+
+Insert: 
+ 
+
+ 
+
+Section 8.6, Data Analysis And Statistical Consideration; subsection 
+8.6.2, Time to Progression, Time to Response and Survival Analyses 
+After… platinum-sensitivity,”:  baseline CA-125 
+After… “bulky disease,”:  treatment 
+drug 
+
+Section 8.6, Data Analysis And Statistical Consideration; subsection 
+8.6.5, Analysis of HQL Data 
+8.6.5   Analysis of HQL Data 
+Calculation of each HQL domain scale for the EORTC QLQ-C30 
+(Version 2.0), will be performed according to the scoring guidelines 
+for each of the HQL measures. The HQL analysis will focus on scales 
+measuring physical functioning, pain, nausea, fatigue, and global 
+quality of life. 
+Change from baseline for the two treatment groups will be compared 
+using general linear models.  If a large proportion of HQL data is 
+missing in the later stages of the study, the analyses may be limited up 
+to the week where a reasonable proportion of HQL data is available.  
+The covariates considered in the primary analysis may be included in 
+the models for HQL as well.   
+
+ 
+
+ 
+5 
+
+982 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+
+ 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+            
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Analysis of Q-TWiST 
+
+Furthermore, the number of patients who maintain or improve their 
+baseline HQL scores will be tabulated. 
+8.6.6 
+Quality-adjusted survival will be calculated using the Quality-adjusted 
+Time Without Symptoms of disease and Toxicity of treatment (Q-
+TWiST) method. The purpose of this analysis is to evaluate the trade-
+off between increased toxicity versus improved progression-free 
+survival between the treatment groups. 
+For each patient, overall survival will be partitioned into 3 periods of 
+time corresponding to different health states moving from treatment to 
+death.  These health states are:  1) Toxicity (Tox) – time with toxicity 
+defined as the time spent with grade 3 or 4 adverse events due to study 
+drugs; 2) Time without symptoms of disease and toxicity due to 
+treatment (TWiST) – time without either toxicity or progression; and 
+3) Progression (Prog) – total time following documented disease 
+progression until death. 
+Standard survival analysis techniques will be used to estimate the 
+mean duration, restricted to the follow-up interval of the study, for 
+each of the health states Tox, TWiST, and Prog.  Estimates will be 
+obtained for each treatment group separately. 
+The average quality-adjusted survival time for each treatment arm will 
+be calculated according to the formula below: 
+Q-TWiST = U (Tox) x Duration (Tox) + U (TWiST) x Duration (TWiST) + U(Prog) x 
+Duration (Prog), 
+where U denotes the health-state specific utility coefficients. 
+In addition, Q-TWiST analysis incorporating time with good quality of 
+life and time with bad quality of life instead of the time with Tox and 
+TWiST may be explored.  Good or bad quality of life will be 
+determined by the Global Quality of Life scale.  Pain, Nausea, and 
+Fatigue in the EORTC QLQ-C30 symptom scales may also be 
+explored to define the duration of maintained good quality of life.   
+
+ 
+15.  Location: 
+ 
+
+Delete: 
+
+Section 8.7, Interim Analysis 
+After… “second interim analysis”:  will 
+
+ 
+
+ 
+6 
+
+983 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+ 
+ 
+
+Insert: 
+Insert: 
+Insert: 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+may 
+After… “200 and 280”:  , respectively, 
+After… “conducted.”: A final analysis will be conducted at the end of 
+the study when approximately 370 evaluable patients have either 
+experienced disease progression or have been on study for at least 6 
+months. 
+The O’Brien-Fleming-type spending function was utilized to determine 
+the appropriate boundaries for the group sequential approach and were 
+calculated using EaSt software.34  In accordance with this approach, 
+the nominal α levels needed to maintain an overall significance level 
+of 0.05 are 0.008, 0.022, and 0.042 for the first, second, and final look 
+at the data, respectively.  The study is planned to be terminated if the 
+O’Brien-Fleming boundary is crossed at any of the interim analyses 
+(first interim analysis: p=0.008; second interim analysis: p=0.022).  
+When a decision has been made to terminate the study, all data will be 
+brought in-house and final statistical analyses will be performed. 
+After… “interim analyses”:  are 
+is 
+After… “time to progression”: and response rate.  The final analysis 
+will be conducted at the end of the study.   
+Group sequential approach as presented in the EaSt software33 with 
+O’Brien Fleming type spending function was utilized to determine the 
+appropriate boundaries.  Under this design, the nominal α levels are 
+0.008, 0.022, and 0.042 for the first, second, and the final look at the 
+data, respectively.  The decision to stop the trial at the interim analyses 
+will be based on crossing the rejection boundaries provided above.  
+The actions described below will be taken if: 
+1)  The lower limit of the one-sided (1-α)% CI does not exceed 0.757 
+in the first or second interim analysis, the study will continue as 
+planned. 
+2)  The lower limit of the one-sided (1-α)% CI exceeds 0.757, then 
+All CRF data will be collected for the patients that comprised the 
+interim analysis. 
+All secondary analyses will be conducted. 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Delete: 
+Insert: 
+Delete: 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+7 
+
+984 
+
+Doxil:  Clinical Study Report 30-49
+
+Doxorubicin HCl Liposome Injection 
+SEQUUS Pharmaceuticals, Inc. 
+ 
+ 
+
+ 
+
+CONFIDENTIAL 
+
+ 
+
+Study Protocol:  SEQUUS-30-49 
+Amendment #2: March 1, 1999 
+
+ 
+
+Insert: 
+
+ 
+
+ 
+
+ 
+16.  Location: 
+ 
+
+Insert: 
+
+ 
+
+ 
+
+ 
+ 
+
+If the results of the secondary analyses confirm that treatment with 
+DOXIL/CAELYX produces a favorable outcome compared to 
+topotecan treatment, the following change in study design will occur:  
+Patients currently in the treatment phase who were randomized to 
+receive the topotecan regimen may, at the discretion of the 
+investigator, being to receive treatment with DOXIL/CAELYX 
+according to the dose and schedule in the protocol. 
+The log-rank test stratified for platinum sensitivity and bulky disease 
+will be considered the primary efficacy analysis for the interim as well 
+as final analyses. The hazard ratio and corresponding one-sided (1-α)% 
+confidence interval from a proportional hazard regression model will 
+also be presented. In addition, response rates will also be calculated as 
+a supplemental analysis to support the primary efficacy parameter 
+results.  Response rates for each of the enrollment stratum will be 
+calculated.  Treatment group differences will be tested using the 
+Cochran-Mantel-Haenszel (CMH) test, adjusting for platinum-
+sensitivity and bulky disease. 
+The interim analyses may also include an analysis of HQL data and 
+quality-adjusted survival time. 
+
+Section 10.0, References, numbers 32 and 33 
+After… “32.”:  Glasziou PP, Sime RF, Gelber RD. Quality-adjusted 
+survival analysis. Statistics in Medicine, 9:1259-1276, 1990. 
+After… “33.”:  Goldhirsch A, Gelber RD, Simes, RF, Glasziou P, 
+Coates AS. Costs and benefits of adjuvant therapy in breast cancer: a 
+quality-adjusted survival analysis. Journal of Clinical Oncology, 7:36-
+44, 1989. 
+
+ 
+
+ 
+8 
+
+985 
+
+Doxil:  Clinical Study Report 30-49
+
+C O N F I D E N T I A L 
+
+ALZA CORPORATION CLINICAL PROTOCOL  30-49 Amendment #3 
+Edition Date: March 26, 2001 
+
+ 
+
+ALZA  PROTOCOL  AMENDMENT  APPROVAL  FORM 
+
+ Current Protocol No. 
+ 
+30-49 Amendment #2 
+
+Revised Protocol Number 
+ 
+30-49 Amendment #3 
+Study Title:  
+
+Protocol Edition Date: 
+ 
+March 26, 2001 
+
+A Phase III, Randomized, Open-Label, Comparative Study of DOXIL®/CAELYX™ 
+
+versus Topotecan HCl in Patients with Epithelial Ovarian Carcinoma Following 
+
+Failure of First-Line, Platinum-Based Chemotherapy 
+
+ 
+
+ 
+
+ 
+
+ 
+Investigator:  
+ 
+Amendment approved by: 
+ 
+
+Amendment approved by: 
+ 
+
+ 
+
+ 
+
+ 
+
+CTB Chairperson:  
+ 
+ 
+ 
+
+ MD/
+
+, MD 
+Clinical Program Director and 
+ Medical Monitor: 
+ 
+ 
+ 
+
+ MD 
+
+Statistician: 
+ 
+ 
+ 
+
+Regulatory: 
+ 
+ 
+ 
+
+ 
+
+, PhD 
+
+Date: 
+
+Date: 
+
+Date: 
+ 
+ 
+
+Date: 
+ 
+ 
+ 
+
+Sequusgroup\ClinOps\Doxil Studies\30-49 Amendment\30-49 #3 (US) 3/26/01  gvp 
+ 
+
+986 
+
+Doxil:  Clinical Study Report 30-49
+
+C O N F I D E N T I A L 
+
+ALZA CORPORATION CLINICAL PROTOCOL  30-49 Amendment #3 
+Edition Date: March 26, 2001 
+
+INVESTIGATOR’S PROTOCOL AMENDMENT APPROVAL FORM 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Current Protocol No. 
+ 
+ 
+30-49 Amendment #2 
+
+Revised Protocol Number 
+ 
+ 
+30-49 Amendment #3 
+Study Title:  
+
+Protocol Edition Date: 
+ 
+ 
+March 26, 2001 
+
+A Phase III, Randomized, Open-Label, Comparative Study of 
+
+DOXIL®/CAELYX™ versus Topotecan HCl in Patients with Epithelial Ovarian 
+
+Carcinoma Following Failure of First-Line, Platinum-Based Chemotherapy 
+
+ 
+Investigator:  
+ 
+SEND PROTOCOL AMENDMENT FORM TO INVESTIGATOR TO 
+COMPLETE ONLY IF THE PROTOCOL HAS BEEN PREVIOUSLY 
+SUBMITTED TO THE INVESTIGATOR AS A FINAL PROTOCOL. 
+ 
+ 
+        I will obtain IRB approval of this amendment prior to implementation. 
+ 
+        After obtaining approval from the ALZA Medical Monitor, I will implement 
+
+this amendment immediately and concurrently submit it to the IRB.  A 
+delay in the implementation would pose a safety risk to human subjects in 
+this trial. 
+
+ 
+ 
+Principal Investigator (Print and sign): 
+ 
+ 
+Date: 
+ 
+
+Sequusgroup\ClinOps\Doxil Studies\30-49 Amendment\30-49 #3 (US) 3/26/01  gvp 
+ 
+
+987 
+
+Doxil:  Clinical Study Report 30-49
+
+C O N F I D E N T I A L 
+
+ALZA CORPORATION CLINICAL PROTOCOL  30-49 Amendment #3 
+Edition Date: March 26, 2001 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROTOCOL  
+
+A Phase III, Randomized, Open-Label, Comparative Study of DOXIL®/CAELYX™ 
+
+versus Topotecan HCl in Patients with Epithelial Ovarian Carcinoma Following Failure 
+
+of First-Line, Platinum-Based Chemotherapy 
+
+AMENDMENT NUMBER 3 
+
+Changes have been made to the now designated protocol 30-49 Amendment #3 
+dated March 26, 2001. 
+
+CHANGES ARE LISTED AS BOLD AND ITALICIZED TEXT; DELETIONS ARE 
+MARKED WITH A STRIKEOUT 
+ 
+8.8 Additional Analyses  
+ 
+As stated in the protocol, the end of planned treatment analysis was the final 
+formal analysis to be conducted on Doxil Protocol 30-49.  However the 
+analyses conducted for this report yielded results that could be clarified by 
+additional analyses.  While the overall survival time did not differ between the 
+Doxil and topotecan groups, there was a statistically significant survival 
+advantage for Doxil in the subgroup of platinum sensitive patients.  At the time 
+of data cutoff for this planned end of treatment report, over 50 % of the 
+platinum sensitive patients were still alive.  ALZA will conduct an additional set 
+of survival and progression free survival analyses when 90% of the patients 
+have either died or been lost to follow-up.  These analyses will be for the 
+purpose of assessing whether the survival advantage in the platinum sensitive 
+group sustained, and examining the overall survival differences between the 
+Doxil and topotecan groups. 
+ 
+Rationale: These analyses will be for the purpose of assessing whether the survival 
+advantage in the platinum sensitive group sustained, and examining the overall 
+survival differences between the Doxil and topotecan groups. 
+ 
+ 
+ 
+ 
+Amendment Dated: March 26, 2001 
+ 
+
+Sequusgroup\ClinOps\Doxil Studies\30-49 Amendment\30-49 #3 (US) 3/26/01  gvp 
+ 
+
+988 
+
+

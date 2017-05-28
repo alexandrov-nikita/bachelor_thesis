@@ -1,0 +1,172 @@
+7.4.2.2 and Table 1
+7.4.1 A follow up evaluation will be performed 30 days ( 3 days) after the last dose of study therapy (IMC 1121 B or placebo in 
+7.4.2.1 Extended 
+7.4.2.2 Survival 
+10.3 Removal of 
+14.3 ImClone LLC
+14.3 LIST OF IN TEXT TABLES
+1.1 Breast Cancer
+1.5 Anti angiogenic Agents and Breast Cancer
+1.7 Taxanes
+2 STUDY OBJECTIVES
+2.1 Primary Objectives 
+2.2 The secondary objectives of this study are:
+2.3 The exploratory analyses are:
+3 PATIENT SELECTION
+3.2 Each patient must meet the following criteria to be randomized in this study:
+3. The patient has histologically or cytologically confirmed adenocarcinoma of the breast that is 
+5. The patients primary and/or metastatic tumor is HER2 negative by fluorescence in situ 
+6. The patient has not received prior chemotherapy for metastatic or locally recurrent and 
+7. The patient completed (neo) adjuvant taxane 
+8. The patient completed (neo) adjuvant biologic therapy at 
+9. The patient completed all prior radiotherapy with curative intent 3 weeks prior to 
+10. The patient may have received prior hormonal therapy for breast cancer in the (neo) adjuvant 
+12. The patient has resolution to Grade 1 by the National Cancer Institute Common 
+15. The patient has adequate hematological functions (absolute neutrophil count ANC 1500 
+16. The patient has adequate hepatic function (bilirubin within normal limits WNL or below 
+19. The patient must have adequate coagulation function as defined by international normalized 
+20. Women of childbearing potential must implement adequate contraception in the opinion of 
+21. The patient has not received prior biologic therapy for metastatic or locally recurrent and 
+3.3 A patient who has any of the following criteria will be excluded from the study:
+2. The patient has a known sensitivity to docetaxel or other drugs formulated with polysorbate 
+3. The patient has a known sensitivity to agents of similar biologic composition as IMC 1121 B 
+80. Confidential
+6. The patient has participated in clinical trials of experimental agents within 4 weeks prior to
+7. The patient has a history of uncontrolled hereditary or acquired bleeding or thrombotic 
+12. The patient has known human 
+13. The patient has pulmonary lymphangitic involvement that results in pulmonary dysfunction 
+3.4 Patient Enrollment
+3.5 Registration
+3.6 Randomization
+44.1 Overall Study Design and Plan
+4.5 Extension Period
+5 STUDY TREATMENTS
+5.1.1 Docetaxel
+5.1.2 IMC 1121 B or Placebo
+5.2 Treatment Compliance
+5.3 Packaging and Labeling
+5.3.1 Docetaxel
+5.3.2 IMC 1121 B/Placebo
+5.4 Storage
+5.4.1 Docetaxel
+5.4.2 IMC 1121 B/Placebo
+5.5 Accountability
+5.6 Complaint Handling
+5.7 Return of Investigational Product
+5.8 Opened vials of IMC 1121 B and placebo may be disposed of at the investigational center as 
+6 STUDY PROCEDURES
+6.1 Informed Consent written informed consent must be obtained prior to any study specific 
+6.2 Medical History
+6.3 Complete Physical Examination includes an evaluation by body system (at pretreatment visit 
+6.5 Clinical Laboratory Tests
+6.5.1 Laboratory Parameters
+6.6 Other Clinical Tests
+6.7 Efficacy Assessments
+6.8 Other Study Procedures
+6.8.1 Immunogenicity
+6.8.2 Change in Circulating Tumor Cells
+6.9 Optional Study Procedures
+6.9.1 Tumor Specimen Collection
+6.9.2 Whole Blood Sample Collection
+6.9.2.2 Genetic Variations
+6.10 Appropriateness of Measurements
+7 REQUIRED EVALUATIONS
+7.1 Pretreatment evaluations used to determine the patient s study eligibility must be completed 
+7.2 Treatment Period
+7.3 End of therapy evaluations will be assessed for patients who are no longer receiving study 
+7.4 Follow up Period
+7.4.130 Day Follow up
+7.4.2 Extended/Survival Follow up
+7.4.2.1 Extended Follow up
+7.4.2.2 Survival Follow up
+7.5 Extension Lead Period
+7.6 Extension Period
+7.7 Study Events Table
+30 Day 
+30 Day 
+8 ADVERSE EVENTS ASSESSMENTS
+8.1 The investigator is responsible for the detection and documentation of events meeting the criteria 
+8.2 Importance of Adverse Event Reporting
+8.3 Adverse Event Definitions
+8.3.1 Adverse Event 
+8.3.2 Serious Adverse Event
+8.4 Assessment of Causality
+8.5 Collection of Safety Information
+8.6 The IMC 1121 B Investigator s Brochure will be updated periodically to include new and 
+8.7 Clinical Significance
+8.7.1 Pregnancy
+8.8 Clinical Laboratory Adverse Events
+8.9 Handling of Serious Adverse Events
+9 TREATMENT RELATED ADVERSE EVENTS
+9.1.1 Infusion Reactions
+9.1.2 Hypertension
+9.1.3 Thrombotic Events
+9.1.4 Bleeding (Hemorrhagic) Events
+9.1.6 Gastrointestinal Perforation
+9.1.7 Reversible Posterior Leukoencephalopathy Syndrome (RPLS) 
+9.2 Docetaxel
+9.2.1 Hypersensitivity Reactions
+9.2.3 Fluid Retention
+9.2.4 Hepatic Impairment
+9.2.5 Neurologic
+9.2.6 Asthenia
+10 DOSE MODIFICATIONS
+10.1 General Dose Modifications for Hematologic Toxicity
+10.2 General Dose Modifications for Nonhematologic Toxicities
+10.3 Removal of Patients from Therapy or Assessment
+10.4 Concomitant Therapy
+10.5 Prohibited and Restricted Therapies during the Study
+10.5.1 Prohibited Therapies 
+10.5.2 Restricted Therapies
+10.5.3 Precautions
+10.6 Nontherapy Precautions and Restrictions
+10.7 Supportive Care Guidelines
+10.7.1 Granulocyte Stimulating Factors
+10.7.2 Erythroid Growth Factors
+11 CRITERIA FOR TUMOR RESPONSE EVALUATION
+11.1 Baseline Tumor Assessments
+11.2 Method of Tumor Response Assessment
+11.3 Definitions
+11.4 Definitions of Response
+11.4.1 Target Lesions
+11.4.2 Non Target Lesions
+11.4.3 Symptomatic Deterioration (Clinical Progression)
+11.5 Determination of Overall Response
+12 PLANNED STATISTICAL METHODS
+12.1 General Considerations 
+12.2 Determination of Sample Size
+12.2.1 Justification for change in interim analysis timing at Protocol Amendment 6:
+12.3 Analysis Populations 
+12.4 Demographics and Baseline Characteristics
+12.5 Primary Endpoint
+12.5.1 Progression Free Survival
+12.5.2 Interim and Final Analyses of Primary Endpoint
+12.6 Secondary Efficacy Endpoints
+12.6.1 Overall Survival
+12.6.2 Time to Progression
+12.6.3 Objective Response Rate
+12.6.4 Duration of Response
+12.6.5 Quality of Life 
+12.7 Safety Endpoints
+12.7.1 Interim Safety Analyses
+12.8 Other Analyses
+12.9 Blinding
+13 ADMINISTRATIVE CONSIDERATIONS
+2. The International Conference on Harmonisation (ICH) Good Clinical Practice (GCP) 
+3. Applicable laws and regulations
+13.1 Institutional Review Board or Approving Ethics Committee Approval
+13.2 Ethical Conduct of the Study
+13.3 Compliance with the Protocol and Protocol Revisions
+13.4 Patient Information and Consent
+13.4.1 Informed Consent Procedures
+13.4.2 Update of the Informed Consent
+13.5 Study Monitoring
+13.6 Case Report Forms and Study Records
+13.7 Access to Source Documentation
+13.8 Retention of Data
+13.9 Financial Disclosure
+14 SPECIAL CONSIDERATIONS FOR THIS PROTOCOL
+14.1 Independent Review of Objective Responses and Progression Free 
+14.2 Steering Committee
+14.3 Independent Data Monitoring Committee
+15 REFERENCES

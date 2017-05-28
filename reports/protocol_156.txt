@@ -1,0 +1,54 @@
+Processing the protocol with id 156
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 2.2 Denosumab Background 
+For more information about the rationales, go to sections:
+2.3 Rationale 
+For more information about the previous studies, go to sections:
+2.2.1 Clinical Experience With Denosumab 
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4. SUBJECT ELIGIBILITY 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 6. TREATMENT PROCEDURES 
+Maybe, these sections will be interested for you:
+6.1.4 Dosage Adjustments 
+6.2 Open Label Treatment Phase 
+6.2.4 Dosage Adjustments 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 10.3 Sample Size Considerations 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 5.2 Treatment Assignment 
+Maybe this information will be interesting:
+32927	in order to randomize	"... 4  Date: 05 May 2008  Page 32 of 98  Upon confirmation of eligibility, the site will telephone IVRS in order to randomize the  subject centrally to receive either SC injection of denosumab (and IV..."
+19013	will be randomized	"... ting countries then stratification by region will not be necessary)). Within  each stratum subjects will be randomized using an equal allocation ratio of 1:1.  Stratification for tumor type will be..."
+21738	will be randomized	"... inical investigation shall be referred to as subjects .  Subjects who meet the eligibility criteria will be randomized to one of the 2 treatment  groups. Approximately 845 subjects will be randomized..."
+21819	will be randomized	"... igibility criteria will be randomized to one of the 2 treatment  groups. Approximately 845 subjects will be randomized to each treatment group, for a  total planned sample size of approximately 1690..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 13.3 Study Monitoring and Data Collection 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 10. STATISTICAL CONSIDERATIONS 
+I found the following methods:
+92698 	  cox  	 "... 58) will be  graphically displayed and a Cox model (Cox, 1972) with treatment..."
+92878 	  cox  	 "...   used. A supportive analysis will use a Cox model to evaluate the covariates..."
+93327 	  cox  	 "... be non inferior, then the results of the Cox model will be used  directly to..."
+96727 	  cox  	 "... 958) will be graphically displayed and a Cox model (Cox, 1972)  with treatment..."
+97089 	  cox  	 "... 58) will be graphically displayed and a  Cox model (Cox, 1972) with treatment..."
+98210 	  cox  	 "... e hazard ratio will be estimated using a Cox model. Similar  approaches will be..."
+123813 	  cox  	 "... one. J Natl Cancer Inst. 2001;93:534 8.  Cox D.R. Regression models and life..."
+92614 	 kaplan meier 	 "... dpoint  For time to first on study SRE, Kaplan Meier estimates (Kaplan and..."
+96643 	 kaplan meier 	 "... nts when evaluating skeletal morbidity. Kaplan Meier estimates  (Kaplan and..."
+97005 	 kaplan meier 	 "... t reported in this disease population.  Kaplan Meier estimates (Kaplan and..."
+98144 	 kaplan meier 	 "... reatment group will be estimated using  Kaplan Meier method and the hazard..."

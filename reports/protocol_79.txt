@@ -1,0 +1,85 @@
+Processing the protocol with id 79
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 4 INTRODUCTION AND RATIONALE 
+For more information about the rationales, go to sections:
+4.3 RATIONALE 
+4.3.1 Rationale for Dose Selection 
+4.3.2 Rationale for Pharmacokinetics 
+For more information about the previous studies, go to sections:
+4.2.1 XRP6258 Preclinical activity 
+4.2.2 Clinical Activity of XRP6258: Available Results 
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 5 STUDY OBJECTIVES 
+For more information about the primary objectives, go to sections:
+5.1 PRIMARY 
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+21670	compare 	"...   To compare efficacy between the two treatment arms:   PSA Response   PSA Progression   Progression..."
+21504	determine 	"...   To determine whether XRP6258 in combination with prednisone improves overall survival when  compared..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 6 STUDY DESIGN 
+I found the following features of the study:
+open label
+randomized
+multi center
+two treatment arm
+phase III
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 7 SELECTION OF PATIENTS 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 8 TREATMENTS 
+Maybe, these sections will be interested for you:
+8.2 PACKAGING AND LABELING 
+8.5 DOSING REGIMEN 
+8.7 METHOD OF ASSIGNING PATIENTS TO TREATMENT GROUP 
+8.9 RETRIEVAL AND/OR DESTRUCTION OF TREATMENTS 
+8.10 CONCOMITANT TREATMENT 
+8.11 TREATMENT ACCOUNTABILITY AND COMPLIANCE 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 13.1 SAMPLE SIZE DETERMINATION 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 8.7 METHOD OF ASSIGNING PATIENTS TO TREATMENT GROUP 
+I found information about blocks:
+74526	dynamic allocation method	"... e), and   ECOG performance status (0 1 vs. 2).  A dynamic allocation method will be used to avoid..."
+Maybe this information will be interesting:
+52845	in order to randomize	"... he investigator has verified all eligibility requirements, study site personnel will call the  IVRS in order to randomize the patient. The IVRS will assign the patient to a treatment arm and  if..."
+22645	randomization will be performed	"...  THE PROTOCOL  This is a phase III, randomized, open label, multi center, multinational study.  The randomization will be performed by an Interactive Voice Response System (IVRS).  Randomization..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 8.6 COMPENSATION FOR LACK OF BLINDING 
+This part was defined, probably, at this section: 15 STUDY MONITORING 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 13 STATISTICAL CONSIDERATIONS 
+This part was defined, probably, at this section: 13.4 STATISTICAL METHODS 
+I found the following methods:
+108184 	 fisher s exact test 	 "... sed to compare proportions (replaced by Fisher s exact test if the  expected..."
+108514 	 brookmeyer and crowley 	 "... dian  time will be calculated using the Brookmeyer and Crowley (1982) method. ..."
+119167 	 fleming 	 "...  overall  survival based on the O Brien Fleming type I error spending function...."
+108292 	 kaplan meier 	 "... ls of the contingency table is 5).  The Kaplan Meier method will be used to..."
+108389 	 kaplan meier 	 "...  data and to estimate the median  time. Kaplan Meier curves will be presented..."
+111086 	 kaplan meier 	 "... survival curves will be estimated using Kaplan Meier estimates.  Additional..."
+100615 	 log rank 	 "... ction in hazard rate using a  two sided log rank test at a significance level..."
+108608 	 log rank 	 "... istributions will be compared using the log rank test, stratified on the two ..."
+110393 	 log rank 	 "... pared between the two treatments by the log rank test procedure at the 0.0076 ..."
+111010 	 log rank 	 "... fication factors as those used  for the log rank test described above.  The..."
+111573 	 log rank 	 "... ared between the  two treatments by the log rank test procedure. Medians and..."
+119309 	 log rank 	 "... ll be 0.0076 for the 2 sided stratified log rank test. In case the  stopping..."
+119522 	 log rank 	 "... e performed with the 2 sided stratified log rank test at the  0.0476..."
+108119 	 chi square 	 "... tion  of baseline characteristics.  The chi square test will be used to compare..."
+111845 	 chi square 	 "... e will be compared between groups using chi square tests.  As a supportive..."
+108831 	  cox  	 "... fidence intervals will be estimated from Cox proportional hazards  models..."
+110910 	  cox  	 "... dence interval will be provided  using a Cox proportional hazard model..."
+111211 	  cox  	 "... e detailed in the SAP. For example,  the Cox proportional hazard model may be..."
+111744 	  cox  	 "... ence intervals will be provided using a  Cox proportional hazard model.  Tumor,..."

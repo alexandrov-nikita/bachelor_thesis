@@ -1,0 +1,118 @@
+1. To assess the effect 
+3  Clinical Study Protocol 
+2. To investigate the 
+3. To assess the effect 
+4. To assess the effect 
+5. To investigate the 
+6. To assess the effects 
+7. To investigate the 
+8. To assess the effects 
+9. To investigate the 
+10. To investigate the 
+1. To assess the effects 
+2. To explore the 
+3. To assess the effects 
+4. To collect optional 
+5. To collect optional 
+6. To collect an 
+8 Approved
+4. MEASUREMENTS OF STUDY VARIABLES AND DEFINITIONS OF 
+11 Approved
+1. INTRODUCTION 
+1.1 The main purpose of this study is to assess the effect of ZD4054 on overall survival compared 
+1.1.3 Study 4054 IL/0006 (D4320 C00006) was a Phase II study in 312 men with asymptomatic or 
+1.2 This study will be conducted in men with asymptomatic or mildly symptomatic prostate 
+2. STUDY OBJECTIVES 
+1. To assess the effect 
+2. To investigate the 
+3. To assess the effect 
+4. To assess the effect 
+5. To investigate the 
+6. To assess the effects 
+7. To investigate the 
+8. To assess the effects 
+9. To investigate the 
+10. To investigate the 
+1. To assess the effects 
+2. To explore the 
+3. To assess the effects 
+4. To collect optional 
+5. To collect optional 
+6. To collect an 
+3. STUDY PLAN AND PROCEDURES 
+3.1 This Clinical Study Protocol has been subjected to a peer review according to AstraZeneca 
+1 Screen 
+3.3.2 For inclusion in the study patients must fulfil all of the following criteria: 
+7. Provision of informed consent 
+3.3.3 Any of the following is regarded as a criterion for exclusion from the study: 
+9. Radiotherapy to bone lesion or prostatic bed within 4 weeks of starting study 
+3.3.5.2 Procedures for discontinuation 
+3.3.5.3 Procedures for handling incorrect enrolled patients 
+3.4.2 Blinded doses of ZD4054 and matched placebo will be supplied and administered as follows: 
+3.4.4 All investigational products must be kept in a secure place under appropriate storage 
+3.7.2 Methods for unblinding the study 
+3.8 The administration of all medication (including investigational products) must be recorded in 
+3.10 Management of toxicity 
+3.10.1 Any patient experiencing headache should be strongly encouraged to take appropriate 
+3.10.2 Any patient experiencing rhinitis/nasal congestion may be treated with over the counter 
+3.10.3 Any patient experiencing peripheral oedema or heart failure may be treated with a diuretic 
+3.10.4 Other treatment 
+4. MEASUREMENTS OF STUDY VARIABLES AND 
+4.1 Primary variables 
+4.2 The data listed below will be collected onto the eCRF after the patient signs informed consent: 
+4.3 Table 4 shows how patient reported outcomes objectives relate to patient reported outcomes 
+4.3.1.2 Derivation or calculation of outcome variable 
+4.3.2.2 Derivation or calculation of outcome variable 
+4.3.3.2 Derivation or calculation of outcome variable 
+4.3.4.2 Derivation or calculation of outcome variable 
+4.3.5 Each centre must allocate responsibility for monitoring compliance with completion of the 
+5. It must be completed in private by the patient in their own time 
+4.4.3 Relationships between pharmacokinetic and pharmacodynamic measures 
+4.5.1.2 Derivation or calculation of outcome variable 
+4.5.2.2 Derivation or calculation of outcome variable 
+4.5.3 Time to use of opiates 
+4.5.3.1 Methods of assessment 
+4.5.3.2 Derivation or calculation of outcome variable 
+4.5.4 Skeletal related events 
+4.5.4.1 Methods of assessment 
+4.5.4.2 Derivation or calculation of outcome variable 
+4.5.5.2 Derivation or calculation of outcome variable 
+4.5.6 Bone scintigraphy (bone scans) will be performed at the time points specified in the study 
+4.5.6.1 Methods of assessment 
+4.5.6.2 Derivation or calculation of outcome variable 
+4.5.7.2 Derivation or calculation of outcome variable 
+4.5.8.2 Derivation or calculation of outcome variable 
+4.6.1.2 Recording of adverse events 
+4.6.1.3 Reporting of serious adverse events 
+4.6.2 Laboratory assessments should be performed at a certified central laboratory according to the 
+4.6.3 Methods of assessment 
+4.7 The total volume of blood that will be drawn from each patient in this study per year is as 
+4.7.1 The analyte stability limits defined by Quintiles Laboratories will be applied to all analyses 
+4.8.1.1 Methods of assessment 
+4.8.1.2 Derivation or calculation of outcome variable 
+4.8.1.3 Samples will be frozen ( 20 C or below) and transported to the relevant DNA extraction 
+4.9.1.1 Samples must be shipped frozen ( 20 C or below) and transported to the relevant storage site 
+4.9.3 Possible future analysis is likely to be performed retrospectively and only the appropriate 
+5. DATA MANAGEMENT 
+6. STATISTICAL METHODS AND DETERMINATION OF 
+6.1 A comprehensive Statistical Analysis Plan (SAP) will be finalised before unblinding of the 
+6.2 Description of outcome variables in relation to objectives and 
+6.2.1 The primary objective is: 
+6.2.2 The secondary objectives of the study are to investigate the effect of ZD4054 on the 
+6.3 Five patient analysis sets will be defined in this study: 
+6.4.2 Compliance and exposure of daily usage of investigational product will be listed and 
+6.4.3 Overall survival 
+6.4.4 Progression Free Survival 
+6.4.5 Health Status 
+6.4.6 The Safety analysis set will be used as the primary analysis dataset for the reporting of safety 
+6.7 An Independent Data Monitoring Committee (IDMC) will be responsible for safeguarding the 
+7. STUDY MANAGEMENT 
+7.3 The principal investigator will maintain a record of all individuals involved in the study 
+7.4 Study procedures will not be changed without the mutual agreement of the Co ordinating 
+7.6 Before a patient s enrolment in the study and any study related procedures are undertaken the 
+8. ETHICS 
+8.1 ICON will provide Ethics Committees and Principal Investigators with safety updates/reports 
+8.2 The study will be performed in accordance with ethical principles that have their origin in the 
+9.1 In the case of a medical emergency you may contact the Study Team Physician or Study 
+9.2 The principal investigator(s) is responsible for ensuring that procedures and expertise are 
+10. REFERENCES 

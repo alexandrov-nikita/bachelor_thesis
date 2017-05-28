@@ -1,0 +1,88 @@
+Processing the protocol with id 141
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. Introduction
+For more information about the rationales, go to sections:
+1.5. Rationale for Study JMHD
+For more information about the previous studies, go to sections:
+1.4.2. Phase 2 Studies of Bevacizumab in Combination with 
+1.4.3. Phase 2 Study of Bevacizumab in Combination with 
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. Objectives
+For more information about the primary objectives, go to sections:
+2.1. Primary Objective
+For more information about the secondary objectives, go to sections:
+2.2. Secondary Objectives
+Objectives: FOUND
+Occurrences in the text:
+53317	evaluate 	"...   to evaluate differences in patient reported outcomes (PROs), as assessed by the  Functional Assessment..."
+52165	compare 	"... s to compare overall survival (OS) for:  Arm A: pemetrexed plus carboplatin plus bevacizumab, followed..."
+52644	compare 	"...   to compare the overall response rates (RRs) and the disease control rates (DCRs),  assessed according..."
+52856	compare 	"... s to compare the following time to event efficacy variables between the 2 treatment  arms:    ..."
+53193	compare 	"... ) to compare hospitalizations, transfusions, and concomitant medication use  between the 2 treatment..."
+53723	compare 	"...  and compare between the 2 treatment arms to characterize pemetrexed PK in patients randomized to Arm A...."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3.1. Summary of Study Design
+I found the following features of the study:
+open label
+randomized
+1 of the following treatment arm
+Phase 3
+multicenter
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: 1:1, 1:1
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4. Study Population
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5. Treatment
+Maybe, these sections will be interested for you:
+5.1. Treatments Administered
+5.3. Method of Assignment to Treatment
+5.5.1.5. Treatment Delays due to Insufficient Folic Acid or Vitamin B12 
+5.8. Treatment Compliance
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 8. Sample Size and Statistical Methods
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 5.3. Method of Assignment to Treatment
+Maybe this information will be interesting:
+51835	will be randomized	"... ntinued until disease progression (Arm B). In Study JMHD, patients with advanced, nonsquamous NSCLC will be randomized to receive  first line treatment for 4 cycles or until progression. Patients who..."
+58883	will be randomized	"... are excluded  from Study JMHD. LY231514  H3E MC JMHD(f) Clinical Protocol Page 32 Eligible patients will be randomized in a 1:1 ratio to 1 of the following treatment arms:  Arm A Pemetrexed,..."
+80948	will be randomized	"... to paclitaxel. 5.3. Method of Assignment to Treatment Patients who meet all criteria for enrollment will be randomized to Arm A or Arm B at the  baseline visit (Visit 0). Assignment to treatment..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 5.6. Blinding
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 8. Sample Size and Statistical Methods
+I found the following methods:
+174027 	 logrank 	 "... s required in clinical trials using the logrank  test. Stat Med 1(2):121 129...."
+154024 	 fisher  exact test 	 "... pared between Arm A and Arm B using the Fisher  exact test. 8.2.11. Subgroup..."
+141518 	 kaplan meier 	 "...  a 2 sided significance level of 0.05). Kaplan Meier (K M) estimation (Kaplan ..."
+142974 	 kaplan meier 	 "...  following analyses will be performed:  Kaplan Meier estimation, including..."
+154506 	 kaplan meier 	 "... model. Then, subsequent log  rank test, Kaplan Meier estimate, and Cox..."
+174579 	 fleming 	 "... col 19(3):843  850. Greene FL, Page DL, Fleming ID, Fritz AG, Balch CM, Haller,..."
+143329 	 fisher exact test 	 "... pared between Arm A and Arm B using the Fisher exact test. A  95% confidence..."
+155003 	 fisher exact test 	 "... eraction in the model. Then, subsequent Fisher exact test will be  performed to..."
+155515 	 fisher exact test 	 "... raction in the model. Then, subsequent  Fisher exact test will be performed to..."
+136174 	 log rank 	 "... mbination arm with the use of a 1 sided log rank test and a type I error of..."
+141410 	 log rank 	 "... between Arm A and Arm B using a 1 sided log rank test at a significance level..."
+143150 	 log rank 	 "... 3E MC JMHD(f) Clinical Protocol Page 72 log rank test    Cox regression model..."
+162831 	 chi square 	 "...  cut point of the  population. The Wald chi square statistics for the..."
+163166 	 chi square 	 "... mparison with the one degree of freedom chi square distribution  LY231514  H3E..."
+163293 	 chi square 	 "... opriate. The probability of the maximum chi square value will be assessed using..."
+179879 	 chi square 	 "... R, Siegmund D. 1982. Maximally selected chi square statistics. Biometrics..."
+141760 	  cox  	 "... is of the primary outcome will include a Cox (1972) regression model to ..."
+142372 	  cox  	 "... ude any cofactor (listed above) from the Cox models for 1 or more of the ..."
+143166 	  cox  	 "... inical Protocol Page 72 log rank test    Cox regression model adjusting for the..."
+154362 	  cox  	 "...  at the 0.10 level of significance using Cox regression model containing ..."
+154532 	  cox  	 "... g  rank test, Kaplan Meier estimate, and Cox regression model will be performed..."
+159727 	  cox  	 "...  corresponds  to the PFS HR 1.21 under a Cox PH model), then the trial would be..."
+162644 	  cox  	 "... t in the  analytical model (for example, Cox regression of time to event..."
+172021 	  cox  	 "...  serum creatinine.  Nephron 16(1):31 41. Cox DR. 1972. Regression models and..."

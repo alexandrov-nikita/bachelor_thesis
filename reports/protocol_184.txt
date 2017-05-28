@@ -1,0 +1,74 @@
+Processing the protocol with id 184
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1.3 Background Pharmacologic Information on CPT 11 and OXAL 
+For more information about the rationales, go to sections:
+1.8 Rationale for the Regimens Chosen for Evaluation in This Study 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+38032	Phase I 	"... As the activity data from the  Phase I trial of the Rhone Poulenc..."
+17631	phase I 	"... profile of OXAL was evaluated in a phase I intra patient escalation  study..."
+20732	phase I 	"... in  every 6 week cycles. In the phase I study, a 17% response rate ..."
+21308	phase I 	"... the Mayo CPT 11 regimen  from a phase I trial (48). The recommended..."
+30089	phase I 	"... limiting myelosuppression in their phase I trial (57).  All patients were..."
+16278	Phase II 	"...                         9 Addendum 22  Phase II Studies of CPT 11 Weekly for..."
+29585	Phase II 	"... 85 mg/m2 and CPT 11  175 mg/m2.  1.63 Phase II Clinical Trials  Scheithauer..."
+30822	Phase II 	"... metastatic colorectal  cancer.  In a Phase II trial funded by Rhone Poulenc..."
+38807	Phase II 	"... schedule was based on a  115 patient, Phase II trial in Europe sponsored by..."
+14566	phase II 	"...            1.41 CPT 11: A number of phase II studies have been reported in..."
+15571	phase II 	"... for four of six weeks      Several phase II studies have used (26 30) CPT..."
+17392	phase II 	"... the U.S., Pitot et al., determined a phase II dose of 320 mg/m2 every three ..."
+17472	phase II 	"... which is somewhat lower than the phase II starting dose of 350 mg/m2 ..."
+18691	phase II 	"... unchanged (33). The recommended phase II dose  was 135 mg/m2..."
+19385	phase II 	"...  cancer was evaluated in five phase II trials, two with 63 previously..."
+20990	phase II 	"... in 29% of  patients at the recommended phase II dose. The program is currently..."
+21344	phase II 	"... a phase I trial (48). The recommended phase II dose is: CPT 11  275..."
+22038	phase II 	"... from 100 to  200 mg/m2 to date. The phase II dose of CPT 11 is 180..."
+22875	phase II 	"... with a 1 week rest between cycles. The phase II dose of  CPT 11 is 80 mg/m2.  ..."
+26969	phase II 	"... months (p=0.8).  In two additional phase II trials, 57 and 40 patients who..."
+29031	phase II 	"... one hour later. The recommended phase II dose is OXAL 200 mg/m2 and ..."
+37797	phase II 	"... regimens are the only ones for which phase II data exists. The Scheithauer..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2.11 The primary objective of this trial is to compare the time to progression in patients 
+Primary objectives: NOT FOUND
+For more information about the secondary objectives, go to sections:
+2.12 A secondary objective of this trial is to compare the time to progression of patients 
+Objectives: FOUND
+Occurrences in the text:
+57780	evaluate 	"... s to evaluate the association of allelic variants  in five candidate genes with patient toxicity and/or..."
+58006	determine 	"... s to determine whether serum levels of Insulin Like Growth  Factors 1 (IGF 1), IGF 2, and Insulin Like..."
+57028	compare 	"... s to compare the time to progression in patients  with locally advanced or metastatic colorectal cancer..."
+57350	compare 	"... s to compare the time to progression of patients  receiving the two experimental regimens.  The primary..."
+57631	compare 	"...   To compare quality of life parameters in patients on these regimens.  2.15 Translational Studies  2.21..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 2.2 Treatment 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 16.84 Sample size and power considerations: As of the implementation of Addendum 9 (which 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 3.18 All of the following (from the time of surgery/RT to the date of randomization): 
+Maybe this information will be interesting:
+96455	will be randomized	"... the existence of a consent form will be checked by Randomization  Center personnel before a patient will be randomized into this study.   Patient has given permission to store sample(s) for future..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 16.85 Statistical methods: A variety of statistical methods will be used for the different 
+I found the following methods:
+264532 	 log rank 	 "... rves, with hypothesis testing using the log rank test  for univariate..."
+263905 	 chi square 	 "... ype or IGF status will be  tested using chi squared tests; odds ratios and..."
+276715 	 fleming 	 "... in Oncol 7:425 432, 1989.  Leichman CG, Fleming TR, Muggia FM, et al: Phase II..."
+288984 	 fleming 	 "... ncol 18:233 a,  1999.   78. O Brien PC, Fleming TR: A multiple testing..."
+264578 	  cox  	 "... nk test  for univariate associations and Cox regression modeling for..."
+264477 	 kaplan meier 	 "...  will be illustrated  graphically using Kaplan Meier curves, with hypothesis..."

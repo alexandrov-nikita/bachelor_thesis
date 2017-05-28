@@ -1,0 +1,131 @@
+Processing the protocol with id 165
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. BACKGROUND AND STUDY RATIONALE
+For more information about the rationales, go to sections:
+1.4 Study Rationale
+1.4.6 Rationale for Genotyping and Assessment of Biomarkers in Archived Tumor 
+For more information about the previous studies, go to sections:
+1.2 Preclinical Experience With Orteronel
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. STUDY OBJECTIVES
+For more information about the primary objectives, go to sections:
+2.1 Primary Objectives
+For more information about the secondary objectives, go to sections:
+2.2 Key Secondary Objectives
+2.3 Other Secondary Objectives
+Objectives: FOUND
+Occurrences in the text:
+43517	evaluate 	"...   To evaluate changes in CTC counts  To evaluate whether orteronel improves time to pain progression 2.3..."
+43552	evaluate 	"...   To evaluate whether orteronel improves time to pain progression 2.3 Other Secondary Objectives Other..."
+44104	evaluate 	"...   To evaluate if orteronel plus prednisone improves time to docetaxel chemotherapy  To measure the time..."
+44851	evaluate 	"...   To evaluate changes in markers of bone turnover, such as serum N telopeptide and  serum bone specific..."
+45338	evaluate 	"...   To evaluate polymorphisms in the CYP17 gene, as well as other germline genes  implicated in the safety..."
+45656	evaluate 	"...   To evaluate medical resource utilization (MRU) and calculate utility values using a  preference based..."
+45043	explore 	"...   To explore the relationship between changes in CTC counts and other clinical endpoints  such as OS and..."
+43182	determine 	"...   To determine if orteronel plus prednisone improves rPFS  To determine if orteronel plus prednisone..."
+43239	determine 	"...   To determine if orteronel plus prednisone improves OS Confidential 38 Orteronel (TAK 700) Clinical..."
+43436	determine 	"...   To determine if orteronel plus prednisone improves 50% PSA response at 12 weeks  To evaluate changes..."
+43732	determine 	"...   To determine if orteronel plus prednisone increases the time to radiographic disease  progression or..."
+43863	determine 	"...   To determine if orteronel plus prednisone decreases frequency of SREs  To determine if orteronel plus..."
+43934	determine 	"...   To determine if orteronel plus prednisone increases 90% PSA response and best PSA  response  To..."
+44027	determine 	"...   To determine if orteronel plus prednisone increases time to PSA progression  To evaluate if orteronel..."
+44244	determine 	"...   To determine tumor response rate and duration of response in patients with tumor lesions  that are..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 4. STUDY DESIGN
+I found the following features of the study:
+randomized
+double blind
+double  blind
+multicenter
+Placebo: found -> randomized-controlled study
+Occurrences in the text:
+48826	placebo	 "... DESIGN Orteronel tablets and placebo tablets will be..."
+49044	placebo	 "...  prednisone, compared with placebo plus prednisone, with..."
+51276	placebo	 "... orteronel with prednisone or placebo with prednisone,..."
+51993	placebo	 "... patients receiving  placebo may be allowed to..."
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 5. STUDY POPULATION
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 6. STUDY DRUG
+Maybe, these sections will be interested for you:
+6.11 Packaging and Labeling
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 8.1.1 Determination of Sample Size
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 8.1.2 Randomization and Stratification
+Maybe this information will be interesting:
+51171	will be randomized	"... g screening, which will serve as the baseline assessment.  Following the Screening period, patients will be randomized to receive study drug in a double  blind fashion, either orteronel with..."
+57967	will be randomized	"... rotocol C21004 Amendment 9 4.2 Number of Patients Following screening, approximately 1,454 patients will be randomized into this study from  approximately 400 study centers worldwide.  4.3 Duration..."
+88395	will be randomized	"... ted to re enroll. A centralized randomization and stratification using IVRS will be used.  Patients will be randomized strictly sequentially at a center as they become eligible for  randomization and..."
+120254	will be randomized	"... erved, in order to allow subsequent analysis of OS. 8.1.2 Randomization and Stratification Patients will be randomized to receive orteronel plus prednisone or placebo plus prednisone  (with continued..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 6.8 Blinding and Unblinding
+This part was defined, probably, at this section: 11.4 Study Monitoring
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 8.1 Statistical Methods
+I found the following methods:
+124518 	 fleming 	 "... the fallback method.  Using the O Brien Fleming method, the alpha spent at the..."
+144153 	 fleming 	 "... lysis will be determined by O Brien and Fleming boundaries and  the number of..."
+184820 	 fleming 	 "...  Statistics 2003;2:211 215. O Brien PC, Fleming TR. A multiple testing..."
+285072 	 fleming 	 "... lysis will be determined by O Brien and Fleming boundaries and the number of ..."
+285652 	 fleming 	 "... ificance level according to O Brien and Fleming boundaries.  The statistical..."
+286794 	 fleming 	 "... ificance level according to O Brien and Fleming boundaries.  The statistical..."
+288351 	 fleming 	 "... lysis will be determined by O Brien and Fleming boundaries and the number of ..."
+122994 	 kaplan meier 	 "...  per category for categorical data. The Kaplan Meier  survival curves and..."
+123028 	 kaplan meier 	 "... . The Kaplan Meier  survival curves and Kaplan Meier medians (if estimable)..."
+125675 	 kaplan meier 	 "... s will be conducted if appropriate. The Kaplan Meier survival curves and ..."
+125709 	 kaplan meier 	 "... . The Kaplan Meier survival curves and  Kaplan Meier medians (if estimable),..."
+126528 	 kaplan meier 	 "... endment 9 conducted if appropriate. The Kaplan Meier survival curves and Kaplan..."
+126561 	 kaplan meier 	 "... e. The Kaplan Meier survival curves and Kaplan Meier medians (if  estimable),..."
+129001 	 kaplan meier 	 "...  9 unadjusted stratified Cox model. The Kaplan Meier survival curves and Kaplan..."
+129034 	 kaplan meier 	 "... l. The Kaplan Meier survival curves and Kaplan Meier medians  (if estimable),..."
+129887 	 kaplan meier 	 "... ponse will be summarized descriptively. Kaplan Meier survival curves will  be..."
+130239 	 kaplan meier 	 "...  to compare the  2 treatment groups and Kaplan Meier survival curves and Kaplan..."
+130272 	 kaplan meier 	 "... ps and Kaplan Meier survival curves and Kaplan Meier medians (if estimable), ..."
+132474 	 kaplan meier 	 "... atment as the explanatory variable. The Kaplan Meier  survival curves and..."
+132508 	 kaplan meier 	 "... . The Kaplan Meier  survival curves and Kaplan Meier medians (if estimable)..."
+132974 	 kaplan meier 	 "... d survival analysis techniques based on Kaplan Meier estimates. In  addition,..."
+133798 	 kaplan meier 	 "... tment as the  explanatory variable. The Kaplan Meier survival curves and Kaplan..."
+133831 	 kaplan meier 	 "... e. The Kaplan Meier survival curves and Kaplan Meier medians (if  estimable)..."
+134637 	 kaplan meier 	 "... tment as the explanatory variable. The  Kaplan Meier survival curves and Kaplan..."
+134670 	 kaplan meier 	 "... . The  Kaplan Meier survival curves and Kaplan Meier medians (if estimable),..."
+138885 	 kaplan meier 	 "... e unadjusted stratified Cox  model. The Kaplan Meier survival curves and Kaplan..."
+138918 	 kaplan meier 	 "... l. The Kaplan Meier survival curves and Kaplan Meier medians (if estimable),..."
+118076 	 log rank 	 "...  plus prednisone group) using a 2 sided log rank  test at a 4.5% overall..."
+119606 	 log rank 	 "...  plus prednisone group) using a 2 sided log rank test at a 0.5% level (ie,..."
+125342 	 log rank 	 "...  events have been observed.  Stratified log rank testing will be used to..."
+126164 	 log rank 	 "... date,  whichever is earlier. Stratified log rank testing will be used to..."
+128718 	 log rank 	 "... I.  Time to Pain Progression Stratified log rank testing will be used to..."
+130148 	 log rank 	 "... to disease  progression. The stratified log rank test and stratified Cox model..."
+132215 	 log rank 	 "... se, which ever comes first.  Stratified log rank testing will be used to..."
+133539 	 log rank 	 "... ow up portions of the study. Stratified log rank testing will be used to..."
+134400 	 log rank 	 "... ow up portions of the study. Stratified log rank testing will be used to..."
+138659 	 log rank 	 "... duled assessment time point. Stratified log rank testing will be  used to..."
+127882 	 chi square 	 "... using the Cochran Mantel Haenszel (CMH) chi square test at a 5% significance..."
+127976 	 chi square 	 "... d by the randomization factors. The CMH chi square p value and the relative..."
+128399 	 chi square 	 "... hion as the PSA response rates. The CMH chi square test will be used  to..."
+129546 	 chi square 	 "... ent groups will be tested using the CMH chi square  test, stratified by the..."
+129613 	 chi square 	 "... d by the randomization factors. The CMH chi square p value and the relative..."
+131559 	 chi square 	 "... onse rates. The Cochran Mantel Haenszel chi square test will be used to compare..."
+133099 	 chi square 	 "... roups will also be tested using the CMH chi square test at a 5% significance..."
+125546 	  cox  	 "... timated using the  unadjusted stratified Cox model. The proportional hazard..."
+126319 	  cox  	 "... stimated using the unadjusted stratified Cox  model. The proportional hazard..."
+128985 	  cox  	 "... C21004 Amendment 9 unadjusted stratified Cox model. The Kaplan Meier survival..."
+130176 	  cox  	 "...  stratified log rank test and stratified Cox model will be used to compare the ..."
+132415 	  cox  	 "...  will be estimated  using the stratified Cox model with treatment as the..."
+133738 	  cox  	 "... s will be estimated using the stratified Cox model with treatment as the ..."
+134577 	  cox  	 "...  will be  estimated using the stratified Cox model with treatment as the..."
+138868 	  cox  	 "... stimated using the unadjusted stratified Cox  model. The Kaplan Meier survival..."
+127852 	 cochran mantel haenszel 	 "... atment groups will  be tested using the Cochran Mantel Haenszel (CMH) chi..."
+131535 	 cochran mantel haenszel 	 "... Amendment 9 the PSA response rates. The Cochran Mantel Haenszel chi square test..."

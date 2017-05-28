@@ -1,0 +1,107 @@
+2. Laboratory values (including changes in 
+4. Subject incidence of anti AMG 162 antibodies 
+1.2 Secondary 
+1.3 Exploratory 
+2.2 AMG 162 Background 
+2.2.1 Preclinical Studies 
+2.2.1.1 Pharmacokinetic Studies 
+2.2.1.2 Toxicology Studies 
+2.2.2 Safety Profile 
+2.2.3 Clinical Efficacy 
+2.3 Rationale 
+2.4 Clinical Hypothesis 
+3.2 Number of Centers 
+3.3 Number of Subjects 
+3.4 Estimated Study Duration 
+3.4.1 Safety Follow Up Phase 
+4. SUBJECT ELIGIBILITY 
+4.1 Inclusion Criteria 
+4.1.2 Have undergone bilateral orchiectomy or initiated ADT with GnRH agonists and 
+4.2 Exclusion Criteria 
+4.2.1 Evidence of distant metastases 
+4.2.3 Diagnosis of any secondary non prostate malignancy within 5 years of 
+4.2.4 PSA 5 ng/mL after being on ADT 1 month 
+4.2.7 Less than 2 evaluable lumbar vertebrae (L1 L4) for DXA measurement 
+4.2.10 Administration of any of the following treatments within the past 6 weeks: 
+4.2.13 Concurrent use of PC SPES 
+4.2.14 25 hydroxyvitamin D deficiency ( 12 ng/mL) 
+4.2.20 Evidence of any of the following conditions per subject self report or chart review: 
+4.2.23 Is currently enrolled in the active treatment phase of a study investigating an 
+4.2.24 Self reported drug or alcohol abuse within the previous 24 weeks before study 
+4.2.25 Known sensitivity to any of the products to be administered during this study 
+5. SUBJECT ENROLLMENT 
+5.1 Subject Identification Number Assignment 
+5.2 Randomization 
+6.3 Dosage Adjustments 
+6.4 Concomitant Therapy 
+6.5 Proscribed Therapy During Treatment Period 
+7. STUDY PROCEDURES 
+7.1 Medical History 
+7.2 Medication History 
+7.3 Physical Examination 
+7.4 Bone Scan 
+7.5 Vital Signs 
+7.6 Laboratory Assessments 
+7.6.1 Biomarker Development 
+7.7 Calcium and Vitamin D Supplements 
+7.8 Dual X ray Absorptiometry (DXA) Assessment 
+7.8.1 Screening DXA 
+7.8.2 On Study DXA 
+7.9 Vertebral Fracture Assessment (VFA) by DXA 
+7.10 Lateral Spine Radiographic Assessments 
+7.11 Non vertebral Fracture Recording 
+7.12 Bone and Cartilage Marker 
+7.13 Concomitant Therapy 
+7.14 Patient Reported Outcome Assessments 
+7.15 Adverse Events 
+7.16 DXA Sub Study 
+7.17 Cardiovascular Adjudication 
+7.18 Information Collected During Safety Follow Up Phase 
+8.2 Replacement of Subjects 
+9.1.1 Adverse Events 
+9.1.2 Serious Adverse Events 
+9.2 Reporting Procedures for All Adverse Events 
+9.3 Serious Adverse Event Reporting Procedures 
+10.2.1 Endpoints 
+10.2.2 Subsets 
+10.2.3 Covariates 
+10.2.4 Stratification 
+10.3 Sample Size Considerations 
+10.4 External Data Monitoring Committee 
+10.5 Planned Methods of Analysis 
+10.5.1 General Approach/Considerations 
+10.5.2 Analysis of Key Study Endpoints 
+10.5.2.1 Efficacy Analysis 
+10.5.2.2 Safety Analysis 
+4 Criteria 
+10.5.3 Exploratory Analyses 
+10.5.3.1 BMD Assessment 
+10.5.3.2 Fracture Assessment 
+10.5.3.3 PSA Assessment 
+10.5.3.4 Overall Survival 
+10.5.3.5 Patient Reported Outcomes (PRO) Assessments 
+11.2 Access to Blinded Investigational Product Assignment 
+12.2 Independent Ethics Committee/Institutional Review Board 
+12.3 Prestudy Documentation Requirements 
+12.4 Subject Confidentiality 
+12.5 Investigator Signatory Obligations 
+13.2 Study Documentation and Storage 
+13.3 Study Monitoring and Data Collection 
+13.4 Language 
+13.5 Publication Policy 
+13.6 Compensation 
+15. APPENDICES 
+1. BACKGROUND INFORMATION 
+2. STUDY PROCEDURES 
+3. SAFETY POTENTIAL RISKS AND DISCOMFORTS 
+4. CONFIDENTIALITY 
+2. Placebo injection one time every 6 months 
+2. STUDY PROCEDURES 
+9. ASSURANCES 
+10. SIGNATURES 
+1. The efficacy subset for evaluating subject incidence of new vertebral fracture has 
+3. Analysis of any fracture has been updated to employ a logistic regression model 
+4. The overall survival analysis has been updated to include adjustments for 
+5. The adjudicated positive CV event analysis has been updated to include 
+6. Other minor typographic and formatting errors have been made throughout
+4 Criteria 

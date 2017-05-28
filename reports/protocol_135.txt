@@ -1,0 +1,83 @@
+Processing the protocol with id 135
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1 INTRODUCTION AND STUDY RATIONALE 
+I have not found anything about the rationales from titles, lets take a look for the introduction
+Rationales: NOT FOUND
+For more information about the previous studies, go to sections:
+1.4 PRELIMINARY CLINICAL FINDINGS 
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2 STUDY OBJECTIVES 
+For more information about the primary objectives, go to sections:
+2.1 PRIMARY OBJECTIVE 
+For more information about the secondary objectives, go to sections:
+2.2 SECONDARY OBJECTIVES 
+Objectives: FOUND
+Occurrences in the text:
+84002	compare 	"... s to compare progression free survival (PFS) in patients with  metastatic breast cancer treated with..."
+84261	compare 	"...   To compare survival and other measures of anti tumor efficacy response rate (RR), time to  tumor..."
+84533	compare 	"...   To compare the safety and tolerability of RPR109881 versus capecitabine.   To compare the quality of..."
+84608	compare 	"...   To compare the quality of life and other clinical benefit measures in patients treated with  RPR109881..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3.1 STUDY DESIGN 
+I found the following features of the study:
+open label
+randomized
+multi center
+phase III
+two arm
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4 SELECTION OF PATIENTS 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5 STUDY TREATMENTS 
+Maybe, these sections will be interested for you:
+5.1 DETAILS OF STUDY TREATMENTS 
+5.2 DOSAGE SCHEDULE 
+5.2.1 RPR109881 treatment 
+5.2.2 RPR109881 treatment modification 
+5.2.2.1 Status of the patient on the day of planned retreatment 
+5.2.3 Capecitabine treatment 
+5.2.4 Capecitabine treatment modification 
+5.3 TREATMENT ASSIGNMENT 
+5.4 PACKAGING AND LABELING 
+5.4.1 Packaging of RPR109881 
+5.4.2 Packaging and dispensing of capecitabine 
+5.4.3 Labeling 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 11.5 SAMPLE SIZE JUSTIFICATION 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 5.3 TREATMENT ASSIGNMENT 
+Maybe this information will be interesting:
+4029	will be randomized	"...  will be a global multi center, open label, two arm randomized, phase III clinical trial.  Patients will be randomized to treatment with RPR109881 (test arm) or capecitabine (comparator  arm)...."
+31905	will be randomized	"... y indicated.  IVRS Randomization: After the patient is deemed eligible for study entry, the patient will be randomized to study treatment through IVRS.  determined using the current weight and..."
+85048	will be randomized	"...  will be a global multi center, open label, two arm randomized, phase III clinical trial.  Patients will be randomized to treatment with RPR109881, 90 mg/m2 IV administered on Day 1  of each 3 week..."
+134669	randomization will be performed	"... tients included in this study following the procedures set out in the clinical  study protocol. The randomization will be performed using an Interactive Voice Response System  (IVRS).  After each..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 13 STUDY MONITORING AND AUDITING 
+This part was defined, probably, at this section: 13.1 STUDY MONITORING AND SOURCE DATA VERIFICATION 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 11 STATISTICAL PROCEDURES 
+This part was defined, probably, at this section: 11.3 STATISTICAL METHODS 
+I found the following methods:
+214017 	 log rank 	 "... tween the two treatment groups using a  log rank test stratified by all 3..."
+224599 	 log rank 	 "...  as defined in Section 11.1.3, using a  log rank test stratified by the..."
+219047 	 fisher s exact test 	 "... ovided by treatment. A p value using a  Fisher s Exact test between the..."
+217268 	  cox  	 "... us/ progesterone receptor status using a Cox  proportional model in the ITT..."
+217944 	  cox  	 "... nd OS endpoints will be analyzed using a Cox  proportional hazards model..."
+215121 	 cochran mantel haenszel 	 "... atment groups will be performed using a Cochran Mantel Haenszel test,..."
+215668 	 cochran mantel haenszel 	 "... tment groups  will be performed using a Cochran Mantel Haenszel test,..."
+213897 	 kaplan meier 	 "... f PFS event will be estimated using the Kaplan Meier method.  As a supportive..."
+214421 	 kaplan meier 	 "... survival curves will be estimated using Kaplan Meier estimates.  Both analyses..."
+216606 	 kaplan meier 	 "... ITT population  by treatment group. The Kaplan Meier curve will be provided by..."
+225100 	 kaplan meier 	 "...  death rates will be estimated with the Kaplan Meier method.  11.4.2.4 Safety..."

@@ -1,0 +1,71 @@
+Processing the protocol with id 137
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. INTRODUCTION AND RATIONALE 
+I have not found anything about the rationales from titles, lets take a look for the introduction
+Rationales: NOT FOUND
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: NOT FOUND
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. STUDY OBJECTIVES 
+For more information about the primary objectives, go to sections:
+2.1 Primary 
+For more information about the secondary objectives, go to sections:
+2.2 Secondary 
+Objectives: FOUND
+Occurrences in the text:
+19804	evaluate 	"...   To evaluate for each of the treatment arm :     The neurotoxicity :  SANOFI SYNTHELABO   Overall..."
+18603	compare 	"...   To compare the incidence per patient of severe oxaliplatin induced cumulative  peripheral..."
+19318	compare 	"...   To compare the Response Rate (RR) between the control arm A and the  experimental arm B in order to..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3. STUDY DESIGN 
+I found the following features of the study:
+placebo controlled
+0 eligible patients are treated and evaluable for tumor responses in arm
+Phase III
+0 eligible  patients per arm
+0 first eligible and  evaluable patients in arm
+randomized
+2 arm
+Placebo: found -> randomized-controlled study
+Occurrences in the text:
+20701	placebo	 "...   This is a randomized, placebo controlled, 2 armed..."
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4. SELECTION OF PATIENTS 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5. TREATMENT 
+Maybe, these sections will be interested for you:
+5.3 Treatment administration 
+5.4 Guidelines for treatment modifications 
+5.4.1 Chemotherapy treatment delay 
+5.7 Packaging and labeling 
+5.10 Retrieval of treatments and/or destruction 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 4.1 Number of patients planned : sample size 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 9.3 Access to the randomization code during the study 
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 5.5 Description of blinding methods 
+This part was defined, probably, at this section: 12. STUDY MONITORING 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 10. STATISTICAL CONSIDERATIONS 
+This part was defined, probably, at this section: 10.5 Data analysis considerations 
+I found the following methods:
+95460 	 chi square 	 "... RR between the 2 arms using a one sided chi square test with a type I error..."
+95074 	 logrank 	 "... n the two treatments  arms by a 2 sided logrank test.    b) Response Rate   ..."
+97091 	 kaplan meier 	 "... e).    They will be estimated using the Kaplan Meier method, with 95%..."
+99344 	 kaplan meier 	 "...  complete)  will be estimated using the Kaplan Meier method, with 95%..."
+84132 	 fleming 	 "...  A 2 step design (using the O Brien and Fleming (5) approach) is proposed with..."
+95288 	 fleming 	 "...  will be performed (using the O Brien,  Fleming and Harrington (7) approach) : ..."
+117646 	 fleming 	 "... ogy 1974, 24:721 728.  (5) O Brien PC., Fleming TR., A Multiple Testing..."
+117867 	 fleming 	 "... rials. Biometrics, 55, 853 7, 1999  (7) Fleming TR, Harrington DP, O Brien PC...."

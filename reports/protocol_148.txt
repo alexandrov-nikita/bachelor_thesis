@@ -1,0 +1,95 @@
+Processing the protocol with id 148
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. Introduction
+I have not found anything about the rationales from titles, lets take a look for the introduction
+Rationales: NOT FOUND
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+27288	Phase I 	"... in Locally  Advanced (Stage III) NSCLC Phase I studies have shown that..."
+16583	Phase 2 	"...  therapy. There is one randomized Phase 2 trial and one randomized Phase..."
+16730	Phase 2 	"... to concomitant therapy. The randomized Phase 2 trial compared 2 cycles of..."
+19466	Phase 2 	"... chemotherapy regimens, data from  Phase 2 trials were examined. To date,..."
+19561	Phase 2 	"... regimen reported is the multicenter  Phase 2 trial examining the SWOG 9504..."
+29723	Phase 2 	"... in these patients. The  randomized Phase 2 study of Govindan has accrued..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. Objectives
+For more information about the primary objectives, go to sections:
+2.1. Primary Objective
+For more information about the secondary objectives, go to sections:
+2.2. Secondary Objectives
+Objectives: FOUND
+Occurrences in the text:
+32502	compare 	"... e To compare the overall survival (OS) of patients with locally advanced, Stage III NSCLC other  than..."
+32997	compare 	"...   to compare progression free survival (PFS) between the 2 arms to compare the first sites of disease..."
+33059	compare 	"... s to compare the first sites of disease failure in terms of relapse: within the  radiation treatment..."
+33259	compare 	"... s to compare the objective response rate (complete response CR partial response   PR ) between the 2..."
+33363	compare 	"... s to compare 1 , 2 , and 3 year absolute survival rates between the 2 arms to assess patient reported..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3.1. Summary of Study Design
+I found the following features of the study:
+1 ratio between  the experimental arm
+Phase 3
+open label
+multicenter
+2 treatment arm
+randomized
+6 months anticipated in the experimental arm
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: 1:1
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4. Study Population
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5. Treatment
+Maybe, these sections will be interested for you:
+5.1. Treatments Administered
+5.2.1.1.6.4. Treatment Planning/Target Volumes
+5.2.1.1.6.5. Treatment Planning
+5.2.1.1.6.8. Treatment Quality Assurance and Compliance with Protocol Defined 
+5.3. Method of Assignment to Treatment
+5.4.1.1.3. Radiation Treatment Interruptions
+5.5.1. Special Treatment Considerations
+5.5.1.3. Treatment Delays for Arm A Due to Insufficient Folic Acid or Vitamin B12
+5.8. Treatment Compliance
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 8. Sample Size and Statistical Methods
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 5.3. Method of Assignment to Treatment
+Maybe this information will be interesting:
+34019	will be randomized	"... histology (nonsquamous) without malignant pleural/pericardial effusion.  Approximately 600 patients will be randomized. Randomization will be at a 1:1 ratio between  the experimental arm (Arm A;..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 5.6. Blinding
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 8. Sample Size and Statistical Methods
+I found the following methods:
+148818 	 log rank 	 "... ared using the standard (nonstratified) log rank test. Assuming the true OS..."
+149022 	 log rank 	 "... inimum of 80% statistical power for the log rank test. 8.2. Statistical and..."
+153456 	 log rank 	 "... een the 2 study treatment  arms using a log rank test at a 2 sided =0.05...."
+154302 	 log rank 	 "...  be done for OS and PFS. In addition, a log rank test will be used to compare..."
+154554 	 log rank 	 "... ompare treatment  arms for OS and PFS.  Log rank test stratified by the..."
+160506 	 log rank 	 "...  stopping for futility if the one sided log rank p value is   0.5..."
+220210 	 log rank 	 "...  stopping for futility if the one sided log rank p value is   0.5..."
+157823 	 fisher exact test 	 "... atment arms will be compared using the  Fisher Exact test. A scatter plot will..."
+154418 	  cox  	 "...   Estimate the hazard ratios (HRs) using Cox proportional hazards models  (Cox..."
+154763 	  cox  	 "... us IIIB); and PET scan (yes versus no).  Cox regression model to obtain..."
+155188 	  cox  	 "... lude a cofactor from the list above from Cox models  for 1 or more of the..."
+158129 	  cox  	 "... es Baseline summaries, Kaplan Meier, and Cox unadjusted analyses of OS, PFS,..."
+170281 	  cox  	 "... H3E MC JMIG(f) Clinical Protocol Page 79 Cox DR. 1972. Regression models and..."
+170656 	  cox  	 "... user S, Movsas B, Wasserman T, Sause W,  Cox J. 2003. Long term benefit is..."
+181841 	  cox  	 "... iu HH, Tucker SL, Liao Z, Hu C, Mohan R, Cox JD, Komaki R. 2006. Risk factors..."
+156840 	 fisher s exact test 	 "... ulated and  compared between arms using Fisher s Exact test. No adjustment will..."
+162678 	 fisher s exact test 	 "... atment arms will be compared using  the Fisher s Exact test. Relationship..."
+217664 	 fisher s exact test 	 "... ing an AUC method and compared with a z Fisher s Exact test. No adjustment will..."
+222383 	 fisher s exact test 	 "... atment arms will be compared using  the Fisher s Exact test. Relationship..."
+154104 	 kaplan meier 	 "...  following analyses will be performed:  Kaplan Meier (K M) estimation (Kaplan..."
+158112 	 kaplan meier 	 "... . Subgroup Analyses Baseline summaries, Kaplan Meier, and Cox unadjusted..."

@@ -1,0 +1,73 @@
+Processing the protocol with id 129
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1. INTRODUCTION AND RATIONALE 
+For more information about the rationales, go to sections:
+1.4 Rationale for tirapazamine in advanced head and neck cancer 
+1.6 Rationale for study 
+For more information about the previous studies, go to sections:
+1.5 Clinical experience with tirapazamine for head and neck cancer 
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 2. STUDY OBJECTIVES 
+For more information about the primary objectives, go to sections:
+2.1 Primary 
+For more information about the secondary objectives, go to sections:
+2.2 Secondary 
+Objectives: FOUND
+Occurrences in the text:
+26599	compare 	"... will compare the efficacy and safety of concomitant chemoradiation with  tirapazamine, cisplatin, and..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 3. STUDY DESIGN 
+I found the following features of the study:
+multicenter
+open label
+Phase III
+2 chemotherapy regimen
+randomized
+2 arm
+international
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 4. SELECTION OF PATIENTS 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 5. TREATMENT 
+Maybe, these sections will be interested for you:
+5.1.9 Conformal treatment delivery verification 
+5.6 Packaging and labelling 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 10.2 Determination of sample size 
+##########################################
+Searching any information about a randomzation
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+Maybe this information will be interesting:
+99705	will be randomized	"... y, a reassessment should occur. After verification of inclusion and exclusion  criteria the patient will be randomized. This randomization should take place as close as  possible to, and not more..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+This part was defined, probably, at this section: 12. STUDY MONITORING 
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 10. STATISTICAL CONSIDERATIONS 
+This part was defined, probably, at this section: 10.4 Data analysis considerations 
+This part was defined, probably, at this section: 10.7.2.2 Statistical analysis of secondary variables 
+I found the following methods:
+104278 	 log rank 	 "... al events have been observed  Two sided log rank test at the 0.05 level  Risks..."
+106845 	 chi square 	 "... ponse rate, will be evaluated using the chi squared test.  Repeated measurement..."
+103251 	  cox  	 "...  free survival (FFS) will be done with a Cox proportional hazards  regression..."
+106313 	  cox  	 "...   10.4.2 General Statistical Approach  A Cox proportional hazards regression..."
+110238 	  cox  	 "... nations.    10.7.1.2 Primary analysis  A Cox proportional hazards regression..."
+110947 	  cox  	 "... for  survival. Testing will be done with Cox proportional hazards regression..."
+111952 	  cox  	 "...  analyses of survival will be done using Cox proportional  hazard model..."
+114929 	  cox  	 "... orse than the control group  (p value of Cox proportional hazards model less..."
+112339 	 fleming 	 "... error will be controlled by the O Brien Fleming alpha spending function 2 2 x  ..."
+112684 	 fleming 	 "... done at 0.001  level, since the O Brien Fleming alpha spending function is..."
+112933 	 fleming 	 "... nd the level determined by the  O Brien Fleming alpha spending function. This..."
+114218 	 fleming 	 "... 0   Interim 3  282   Final  334 O Brien Fleming  spending function  47%   ..."
+114268 	 fleming 	 "... pending function  47%    Final  O Brien Fleming  spending function  82%   ..."
+115619 	 fleming 	 "... ests will be determined by the O Brien  Fleming alpha spending function as a..."

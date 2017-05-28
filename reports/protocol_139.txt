@@ -1,0 +1,73 @@
+Processing the protocol with id 139
+##########################################
+Searching for the item "2a Scientific background and explanation of rationale..."
+This part was defined, probably, at this section: 1.0 Introduction 
+For more information about the rationales, go to sections:
+1.1 Background and Rationale 
+1.1.3 Rationale for the Use of DOXIL/CAELYX 
+1.1.4 Rationale for the Use of Topotecan 
+I have not found anything about the previous studies from titles, lets take a look for the introduction
+Previous studies: FOUND
+Occurrences in the text:
+17059	Phase I 	"... 3: March 26, 2001  In two separate Phase I dose escalation studies, 56..."
+14597	clinical studies with	"... affecting normal tissue. 13  On going clinical studies with DOXIL/CAELYX..."
+17912	Phase II 	"... Of 35 patients  enrolled in a Phase II study in which DOXIL/CAELYX..."
+17739	clinical activity	"... based on tumor markers.  Substantial clinical activity has been demonstrated..."
+##########################################
+Searching for the item "2b Specific objectives or hypotheses"...
+This part was defined, probably, at this section: 1.2 Objective 
+Primary objectives: NOT FOUND
+Secondary objectives: NOT FOUND
+Objectives: FOUND
+Occurrences in the text:
+20753	compare 	"... s to compare the efficacy and safety of DOXIL/CAELYX  versus topotecan HCl in patients with epithelial..."
+##########################################
+Searching for the item "3a Description of trial design (such as parallel, factorial) including allocation ratio"...
+This part was defined, probably, at this section: 1.3 Study Design 
+I found the following features of the study:
+open label
+randomized
+9 CONFIDENTIAL  Doxorubicin HCl Liposome Injection  SEQUUS Pharm
+prospective
+Placebo: NOT FOUND -> active-controlled study?
+Allocation ratio: NOT FOUND
+##########################################
+Checking for the item "4a Eligibility criteria for participants..."
+This part was defined, probably, at this section: 2.0 Patient Enrollment 
+I have found: exclusion criteria, inclusion criteria
+##########################################
+Checking for the item "5 Interventions for each group with sufficient details to allow replication, including how and when they were actually administered"
+This part was defined, probably, at this section: 4.0 Administration of Study Drug 
+##########################################
+Checking for the item “7a how sample size was determined”...
+This part was defined, probably, at this section: 8.6.7 Statistical Power and Sample Size Considerations 
+##########################################
+Searching any information about a randomzation
+This part was defined, probably, at this section: 2.4 Randomization 
+Maybe this information will be interesting:
+2551	will be randomized	"... nd evaluable  disease, who have received no more than one prior regimen, which was platinum based,  will be randomized to receive either a one hour intravenous infusion of  DOXIL/CAELYX, 50 mg/m2..."
+##########################################
+Checking for the item “11a  if done, who was blinded after assignment to interventions (eg, participants, care providers, those assessing outcomes) and how.”
+Unfortunately, I could not find this part, maybe, due to bad conversion to txt file!
+##########################################
+Checking for the item “12a  statistical methods used to compare groups for primary and secondary outcomes”
+This part was defined, probably, at this section: 8.6 Data Analysis And Statistical Consideration 
+This part was defined, probably, at this section: 8.6.1 Data Analysis 
+I found the following methods:
+60724 	 log rank 	 "... volving the treatment group. Stratified log rank test (stratified by  platinum..."
+62158 	 log rank 	 "... s will be compared using the stratified log rank  test as a primary analysis...."
+63244 	 log rank 	 "... .4 Duration of Response  The stratified log rank statistic will be used for..."
+69778 	 log rank 	 "... m analyses is time to progression.  The log rank test stratified for platinum..."
+160674 	 log rank 	 "... dose and schedule in the protocol.  The log rank test stratified for platinum..."
+69002 	 fleming 	 "... udy for at least 6 months.  The O Brien Fleming type spending function was..."
+69423 	 fleming 	 "... planned to be terminated if the O Brien Fleming  boundary is crossed at any of..."
+158278 	 fleming 	 "... dy for at least 6  months.  The O Brien Fleming type spending function was..."
+158701 	 fleming 	 "... lanned to be terminated if the  O Brien Fleming boundary is crossed at any of..."
+159192 	 fleming 	 "... ed in the EaSt software33 with  O Brien Fleming type spending function was..."
+60417 	 cochran mantel haenszel 	 "... egorical data will be tested  using the Cochran Mantel Haenszel (CMH) tests,..."
+62981 	 cochran mantel haenszel 	 "... tment groups will be  conducted using a Cochran Mantel Haenszel analysis..."
+70336 	 cochran mantel haenszel 	 "... p differences  will be tested using the Cochran Mantel Haenszel (CMH) test,..."
+161234 	 cochran mantel haenszel 	 "... p differences will be tested using the  Cochran Mantel Haenszel (CMH) test,..."
+62223 	 wilcoxon 	 "... ry analysis. The stratified generalized Wilcoxon test will also be provided. ..."
+63404 	 wilcoxon 	 "... responders. The stratified generalized  Wilcoxon test will also be provided. ..."
+62080 	 kaplan meier 	 "... estimated for each treatment using the  Kaplan Meier method. The two treatments..."
